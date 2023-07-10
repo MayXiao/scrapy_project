@@ -1,0 +1,2915 @@
+NTT Group 
+Sustainability Report 
+2022
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 0 2 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Editorial Policy
+
+The composition of this Data Book closely corresponds 
+with items in the NTT Group Sustainability Priority Activ-
+ities in order to report comprehensively and in an easy to 
+understand manner to stakeholders, including investors 
+who value ESG. While the report covers the status of the 
+NTT Group overall as much as possible, the scope of 
+data is clearly noted when it is limited to a part of the 
+Group.
+For detailed information on the business strategies of 
+NTT (hereinafter “the Company”) and operations, please 
+refer to Annual Report 2022. For details on ongoing ef-
+forts related to sustainability and achievements at NTT 
+Group companies, please refer to the Sustainability Re-
+port published separately by each company.
+
+n NTT IR Site
+https://group.ntt/en/ir/
+
+n NTT Group Sustainability Site
+https://group.ntt/en/csr/
+
+Scope of 
+Disclosure
+
+The Data Book covers the NTT Group in its entirety. The scope of reporting for some sections are as follows.
+[A] Main companies: NTT, NTT East, NTT West, NTT Communications, NTT DOCOMO, NTT DATA, NTT Facilities, NTT COMWARE, NTT Urban Solutions
+[B] Domestic Group companies: 282
+[C] Domestic and overseas Group companies: 964
+[D] Main companies + operating companies
+
+<Operating companies: 10> NTT East Group, 6 companies
+(NTT EAST-HOKKAIDO, NTT EAST-TOHOKU, NTT EAST-KANSHINETSU, NTT EAST-MINAMIKANTO, NTT EAST SERVICE, 
+NTT-ME),
+NTT West Group, 4 companies
+(NTT MARKETING ACT, NTT BUSINESS SOLUTIONS, NTT FIELDTECHNO, NTT BUSINESS ASSOCIE WEST)
+
+[E] Companies subject to NTT Group plans to double the number of female managers 
+<[D] + the companies below: 23>  NTT Urban Development, NTT FINANCE, NTT BUSINESS ASSOCIE, NTT BUSINESS ASSOCIE EAST, NTT Electronics, NTT 
+
+Advanced Technology, NTT LOGISCO, NTT ADVERTISING, NTT TechnoCross, InfoCom Research, NTT LEARNING SYSTEMS, 
+NTT TRAVEL SERVICE, NTT CLARUTY
+
+Note: Unless specifically stated otherwise, the scope of environmental performance statistics refers to domestic companies.
+
+Reporting Period April 1, 2021 to March 31, 2022 Certain activities implemented after March 31, 2022 and the 
+outlook for the future are also included.
+
+Publication Date November 23, 2021 (Previous report: December 2021; Next report (tentative): October 2023)
+
+Decision Making 
+Process for 
+Published Content
+
+To determine the content requirements for the publication, the Board of Directors discussed 
+sustainability and other basic policies in April 2022, and then the representative director and 
+senior executive vice president acted on their authority under the organizational rules to confirm 
+and approve the content.
+
+Reference 
+Guidelines
+
+• GRI Sustainability Reporting Standards 2016/2018/2019
+• Environmental Reporting Guidelines 2018, Japan Ministry of the Environment
+• ISO 26000: Guidance on Social Responsibility
+
+Legend •  Nippon Telegraph and Telephone Corporation is abbreviated as NTT, Nippon Telegraph and 
+Telephone East Corporation as NTT East, and Nippon Telegraph and Telephone West Cor-
+poration as NTT West. Some group companies of the NTT Group are defined with “エヌ・ティ・
+ティ” for registration purposes, but in general use the NTT notation. In principle, notations for 
+status of incorporation have been omitted from the names of NTT Group companies.
+
+•  Figures in the numerical tables have been rounded and therefore may not necessarily add up 
+to the total figures.
+
+•  The names of companies, products and services are the registered trademarks or trademarks 
+of each company.
+
+Third-Party 
+Assurance
+
+The NTT Group obtained third-party assurance from Sustainability Accounting Co., Ltd. with re-
+gard to indicators for the fiscal 2021 results of “Improving prosperity for all people and cultures” 
+and “Maximizing well-being for all,” and for the indicators of CO2 emission volumes (Scopes 1, 
+2, and 3), waste disposal volumes, and water intake (clean water) within the fiscal 2021 results 
+of “Ensuring the positive coexisting of nature and humanity,” from the NTT Group CSR Priority 
+Activities. (See page 170)
+
+Inquiries Nippon Telegraph and Telephone Corporation Otemachi First Square East Tower, 5-1, Otemachi 1-chome, Chiyoda-ku, Tokyo 100-8116, Japan Sus-
+tainability Promotion Office, General Affairs Department
+TEL: 03-6838-5560   https://group.ntt/en/csr/contact/
+
+002 Editorial Policy
+
+004 NTT Group Sustainability
+• CEO Message
+• NTT’s Mission, Vision, Values
+•  Process for selecting material issues for three 
+
+themes for achieving Self as We, which under-
+pins NTT’s vision for a sustainable society
+
+•  Contributing to the development of a sustain-
+able society with medium-term strategies
+
+•  Organization for Implementation
+• Stakeholder Engagement
+•  Message from Management (Senior Executive 
+
+Vice President) (1)
+•  Initiatives for human capital management
+•  Message from Management (Senior Executive 
+
+Vice President) (2)
+•  IOWN concept
+•  2021 highlights
+
+028 Ensuring the positive coexistence 
+of nature and humanity
+• Feature 1  Environment and Energy Vision
+• Social Challenge 1–3
+• Business Activity 1–11
+• TCFD
+
+068 Improving prosperity for all 
+people and cultures
+•  Feature 2  Transformation to a New Manage-
+
+ment Style
+• Social Challenge 4–6
+• Business Activity 12–21
+
+125 Maximizing well-being for all
+• Feature 3  Promoting Supplier Engagement
+• Social Challenge 7–9
+• Business Activity 22–30
+
+161 Data List
+
+170 Independent Assurance Statement
+
+171 GRI Content Index
+
+CONTENTS
+
+https://group.ntt/en/ir/
+https://group.ntt/en/csr/
+https://group.ntt/en/csr/contact/
+
+
+List of Memberships (as of November 2022) Keidanren (Japan Business Federation, general incorporated association; vice chair) Tokyo Employers’ Association (honorary chairman, deputy chairman, president)
+ Telecommunications Carriers Association (incorporated association; chairman, director) ITU Association of Japan (general incorporated association; director, council member, advisor)
+
+ Association of Radio Industries and Businesses (general incorporated association; director, member of the management adviser) ICT Ecology Guideline Council Telecommunication Technology Committee (incorporated association; vice chairman)
+
+Integrated ICT 
+Business
+
+Regional 
+communications
+
+Global Solutions 
+Business
+
+Others (Real Estate, 
+Energy and Others)
+
+Consolidated
+Operating Revenue
+
+Ratio (FY2021)
+
+Consolidated
+Operating Income
+
+Ratio (FY2021)
+
+(¥5,870.2 billion)
+
+41.7%
+(¥1,072.5 billion)
+
+59.7%
+
+(¥3,207.6 billion)
+
+22.8%
+(¥440.0 billion)
+
+24.5%
+
+(¥3,615.2 billion)
+
+25.7%
+(¥210.5 billion)
+
+11.7%
+
+(¥1,396.0 billion)
+
+9.9%
+(¥72.5 billion)
+
+4.0%
+
+* The percentage of each segment’s simple total (including inter-segment transactions)
+
+Consolidated
+Operating Income
+
+(FY2021)
+
+¥1,768.6 billion
+
+No. of Employees
+(FY2021)
+
+333,850
+
+Consolidated
+Operating Revenue
+
+(FY2021)
+
+¥12,156.4 billion
+
+At a Glance NTT Group
+The experience and advanced technologies developed by the NTT Group will be used to achieve a “paraconsistent”* society, and contribute to resolving social issues faced by society as a whole.
+(*Where opposing concepts or matters are both achieved inclusively)
+
+In addition to promoting sales of 5G services and “docomo Hikari,” etc., for corporate business, we 
+promoted initiatives for “docomo Business,” a corporate business brand unifying NTT DOCOMO, NTT 
+Communications, and NTT Comware, to support all corporate customers with one-stop service.
+In the smart life area, we are advancing collaboration with various businesses and worked to provide 
+new added value.
+
+Centered on the Hikari Collaboration Model provides wholesale fiber-optic access services to various 
+service providers, and also strengthening the solutions business with the aim of revitalizing local 
+communities and regional economies.
+
+In the Global Solutions business, we worked to enhance our ability to provide services in growth areas, 
+including the data center business and managed services, as well as expanding and providing various 
+IT services in a reliable manner, such as digitization proposals and system integration in response to 
+market changes.
+
+Provides services related to the real estate business, energy business, and other businesses.
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 0 3 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+
+
+NTT Group’s Roots
+
+NTT Group has 
+continued to develop a range of solutions as a partner 
+that enables society and industry to move ahead.
+
+It was some 70 years ago that the telephone and telegraph services provided by the 
+Ministry of Communications and Ministry of Telecommunications were handed over to 
+Nippon Telegraph and Telephone Public Corporation. With economic growth booming 
+following the country’s post-war recovery, the company began exploring a range of 
+avenues to meet growing public demand for telephone services that connect in an 
+instant.
+
+After subsequently undergoing a name-change to NTT, the company expanded its 
+businesses including the regional communications, long-distance and international 
+communications, mobile communications, and global data communications sectors, 
+based on its roots that aim to respond to the needs of customers and challenges faced 
+by industry and society.
+
+Focused on creating a better future for Japan and the world... Never losing sight of 
+the goal as “Your Value Partner.”
+
+A small inner loop at the top of the mark ensures that 
+the voice of customers and society is always heard. 
+This symbol represents NTT’s vision and its commit-
+ment to developing a harmonious society through both 
+business and cooperation.
+
+The single continuous curve represents 
+the dynamism and our commitment for 
+continuous innovation and delivering value to 
+people and society.
+
+Privatized in 1985.
+Our Dynamic Loop – The Heart of NTT
+
+CEO Message
+Ensuring the positive coexistence
+
+of nature and humanity
+Improving prosperity for all 
+
+people and cultures Maximizing well-being for all 0 0 4 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 0 5 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+In 1952, the telephone 
+and telegraph services 
+delivered by the Ministry 
+of Communications and 
+Ministry of Telecommuni-
+cations were handed over 
+to Nippon Telegraph and 
+Telephone Public Corpo-
+r a t i on .  The  company 
+developed various tech-
+nologies to meet growing 
+public demand for tele-
+phone services that con-
+nect in an instant.
+
+1952
+“Nippon Telegraph  
+and Telephone Public 
+Corporation” established
+
+2007
+Hikari TV services 
+Launched
+
+2008
+Cloud services launched
+
+2009
+Android OS 
+smartphones Launched
+
+2000
+ISDN flat-rate services 
+launched
+
+2001
+Optical fiber services 
+launched for general 
+households
+
+2004
+Osaifu-Keitai (Mobile 
+Wallet) announced Hikari 
+Denwa services 
+launched
+
+2000s
+Full-scale roll-out of broadband ubiquitous 
+services
+NTT began offering the FLET’S ISDN always-on ser-
+vice as well as the B FLET’S optical fiber service, fa-
+cilitating the widespread roll-out of high-speed, 
+high-capacity communication services.
+
+2010
+Acquired Dimension Data
+LTE (Xi) services launched
+Acquired Keane (currently NTT DATA, Inc.)
+
+2013
+iPhone launched
+
+2014
+“Kake-hodai & Pake-Aeru” phone plans 
+launched
+“Hikari Collaboration Model” launched 
+“docomo Hikari” launched
+
+2016
+Acquired Dell Services
+(currently NTT DATA, Inc.)
+
+2018
+“Your Value Partner 2025” medium-
+term management strategy formulated
+
+2010s
+Global ICT services framework 
+developed
+NTT Group had primarily been operating 
+in markets in Asia, Europe, and the US, 
+and acquired Dimension Data and 
+Keane in preparation for delivering total 
+ICT services around the globe, including 
+Australia, South America, Africa, and the 
+Middle East.
+
+2020
+5G services launched from March 25 
+Communication speeds up to 4.1 Gbps 
+downstream
+
+2021
+Provided support for the Olympic and 
+Paralympic Games Tokyo 2020 as a 
+Gold Partner 2021 Green Innovation 
+toward 2040 announced A new 
+management style unveiled
+
+2020s
+IOWN concept released
+Framework involving devices, networks and infor-
+mation processing infrastructure built on optical 
+and other innovative technologies, to deliver high-
+speed and high-capacity communications, and 
+vast computing resources exceeding the limits of 
+existing infrastructure. Specifications are planned 
+to be finalized by 2024 for a 2030 roll-out.
+
+1987
+Mobile telephone services 
+Launched
+
+1988
+NTT Data established
+World’s first ISDN service
+Launched
+
+1980s
+NTT Group born from 
+telecommunications 
+liberalization
+Nippon Telegraph and Tele-
+phone Public Corporation was 
+privatized in 1985 following 
+liberalization of telecommuni-
+cations services, resulting in 
+the birth of “Nippon Telegraph 
+and Telephone Corporation 
+(NTT).”
+
+1991
+NTT DOCOMO established
+
+1996
+OCN internet connection 
+services launched
+
+1998
+i-mode services launched
+
+1999
+NTT Group transitioned to 
+holding company structure
+
+1990s
+Expanded telephone 
+services with view of 
+building an advanced 
+telecommunications society
+
+Phone services with a broad 
+range of plans to suit customer 
+usage scenarios were launched. 
+The Open Computer Network 
+(OCN) was launched with the 
+view of expanding Internet use.
+
+NTT Group’s History
+
+NTT has contributed to lifestyles of people through its business activities.
+Ever since being established as the Nippon Telegraph and Telephone Public Corporation in 1952, the NTT Group has developed a wide range of technologies and services, and has been delivering 
+infrastructure for services like mobile phones, internet and cloud computing that could never have been imagined in the past. At the heart of these achievements is NTT’s underlying commitment to work-
+ing as a partner that supports society and industry as a whole.
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 0 6 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2CEO Message
+
+NTT’s Vision of a Sustainable Society
+
+The NTT Group established its Global Sustainability 
+Charter in Autumn when it restructured its medium-
+term management strategy. This new Charter 
+encompasses three key themes.
+
+(1)  Ensuring the positive coexistence of nature and 
+humanity: 
+
+Aiming to solve environmental issues as well as achieve 
+economic growth
+
+(2)  Improving prosperity for all people and cultures:
+Accepting diverse, inclusive cultures while aiming to 
+build a better society and create value
+
+(3)  Maximizing well-being for all:
+We aim to maximize the well-being of everyone by 
+respecting human rights and encouraging diversity and 
+inclusion.
+
+Nine challenges and thirty business activities have been 
+establ ished under these three themes,  to be 
+implemented alongside business operations as part of 
+our goal to achieve a sustainable society.
+
+We have also developed a structured approach 
+for our environmental vision, management style, and 
+human rights policy based on this new Sustainability 
+Charter.
+
+Three themes the NTT Group is pursuing
+
+We will be continuing our efforts toward transformation 
+undertaken thus far, while also creating a path forward 
+by responding to changes, or, at times, pre-empting 
+changes and transforming ourselves, in line with the 
+NTT Group Global Sustainability Charter. To ensure 
+that we continue to be a company that is chosen by 
+our customers, we need to raise the quality of our 
+products and services. We will be pursuing the 
+following three initiatives to ensure that the NTT Group 
+delivers new experiences and value to our customers.
+
+The first of these initiatives is to create better 
+customer experiences (CX) through improved employee 
+experiences (EX). We will be taking the sense of 
+excitement felt by each of our employees and using it 
+as a source of inspiration for “creating new value, 
+experiences, and excitement for our customers 
+(meaning CX).”
+
+From April 2023, we will be rolling out a new and 
+revised specialization-based personnel compensation 
+system for the main companies of the NTT Group. The 
+source of motivation for creating new value for our 
+customers is the potential of employees. This revision 
+will help to inspire each and every employee to further 
+increase their specializations and acquire, or maximize 
+their skills, as part of our efforts to create added value 
+across a broad range of fields.
+
+I want to harness the potential of our employees 
+to generate new value, and provide customers with a 
+new sense of excitement.
+
+m e s s a g e
+CEO Message
+
+Akira Shimada
+President and Chief Executive Officer, 
+Representative Member of the Board
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 0 7 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2CEO Message
+
+The second init iative is to decarbonize through 
+technology. The decarbonization of society is a matter 
+of urgency. I believe it is the mission of those of us living 
+in the present to ensure that our descendants can live 
+sustainably on the planet. The NTT Group has set a 
+goal of achieving carbon neutrality by 2040. In order to 
+realize this goal we are working to drastically reduce our 
+power consumption through the promotion of Innovative 
+Optical & Wireless Networks (IOWN), and to develop 
+and expand our use of renewable energy. An example 
+is Green 5G provided by DOCOMO provided as part of 
+its service aimed at achieving carbon neutrality. 
+Initiatives like these illustrate just some of the ways that 
+the NTT Group is helping to alleviate the impact that 
+society as a whole has on the environment.
+
+The third initiative is to maintain connectivity with 
+infrastructure and critical IT systems even in the event of 
+major disasters. We will be making efforts to enhance 
+our preparations for more widespread and complex 
+large-scale disasters l ike an earthquake directly 
+underneath Tokyo or the Nankai Trough off Japan’s 
+southern coastline. In addition to wired-and-wireless 
+networks and other services, the NTT Group is also 
+involved in numerous national projects like systems that 
+provide connectivity for financial institutions. It goes 
+without saying that networks and critical systems like 
+these are the very foundation of Japan and serve as an 
+indispensable infrastructure. Preparation is the key to 
+staying connected. We therefore need to continue 
+taking into consideration all the possible risks that could 
+occur.
+
+Mission and ideals of the NTT Group
+
+When considering the NTT Group five years from now, 
+moving ahead with these three initiatives provides an 
+opportunity to contribute to the creation of a sustainable 
+society, and also serves as a chance for the NTT Group 
+to generate revenue. We need to contribute to society 
+while simultaneously delivering organizational growth. 
+An example that illustrates this is the way NTT DATA is 
+working to digitize valuable materials held by the Vatican 
+Library. We have built up a business model where 
+donations provided by those who view digital archives 
+of valuable documents and collections serve as the 
+funds for future archiving work. Harnessing the 
+capabilities of IT to preserve our historical assets and 
+culture for future generations, making them available as 
+training material to as many people as possible around 
+the world, is a socially significant initiative that helps to 
+maintain digital archiving efforts and contribute to global 
+cultural and research activities.
+
+We will be shifting our ideals from a company that 
+“connects communications” to a company that 
+“connects data to create new value for people, business 
+and society.” We will be accelerating our growth as a 
+group that provides services to make customer 
+businesses and lifestyle even better by utilizing a broad 
+range of data. I am confident that we will develop 
+various solutions through close collaboration with our 
+partners, by applying our technology and know-how 
+across a broad range of fields. Creating new business 
+sectors as part of these efforts will help to expand our 
+business base, as we aim to develop into a customer-
+centric company.
+
+I would like to take this opportunity to ask for your 
+continued support moving forward.
+
+President and Chief Executive Officer, 
+ Representative Member of the Board
+
+Akira Shimada
+
+
+
+NTT will continue to innovate through imagination and by challeng-
+ing ourselves. 
+
+We always listen to our clients, employees, and the world at 
+large. NTT’s culture is based on our core belief of responding to the 
+needs of our clients and society to help achieve their best future 
+possible. This is NTT’s vision and its commitment to developing a 
+harmonious society through both business and co-operation.
+
+NTT promises to always listen to our clients and the world at large. We 
+engage with clients and society as a valued partner with a deep commitment 
+to trust, long-term relationships and mutual success.
+We believe in achieving transformative results through technology innovation 
+for ourselves, our clients, and society.
+
+Our Vision
+
+We are NTT.
+
+Your valued partner that is committed and can be trusted 
+
+NTT seeks to solve social challenges and create a 
+sustainable society through our business operations and 
+partnerships for people, organizations, and communities. 
+We commit to providing the confidence needed to move 
+into the digital future that works for all of us.
+
+Our Mission
+Contributing to society through our 
+business operations
+
+NTT’s values are based on trust, integrity, and connecting. We always act 
+with a moral and ethical code across our trusted relationships with clients, 
+employees, partners, and society. We are a trustworthy company that 
+believes in the value of diversity and inclusion in our people and the world.
+
+Our Values
+
+Our shared values informs all our decision making
+
+NTT’s Mission, Vision, Values
+
+VISION
+
+MISSION
+
+VALUES
+Connect Trust Integrity
+
+Your Value Partner
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 0 8 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 0 9 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+What Exactly is “Our Vision for a Sustainable Society”
+
+Global versus Local.
+
+Environmental versus Economic.
+
+Today versus the Future.
+
+Many seemingly contradictory ideas, perceptions,  
+
+and values exist around the world.
+
+Yet a single phenomenon can be interpreted differently  
+
+depending on perspective.
+
+Instead of focusing only on one perspective,  
+
+the NTT Group will be making them all a reality.
+
+That is the sustainable society we are setting out to achieve.
+
+The “Self as We” concept underpins the NTT Group’s efforts to achieve this goal.
+
+“We” live our lives supported by the connections between diverse people,  
+
+things, and technologies.
+
+The well-being of everyone throughout society is maximized by seeking our own 
+
+happiness along with the happiness of others.
+
+Being sincere in accepting of others and building connections across the entire 
+
+globe will achieve a greater harmony with nature and make culture flourish.
+
+The NTT Group acts with high ethical standards in its commitment to achieving 
+
+“sustainability” that helps to resolve social issues, 
+
+while growing also as a company.
+
+NTT’s Vision of a Sustainable Society
+
+Conflicting phenomena
+exist in society
+
+Events differ depending
+on the actor
+
+Paraconsistent
+(concepts achieved inclusively)
+
+Vision for a “Sustainable Society”
+
+Promoting “Self as We”
+
+Cannot be understood
+with traditional dualistic thinking
+
+Basic Philosophy
+
+Different reality or meaning
+depending on perspective
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 0 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+The Self as We concept
+Self as We is a concept where the individual ‘self’ is part of the whole ‘We’.
+It extends beyond the individual level—it is also about making others happy at the same time, and achieving a broad range of policies backed with a sense of altruistic purpose.
+
+“Self as We”
+
+The traditional “Self as I”
+
+“I” as an individual (self-centered, self-sustaining)
+A choice between being either active or passive
+
+“Self as We”
+
+“I” as one of all the individuals (non-self-centered, non-self-sustaining)
+Collaboration with others in the same situation
+
+“I”
+
+“I”
+
+Self
+
+“Self = We”
+
+Control Entrust
+
+Body BodyOthers OthersThing ThingEnvironment Environment
+
+
+
+Three themes for achieving a sustainable society
+To achieve the sustainable society that NTT is envisioning, we will be promoting initiatives for a 
+“sustainable society” by achieving both “Growth as a company” and “Resolving social issues” as 
+part of these three themes, by driving ahead with the IOWN concept based on NTT’s high ethical 
+standards, advanced technology and innovation.
+
+Maximizing well-being for all
+Contribute to maximizing the well-being of 
+everyone by respecting human rights and 
+encouraging diversity and inclusion.
+
+Improving prosperity for all people and cultures
+Accepting diverse, democratic cultures while 
+contributing to a better society and creating value.
+
+Ensuring the positive coexistence of nature
+and humanity
+Contributing to solving environmental issues as 
+well as achieving economic growth.
+
+Ensuring the positive coexistence of
+nature and humanity
+
+Improving prosperity for
+all people and cultures Maximizing well-being for all
+
+Moving toward
+a decarbonized
+
+society
+
+A commitment
+to a resource-
+
+recycling future
+
+A future where
+people and nature
+
+are in harmony
+
+Establish
+shared ethical
+
+standards
+
+Prepare for
+a new future
+
+with the power
+of technology
+
+Moving towards a
+safe, secure, and
+resilient society
+
+Respect for
+human rights
+
+Diversity &
+Inclusion
+
+Creating
+new work
+
+style models
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 1 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+
+
+NTT Group Sustainability
+
+A future where
+people and nature
+
+are in harmony
+
+A commitment
+to a resource-
+
+recycling
+future
+
+Moving
+toward a
+
+decarbonized
+society
+
+Creating
+new work style
+
+models
+
+Diversity &
+Inclusion
+
+Respect for
+human rights
+
+Moving
+towards a
+
+safe, secure,
+and resilient
+
+society
+
+Prepare for
+a new future
+
+with the power
+of technology
+
+Establish
+shared ethical
+
+standards
+
+M
+aximizing well-being fo
+
+r a
+ll
+
+Improving prosperity for
+
+En
+su
+
+rin
+g 
+
+th
+e 
+
+po
+si
+
+tiv
+e 
+
+co
+existence
+
+of
+ n
+
+at
+ur
+
+e 
+an
+
+d 
+hu
+
+manity all people and cultures
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 2 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+The three themes cover nine 
+challenges and thirty business 
+activities
+
+We are actively implementing these initiatives to contribute to the 
+development of a sustainable society.
+A broad range of sustainability indicators have been defined.
+
+Of these, the following items have been added as key financial indicators, 
+with compensation of members of the Board and audit & supervisory 
+Board members linked accordingly:
+• “Carbon neutrality” as an indicator for environmental issues
+• “B2B2X earnings” as an indicator for resolving social issues
+•  “Ratio of women newly promoted to management positions” as an 
+
+indicator for human rights, diversity and inclusion
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 3 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Process for Selecting Material Issues 
+Material issues (materiality) are selected using the following steps based on the GRI materiality standards and processes.
+
+STEP1 
+
+Identifying material issues
+Using evaluation organizations like third party institutions, 
+ISO26000 and GRI Standards, global trends, internal 
+workshops, and materiality at other companies as a guide, 
+we identify material issues through a comprehensive review 
+of new problems related to sustainability, in order to discuss 
+and select important issues that NTT should address on a 
+global scale.
+
+STEP2 
+
+Setting priorities
+NTT assesses the priorities to be addressed based on their 
+impact on two aspects, “Growth as a company” and “Solv-
+ing social issues.” To achieve management that simultane-
+ously helps resolve social issues while achieving business 
+growth, NTT assesses priorities by incorporating the opin-
+ions of outside experts.
+
+STEP3
+
+Confirming validity & approval
+NTT also incorporates the opinions of third parties from a 
+global perspective, which are then deliberated by the Sus-
+tainability Committee and approved by the Board of Direc-
+tors.
+*  These are reviewed regularly (once/year) and revised when neces-
+
+sary.
+
+S
+o
+
+lving
+ so
+
+cial issues
+
+Growth as a company
+
+Reducing power consump-
+tion by introducing IOWN 
+
+technologies
+
+Promoting energy 
+conservation
+
+• Ensuring the positive coexistence of nature and humanity  • Improving prosperity for all people and cultures  • Maximizing well-being for all
+
+Developing and expanding 
+the use of renewable energy
+
+Providing new services that 
+contribute to carbon neutrality
+
+Creating innovative environmental 
+and energy technologies
+
+Increasing the reuse and recycling of 
+communications equipment, mobile 
+terminals, and other technologies
+
+Reduction in plastics use 
+and promotion of recycling
+
+Proper treatment, 
+storage, and manage-
+
+ment of hazardous waste
+
+Appropriate and 
+efficient management 
+
+of water resources
+
+Thoroughly implementing 
+environmental assessment
+
+Contributing to natural 
+ecosystem conservation
+
+Establishing and 
+thoroughly 
+complying with 
+ethical standards
+
+Appropriately managing 
+conduct risk
+
+Thoroughly reinforcing corporate 
+governance and compliance
+
+Sharing high ethical standards 
+with business partners
+
+Promoting the 
+B2B2X model
+
+Protection and respect 
+for intellectual property
+
+Contribution to the revitalization of 
+local communities and economies
+
+Ensuring the stability and 
+reliability of services
+
+Strengthening information security 
+and personal information protection
+
+Compliance with 
+the NTT Group 
+Global Human 
+Rights Policy
+
+Encouraging society as a whole 
+to respect human rights
+
+Promoting recruitment, training, and 
+education of diverse human resources and 
+women’s advancement in the workplace
+
+Encouraging of understand-
+ing of LGBTQ+ and 
+
+promoting the advancement 
+of people with disabilities
+
+Support for balancing work 
+and homelife such as childcare 
+and nursing care
+
+Promoting remote work and 
+other workplace models
+
+Promoting a 
+decentralized society 
+based on remote work
+
+Achieving zero fatal 
+accidents as well as 
+maintaining and 
+promoting employee 
+health
+
+Promoting paperless 
+operations
+
+Supporting 
+autonomous capacity 
+development
+
+20
+
+21
+
+22
+
+14 12
+
+13
+
+15
+
+18
+
+19
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+23
+
+25
+
+24
+
+29
+
+30
+
+1
+
+16
+
+26
+27
+
+17 28
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 4 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Contributing to development of a sustainable society 
+with medium-term strategies
+NTT Group works together with its partners as “Your Value Partner” to resolve social issues 
+through its business operations and respond to future changes in the operating environment, 
+such as the advancement of digitization and DX. To guide us in this pursuit, we refined the NTT 
+Group Medium-Term Management Strategy announced in November 2018 to accelerate our 
+transformation into an open, global, and innovative new NTT.
+
+Organization for Implementation
+In November, the NTT Group moved to a new organizational structure by establishing the “Sus-
+tainability Committee” under the Board of Directors, chaired by the Chief Executive Officer. The 
+committee reviews and discusses strategies concerning sustainability, the status of implementa-
+tion of activities, and information disclosure, and implements relevant initiatives. The Sustainabili-
+ty Committee includes the Corporate Ethics Committee, Human Rights Committee, and Green 
+Innovation Committee to handle the individual topics relevant to each sub-committee. Efforts to-
+ward sustainability throughout the entire group are also implemented by holding Group Sustain-
+ability Committee meetings (with senior executive vice presidents of major group companies). 
+The meetings are for sharing common challenges and examples of success from each Group 
+company, and for monitoring progress on sustainability implementation with respect to PDCA 
+cycles and further promoting a sense of unity throughout the group.
+
+(1) Evaluation   The viability, effectiveness, and progress of measures are checked every year by employing the 
+PDCA cycle to review and expand the focus of activities. Attainment levels are also linked to the 
+evaluation standards of directors.
+
+(2) Disclosures   Internal conferences involving global group companies are held for reporting the results of ef-
+forts and facilitating dialogue, which are then disclosed on the website and in sustainability re-
+ports. The impact of climate change risks and revenue opportunities on business activities and 
+revenue are disclosed in accordance with TCFD, an international framework created to devel-
+op such disclosures.
+
+(3) Dialogue with Third Parties   Each process involves dialogue with experts and other third parties, with a 
+PDCA cycle used to obtain evaluations from third parties for reviewing and ex-
+panding the focus of activities as needed.
+
+Social / Economic 
+Directionality NTT Group’s Directionality New Strategic 
+
+Frameworks Initiatives to Achieve the Strategy
+
+Society During 
+COVID-19 and 
+Post-COVID-19
+
+A New Management Style 
+Suitable for a Decentralized 
+Network Society
+
+Transformation to a 
+New Management 
+Style
+
+• New style based on remote work
+
+Advancement of 
+Digitalization / DX
+
+Enhance Domestic and 
+Global Business
+
+Enhance Domestic 
+and Global Busi-
+ness
+
+•  Growth and strengthening of the 
+newly formed DOCOMO Group
+
+•  Promotion of the IOWN development 
+/ rollout plan
+
+•  Enhance competitiveness in global 
+business
+
+•  Promote the B2B2X model
+•  Strengthening of new businesses
+
+Achieving well-being 
+in society
+
+Enhancement of Corporate 
+Value through ESG Initiatives
+
+Enhancement of 
+Corporate Value
+
+• New Environmental and Energy Vision
+• Disaster countermeasures initiatives
+•  Enhancement of returns to sharehold-
+
+ers
+
+Contribute to Achieving a Sustainable Society
+
+Directionality of NTT Group’s Transformation and New Strategic Frameworks
+
+Background of the Re-Examination of the Medium-Term Management Strategy and New 
+Strategic Frameworks Future Changes in the Operating Environment
+Future Changes in the Operating Environment
+
+Sustainability Promotion System (from November 10, 2021)
+
+Board of Directors
+
+Green Innovation Committee
+
+Human Rights Education Committee
+
+Corporate Ethics Committee
+
+Group
+Sustainability Committee
+
+Members:
+Senior executive vice
+
+presidents of major group
+companies
+
+Members
+Representative Member of the Board,
+
+Senior Vice President of Corporate Strategy Planning Department,
+ Senior Vice President of Technology Planning Department,
+
+Senior Vice President of Research and Development Planning,
+Senior Vice President of Finance and Accounting Department,
+
+Senior Vice President of General Affairs Department,
+Senior Vice President of Global Business Of�ce,
+
+Senior Vice President of Strategic Business Development
+
+Sustainability Committee
+Chairperson: President and Chief Executive Of�cer,
+
+Representative Member of the Board
+
+Society / Economy
+• Advancement of digitalization / DX
+• Increasing the importance of economic security
+• Expansion of AI / robotics usage
+• Pluses and minuses of digitalization (surveillance capitalism)
+
+During and Post-COVID-19
+• Accelerating the division of the world 
+• Co-existence with the threat of infectious diseases
+• Advancement of a remote / decentralized society
+• Social advancement of diverse personnel
+
+Environment / Resources, Energy
+• Increasing scale of natural disasters worldwide
+• Achieving carbon neutrality by 2050
+
+Technology
+•  Breaking the existing paradigm with new  
+
+technologies
+—Beyond 5G / 6G, Quantum, Genome, etc.—
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 5 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Benefits of Stakeholder EngagementStakeholder Engagement
+The Fundamental Principle
+The NTT Group provides products and services to diverse stakeholders around the world, and its value chain continues to expand 
+globally and grow in complexity. Along with these changes, our stakeholders’ needs and expectations are also becoming increas-
+ingly diverse, and we must accurately understand and reflect them in our business activities through stakeholder engagement. 
+Stakeholder input, particularly on social and environmental issues, can help us to become more competitive and accountable while 
+guaranteeing our public license to conduct operations in the various regions in which we conduct business. Stakeholder engage-
+ment forms the building blocks of trust-based, value-generating relationships. To properly develop these relationships, the NTT 
+Group follows global guidelines based in part on the AA1000 Stakeholder Engagement Standard (AA1000SES) and AA1000 Ac-
+count Ability Principles Standard (AA1000APS) and applies them to all of our worldwide operations. By having all Group companies 
+apply the same principles to engaging with stakeholders, we intend to promote effective, efficient, and ultimately value-creating in-
+teractions between the NTT Group and its stakeholders. It goes without saying that all means of engagement shall be conducted 
+according to relevant laws, regulations, and legal requirements.
+
+Process of Stakeholder Engagement
+
+Benefits for the NTT Group
+•  Identify emerging environmental/social trends and reflect them in strategy 
+
+formulation
+•  Identify potential risks and develop countermeasures
+•  More closely manage our brand reputation
+•  Identify opportunities for potential new businesses, collaboration, and in-
+
+novation
+• I mprove community relations and support for operations, in particular by 
+
+involving stakeholders in decisions to ensure their needs are taken into 
+consideration
+
+•  Improve our understanding of sensitive issues and of stakeholders’ opin-
+ions of us
+
+• Make more sustainable business decisions based on stakeholder input
+
+Benefits for Stakeholders
+• Clearer understanding of the NTT Group strategy and projects
+• provide relevant feedback in line with expectations 
+
+Levels and Methods of Engagement
+
+Step 1  Plan
+
+Level of engagement Examples of engagement methods
+Monitor Tracking of media and one-way communications to the company
+
+Inform
+Provision of information from the company to stakeholders through 
+letters, bulletins, websites, speeches, reports, etc., with no invitation to 
+respond
+
+Consult
+Two-way exchange of information between the company and 
+stakeholders through surveys, focus groups, workshops, etc., with an 
+expectation of responses from both sides
+
+Involve
+
+Two-way exchange of information between the company and 
+stakeholders, with stakeholders more actively involved in decision-
+making, through establishment of advisory panels or multi-stakeholder 
+dialogues
+
+Collaborate Joint ventures and partnerships on specific projects
+
+Potential Risks of Engagement with Specific Stakeholders
+n Unwillingness to engage on the part of stakeholders
+n Disruptive stakeholders
+n  Creation of unrealistic and unfulfillable expectations of the company on the part of 
+
+stake-holders
+n  Inter-stakeholder conflicts and other issues could potentially result in criticism of the com-
+
+pany and damage to the company’s reputation 
+
+While engaging with stakeholders, discussions should 
+be held on mutual expectations regarding such 
+engagement, and any necessary revisions to initial en-
+gagement plans should take into consideration stake-
+holder requests as well as the NTT Group’s initial 
+intentions.
+
+When holding events attended by multiple stakeholders, care 
+must be taken to ensure balanced participation to minimize risk 
+and maximize value.
+
+Step 2  Do
+
+Factors Requiring Consideration during Engagement
+n  Levels of contribution and a clear definition of participant roles
+n Details of the process, including timelines and methods
+n  Timely provision of instructions and required materials for par-
+
+ticipation in and meaningful contribution to the engagement 
+process
+
+n  Boundaries of disclosure of required information, including 
+confidentiality requirements
+
+n Communication of the results of the engagement
+
+After concluding the engagement, results must be re-
+ported both internally and to participating stakeholders 
+as well as externally to the wider public as necessary 
+to conduct both an evaluation of the outcome of the 
+engagement and a review of the engagement process 
+itself and define KPIs for the assessment of results.
+
+Regarding the review of the engagement process itself, an in-
+ternal review should be conducted and feedback should be 
+sought from participating stakeholders regarding how they felt 
+about their involvement, and a plan for improvement should be 
+developed based on the results of these.
+
+Step 3  Follow-up and Review
+
+Factors that Should Be Included in Reports and Infor-
+mation Disclosure
+n  The purpose, scope, method and participants of the engage-
+
+ment
+n  A summary of content, including issues and concerns raised 
+
+during the process
+n  NTT Group response to the outcomes of the engagement
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 6 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Identifying Stakeholders 
+Our stakeholders are organizations or individuals who have an interest, in one way or another, in the business activities or decision making of the NTT Group. Major stakeholders of the NTT Group include 
+customers (corporations and individuals), shareholders and investors, employees (employees, their families and retired employees), local communities, business partners, ICT companies and industry 
+associations,  central government and administrative agencies.
+
+The NTT Group will fulfill its responsibilities and the expectations of its various stakeholders related to these businesses.
+
+Customers (Individuals and Corporations)
+
+All customers, both corporate and individual, who use services provided by the NTT Group
+
+As we strive to be chosen as 
+“Your Value Partner,” each indi-
+vidual employee will strive for an 
+even higher awareness of sus-
+tainability to provide safe, secure 
+services that are high in quality 
+and convenient from the cus-
+tomer’s standpoint.
+
+NTT’s Approach
+
+n  Customer information service
+
+n  Customer satisfaction surveys
+
+n  Website, social media
+
+Methods of Engagement  
+(examples)
+
+The NTT Group endeavors to 
+enhance customer satisfaction 
+and become “Your Value Part-
+ner” for our customers by un-
+derstanding customer needs in 
+order to provide higher quality 
+services and products.
+
+Why We Engage
+
+Employees (Employees, Their Families, and Retired Employees)
+
+Employees who work at the NTT Group and retired employees who support the NTT Group’s sustainability ideals
+
+We will pursue various employee 
+initiatives to create safe and 
+healthy workplaces in which ev-
+eryone can realize their full po-
+tential and be rewarded in their 
+work and daily lives. We will also 
+value communication with re-
+tired employees.
+
+NTT’s Approach
+
+n  Employee satisfaction surveys
+
+n  Regular interviews
+
+n  Dialogue between labor and 
+management
+
+n  Corporate ethics helplines
+
+n  Hold sustainability confer-
+ences
+
+Methods of Engagement  
+(examples)
+
+We create safe and healthy 
+workplaces for our employees 
+and support their daily lives so 
+that each individual employee 
+can realize their full potential 
+and carry out their work with a 
+high sense of CSR.
+
+Why We Engage
+
+Shareholders and Investors
+
+Individual and institutional investors including the shareholders and creditors of the NTT Group
+
+We will return profits to share-
+holders whi le maintaining a 
+sound financial standing and 
+enhance our corporate value. 
+We will also endeavor to dis-
+close information related to the 
+Group in a timely, appropriate, 
+and fair manner.
+
+NTT’s Approach
+
+n  General Meeting of Share-
+holders, earnings reports
+
+n  Explanatory presentation for 
+individual investors
+
+n  Explanatory presentation for 
+institutional investors
+
+n Annual reports
+
+Methods of Engagement  
+(examples)
+
+We endeavor to disclose infor-
+mation in a timely, appropriate, 
+and fair manner to return profits 
+to shareholders while maintain-
+ing a sound financial standing 
+and enhancing our corporate 
+value.
+
+Why We Engage
+
+Local Communities
+
+People in local communities who are connected to us through the businesses of NTT Group companies
+
+We will support local communi-
+ties through our ICT business 
+and operations to support soci-
+ety and provide disaster recov-
+ery.
+
+NTT’s Approach
+
+n  Support and collaboration 
+through social contribution 
+activities
+
+n  Negotiations with local resi-
+dents on construction work, 
+system development, and 
+other activities
+
+n  Support through donations 
+and sponsorships
+
+Methods of Engagement  
+(examples)
+
+We seek to contribute to the de-
+velopment of a flourishing and 
+vibrant community and to under-
+stand and identify the issues 
+faced by local communities in 
+order to provide social contribu-
+tions and disaster countermea-
+sures through our ICT business.
+
+Why We Engage
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 7 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Business Partners
+
+Business partners who support us in various ways in providing the NTT Group’s services
+
+We will seek to work together to 
+create and implement services 
+that help to solve a variety of so-
+cial issues.
+
+NTT’s Approach
+
+n Inquiry forms
+
+n  Disclosure of procurement 
+policies and guidelines
+
+n Questionnaires of suppliers
+
+n Briefing for suppliers
+
+Methods of Engagement 
+(examples)
+
+By procuring products with due 
+consideration to the environ-
+ment and human rights, and by 
+forging partnerships based on 
+fairness, we will fulfill our social 
+responsibilities as a company 
+and achieve sustainable growth 
+alongside our business partners.
+
+Why We Engage
+
+Central Government and Administrative Agencies
+
+Central and local governments and administrative agencies that make policy decisions on informa-
+tion and telecommunications, employment and the economy, the environment, and other issues
+
+We will fulfill our responsibility as 
+an information and telecommu-
+nications company by adhering 
+to the policies of the central gov-
+ernment, administrative agen-
+cies, and local governments.
+
+NTT’s Approach
+
+n  Response to laws and regula-
+tions
+
+n Policy proposals
+
+n  Participation in joint projects 
+between the government and 
+private sector
+
+Methods of Engagement 
+(examples)
+
+We will respond to and comply 
+with central and local govern-
+ment and administrative agency 
+policies. Therefore, we will carry 
+out business activities in an ap-
+propriate manner and contribute 
+to resolving social issues faced 
+by the Japanese people and lo-
+cal governments.
+
+Why We Engage
+
+ICT Companies and Industry Associations
+
+Other ICT companies and people in industry associations who are striving to develop Japan’s 
+information and telecommunications
+
+We will engage in discussions on 
+the direction and initiatives for 
+the information and telecommu-
+nications industry, not only in 
+Japan but from a global per-
+spective, and seek to address 
+diverse social issues together.
+
+NTT’s Approach
+
+n  Participation in industry asso-
+ciations and related initiatives
+
+n Participation in conferences
+
+Methods of Engagement 
+(examples)
+
+We will engage in discussions 
+on the direction and initiatives 
+for the information and telecom-
+munications industry. By doing 
+this, we will invigorate the indus-
+try and contribute to society by 
+promoting development and 
+progress in information and tele-
+communications.
+
+Why We Engage
+
+NGOs, NPOs, and Experts
+
+NGOs, NPOs, and experts who are positioned within the NTT Group’s domain of activities includ-
+ing sustainability
+
+We will contribute to creating a 
+sustainable society by sharing 
+the expert knowledge and expe-
+rience of NGOs, NPOs, and ex-
+perts, and by incorporating them 
+into the telecommunications in-
+dustry.
+
+NTT’s Approach
+
+n  Participation and collaboration 
+with study groups and activi-
+ties of each organization
+
+n Dialogues
+
+n Collaborative projects
+
+Methods of Engagement 
+(examples)
+
+The NTT Group provides ser-
+vices that extend beyond tele-
+communications to broader 
+domains, and gaining the spe-
+cialized perspectives of NGOs, 
+NPOs, and experts allows the 
+Group to appropriately and ef-
+fectively develop business activ-
+ities.
+
+Why We Engage
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 8 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+m e s s a g e
+Message from Management
+(Senior Executive Vice President)
+
+Achieving a sustainable society and profit 
+growth
+
+When we look at the various issues that plague society these 
+days, there are simply too many to mention—the increasingly 
+tense global situation, circumstances related to carbon neutrality, 
+the rapid increase in traffic and network loads due to a spike in 
+remote operations spurred by COVID-19, and soaring oil prices 
+to name a few. The NTT Group aims to help achieve a sustainable 
+society by promoting its own transformation in response to the 
+direction of society and the economy and solving various social 
+issues through its business operations. To ensure that the NTT 
+Group keeps on track for sustainable growth, efforts have been 
+made to grow and strengthen the new DOCOMO Group, coupled 
+with significant restructuring of business segments from January 
+2022. In May 2022, we also announced reorganization of our 
+global businesses. We are also aiming to boost corporate value 
+through initiatives geared for ESGs, and in November 2021 we 
+created and announced the NTT Group Global Sustainability 
+Charter. In order to implement these initiatives, performance 
+indicators for officer compensation was freshly updated covering 
+aspects like amount of greenhouse gas emissions or ratio of 
+women in management positions. Going forward, we will be 
+making greater effort for the disclosure of non-financial 
+information like utilization of human capital, while also pre-
+empting trends in social values likely to undergo significant 
+changes such as environmental issues, in an attempt to achieve 
+more advanced disclosure.
+
+Achieving carbon neutrality
+
+To reach carbon neutrality, around half of efforts to reduce energy 
+consumption will come from increasing the efficiency of electricity 
+usage while the other half will be from innovations based on 
+IOWN. In addition to ongoing efforts towards energy-efficiency, 
+we will also be rolling out measures such as switching to 
+renewable energy sources for our power consumption. We are 
+also looking at highlighting use cases and other benefits of IOWN 
+with an eye toward commercialization.
+
+Initiatives for human capital management
+
+Human capital development is drawing a greater level of attention 
+throughout society every year and is an area in which we will be 
+placing a greater focus. . Strategic investment into human capital 
+is considered a key factor underpinning “sustainabi l i ty 
+management” that aims to achieve both sustainability for society 
+as well as corporate growth and earning power—we are planning 
+to make improvements with a focus on the following three areas.
+
+The first will be “linking management strategy and human 
+resources strategy.” In October 2021, NTT unveiled its “New 
+Management Style.” We believe that promoting diverse work 
+styles and increasing opportunities to harness the capabilities of 
+people from diverse backgrounds will help to achieve a more 
+open, global and innovative business management style. We are 
+promoting the participation of women, foreign employees and 
+outside personnel as part of these efforts and introduced a job-
+based personnel system last fiscal year to encourage self-guided 
+career formation. We are moving ahead with a shift from 
+company-driven career development to a system that allows 
+employees to control the development of their own careers.
+
+The second area is gaining an understanding (visualization) 
+of the gap between available personnel and our human resources 
+strategy, against the business model and management strategy 
+we are striving to achieve. We aim to disclose various types of 
+information required in response to trends in systems, laws and 
+policies, and in response to requests like this from society. We 
+are also looking at spurring effective investments toward human 
+capital, by analyzing the gap in skills between the business model 
+or management strategy that we are striving to achieve for the 
+future, and the currently available personnel with their skills and 
+specializations.
+
+We consider “visualization of human capital” as an essential 
+step for advancing both corporate and personnel growth to 
+create value and subsequently a more prosperous society. 
+Looking ahead, we will be engaging in discussion to develop a 
+clear awareness and vision for investment into human capital, 
+with efforts including defining our expectations of personnel that 
+match our management strategy, implementing policies to 
+facilitate securing and training, and establishing indicators and 
+targets for monitoring the results.
+
+Takashi Hiroi
+Senior Executive Vice President CFO,
+Representative Member of the Board
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 1 9 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+The third area is establishing a corporate culture that 
+encourages behavioral changes among individuals throughout the 
+organization. We want to develop a culture that respects more 
+open, flat and flexible communications, and diverse values, that 
+also embrace the action of taking on challenges without fear of 
+failure. To better visualize the way this culture is instilled, the NTT 
+Group in fiscal 2021 revamped its existing Employee Satisfaction 
+Survey, which focused on questions related to ease of working, 
+and added questions related to job satisfaction. Approximately 
+130,000 Group employees in Japan responded.
+
+By understanding current levels of engagement among NTT 
+Group employees and the issues that need to be improved, and 
+by taking action to make improvements, we hope to increase the 
+number of highly engaged employees who identify with the 
+company's and organization's policies and strategies, as well as 
+feel pride and take initiative in their work.
+
+The employee engagement rate has a major impact on labor 
+productivity and is also directly related to business performance. 
+This provided a clearer image of specific issues when viewed 
+against domestic and international standards, and we will be 
+investigating potential courses of action that can be taken to 
+establish a corporate culture that encourages behavioral changes.
+
+Management strategy and sustainability
+
+Carbon neutrality and various policies related to human capital 
+only make sense if they are tied to the management strategy and 
+incorporated specifically within action plans. Initiatives aimed at 
+achieving carbon neutrality can help to reduce the costs that 
+society or companies would have to bear in the future and 
+providing our initiatives as solutions could also result in potential 
+business opportunities. We believe that advancing Diversity & 
+Inclusion as part of the human resources strategy creates an open 
+workplace environment and being able to harness the potential of 
+diverse human resources in turn results in greater productivity. As 
+work styles, unconstrained by location or t ime, become 
+increasingly commonplace we introduced the Remote Standard 
+from July 2022 to address the need for companies to provide 
+flexible working arrangements. We will continue creating an 
+environment where individual diversity can lead to dialogue, 
+innovation and positive business outcomes.
+
+The NTT Group wil l strive to become an innovative 
+corporation spearheading societal transformation by inviting 
+dialogue and communication with various market players and a 
+broad range of stakeholders.
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 2 0 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Initiatives for human capital management
+New management style
+In October 2021, the NTT Group unveiled its “New 
+Management Style.” In addition to promoting the 
+appointment of female managers (newly appoint-
+ed managers in FY2021: 29% (target 30%)), intro-
+ducing new work styles (from July 2022) based on 
+remote work and expanding satellite offices (551 
+locations at the end of September 2022) for pro-
+moting work-in-life (health management) through 
+the workplace-residence proximity, we began a 
+trial at the holding company from October 2022 for 
+decentralizing the organization in order to enhance 
+resilience.
+
+We believe that promoting diverse work 
+styles and increasing opportunities to harness the 
+capabilities of people from diverse backgrounds 
+will help achieve a more open, global and innova-
+tive business. We are promoting the participation 
+of women, foreign employees and outside person-
+nel as part of these efforts to increase the choices 
+for working time, place, and residence. The NTT 
+Group has reviewed its personnel system to as-
+sign the right person to the right job at the right 
+time regardless of their gender, years employed, 
+or age. We are focusing on specialization, encour-
+aging self-guided career formation, and also rais-
+ing the starting salary of new recruits as part of 
+efforts to revise the personnel system for general 
+employees.
+
+Promotion of participation of women, foreign employees and 
+outside personnel
+
+Target Results
+
+Promote the appointment of females as managers and Board members
+
+Enhance various support and training programs
+
+Newly appointed managers:  
+30% every year 29%
+
+Managers:  
+15% in FY2025 8.7%
+
+Board members:  
+25% to 30% in FY2025 17.7%
+
+Aggressively hire foreign employees and outside personnel Mid-career hires*:  
+30% in FY2023 32.5%
+
+*Outside personnel
+
+Introduction of new personnel system Target Results
+
+Expand job-based personnel system to all management positions
+
+-
+
+Introduced in October 2021
+
+Promote self-guiding career formation for general employees
+(revision to specialization-based personnel compensation system)
+
+New system to be introduced in 
+April 2023
+
+Decentralization of the organization (including head office and 
+back-office employees)
+
+Target Results
+
+Decentralize organization from metropolitan areas to regional areas 
+(core cities)
+
+From FY2022 Began trial in October 2022
+
+Further accelerate community-based regional revitalization businesses 
+for primary or other industries in the region From FY2021
+
+Promotion of work-in-life (health management) through the 
+workplace-residence proximity
+
+Target Results
+
+Ensure remote work for employees, and provide them with the freedom 
+to choose their place of work
+(no need for relocations and unaccompanied assignments, recruitment 
+of remote-based employees, expansion of satellite offices, etc.)
+
+FY2022
+260 or more locations*
+
+End of September, FY2022
+551 locations*
+
+*Satellite offices
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 2 1 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Engagement Survey
+In fiscal 2021, NTT Group revamped its existing Employee Satisfaction Survey, which focused on questions relat-
+ing to ease of working, and added questions relating to job satisfaction as an indicator for defining culture. It also 
+conducted a Group-wide Engagement Survey to quantify employees' attachment to and trust in the company to 
+which they belong as an “engagement score.” By understanding the issues that need to be improved for estab-
+lishing corporate culture, and by taking action to make improvements, we hope to establish a corporate culture 
+where employees identify with the company's and organization's policies and strategies, as well as feeling pride 
+in their work.
+
+NTT Group’s Four KPIs
+Willingness to make voluntary contributions
+(1)   I am motivated to contribute more than is required to get 
+
+the job done at the company
+
+Attachment to and pride in the company
+(2)  I am proud to work at this company
+(3)   I would recommend our company as a great place to 
+
+work to those I know
+
+Job satisfaction
+(4)   I gain a sense of personal accomplishment through my 
+
+work
+
+Management where investment in human resources 
+leads to value provided to customers
+The NTT Group focuses on assigning the best-suited person to the work and post, regardless of age, and is 
+moving ahead with self-guided career development that will result in better earnings for the company by boosting 
+the motivation of employees to take on challenges and encouraging them to enhance their skills by acquiring 
+specialized knowledge. To achieve this, we are implementing a system for posts with clearly defined roles that 
+assigns the right person to the right job, while taking into account employees’ career plans, in line with the job-
+based personnel system introduced in October 2021 for all management positions. We will also be rolling out a 
+system for general employees from April 2023, built on a revised personnel compensation system with a greater 
+focus on specialization so that employees can work on enhancing their professional areas of specialization and 
+forge their own path forward.
+
+Providing customers with a new sense of excite-
+ment only comes about due to having the motivation or 
+taking action to create something new. In fact, each and 
+every idea or product is created by a “person.” We believe 
+that employees creating added value helps to increase 
+convenience throughout our customers’ lifestyles and 
+can even lead to the development of new social trends. All 
+of these revisions have helped to inspire each and every 
+employee to further increase their specializations and ac-
+quire or maximize their skills and have resulted in the cre-
+ation of a working environment that allows them to create 
+added value in a broad range of fields. Creating new value 
+by reforming business and expanding into new business 
+areas will provide the impetus for continued growth and 
+development through the entire NTT Group.
+
+Introduction of job-based personnel system to all man-
+agement positions (October 2021)
+
+Shift to assigning the right person to the right job for greater strategic capability
+•  Job definition and grading linked to management strategy and business strategy importance
+•  Assign the right person that suits the roles and tasks required of each job, regardless of number of 
+
+years employed or age
+•  Framework where compensation is determined based on job assignment. Move  to a working environ-
+
+ment where special appointments or salary reductions are the norm
+•  Transform awareness for management positions and increase employee motivation to take on chal-
+
+lenges, and promote self-guided career development
+
+Increase
+employees’
+
+specializations
+and skills
+
+Increase
+employees’
+
+ability to
+provide
+
+value-add
+
+Provide
+new value to
+customers
+
+Business
+growth
+
+Investment
+in human
+resources
+
+Revision to specialization-based personnel compensa-
+tion system (general employees, April 2023)
+
+Personnel compensation system that rewards specialization with promotions
+•  Framework that eliminates requirements for years employed or years served, and provides promotions 
+
+and salary increases corresponding to acquired specialization or level of skills (set grade standards that 
+clarifies the specializations or other skills required in 18 specialist fields)
+
+•  Formation of a new “Specialist Course” that provides high compensation for employees with a particu-
+larly high level of specialization (career diversification)
+
+Personnel system that supports self-guided career development
+• Shift to personnel assignment and transfer policy to boost specialization
+•  Greater support for self-guided career development (enhanced training, better career consulting 
+
+functions, etc.)
+
+Percentage 
+of positive 
+responses
+
+57%
+
+The Average of the Four KPIs
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 2 2 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Decentralization of the Organization (Including Head Officers and Back-Offices)
+
+The NTT Group began initiatives for decentralizing the organization from metropolitan areas to 
+regional areas (core cities)
+
+<Specific Initiatives>
+
+•  Trial run for dispersing the organization across regions to begin at the holding company (starting 
+in October 2022)
+
+•  From the standpoint of resilience, we will aim for sustainable business operations by opening 
+offices in Takasaki City and Kyoto City for promoting distributed offices 
+The first step will involve a trial of certain organizations (with approx. 200 employees) of the 
+holding company
+
+•  The trial will be used to test for issues or measures related to business operations and communi-
+cations with distributed offices, with a view to applying it to actual operations
+
+•  Introduce a working style based on telework in which employees engage in head office opera-
+tions while residing in a distant location
+
+•  Introduce a “hometown double work” program  to contribute to the revitalization of local commu-
+nities and areas associated with the Company while continuing current assignments
+
+Home
+
+Travel
+expenses
+
+Relocation allowance
+
+Travel expenses Office
+
+No need for 
+unaccompanied
+
+assignment
+Home
+
+(to return to)
+Home
+
+Remote Standard
+•  Any residence in Japan is acceptable
+•  Any reasonable transportation 
+
+method to and from work that 
+can be considered travel 
+expenses (lodging expenses 
+provided if accommodation is 
+needed) is acceptable
+
+•  No need to relocate to a 
+remote location if the new 
+location is an organization 
+that accepts the Remote 
+Standard
+
+New Work Style
+•  In general, reside in a location within 2 hours 
+
+commuting distance (one-way)
+•  Relocation or unaccompanied assignment if 
+
+transferred to remote locations
+
+Past Work Style
+
+Home
+
+Relocation
+allowance
+
+Travel allowance
+for returning home
+
+Commuting 
+allowance
+
+Dormitory Company
+housing
+
+Office
+
+Home (to return to)
+
+Relocation
+Unaccompanied
+
+assignment
+
+Previous residence
+
+Flexible work styles not bound by time and place
+In September 2021, we declared our policy aimed at eliminating the pressures of job transfers or 
+working away from their family, as part of efforts to create work styles throughout the entire NTT 
+Group that are no longer constrained by location or time. In July 2022, we introduced a work system 
+that generally allows employees to work anywhere as long as they reside in Japan, and successful-
+ly rolled out Remote Standard for 30,000 employees, around half of all of those working at the 
+Group’s main companies. We believe that flexible work styles encourage individual diversity, dialog 
+and innovation, which will lead to a work environment that delivers positive business outcomes.
+
+Achieved work styles not bound by time and place. 
+To eliminate restrictions by place of residence...
+
+New system “Remote Standard” (2022)
+
+Previous System Revisions (2020)
+
+System revisions due to COVID-19
+Remote work
+(no restrictions to frequency or location)
+Commuting allowance
+(payment corresponding to actual commuting)
+Remote work stipend 
+(equivalent to energy, water and communication costs)
+Super �ex-time system 
+(without core times, can be staggered)
+
+Work-from-home (with upper limit)
+
+Commuting allowance (fixed payments)
+
+No work-from-home stipends
+
+Flex (with Core Times)
+
+Past work style New work style (Remote Standard)
+• Commuting to the office was 
+
+the norm
+• Reside within commuting 
+
+distance to office
+• Remote work required approval
+• Commuting allowance paid 
+
+when commuting to office
+
+• Remote work is the norm (hybrid work with both 
+remote work and commuting to the office)
+
+• No restrictions to place of residence
+• Travel allowance paid when commuting to office 
+
+(processed as business trip, no upper limit)
+• Initially available for approx. 30,000 employees, 
+
+mainly office workers
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 2 3 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+m e s s a g e
+Message from Management
+(Senior Executive Vice President)
+
+Using Technology to Achieve Sustainability
+
+The 21st century world that we all live in today is facing major 
+challenges on the way to achieving a low-carbon and sustainable 
+environmentally-oriented society. The NTT Group views resolving 
+issues like climate change as one of its key corporate activities in 
+its goal of building a sustainable society  and implements various 
+initiatives in line with its "Your Valued Partner” management philos-
+ophy. The NTT Group is aiming to achieve sustainability based on 
+technology with a key focus on the Innovative Optical and Wireless 
+Network (IOWN).
+
+Providing customers with reliable telecommunications ser-
+vices is the most important role for NTT Group to fulfill. As IoT be-
+comes more widely used and the services that are essential to our 
+daily lives diversify, the amount of traffic continues to grow, and we 
+are approaching various limits in terms of data volume, latency, 
+and power consumption. While the NTT Group initially aimed for 
+commercialization of IOWN around 2030, a number of social is-
+sues have emerged, including the aforementioned rapid increase 
+of network load, the global situation regarding carbon neutrality, 
+the expansion of traffic due to a spike in remote usage spurred by 
+COVID-19, and soaring oil prices. For these reasons, the NTT 
+Group will move its 2030 target forward and start offering IOWN 
+services during fiscal 2022. We are introducing these services to 
+users who have a need for advanced services and planning to in-
+troduce services for specific applications and areas while achiev-
+ing further advancements with technological demonstrations. We 
+are already running a proof-of-concept for the “Urban DTC®” 
+(DTC: Digital Twin Computing) initiative aimed at increasing com-
+fort in cities using data on buildings, urban spaces and behavior of 
+people, at the “Urbannet Nagoya Nexta Building” next-generation 
+advanced office that opened in June 2022. After putting some 
+technologies to practical use during fiscal 2022, we will also grad-
+ually be installing equipment in facilities of the NTT Group. We plan 
+to showcase the results of our IOWN-related efforts at the 2025 
+World Exposition to be held in Osaka, Kansai.
+
+The Value that IOWN Provides and  
+Collaborating with Our Partners
+
+In September 2021, we unveiled our new environment and energy 
+vision, “NTT Green Innovation toward 2040” aimed at achieving 
+zero environmental impact while continuing economic growth, by 
+reducing the environmental impact of our business activities and 
+creating breakthrough innovation. This vision was designed so that 
+the NTT Group is able to achieve carbon neutrality in fiscal 2040 
+with IOWN, ten years before the 2050 goal for carbon neutrality set 
+by the Japanese government.
+
+Additional utilization of optical technology is important for 
+implementing the IT infrastructure with both high performance and 
+low power consumption that IOWN is aiming for. We will introduce 
+optical technology, which can handle signals while using less pow-
+er than electricity, not only for transmission, but also for process-
+ing. This will enable us to achieve advanced fusion of light and 
+electricity (photoelectric merging technology), in which optical 
+technology is applied in extremely close proximity to the parts 
+where operations are performed. Incorporating this technology 
+into semiconductors will fundamentally solve the aforementioned 
+issues. Photoelectric merging technology is an area in which NTT 
+excels, given the optical-related technologies it has amassed.
+
+At present, Japanese companies possess significant tech-
+nology and manufacturing capabilities in the semiconductor value 
+chain. However, we have not yet achieved the kind of presence a 
+global stakeholder should have. Our goal is for Japan to spear-
+head IOWN in collaboration with our global partners and become 
+an indispensable global player in the semiconductor value chain. 
+Established in the United States in 2020, the IOWN Global Forum 
+has already attracted more than 100 members from Europe, the 
+United States, and Asia. This forum is unique in that it is not limited 
+to the IT and telecommunications industries, but also encompass-
+es the automotive, plant, and financial industries, as well as aca-
+demic institutions. We believe that we can work hand in hand with 
+the members of the forum to create a value chain that utilizes 
+IOWN in every industry.
+
+Katsuhiko Kawazoe
+Senior Executive Vice President CTO,
+Representative Member of the Board
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 2 4 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Investment in human capital is essential to 
+continue producing research results
+
+Research and development at NTT involves approximately 2,300 
+researchers conducting a broad, diverse range of research, from 
+basic research to R&D that underpins business development at 
+operating companies, based on the principle of creating world-
+leading technologies and services and contributing to the 
+development of society, industry, and academia. We are creating 
+competitive technologies as part of the research and development 
+that forms the source of growth for the NTT Group,  and will go on 
+to create new value through open innovation and collaboration 
+with various companies, universities and research institutions. It is 
+vital to view each and every employee as an independent 
+researcher with a high level of market value. To facilitate this, we 
+are supporting diversity-rich career formation, from basic research 
+to technology management, in line with each individual’s career 
+plan. With even more rapid changes occurring today, we are 
+regularly reviewing training programs to ensure they are up to date 
+and optimized for nurturing researchers with a high level of market 
+value.
+
+Going forward, we will need excellent researchers in a wide 
+range of fields such as encryption technology energy. To this end, 
+we will aim to make NTT Group more attractive, not only in terms 
+of compensation, but also in terms of prestige, the research 
+environment, and many other aspects so that people wish to work 
+here.
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 2 5 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+An abbreviation for the Innovative Optical and 
+Wireless Network (IOWN), this concept is a step 
+for achieving a Smart World through the fusion of 
+photonics-electronics convergence technology 
+and three core elements—an All-Photonics 
+Network, Digital Twin Computing, and Cognitive 
+Foundation.
+
+This is the core concept that delivers a stable, high-capacity commu-
+nications network with computing capacity that exceeds the perfor-
+mance of conventional computing technologies and networks, with 
+lower power consumption and overcoming communication latency 
+issues. *1 Target value of power efficiency of photonics technology-applied part   *2 Target value of communication capacity per optical fiber   
+
+*3 Target end-end delay for video traffic that does not require compression within the same prefecture
+
+What is IOWN 
+concept
+
+All-photonics network 
+(APN) for achieving 
+the IOWN concept
+
+Smart World
+
+Limits and reduces power consumption
+
+Power efficiency*1
+
+100 times higher
+
+(1) Low power consumption
+•  No conversion between 
+
+light ⇔ electricity
+•  Integrated opto-electronic 
+
+information processing
+
+Capable of handling increasing traffic
+
+Transmission capacity*2 
+
+125 times higher
+
+(2)  High capacity and 
+high quality
+
+•  Allocate wavelength for 
+each service
+
+•  IP-independent
+
+Low-latency transmission backbone
+
+End-to-end delay*3 
+
+1/200
+
+(3) Low latency
+• No data compression
+• No queueing
+
+Chip-to-chip optical
+transmission
+
+Connections
+around a chip
+
+COSA
+
+Increased
+information
+processing
+capability
+
+* Photonics-electronics convergence device
+
+Optical transmission:
+400 Gbps
+
+Core-to-core optical transmission in the chip
+Optical signal transmission 
+in the chip
+
+Tight coupling of optical and electronic circuits
+[Photonics-electronics 
+convergence processor]
+
+Electrical layer
+
+Optical layer
+
+Public network Private
+
+Optical processor
+(Photon fusion type)
+
+A
+P
+
+I
+A
+
+P
+I
+
+CtrlAPI
+
+CtrlAPI
+
+Edge
+CloudCtrlAPI Ctrl
+
+Ctrl
+
+Digital Twin Computing
+
+Device Agent
+
+All-Photonics Network
+
+End-to-end connectivity by combining ICT resources
+
+Network services
+
+Ctrl
+
+A
+chieve rap
+
+id
+ IC
+
+T
+ reso
+
+urce d
+ep
+
+lo
+ym
+
+ent
+and
+
+ calib
+ratio
+
+n o
+p
+
+tim
+izatio
+
+n
+
+M
+ultio
+
+rchestrato
+r
+
+Cognitive
+Foundation
+
+Business A
+Business B
+
+Business C
+
+
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 2 6 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+Going forward, the goal is to implement use cases raised at the IOWN Global Forum by demonstrating conceptual use cases among a wide range of companies and organizations.
+
+Future use cases achieved with IOWN
+
+Area management Smart mobility
+Capable of high-speed processing of data generated from the large number of cameras and 
+
+other sensors installed around the venue, together with low power consumption
+Automation of logistics within a venue by using automatically driven vehicles, 
+
+transportation robots, drones, and more
+
+※1 · 2 · 3: Target value of R&D
+
+APN
+
+Quickly dispatch 
+to venue
+
+Bandwidth: 96 Gbps*1
+
+4K video
+Real-time
+processing
+IT resources
+Use ef�ciency
+
+Limits power
+consumption
+
+1/8th that of IA servers
+
+Wavelength allocated
+for objective
+
+100 Gbps / wavelength
+※1
+
+※2Concatenated loop
+
+Data
+processing
+
+Data
+processing
+
+Data
+processing
+
+*1 For 4K/H.265, 30 fps x 4,000 units
+
+Disaggregated 
+computing
+
+APN
+Data
+
+processing
+
+Remote
+operation
+
+※3
+
+Concatenated
+loop
+
+Cognitive Foundation
+(ExNaaS)
+
+Achieves smooth 
+movement in varying 
+wireless environments
+
+*2 1 Gbps / device, 120 Gbps/1km2
+
+Bandwidth: 120 Gbps*2
+
+E2E delay
+10-20msec
+
+AudiencePerformers
+
+APN
+
+Data
+processingLive venue
+
+Remote venue
+
+Performers
+
+Concatenated
+loop
+
+Ultra-realistic live
+experience same or better
+
+than those at the venue
+
+Uncompressed video/
+Voice transmission
+
+Bandwidth: 14 Gbps to 230 Gbps*3 x number of venues
+Latency: less than 70 ms (performer → audience)
+
+*3 When using Volumetric Capturing uncompressed video
+
+Live entertainment
+Achieves live entertainment that brings together live 
+venues, remote venues and the audience
+
+
+
+2021 highlights
+
+544.1billion
+
+B2B2X earnings
+Ratio of women newly promoted 
+to management positions
+
+Ratio of direct dialogue 
+with critical suppliersRatio of remote work
+
+100%
+
+29.1%
+
+77.3%
+
+reduction38%
+(compared to FY2013)
+
+GHG reduction
+(Scope1+2)
+
+Ensuring the positive coexistence of 
+nature and humanity
+
+Improving prosperity for 
+all people and cultures
+
+Maximizing well-being for all
+
+Recycling rate
+
+97.8%
+
+Ensuring the positive coexistence
+of nature and humanityCEO Message
+
+Improving prosperity for all 
+people and cultures Maximizing well-being for all 0 2 7 S u s t a i n a b i l i t y  R e p o r t  2 0 2 2
+
+
+	CEOメッセージ
+	自然との共生
+	文化の共栄
+	Well-beingの最大化
+	３テーマ９チャレンジ３０アクティビティ
+	重要課題選定プロセス
+	特集1環境エネルギービジョン
+	Business Activity-1
+	Business Activity-2
+	Business Activity-3
+	Business Activity-4
+	自然 その他の取組
+
+	ボタン2010: 
+	Page 9: 
+	Page 99: 
+
+	ボタン2011: 
+	Page 9: 
+	Page 99: 
+
+	ボタン247: 
+	Page 9: 
+	Page 99: 
+
+	ボタン248: 
+	Page 9: 
+	Page 99: 
+
+	ボタン2012: 
+	Page 4: 
+
+	ボタン2013: 
+	Page 4: 
+
+	ボタン2014: 
+	Page 4: 
+
+	ボタン2015: 
+	Page 4:

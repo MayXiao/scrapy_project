@@ -1,0 +1,3765 @@
+Business Responsibility and Sustainability Report 1Siemens Limited
+
+Business Responsibility 
+and Sustainability Report 
+FY 2022
+
+
+
+Business Responsibility and Sustainability Report2 Siemens Limited
+
+ Technology to 
+Transform the Everyday
+
+Our Purpose
+
+Key figures 
+
+9,672
+Employees
+
+18,346 
+Gigajoules of renewable 
+energy
+
+83.5% 
+Suppliers underwent ESG 
+assessment
+
+`150 billion 
+Revenue 
+
+Allocation of the SDG goals to Siemens sustainability framework DEGREE
+
+Equity 
+Decarbonization
+
+Ethics 
+
+ 
+
+Em
+pl
+
+oyabilit
+y 
+
+G
+overnance
+
+Resource ef  ciency
+
+
+
+Business Responsibility and Sustainability Report 3Siemens Limited
+
+Dear Readers, 
+
+The world continues to change rapidly across multiple dimensions. We see megatrends such as climate 
+change, glocalization, digitalization, demographic change, and urbanization requiring us to reassess 
+established ways of doing things. At the same time, global unrest and disruptions may distract from 
+tackling these megatrends with the required focus. We firmly believe that the answer to creating 
+a sustainable future is technology. As an innovation leader focused on combining the real and the 
+digital world, we are uniquely positioned to find solutions to these challenges and help drive the 
+transformational needs of our times. 
+
+Sustainability is at the heart of what we do at Siemens. We are a technology company with a portfolio  
+designed to drive the digital and sustainable transformation of industry, infrastructure, energy and  
+transportation. Through technology with purpose, we enable our customers and partners to accelerate 
+their sustainable transformation and maximize contribution to planetary health. 
+
+The Business Responsibility and Sustainability Report (BRSR) paves the way for companies in India 
+towards greater ESG disclosures, while generating a positive impact on the established ways for doing 
+business. Within the BRSR, we are disclosing not only the essential ‘own performance’ but also the 
+performance of our ‘value chain’ across the leadership indicators of the BRSR. This is possible because 
+we are committed to sustainability. This commitment is reflected in our DEGREE framework - a 360 
+degree view of Siemens ESG priorities. DEGREE is based on six fields of action that drive sustainability – 
+Decarbonization, Ethics, Governance, Resource efficiency, Equity, Employability. We are committed to 
+decarbonization across our value chain. At Siemens, ethical business is non-negotiable. We have strong 
+governance mechanisms in place and expect our partners to do business responsibly. We are conscious 
+of the fact that resources on the planet are finite therefore we want to accelerate recycling and circular 
+economy. Finally, it is people that make all the difference. We are very invested in our people and strive 
+to ensure we have a diverse, equitable and resilient workforce to deliver on the challenges ahead of us. 
+
+This is the decade of action and we are confident that through our people and partnerships we can 
+multiply the impact of our solutions and pave way to a more resilient future: This is the time to step up 
+and act.
+
+Sunil Mathur  Dr. Daniel Spindler
+
+  Foreword
+
+
+
+Business Responsibility and Sustainability Report4 Siemens Limited
+
+SECTION A
+
+General Disclosures
+
+I.  Details of the listed entity
+1. Corporate Identity Number (CIN) of the Company L28920MH1957PLC010839
+2. Name of the Listed Entity Siemens Limited
+3. Year of incorporation 1957
+4. Registered office address Birla Aurora, Level 21, Plot No.1080, Dr. Annie Besant 
+
+Road, Worli, Mumbai - 400030
+5. Corporate address Birla Aurora, Level 21, Plot No.1080, Dr. Annie Besant 
+
+Road, Worli, Mumbai - 400030
+6. Email communication.in@siemens.com 
+7. Telephone 1800 209 1800
+8. Website www.siemens.co.in
+9. Financial year for which reporting is being done 1st October 2021- 30th September 2022
+10. Name of the Stock Exchange(s) where shares are 
+
+listed
+BSE Limited and National Stock Exchange of India 
+Limited
+
+11. Paid-up Capital ` 712 million
+12. Name and contact details (telephone, email address) 
+
+of the person who may be contacted in case of any 
+queries on the BRSR report
+
+Ashwin Nair
+Head of Strategy & Sustainability
+Phone: 1800 209 1800
+ashwin.nair@siemens.com
+
+13. Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated 
+financial statements, taken together).
+
+  The disclosures under this report are for Siemens Limited on a standalone basis.
+
+II.  Products/services
+ 14.  Details of business activities (accounting for 90% of the turnover):
+
+S. 
+No.
+
+Description of Main 
+Activity
+
+Description of Business Activity % of Turnover of the 
+entity
+
+1 Manufacturing Electrical equipment, General Purpose and 
+Special purpose Machinery & equipment, 
+
+Transport equipment
+
+91%
+
+ 15.  Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+
+S. 
+No.
+
+Product/Service NIC Code % of total Turnover contributed
+
+1 Manufacture of electric motors, generators, 
+transformers and electricity distribution and 
+control apparatus
+
+271 51%
+
+2 Manufacture of other electrical equipment 279 19%
+3 Manufacture of general-purpose machinery 281 13%
+4 Repair of fabricated metal products, machinery 
+
+and equipment
+331 8%
+
+mailto:communication.in@siemens.com
+http://www.siemens.co.in
+mailto:ashwin.nair@siemens.com
+
+
+Business Responsibility and Sustainability Report 5Siemens Limited
+
+III. Operations
+ 16.  Number of locations where plants and/or operations/offices of the Company are situated:
+
+Location Number of plants Number of offices Total
+National 19 15 34
+International 0 4 4
+
+ 17.  Markets served by the entity:
+  a.  Number of locations
+
+Locations Number
+National (No. of States) 28 States and 7 Union Territories
+
+International (No. of Countries) 5
+
+  b.  What is the contribution of exports as a percentage of the total turnover of the entity?
+   18%
+  c.  A brief on types of customers
+   Siemens Limited caters to both public and private sector customers in discrete and process industries like 
+
+Aerospace and Defence, Automotive, Chemicals and Petrochemicals, Data Centres, Food & Beverages, Water 
+Treatment, Mining & Cement, Intralogistics, Oil & Gas, Pharmaceuticals, Ports, Power Utilities, Railways, 
+Renewables and Transportation.
+
+IV.  Employees
+ 18.  Details as at the end of Financial Year:
+  a.  Employees and workers (including differently abled):
+
+S. 
+No.
+
+Particulars Total (A) Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+
+EMPLOYEES
+1 Permanent (D) 6,799 5,998 88% 801 12%
+2 Other than Permanent (E) 1,598 1,520 95% 78 5%
+3 Total (D + E) 8,397 7,518 90% 879 10%
+WORKERS
+4 Permanent (F) 1,275 1,259 99% 16 1%
+5 Other than Permanent (G) 0 0 0% 0 0%
+6 Total (F + G) 1,275 1,259 99% 16 1%
+
+  b.  Differently abled employees and workers:
+
+S. 
+No.
+
+Particulars Total (A) Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+
+EMPLOYEES
+1 Permanent (D) 9 9 100% 0 0%
+2 Other than Permanent (E) 0 0 0% 0 0%
+3 Total (D + E) 9 9 100% 0 0%
+WORKERS
+4 Permanent (F) 4 4 100% 0 0%
+5 Other than Permanent (G) 0 0 0% 0 0%
+6 Total (F + G) 4 4 100% 0 0%
+
+
+
+Business Responsibility and Sustainability Report6 Siemens Limited
+
+ 19.  Participation/Inclusion/Representation of women:
+
+Total (A) No. and percentage of Females
+
+No. (B) % (B / A)
+Board of Directors 9 1 11%
+Key Management Personnel 3 0 0%
+
+ 20.  Turnover rate for permanent employees and workers
+  (Disclose trends for the past 3 years)
+
+FY 2022 FY 2021 FY 2020
+Male Female Total Male Female Total Male Female Total
+
+Permanent 
+Employees
+
+9.8% 14.5% 10.4% 6.3% 9.6% 6.7% 5.3% 8.5% 5.6%
+
+Permanent 
+Workers
+
+2.8% 2.6% 2.8% 2.2% 11.4% 2.4% 1.9% 4.1% 1.9%
+
+V.  Holding, Subsidiary and Associate Companies (including joint ventures)
+ 21.  a.  Names of holding / subsidiary / associate companies / joint ventures
+
+S. 
+No.
+
+Name of the holding / 
+subsidiary / associate 
+
+companies / joint 
+ventures (A)
+
+Indicate whether 
+holding/ Subsidiary/ 
+
+Associate/ Joint 
+Venture 
+
+% of shares held by 
+listed entity
+
+Does the entity indicated 
+at column A, participate 
+
+in the Business 
+Responsibility initiatives 
+of the listed entity? (Yes/
+
+No)
+1 Siemens AG Holding Company 47.70 % through 
+
+Siemens International 
+Holding B.V. 24% 
+through Siemens Gas 
+and Power Holding B.V. 
+3.30% through Siemens 
+Metals Technologies
+
+Yes
+
+2 Siemens Rail 
+Automation Private 
+Limited
+
+Subsidiary 100 Yes
+
+3 C&S Electric Limited Subsidiary 99.22 No, C&S Electric have their 
+own Business Responsibility 
+initiatives
+
+4 Sunsole Renewables 
+Private Limited
+
+Associate 26 No
+
+ b.  Do any other entity/entities (e.g. suppliers, distributors etc.) that the Company does business with, 
+participate in the BR initiatives of the Company? If yes, then indicate the percentage of such entity/entities? 
+[Less than 30%, 30-60%, More than 60%]
+
+  Yes, 100%. All Suppliers of the Company are required to mandatorily adhere to the Siemens Group “Code of 
+Conduct for Siemens Suppliers and Third-Party Intermediaries”. 
+
+
+
+Business Responsibility and Sustainability Report 7Siemens Limited
+
+VI.  CSR Details
+ 22.  (i)  Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+   Yes, CSR is applicable to Siemens Limited.
+
+FY 2022
+
+(ii)  Turnover (` in million) ` 150,124
+(iii)  Net worth (` in million) ` 115,271
+
+VII.  Transparency and Disclosures Compliances
+ 23.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+
+Responsible Business Conduct:
+
+Stakeholder 
+group from 
+
+whom 
+complaint is 
+
+received
+
+Grievance Redressal 
+Mechanism in Place (Yes/
+No) (If Yes, then provide 
+web link for grievance 
+
+redress policy) 
+
+FY 2022 FY 2021
+Number of 
+complaints 
+filed during 
+
+the year
+
+Number of 
+complaints 
+
+pending 
+resolution at 
+close of year
+
+Remarks Number of 
+complaints 
+filed during 
+
+the year
+
+Number of 
+complaints 
+
+pending 
+resolution at 
+close of year
+
+Remarks
+
+Investors 
+(other than 
+shareholders)
+
+www.scores.gov.in
+& Stock Exchanges
+
+31 2 20 2
+
+Shareholders
+Employees and 
+workers
+
+Yes, internal mechanisms 
+in place
+
+20 4 0 0
+
+Customers Yes, through toll free 
+number and Email
+
+1,105 90 1,205 24
+
+Communities Yes, Complaints received 
+from several stakeholders 
+
+on “Tell Us” and the 
+Ombudsperson and 
+
+Siemens Limited web portal
+https://new.siemens.
+
+com/global/en/Company/
+sustainability/compliance/
+reporting-channels.html 
+
+31 5 22 4
+Value chain 
+partners
+Others (pl 
+specify)
+
+ 24.  Overview of the entity’s material responsible business conduct issues.
+  Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach 
+to adapt or mitigate the risk along-with its financial implications, as per the following format.
+
+  Siemens AG globally undertook the materiality assessment in FY 2020-21. The assessment was based on 
+external frameworks such as the UN Global Compact and the Standards of the Global Reporting Initiative (GRI). 
+The goal was to identify the key economic, ecological, and social topics for Siemens globally in accordance with 
+the GRI Standards. To this end, relevant stakeholders were consulted, and the impact viewed from an outside-in 
+perspective. inside-out impact (double materiality) were also considered. The exercise enabled us to prioritize the 
+relevant sustainability topics and the same is listed in the table below:
+
+http://www.scores.gov.in
+https://new.siemens.com/global/en/Company/sustainability/compliance/reporting-channels.html
+https://new.siemens.com/global/en/Company/sustainability/compliance/reporting-channels.html
+https://new.siemens.com/global/en/Company/sustainability/compliance/reporting-channels.html
+https://new.siemens.com/global/en/Company/sustainability/compliance/reporting-channels.html
+
+
+Business Responsibility and Sustainability Report8 Siemens Limited
+
+S. 
+No.
+
+Dimension Material issue 
+identified
+
+Indicate 
+whether risk 
+
+or opportunity 
+(R/O) 
+
+Rationale for identifying the 
+risk / opportunity
+
+In case of risk, approach 
+to adapt or mitigate
+
+Financial implications 
+of the risk or 
+
+opportunity (Indicate 
+positive or negative 
+
+implications)
+1 Shared Value: 
+
+Material issues where 
+we can, through our 
+business, pursue 
+and scale solutions 
+to meet significant 
+systemic challenges 
+for the benefit of 
+society while creating 
+opportunities for our 
+business
+
+Climate 
+protection
+
+Opportunity Reducing greenhouse gas 
+emissions, energy use and 
+mitigating the effects of 
+long-term changes in the 
+Earth’s climate and its physical 
+impacts on business operations, 
+communities and the natural 
+environment. Advocacy and 
+partnerships with others to 
+reduce climate change impacts.
+
+Siemens addresses these 
+material issues through 
+the DEGREE Framework. 
+The details of the DEGREE 
+Framework is available 
+on the link https://new.
+siemens.com/global/en/
+Company/sustainability/
+sustainability-figures.
+html#!/siemens/en/our-
+degree-framework/
+
+Positive
+
+2 Sustainable 
+product design 
+and life-cycle 
+management
+
+Opportunity Fostering a circular economy 
+by addressing customer 
+and societal demands for 
+more sustainable products 
+and services. Ensuring 
+environmental responsibility in 
+the product use phase. Meeting 
+evolving regulations through 
+product designing and lifecycle 
+management.
+
+Positive
+
+3 Innovation and 
+business model
+
+Opportunity Innovation management 
+for developing sustainable 
+products and solutions. 
+Management of risks and 
+opportunities associated with 
+the incorporation of social, 
+environmental, and political 
+transitions into long-term 
+business model development.
+
+Positive
+
+4 Partner 
+management 
+and collaboration
+
+Opportunity Fostering collaborations with 
+partners across the Siemens 
+ecosystem for driving the 
+development of sustainable 
+services and solutions.
+
+Positive
+
+5 Responsible 
+economic 
+performance
+
+Opportunity Company’s ability and 
+strategies to produce long-term 
+economic growth by providing 
+and investing in sustainable 
+products and services.
+
+Positive
+
+6 Future of work Opportunity Becoming an employer of 
+choice. Proactively shaping 
+structural changes. E.g., 
+business-relevant trainings, 
+fair and forward-looking 
+remuneration, flexible working 
+models, and further benefits 
+for promoting a productive, 
+enjoyable and sustainable 
+work. 
+
+Positive
+
+7 Sustainable 
+handling of 
+natural resources 
+and material 
+efficiency
+
+Opportunity Company’s management and 
+reduction of the use of natural 
+resources in production and 
+consumption (e.g., the use of 
+freshwater), also referred to as 
+dematerialization.
+
+Positive
+
+https://new.siemens.com/global/en/Company/sustainability/sustainability-figures.html
+https://new.siemens.com/global/en/Company/sustainability/sustainability-figures.html
+https://new.siemens.com/global/en/Company/sustainability/sustainability-figures.html
+https://new.siemens.com/global/en/Company/sustainability/sustainability-figures.html
+https://new.siemens.com/global/en/Company/sustainability/sustainability-figures.html
+
+
+Business Responsibility and Sustainability Report 9Siemens Limited
+
+S. 
+No.
+
+Dimension Material issue 
+identified
+
+Indicate 
+whether risk 
+
+or opportunity 
+(R/O) 
+
+Rationale for identifying the 
+risk / opportunity
+
+In case of risk, approach 
+to adapt or mitigate
+
+Financial implications 
+of the risk or 
+
+opportunity (Indicate 
+positive or negative 
+
+implications)
+8 Responsibility: Material 
+
+issues where we have 
+a responsibility to 
+mitigate significant 
+potential negative 
+impact on people, 
+society or the 
+environment and 
+where do sustainability 
+issues pose a potential 
+for financial or 
+reputational risk to our 
+business
+
+Social and 
+ecological 
+standards in the 
+supply chain
+
+Opportunity 
+/ Risk
+
+Driving sustainability 
+performance in the supply 
+chain. Including minimum 
+social and ecological standards 
+for suppliers (e.g., protection 
+of fundamental labor rights or 
+environmental objectives and 
+supplier management)
+
+Positive / Negative
+
+9 Cybersecurity 
+and data 
+management
+
+Opportunity 
+/ Risk
+
+Cyber and data security as risk 
+and business opportunity for 
+the benefit of all. Management 
+of risks related to collection, 
+retention and use of sensitive, 
+confidential and/or proprietary 
+customer or user data.
+
+Positive / Negative
+
+10 Employee health 
+and safety
+
+Risk Company’s ability to create and 
+maintain a safe and healthy 
+workplace that is free of 
+injuries, fatalities and illness 
+(both acute and chronic).
+
+Negative
+
+11 Diversity, equity 
+& inclusion
+
+Opportunity Company’s ability to ensure 
+that it’s culture and hiring and 
+promotion practices foster 
+the building of a diverse and 
+inclusive workforce.
+
+Positive
+
+12 Customer safety 
+and product 
+quality
+
+Opportunity 
+/ Risk
+
+Management and minimization 
+of issues unintended 
+characteristics of products or 
+services sold that may create 
+health and safety risks to end-
+users.
+
+Positive / Negative
+
+13 Corporate 
+governance and 
+sustainability 
+leadership
+
+Opportunity 
+/ Risk
+
+Siemens management follows 
+clear rules, practices and 
+processes. Our leadership takes 
+responsibility for encouraging 
+sustainability across the 
+Siemens ecosystem.
+
+Positive / Negative
+
+14 ESG risk 
+management
+
+Opportunity 
+/ Risk
+
+Management system for 
+identification, prevention, 
+minimization of potential 
+ESG-risks.
+
+Positive / Negative
+
+15 Compliance 
+management
+
+Opportunity 
+/ Risk
+
+Management system for 
+ensuring, that the Company 
+and its employees follow all 
+laws, regulations, standards, 
+and ethical practices that 
+apply to the organization and 
+industry.
+
+Positive / Negative
+
+
+
+Business Responsibility and Sustainability Report10 Siemens Limited
+
+SECTION B
+
+Management and process disclosures
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+
+Disclosure Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+Policy and management processes
+1.  a.  Whether your entity’s policy/policies 
+
+cover each principle and its core 
+elements of the NGRBCs. (Yes / No)
+
+Yes Yes Yes Yes Yes Yes Yes Yes Yes
+
+ b.  Has the policy been approved by the 
+Board? (Yes/No)
+
+Yes Yes Yes Yes Yes Yes Yes Yes Yes
+
+ c.  Web Link of the Policies, if available Please refer to Annexure I
+2.  Whether the entity has translated the policy 
+
+into procedures. (Yes / No) 
+Yes Yes Yes Yes Yes Yes Yes Yes Yes
+
+3.  Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+
+Yes Yes Yes Yes Yes Yes NA Yes Yes
+
+4.  Name of the national and international codes/
+certifications/labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustea) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by your Company 
+and mapped to each principle
+
+Siemens policies are in line with international standards and 
+practices such as ISO 14001, 50001, ISO 45001, OHSAS 18001, 
+UNGC Guidelines, UN Human Rights Declaration and European 
+Human Rights Convention; UNFCCC - United Nations Framework 
+Convention on Climate Change, CEO Water Mandate, CPLC (carbon), 
+ILO Principles, OECD Guidelines for Multinational Enterprises, UN 
+Convention against Corruption, IFRS as issued by the IASB.
+
+5.  Specific commitments, goals and targets set 
+by the entity with defined timelines, if any.
+
+The ESG commitments, goals and targets are set globally by Siemens 
+AG. Siemens AG has developed the DEGREE Framework to address 
+issues identified via the materiality assessment. The details of the 
+DEGREE Framework is available on the link: https://new.siemens.
+com/global/en/Company/sustainability/sustainability-figures.
+html#!/siemens/en/our-degree-framework/ 
+The targets against the various principles are the ones committed 
+under the DEGREE Framework by Siemens AG. Siemens Limited 
+adheres to the framework and contributes towards achievement of 
+the DEGREE KPIs. The current performance against DEGREE Targets 
+is also available at the link mentioned above.6. Performance of the entity against the specific 
+
+commitments, goals and targets along-with 
+reasons in case the same are not met.
+
+Governance, Leadership and oversight
+8.  Details of the highest authority responsible for implementation and oversight of the Business Responsibility 
+
+policy (ies)
+ Mr. Sunil Mathur
+ Managing Director and Chief Executive Officer
+ DIN: 02261944
+
+9.  Does the entity have a specified committee of the Board/ Director responsible for decision making on sustainability 
+related issues? (Yes/No) If yes, provide details
+
+ The CEO & Managing Director and CFO & Executive Director are responsible for decisions on all sustainability related 
+issues.
+
+10.  Details of Review of NGRBCs by the Company:
+
+
+
+Business Responsibility and Sustainability Report 11Siemens Limited
+
+Subject for Review Indicate whether review was undertaken 
+by Director / Committee of the Board / Any 
+
+other Committee
+
+Frequency (Annually/ Half yearly/ Quarterly 
+Any other – please specify)
+
+P1 P2 P3 P4 P5 P6 P7 P8 P9 P1 P2 P3 P4 P5 P6 P7 P8 P9
+
+Performance against 
+above policies and follow 
+up action
+
+Yes Annually
+
+Compliance with 
+statutory requirements 
+of relevance to the 
+principles, and, 
+rectification of any non-
+compliances
+
+Yes Quarterly
+
+11.  Has the entity carried out independent assessment/ evaluation of 
+the working of its policies by an external agency? (Yes/No) If yes, 
+provide name of the agency. 
+
+P1 P2 P3 P4 P5 P6 P7 P8 P9
+No
+
+12.  If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+ Not applicable.
+
+
+
+Business Responsibility and Sustainability Report12 Siemens Limited
+
+SECTION C
+
+Principle wise performance disclosure
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+
+Principle 1: Businesses should conduct and govern themselves with 
+integrity, in a manner that is Ethical, Transparent and Accountable.
+
+Essential Indicators
+1.  Percentage coverage by training and awareness programmes on any of the Principles in the financial year:
+
+Segment Total number 
+of training and 
+
+awareness 
+programmes 
+
+held
+
+Topics / principles covered under the training and its 
+impact 
+
+% of persons 
+in respective 
+
+category covered 
+by the awareness 
+
+programmes
+Board of 
+Directors
+
+1 The Board is familiarised of the principles of the NGRBC 
+released by SEBI/MCA, and Siemens Business Conduct 
+Guidelines (BCG). The Board periodically reviews the BCG.
+
+100%
+
+Key Managerial 
+Personnel
+
+1
+100% employees and KMPs are required to undergo the 
+Siemens Business Conduct Guidelines (BCG), Data 
+Privacy, Cybersecurity, Anti-corruption and Antitrust 
+essentials trainings once in three years. 
+
+11%
+
+Employees other 
+than BoD and 
+KMPs
+
+5
+
+Workers 1 Workers are required to undergo training on the Siemens 
+Business Conduct Guidelines (BCG)
+
+100%
+
+2.  Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by 
+the entity or by directors / KMPs) with regulators/ law enforcement agencies / judicial institutions in the financial 
+year, in the following format.
+
+ (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations 
+and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+
+Monetary
+ NGRBC 
+
+Principle
+Name of the 
+regulatory/ 
+
+enforcement agencies/ 
+judicial institutions
+
+Amount 
+(In `)
+
+Brief of 
+the case
+
+Has an appeal 
+been preferred? 
+
+(Yes/No)
+
+Penalty /Fine Settlement
+Compounding fee
+
+NIL
+
+Non-Monetary
+ NGRBC 
+
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+
+judicial institutions
+
+Brief of the case Has an appeal 
+been preferred? 
+
+(Yes/No)
+Imprisonment
+Punishment
+
+NIL
+
+
+
+Business Responsibility and Sustainability Report 13Siemens Limited
+
+3.  Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary 
+or non-monetary action has been appealed.
+
+Case Details Name of the regulatory/ enforcement agencies/ judicial institutions
+
+NIL Not Applicable
+
+4.  Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+
+ Yes, Siemens has an anti-corruption and anti-bribery policy as part of its Business Conduct Guidelines (BCG). Responsible 
+business conduct plays a vital role in the Company’s aspiration to make ethical and responsible decisions in the interest 
+of all stakeholders. The BCG lays the foundation of compliance management system at Siemens.
+
+ Details of Siemens Compliance system and the BCG are available at https://new.siemens.com/global/en/Company/
+sustainability/compliance.html
+
+5.  Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+
+FY 2022 FY 2021
+Directors NIL NIL
+KMP NIL NIL
+Employees NIL NIL
+Workers NIL NIL
+
+6.  Details of complaints with regard to conflict of interest:
+
+FY 2022 FY 2021
+
+Number of complaints received in relation to issues of Conflict of 
+Interest of the Directors
+
+NIL NIL
+
+Number of complaints received in relation to issues of Conflict of 
+Interest of the KMPs
+
+NIL NIL
+
+7.  Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest. 
+
+ Not applicable.
+
+Leadership Indicators
+1.  Awareness programmes conducted for value chain partners on any of the Principles during the financial year: 
+
+Total number 
+of awareness 
+
+programmes held
+
+Topics / principles 
+covered under the 
+
+training
+
+% of value chain partners covered (by value of business done 
+with such partners) under the awareness programmes 
+
+1 P1, P2, P3, P4, P5, P6, 
+P8, P9
+
+100% of suppliers onboarded are covered through the Siemens 
+Group Code of Conduct for Suppliers and Third Party Intermediaries.
+
+2.  Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? 
+(Yes/No) If Yes, provide details of the same.
+
+ Yes. In order to avoid/manage conflicts of interest, Siemens obtains a mandatory declaration from the members of its 
+Board. The declaration ensures that the members of the Board are in compliance with the Siemens Business Conduct 
+Guidelines.
+
+https://new.siemens.com/global/en/company/sustainability/compliance.html
+https://new.siemens.com/global/en/company/sustainability/compliance.html
+
+
+Business Responsibility and Sustainability Report14 Siemens Limited
+
+Principle 2: Businesses should provide goods and services in a manner 
+that is sustainable and safe
+
+Essential Indicators
+1.  Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+
+FY 2022 FY 2021 Details of improvements in environmental and social impacts
+
+R&D - - R&D for improving environmental and social impacts of product is done by Siemens 
+AG considering the global and local requirements.Capex - -
+
+2.  a.  Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+
+  Yes, Siemens requires all its suppliers to make a firm commitment to Siemens Group Code of Conduct for Suppliers 
+and Third-Party Intermediaries. 
+
+  Details are available at https://new.siemens.com/global/en/Company/about/corporate-functions/supply-chain-
+management/sustainability-in-the-supply-chain/code-of-conduct.html
+
+ b.  If yes, what percentage of inputs were sourced sustainably?
+
+  Siemens Group Code of Conduct for Suppliers and Third-Party Intermediaries is a prerequisite for the suppliers to 
+do business with Siemens. Hence 100% sourcing is done sustainably.
+
+3.  Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of 
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+
+ As a process to reclaim product Electrical and Electronic Waste (EEE) and plastic packaging for recycling the Extended 
+Producer Responsibility (EPR) is applied. Producer Responsible Organizations (PROs) are nominated for the collection of 
+e-waste and plastic waste from customer and waste/s are recycled. Hazardous waste is sent either for incineration or 
+to authorised recyclers depending on their nature. For example, paint, oil/varnish-soaked cotton waste, oil-soaked saw 
+dust, oil filters are incinerated whereas batteries (pencil cell & lead acid batteries), non-ferrous scrap (insulated copper 
+wire/Copper with PVC sheathing), used oil, etc are recycled. Some waste such as grinding sludge, asbestos is labelled 
+appropriately and sent for landfill.
+
+4.  Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same.
+
+ The Extended Producer Responsibility (EPR) is applicable for electronic waste and plastic waste generated by the 
+Company. The waste is collected by the nominated PRO (Producer Responsible Organization) from the customer. The 
+quarterly returns and annual returns are filed to CPCB (Central Pollution Control Board). 
+
+ The waste collection is in line with the targets specified by CPCB in the authorisation granted to Siemens Ltd. Targets set 
+by CPCB for EPR are met and reported to CPCB.
+
+https://new.siemens.com/global/en/company/about/corporate-functions/supply-chain-management/sustainability-in-the-supply-chain/code-of-conduct.html
+https://new.siemens.com/global/en/company/about/corporate-functions/supply-chain-management/sustainability-in-the-supply-chain/code-of-conduct.html
+
+
+Business Responsibility and Sustainability Report 15Siemens Limited
+
+Leadership Indicators
+1.  Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+
+NIC Code Name of 
+Product /
+Service
+
+% of total 
+Turnover 
+
+contributed
+
+Boundary for which the 
+Life Cycle Perspective 
+
+/ Assessment was 
+conducted
+
+Whether conducted 
+by independent 
+external agency 
+
+(Yes/No)
+
+Results communicated 
+in public domain (Yes/
+No) If yes, provide the 
+
+web-link.
+      
+
+ The entity has not conducted Life Cycle Assessments (LCA). However, LCAs are conducted at Siemens AG level. Details 
+of the LCA are available in the Siemens Sustainability Report 2022. Please refer the link:
+
+ https://new.siemens.com/global/en/Company/sustainability/sustainability-figures.html#DEGREE
+
+2.  If there are any significant social or environmental concerns and/or risks arising from production or disposal 
+of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other 
+means, briefly describe the same along-with action taken to mitigate the same.
+
+Name of Product / Service Description of the risk / concern Action Taken
+
+Not applicable
+
+3.  Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+
+Indicate input material Recycled or re-used input material to total material
+FY 2022 FY 2021
+
+Plastic for packaging 15% (HDPE, LDPE) not available
+
+4.  Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format:
+
+ FY 2022 FY 2021
+Reused Recycled Safely 
+
+disposed
+Reused Recycled Safely 
+
+disposed
+Plastics (including packaging) 10 296 0 41 258 0
+E-waste 0 10 0 0 7 0
+Hazardous waste 0 87 131 0 206 88
+Other waste 0 2,867 65 0 1,032 2,234
+
+5.  Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+
+Indicate product category Reclaimed products and their packaging materials as % of total pro0ducts 
+sold in respective category
+
+Plastic for packaging 61.4%
+
+
+
+Business Responsibility and Sustainability Report16 Siemens Limited
+
+Principle 3: Businesses should respect and promote the well-being of all 
+employees, including those in their value chains
+
+Essential Indicators
+
+1. a.  Details of measures for the well-being of employees
+
+Category % of employees covered by
+
+Total (A) Health 
+insurance
+
+Accident 
+insurance
+
+Maternity 
+benefits
+
+Paternity 
+Benefits
+
+Day Care 
+facilities
+
+No.  
+(B)
+
+%  
+(B / A)
+
+No.  
+(C)
+
+%  
+(C / A)
+
+No. (D) %  
+(D / A)
+
+No.  
+(E)
+
+%  
+(E / A)
+
+No.  
+(F)
+
+%  
+(F / A)
+
+I.  Permanent Employees
+
+Male 5,998 5,998 100% 5,998 100% 5,998 100% 3,500 58%
+
+Female 801 801 100% 801 100% 801 100% 573 72%
+
+Total 6,799 6,799 100% 6,799 100% 801 100% 5,998 100% 4,073 60%
+
+II.  Other than Permanent Employees
+
+Male 1,520 1,519 99.9% 1,442 94.8% 1,145 75.3% 688 45.2%
+
+Female 78 78 100% 74 94.8% 78 100% 33 42.3%
+
+Total 1,598 1,597 99.9% 1,516 94.8% 78 4.7% 1,145 71.6% 721 45.1%
+
+ b.  Details of measures for the well-being of workers:
+
+Category % of workers covered by
+
+Total (A) Health 
+insurance
+
+Accident 
+insurance
+
+Maternity 
+benefits
+
+Paternity 
+Benefits
+
+Day Care 
+facilities
+
+No.  
+(B)
+
+%  
+(B / A)
+
+No.  
+(C)
+
+%  
+(C / A)
+
+No. 
+(D)
+
+%  
+(D / A)
+
+No.  
+(E)
+
+%  
+(E / A)
+
+No.  
+(F)
+
+%  
+(F / A)
+
+I.  Permanent Workers
+
+Male 1,259 1,259 100% 1,259 100% 1,259 100% 929 74%
+
+Female 16 16 100% 16 100% 16 100% 16 100%
+
+Total 1,275 1,275 100% 1,275 100% 16 100% 1,259 100% 945 74%
+
+II.  Other than Permanent Workers
+
+Male 0 NA NA NA NA NA
+
+Female 0 NA NA NA NA NA
+
+Total 0 NA NA NA NA NA
+
+
+
+Business Responsibility and Sustainability Report 17Siemens Limited
+
+2.  Details of retirement benefits, for Current FY and Previous Financial Year.
+
+Benefits FY 2022 FY 2021
+No. of employees 
+covered as a % of 
+total employees
+
+No. of workers 
+covered as 
+a % of total 
+
+workers
+
+Deducted and 
+deposited with 
+the authority 
+
+(Y/N/N.A.)
+
+No. of employees 
+covered as a % of 
+total employees
+
+No. of workers 
+covered as 
+a % of total 
+
+workers
+
+Deducted and 
+deposited with 
+the authority 
+
+(Y/N/N.A.)
+PF 100% 100% Yes 100% 100% Yes
+Gratuity 100% 100% Not Applicable 100% 100%  Not applicable
+ESI 0.74% 1.8% Yes 0.81% 0.47% Yes
+
+3.  Accessibility of workplaces
+ Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the 
+entity in this regard.
+
+ Yes. Siemens has the necessary infrastructure in place to make the workplaces accessible to differently abled employees 
+and visitors. Such infrastructural arrangements include without limitation, easily accessible sites and building entrances, 
+easily operated doors, push/lever type wash basin fixtures, sufficient illuminated wide corridors and requisite signages. 
+
+4.  Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+
+ Yes. the Siemens Business Conduct Guidelines document declares the equal opportunity policy under the principle of 
+‘Respect’. Siemens also undertakes the responsibility of ‘working conditions’ for its employees and workers. The principles 
+of equal opportunity and equal treatment are guaranteed without regard to any disability. The Siemens Business Conduct 
+Guidelines is available at https://new.siemens.com/in/en/Company/investor-relations/business-ethics.html 
+
+5.  Return to work and Retention rates of permanent employees and workers that took parental leave-
+
+ 
+ 
+
+Permanent Employees Permanent Workers
+Return to work rate Retention rate Return to work rate Retention rate
+
+Male 99.46% 82.31% 100% 100%
+
+Female 92.86% 100% 100% 100%
+
+Total 98.99% 82.93% 100% 100%
+
+6.  Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent 
+Workers
+
+The Company has a grievance redressal mechanism in line with the statutory framework under 
+Industrial Dispute Act, 1947 for grievance redressal mechanism for the permanent workers where 
+workers or their representatives can raise their grievances in areas like wages, discrimination, child 
+labour, human rights related issues etc. 
+As far as employees are concerned, they can raise their grievances with their respective People and 
+Organisation (P&O) Business Partner.
+Alternatively, „Tell Us“ helpline and the Ombudsperson are channels for reporting and seeking redressal 
+for violations of Siemens Business Conduct Guidelines including Human Rights for all stakeholders.
+
+Other than 
+Permanent 
+Workers
+Permanent 
+Employees
+Other than 
+Permanent 
+Employees
+
+https://new.siemens.com/in/en/company/investor-relations/business-ethics.html
+
+
+Business Responsibility and Sustainability Report18 Siemens Limited
+
+7.  Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+
+Category FY 2022 FY 2021
+
+Total 
+employees 
+/ workers in 
+respective 
+category  
+
+(A)
+
+No. of employees / 
+workers in respective 
+
+category, who are 
+part of association(s) 
+
+or Union  
+(B)
+
+%  
+(B / A)
+
+Total 
+employees 
+/ workers in 
+respective 
+category  
+
+(C)
+
+No. of employees / 
+workers in respective 
+
+category, who are 
+part of association(s) 
+
+or Union  
+(D)
+
+%  
+(D / C)
+
+Total 
+Permanent 
+Employees
+
+6,799 0 0% 7,049 0 0%
+
+Male 5,998 0 0% 6,249 0 0%
+
+Female 801 0 0% 800 0 0%
+
+Total 
+Permanent 
+Workers
+
+1,275 1,275 100% 1,264 1,264 100%
+
+Male 1,259 1,259 100% 1,249 1,249 100%
+
+Female 16 16 100% 15 15 100%
+
+8.  Details of training given to employees and workers:
+
+ FY 2022 FY 2021
+
+Total 
+(A)
+
+On Health and 
+safety measures
+
+On Skill 
+upgradation
+
+Total 
+(D)
+
+On Health and 
+safety measures
+
+On Skill 
+upgradation
+
+No.  
+(B)
+
+%  
+(B / A)
+
+No. I %  
+(C / A)
+
+No.  
+(E)
+
+%  
+(E / D)
+
+No.  
+(F)
+
+%  
+(F / D)
+
+Employees
+
+Male 5,998 3,593 60% 5,904 98% 6,249 2,018 32% 5,923 95%
+
+Female 801 379 47% 784 98% 800 206 26% 766 96%
+
+Total 6,799 3,972 58% 6,688 98% 7,049 2,224 32% 6,689 95%
+
+Workers
+
+Male 1,259 229 18% 490 39% 1,249 293 23% 252 20%
+
+Female 16 8 50% 10 63% 15 3 20% 10 67%
+
+Total 1,275 237 19% 500 39% 1,264 296 23% 262 21%
+
+ Skill Building Trainings are available to employees on the Siemens MyLearning World platform, which is accessible 24x7 
+and training can be self-paced. Other than these, SITRUST (Siemens Global Skill centre for Occupational Safety) conducts 
+virtual and in-person trainings related to Electrical Safety, Occupational Safety and Manufacturing Safety at Siemens 
+factories and project sites. The EHS Health Management team conducts awareness sessions and webinars on Physical 
+wellbeing, Mental wellbeing and COVID 19. 
+
+The businesses also conducts function / role specific training for employees on an ongoing basis.
+
+
+
+Business Responsibility and Sustainability Report 19Siemens Limited
+
+9. Details of performance and career development reviews of employees and worker
+
+Category FY 2022 FY 2021
+Total (A) No.(B) % (B / A) Total (C) No. (D) % (D / C)
+
+Employees
+Male 5,998 5,998 100% 6,249 6,249 100%
+Female 801 801 100% 800 800 100%
+Total 6,799 6,799 100% 7,049 7,049 100%
+
+Workers
+Male 1,259 1,259 100% 1,249 1,249 100%
+Female 16 16 100% 15 15 100%
+Total 1,275 1,275 100% 1,264 1,264 100%
+
+10.  Health and safety management system:
+ a.  Whether an occupational health and safety management system has been implemented by the entity? (Yes/ 
+
+No). If yes, the coverage such system?
+  Yes, Siemens has implemented an occupational health and safety management system certifiable to ISO 45001. 
+
+Maintaining, fostering, and improving the safety and well-being of employees is enshrined in the Company-wide 
+risk management and control process.
+
+  A major milestone is the launch of the Healthy and Safe @ Siemens program. The program’s framework is enlarged 
+to organisational resilience: It focuses not only on bodily health and integrity, but now also places more attention 
+on mental health and psychological safety. This is intended to strengthen the sense of well-being and the resilience 
+of the people and to support them in dealing with change.
+
+KE
+Y 
+
+RE
+SU
+
+LT
+S KEY RESULTS
+
+KEY RESULTS
+
+TOOL BOx
+
+TO
+OL
+
+ BO
+x TOOL BOx
+
+w
+
+Resilient HS M
+anagem
+
+ent
+
+Re
+al
+
+ity
+ C
+
+he
+
+ck
+
+Evaluation
+
+Principles
+
+Elements of Healthy and Safe @ Siemens
+
+We care for our own and each other’s well-being. 
+
+We speak up and take part in making the 
+workplace healthy and safe.
+
+We are inclusive and invite a diverse range of 
+views on health and safety.
+
+We are engaged in learning and sharing how we 
+can work better, safer, and healthier. 
+
+We prepare for and adapt well to changing 
+circumstances.
+
+
+
+Business Responsibility and Sustainability Report20 Siemens Limited
+
+ b.  What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+
+  As part of implementation of ISO standard, procedures for Hazard Identification and Risk Assessment (HIRA) have 
+been established and implemented within the business units. HIRA is conducted for routine and non-routine 
+activities. Work related hazards are identified by people involved in the operations, EHS officers and contractor 
+representatives (wherever applicable). The identified hazards are recorded and control measures are discussed and 
+defined as per hierarchy of controls. 
+
+  The CAPA (Corrective And Preventive Action) tracker is implemented to proactively identify safety risks in high 
+risk activities and implement engineering controls to mitigate the risks. A Cross Functional Team reviews high risk 
+activity and implements engineering controls, as feasible to mitigate risks. Focused trainings are conducted on 
+“Behavioral Based Safety” (BBS) to promote awareness amongst third party and contractor employees to adopt safe 
+work practices. The outcome from the CAPA tracker are reviewed every month with Business Management.
+
+ c.  Whether you have processes for workers to report the work-related hazards and to remove themselves from 
+such risks. (Y/N)
+
+  Yes, Siemens has established a robust system of reporting Unsafe Acts and Unsafe Conditions (UAUC), near misses 
+and incident reporting. Workers are encouraged to report UAUC, near miss and incidents and to immediately 
+remove themselves from such risks. UAUC are recorded in an EHS dashboard from project sites, factories and office 
+locations. These are analysed as per Safety Essentials categories. Corrective and preventive actions are initiated to 
+mitigate safety risks.
+
+ d.  Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes/ No)
+
+  Yes, Employees and workers of Siemens have access to non-occupational medical and healthcare services. 
+  PHC (Preventive Health Check), COVID 19 vaccination and rehabilitation, Wellness programs are offered as part 
+
+of non-occupational medical and healthcare services. Psychosocial Wellbeing programs are driven through an 
+Employee Wellbeing Assistance Partner (EWAP).
+
+11.  Details of safety related incidents, in the following format:
+
+Safety Incident/Number Category FY 2022 FY 2021
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours 
+worked)
+
+Employees 0.05 0
+Workers 0.22 0
+
+Total recordable work-related injuries Employees 6 8
+Workers 16 14
+
+No. of fatalities Employees 1 0
+Workers 0 0
+
+High consequence work-related injury or ill-health (excluding fatalities) Employees 0 0
+Workers 0 0
+
+12.  Describe the measures taken by the entity to ensure a safe and healthy work place.
+ The EHS management system has enabled businesses to mitigate EHS related risks and ensure providing safe and healthy 
+
+workplace. Siemens has implemented “Zero Harm Culture” campaign to proactively ensure safe and healthy workplace.  
+Various initiatives were taken under the campaign of Zero Harm Culture (ZHC) to mitigate safety risks and ensure well-
+being of employees. Siemens in India launched a campaign “Hamari Suraksha, Hamara Sankalp” in FY 2020-21 to ensure 
+safe workplace and well-being of employees. A three pronged program called CAPA (Corrective And Preventive Action) 
+tracker is implemented to proactively identify safety risks in high risk activities and implement engineering controls 
+to mitigate the risks. It comprises a Cross Functional Team that reviews high risk activity and implement engineering 
+controls, as feasible to mitigate risks. Focused trainings are conducted on “Behavioral Based Safety” (BBS) to promote 
+awareness amongst third party and contractor employees to adopt safe work practices.
+
+ Structured programs have been established and implemented to fight COVID 19-19 pandemic and ensure business 
+continuity. Restoration process was defined by COVID 19 task force, post lock-down in structured manner to ensure safe 
+and healthy workplace and at the same time enabling business continuity.
+
+
+
+Business Responsibility and Sustainability Report 21Siemens Limited
+
+ (i)  Factories and Project sites were opened with minimum required manpower adhering to all COVID 19 protocols. 
+ (ii)  Stakeholders from business and supporting functions worked together and prepared factory, projects and office 
+
+locations to strictly follow COVID 19 protocols. Approval to restart business was given by Senior management after 
+reviewing adherence to defined COVID 19 protocols. 
+
+ (iii)  COVID 19 testing (RT PCR) testing was conducted at regular intervals to monitor the positivity rate. 
+ (iv)  COVID 19 vaccination program was launched to motivate employees to get themselves fully vaccinated. 
+ (v)  Work From Home (WFH) was encouraged for office staff and >90% complete vaccination was one of the criteria to 
+
+start the business operations. 
+
+ (vi)  These measures ensured >97% complete vaccination by Sept 21 and enabled businesses continuity with increased 
+strength.
+
+13.  Number of Complaints on the following made by employees and workers:
+
+FY 2022 FY 2021
+Filed during 
+
+the year
+Pending 
+
+resolution at 
+the end of year
+
+Remarks Filed 
+during the 
+
+year
+
+Pending 
+resolution at 
+
+the end of year
+
+Remarks
+
+Working Conditions 0 0 0 0
+
+Health & Safety 0 0 0 0
+
+14.  Assessments for the year:
+
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+
+Working Conditions
+100% of plants assessed
+
+Health & Safety
+
+15.  Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+
+ The following corrective actions have been initiated:
+ 1.  “Hamari Suraksha, Hamara Sankalp”: A three-pronged program called CAPA (Corrective And Preventive Action) 
+
+tracker to proactively identify safety risks in high risk activities and implement engineering controls to mitigate the 
+risks. 
+
+ 2. Focused trainings are conducted on “Behavioral Based Safety” (BBS) to promote awareness amongst third party 
+and contractor employees to adopt safe work practices. 
+
+ 3. EHS experts from external company / agency conduct independent EHS assessment of Siemens factories 
+
+Leadership Indicators
+1.  Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+
+(Y/N) (B) Workers (Y/N).
+ Yes. Siemens Limited has Life Insurance scheme for all its permanent employees and workers. 
+
+ In addition, financial assistance through contribution is available under the “Siemens Sahayta Scheme”. This scheme is 
+applicable to permanent employees and workers. Under this scheme, each employee contributes on the demise of a 
+fellow employee. The Company matches the joint contribution amount. 
+
+ Additionally, from March 2020 a COVID 19 Care package for families of permanent employees and workers, who lost 
+their lives due to COVID 19. This included benefits like lumpsum payment of 25 lakhs, 2 years of medical insurance of 
+employee’s spouse and children and monetary support up to Rupees 1 lakh per annum per child, for balance years of 
+education until Standard 12. 
+
+
+
+Business Responsibility and Sustainability Report22 Siemens Limited
+
+2.  Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners.
+
+ Upstream Value Chain Partners: Under the External Sustainability Audit (ESA) conducted at suppliers’ site/ factory 
+the auditor checks whether the Provident Fund (PF) is deducted & is deposited under employee name in Employees’ 
+Provident Fund Organisation (EPFO) portal and whether the Employees’ State Insurance (ESIC) scheme is being followed 
+or not. 
+
+ Downstream Value Chain partners: Key downstream counterparts are assessed on multiple ESG parameters including 
+labour compliance through an ESG due diligence tool before entering into business contracts with them. 
+
+3.  Provide the number of employees / workers having suffered high consequence work- related injury / ill-health / 
+fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+
+ Total no. of affected employees/ 
+workers 
+
+No. of employees/ workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment 
+
+FY 2022 FY 2021 FY 2022 FY 2021
+Employees 1 0 0 NA
+Workers 0 0 NA NA
+
+4.  Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/ No)
+
+ Yes, in-house Transition Assistance programs like ‘Siemens Nivrtti’ are available to Employees aged 55 and above. 
+These include sessions on health, financial wellness, social security, holistic wellness, etc. Employees are also offered a 
+personalised retirement planning service to help manage finances at the end of their careers.
+
+5.  Details on assessment of value chain partners: 
+ New suppliers are required to undertake a Corporate Responsibility Self-Assessment (CRSA) as part of a binding 
+
+qualification process, while existing suppliers are assessed every three years. The CRSA outlines what Sustainability 
+means for Siemens. Based on an online questionnaire, Siemens decides if the partner fulfils the Siemens sustainability 
+requirements. If not, the prospective supplier is required to set up development measures to be considered ‘Ready for 
+Business’ (R4B).
+
+ Apart from CRSA, External Sustainability Audits (ESA) intend to verify adherence to the requirements of the ‘Code 
+of Conduct for Siemens Suppliers (based on UN global compact principles, ILO conventions, local law) and assess the 
+sustainability performance of the supply chain. Siemens has appointed internationally recognized auditing companies 
+which conduct on-site audits based on the universally valid principles of the Code of Conduct for Siemens Suppliers. The 
+outcome is an in-depth assessment and report that enables Siemens and its suppliers to identify and manage potential 
+sustainability risks.
+
+ ESG risk assessment of downstream activities: Under the ESG Risk Framework adopted by Siemens in October 2020, 
+the Company undertakes ESG risk assessment of opportunities that fall above a threshold as defined by individual 
+businesses. Opportunities that fall in the criteria are assessed using the ESG Due Diligence tool. The opportunities’ risk 
+assessment includes downstream counterparts assessment. The tool provides for mitigation measures that the Company 
+is required to undertake before entering into a formal contract with the counterpart.
+
+
+
+Business Responsibility and Sustainability Report 23Siemens Limited
+
+ % of value chain partners (by value of business done with such partners) 
+that were assessed 
+
+Health and Safety Practices Upstream suppliers
+CRSA 83.5%
+ESA 24% 
+Downstream counterparts
+11% order assessed
+
+Working conditions
+
+ Total 231 ESA audits were conducted over a period of 3 years. In the reporting year 24% of suppliers having a PVO 
+value beyond a threshold (EUR 50,000) underwent the ESA. 
+
+6.  Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners
+
+ Improvement measures agreed-upon with suppliers relate either to actual deviations from the Siemens Group Code 
+of Conduct for Suppliers or to structural improvements in management systems and the lack of specific processes and 
+guidelines implemented by the supplier.
+
+ Agreed upon improvement measures:
+ Health & Safety 
+	 •	 Sufficient	number	of	first	aid	boxes	in	the	factory
+	 •	 Installation	of	fire	alarm	in	all	areas
+	 •	 Providing	appropriate	PPE	to	all	the	employees	at	free	of	cost	&	ensure	usage	of	the	same	while	working
+ Working Conditions 
+	 •	 Age	verification	process	for	recruiting	new	workers
+	 •	 Employees	being	paid	in	line	with	legal	minimum	wages
+	 •	 Applicable	benefits	like	PF,	ESI,	Leave	&	Bonus	are	extended	to	eligible	employees
+ For monitoring purposes, audits can be repeated or follow-up audits can be performed by external audit service providers. 
+
+It is also possible for the responsible purchasing departments at Siemens to agree on a series of improvement measures 
+with the supplier. During this process, the Company remains committed to partnerships with suppliers and helps them 
+to improve. However, if the problems continues or a supplier does not show a willingness to take necessary remedial 
+action, the Company may choose to phase out that supplier.
+
+
+
+Business Responsibility and Sustainability Report24 Siemens Limited
+
+Principle 4: Businesses should respect the interests of and be responsive 
+to all its stakeholders
+
+Essential Indicators
+1.  Describe the processes for identifying key stakeholder groups of the entity.
+ Stakeholder groups are identified based on the nature of their engagement with the entity. 
+ Any individual or group of individuals or institution that adds value to the business chain of the Company is identified as 
+
+a core stakeholder. This inter alia includes employees, shareholders and investors, customers, channel partners and key 
+partners, regulators, lenders, research analysts, communities and non-governmental organizations, suppliers amongst 
+others.
+
+2.  List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+
+Stakeholder 
+Group
+
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+
+Group (Yes/No)
+
+Channels of communication 
+(Email, SMS, Newspaper, 
+
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+
+Board, Website), Other
+
+Frequency of engagement 
+(Annually/ Half yearly/ 
+
+Quarterly / others – please 
+specify)
+
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+
+Employees No, Siemens 
+is an Equal 
+Opportunity 
+Employer 
+encouraging 
+diversity in the 
+workplace
+
+1)  Email - Siemens India 
+Monthly Update and 
+Siemens employee 
+newsletter (Siemens 
+Sansar)- sent to all 
+employees
+
+2)  Notice Boards in factories
+3)  Company Intranet and 
+
+Website
+4)  Regular updates are 
+
+put up on our internal 
+Siemens social media 
+group
+
+5)  Townhalls and virtual 
+meetings
+
+1) Employee satisfaction 
+survey- Taken half yearly 
+through survey tool and 
+for workers, it is a paper 
+survey
+
+2)  Emails are sent to 
+employees every month 
+basis on important 
+Company communication
+
+3)  Business specific 
+monthly/ quarterly 
+townhalls 
+
+4)  Annual meeting 
+
+1) Information about 
+Company‘s business 
+growth plans and 
+business performance 
+
+2)  Top-down 
+communication about 
+important changes, 
+policies, wellbeing 
+initiatives
+
+3) Platform for gathering 
+informal feedback
+
+4) Workplace diversity is 
+encouraged through 
+various diversity, equity 
+and inclusion initiatives.
+
+Shareholders No Email, Newspaper, Notice 
+board, Website
+
+Quarterly and need based Shareholder related 
+communication
+
+Investors No Email, conference calls, virtual 
+meetings
+
+Half-yearly plus as and when 
+requested by investors
+
+To understand the Company’s 
+results, major events and 
+future direction
+
+Analyst No Email, conference calls, virtual 
+meetings
+
+Half-yearly and as requested 
+by analysts
+
+To understand the Company‘s 
+results, major events and 
+future direction
+
+
+
+Business Responsibility and Sustainability Report 25Siemens Limited
+
+Stakeholder 
+Group
+
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+
+Group (Yes/No)
+
+Channels of communication 
+(Email, SMS, Newspaper, 
+
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+
+Board, Website), Other
+
+Frequency of engagement 
+(Annually/ Half yearly/ 
+
+Quarterly / others – please 
+specify)
+
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+
+Customers / 
+Service partners
+
+No Email, Website, Webinars, 
+Newsletter, Siemens channel 
+partners, Fairs and Tradeshows 
+
+As and when required Information on Business 
+offerings
+
+NGOs & 
+Communities
+
+Yes Meetings, Quarterly and 
+Annual Reports
+
+Quarterly/ periodic review 
+meetings based on the 
+characteristics of each CSR 
+projects
+
+To develop the CSR project 
+along with the community, 
+according to the need of the 
+community
+
+Suppliers No, Siemens 
+encourages 
+suppliers from 
+all sections 
+including MSMEs. 
+However, the 
+final engagement 
+depends upon 
+the quality and 
+timely delivery of 
+services
+
+Email, conference calls, virtual 
+meetings
+
+Need basis for any centrally 
+driven topic
+
+To understand the new market 
+trends and educating the 
+suppliers
+
+Leadership Indicators
+1.  Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+
+social topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+2.  Whether stakeholder consultation is used to support the identification and management of environmental, and 
+
+social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these 
+topics were incorporated into policies and activities of the entity.
+
+ The stakeholders as mentioned in essential indicator 2 in this principle are systematically engaged by various functions of 
+the Company. The Board of Directors / Committee thereof takes feedback of the status of various functions and provide 
+directions for improving processes / practices wherever applicable. The Company also regularly consults its internal 
+and external stakeholders to identify and manage environmental and social topics. Based on both an outside-in and an 
+inside-out perspective (double materiality), the Company has prioritised 15 sustainability topics for implementation– at 
+the Siemens AG level, within business units, and in the countries where it operates. The Board of Directors are regularly 
+apprised about the materiality as well as the DEGREE initiatives intended to address the material topics as identified 
+during the materiality assessment. 
+
+ Please refer to disclosure 24 in Section A for an overview of the top material issues for Siemens.
+3.  Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+
+marginalized stakeholder groups.
+ Siemens is driven by one idea: to improve the lives of people through its technology. Siemens is committed to improve 
+
+quality of life and create lasting value for society and thereby contribute to a liveable sustainable future. 
+ Based on the UN Sustainable Development Goals and the Company’s core competencies, Siemens in India has defined 3 
+
+strategic focus areas for its Corporate Social Responsibility: Education, Social and Environment. Broadly, these initiatives 
+include creating sustainable communities through use of simple and inclusive technologies, developing innovative 
+solutions that help sustain the environment and improve quality of life. Furthermore, fostering India’s youth by making 
+them industry-ready while also making technology and knowledge accessible to a wide number of people.
+
+ Siemens has been transforming communities across India through Corporate Citizenship initiatives. Communities now 
+have access to power, clean drinking water, healthcare, quality education and livelihood. 
+
+ For more details, please refer Annual CSR report under the Annual Report.
+
+
+
+Business Responsibility and Sustainability Report26 Siemens Limited
+
+Principle 5: Businesses should respect and promote human rights
+
+Essential Indicators
+1.  Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+
+the following format:
+
+Category FY 2022 FY 2021
+Total  
+(A)
+
+No. of employees 
+/ workers covered 
+
+(B)
+
+%  
+(B / A)
+
+Total  
+(C )
+
+No. of employees 
+/ workers covered 
+
+(D)
+
+%  
+(D / C)
+
+Employees
+Permanent 6,799 837 12% 7,049 1,307 18%
+Other than permanent 1,598 114 7% 3,293 72 2%
+Total 8,397 951 11% 10,342 1,379 13%
+
+Workers
+Permanent 1,275 1,275 100% 1,264 7 0.5%
+Other than permanent 0 0 0 0 0 0
+Total 1,275 1,275 100% 1,264 7 0.5%
+
+2.  Details of minimum wages paid to employees and workers, in the following format:
+
+FY 2022 FY 2021
+Total 
+(A)
+
+Equal to 
+Minimum Wage
+
+More than 
+Minimum Wage
+
+Total 
+(D)
+
+Equal to 
+Minimum Wage
+
+More than 
+Minimum Wage
+
+No.  
+(B)
+
+%  
+(B / A)
+
+No.  
+(C)
+
+%  
+(C / A)
+
+No.  
+(E)
+
+%  
+(E / D)
+
+No.  
+(F)
+
+%  
+(F / D)
+
+Employees
+Permanent
+Male 5,998 0 0% 5,998 100% 6,249 0 0% 6,249 100%
+Female 801 0 0% 801 100% 800 0 0% 800 100%
+
+Other than permanent
+Male 1,520 0 0% 1,520 100% 3,193 0 0% 3,193 100%
+
+Female 78 0 0% 78 100% 100 0 0% 100 100%
+Workers
+
+Permanent
+
+Male 1259 0 0% 1,259 100% 1,249 0 0% 1,249 100%
+
+Female 16 0 0% 16 100% 15 0 0% 15 100%
+
+Other than permanent
+Male 0 0 0 0% 0 0%
+
+Female 0 0 0 0% 0 0%
+
+
+
+Business Responsibility and Sustainability Report 27Siemens Limited
+
+3.  Details of remuneration/salary/wages, in the following format:
+
+ 
+ 
+
+Male Female
+
+Number
+
+Median remuneration/ 
+salary/ wages of 
+
+respective category  
+(` in million) Number
+
+Median remuneration/ 
+salary/ wages of 
+
+respective category  
+(` in million)
+
+Board of Directors 8 3.91 1 2.58
+
+Key Managerial Personnel 3 41 0 -
+
+Employees other than BoD and KMP 5,995 1.50 801 1.22
+
+Workers 1,259 0.44 16 0.29
+
+4.  Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No)
+
+ Yes, the Sustainability Manager is responsible for addressing human rights impacts or issues caused or contributed to by 
+the business.
+
+ Siemens applies a value chain approach to address negative environmental and social impact created out of the 
+business operations. For each element in the value chain there are processes and people responsible to evaluate any 
+environmental or social impact caused or contributed to by the business and mitigate them effectively. Being committed 
+to UN Guiding Principles on Business and Human Rights, the Company continuously evaluates its business operations for 
+any negative impacts ‘caused by’ the Company or ‘contributed to’ by the action of a third party engaged by the Company. 
+The Sustainability Manager centrally maintains oversight for such impacts occurring across the value chain and ensures 
+that all the processes are in place and the impacts if any are systematically mitigated.
+
+5.  Describe the internal mechanisms in place to redress grievances related to human rights issue.
+ The Company has a grievance redressal mechanism in line with the statutory framework under Industrial Dispute Act, 
+
+1947 for grievance redressal mechanism for the permanent workers where workers or their representatives can raise 
+their grievances in areas like wages, discrimination, child labour, human rights related issues etc. 
+
+ Alternatively, “Tell Us” helpline and the Ombudsperson are channels for reporting and seeking redressal for violations of 
+Siemens Business Conduct Guidelines including Human Rights for all stakeholders.
+
+6.  Number of Complaints on the following made by employees and workers:
+
+ FY 2022 FY 2021
+Pending 
+
+complaints at 
+the beginning 
+
+of the year
+
+Filed 
+during the 
+
+year
+
+Pending 
+resolution 
+at the end 
+
+of year
+
+Pending 
+complaints at 
+the beginning 
+
+of the year
+
+Filed 
+during the 
+
+year
+
+Pending 
+resolution 
+at the end 
+of a year
+
+Sexual Harassment 0 3 2 0 0 0
+Discrimination at 
+workplace
+
+1 0 0 0 1 1
+
+Child Labour 0 0 0 0 0 0
+Forced Labour/ 
+Involuntary Labour
+
+0 0 0 0 0 0
+
+Wages 1 17 2 1 0 1
+Other human rights 
+related issues
+
+0 0 0 0 0 0
+
+
+
+Business Responsibility and Sustainability Report28 Siemens Limited
+
+7.  Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+ For cases related to Sexual Harassment, there is an Internal Committee for redressal of the same. The Committee takes 
+
+concrete actions to ensure that every Complainant is protected. It maintains confidentiality of all complaints. During the 
+pendency of the Inquiry, the Complainant is granted leave or it is ensured that the Complainant and Respondent do not 
+work together or the Complainant is reassigned or relocated if both Complainant and Respondent are in same team or 
+same location. 
+
+8.  Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+ Yes, Siemens suppliers commit to uphold the Siemens Group Code of Conduct for Suppliers and Third Party Intermediaries 
+
+and Business Partners, which affirms the fundamental human rights of the suppliers’ employees.
+ For customers Siemens rolled out a ESG Risk Framework to evaluate and assess Environmental, Social and Human 
+
+Rights risks associated with the Business counterpart. Based on this risk approach there are specific clauses under 
+‘Representation and Warranties’ to ensure Human Rights risks are addressed.
+
+9.  Assessments for the year:
+
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+
+Child labour 100%
+Forced/involuntary labour 100%
+Sexual harassment 100%
+Discrimination at workplace 100%
+Wages 100%
+Others – please specify Not Applicable
+
+10.  Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above.
+
+ Not applicable.
+
+Leadership Indicators
+1.  Details of a business process being modified / introduced as a result of addressing human rights grievances/
+
+complaints.
+ The Company has a robust human rights due diligence process through which it continuously assesses and improves its 
+
+ability to respond to any negative human rights impacts.
+
+2.  Details of the scope and coverage of any Human rights due-diligence conducted, including in the value chain.
+ Siemens is committed to safeguarding and respecting human rights in every stage of the value chain. The goal is to 
+
+identify any human rights violations occurring anywhere in the value chain as early as possible and to mitigate identified 
+risks responsibly.
+
+ Human rights in the supply chain
+ Maintaining sustainable supply chains is one of the Company’s guiding principles. Siemens suppliers commit to uphold 
+
+the Siemens Group Code of Conduct for Suppliers and Third Party Intermediaries and Business Partners, which affirms 
+the fundamental human rights of the suppliers’ employees.
+
+ Human rights in the workplace
+ The Business Conduct Guidelines are an integral element of all employment contracts. Every employee is responsible for 
+
+respecting human rights. Siemens does not tolerate discrimination, sexual harassment, or any other form of personal 
+attack on individuals or groups. In addition, the principles of equal opportunity and equal treatment apply without 
+restriction.
+
+ Human rights in the case of business decisions 
+ Siemens strives to systematically operationalize any human rights risks within its value chain by means of a Company-
+
+wide due diligence approach. This also includes the business conducted by the customers of the entity. The Company 
+
+
+
+Business Responsibility and Sustainability Report 29Siemens Limited
+
+has rolled out an internal ESG Risk Due Diligence Tool to help identify and assess possible environmental and social risks 
+and the associated human rights and reputational risks, earlier and on an even more comprehensive basis in the case of 
+business decisions made by customers. 
+
+ More details on the Siemens Human Rights framework is available on https://new.siemens.com/global/en/Company/
+sustainability/humanrights.html
+
+3.  Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+
+ Yes, the Company has the necessary infrastructure in place to make the workplaces accessible to differently abled 
+employees and visitors. Such infrastructural arrangements include without limitation, easily accessible sites & building 
+entrances, easily operated doors, push/lever type wash basin fixtures, sufficient illuminated wide corridors and requisite 
+signages.
+
+4.  Details on assessment of value chain partners:
+
+ % of value chain partners (by value of business done with such 
+partners) that were assessed
+
+Sexual Harassment
+Upstream suppliers
+CRSA 83.5%
+ESA 24% 
+Downstream counterparts
+11% order assessed
+
+Discrimination at workplace
+
+Child Labour
+
+Forced Labour/Involuntary Labour
+Wages
+
+Others
+ Downstream Value Chain partners: Key downstream counterparts are assessed on multiple ESG parameters in an 
+
+internal ESG due diligence tool before entering into business contracts with them. Following a risk-based approach, 
+Issues identified during the due diligence process are discussed with the counterparts and are effectively mitigated as 
+per the recommendation of the ESG Due Diligence tool. 
+
+5.  Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+
+ Whenever deviations from the principles of the Code of Conduct for Siemens Suppliers, and therefore also violations of 
+the human rights principles defined in the Code are identified, the procurement team works with the supplier to clarify 
+how lasting corrective action can be taken within a reasonable time frame. If all efforts to implement remedial actions 
+remain unsuccessful, Siemens reserves the right to terminate the business relationship and phase out the supplier.
+
+ Agreed upon improvement measures:
+	 •	 Age	verification	process	for	recruiting	new	workers
+	 •	 Employees	being	paid	in	line	with	legal	minimum	wages
+	 •	 Applicable	benefits	like	PF,	ESI,	Leave	&	Bonus	are	extended	to	eligible	employees
+ For monitoring purposes, audits can be repeated or follow-up audits can be performed by external audit service providers. 
+
+It is also possible for the responsible purchasing departments at Siemens to agree on a series of improvement measures 
+with the supplier. During this process, the Company remains committed to partnerships with suppliers and helps them to 
+improve. However, if the problems continues or a supplier does not show a willingness to take necessary remedial action, 
+the Company may choose to phase out that supplier. 
+
+https://new.siemens.com/global/en/company/sustainability/humanrights.html
+https://new.siemens.com/global/en/company/sustainability/humanrights.html
+
+
+Business Responsibility and Sustainability Report30 Siemens Limited
+
+Principle 6: Businesses should respect and make efforts to protect and 
+restore the environment
+
+Essential Indicators
+1.  Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+
+Parameter FY 2022 FY 2021
+
+Total electricity consumption (A) in Gigajoules 146,093 129,996 
+
+Total fuel consumption (B) in Gigajoules 6,348 6,129
+
+Energy consumption through other sources (C) in Gigajoules 13,480 13,282
+
+Total energy consumption (A+B+C) in Gigajoules 165,921 149,407
+
+Energy intensity per rupee of turnover  
+(Total energy consumption/turnover in rupees)
+
+1,105 J per rupee of 
+turnover
+
+1,140 J per rupee of 
+turnover
+
+Energy intensity (optional) – the relevant metric may be 
+selected by the entity
+
+20.55 GJ per Full Time 
+Employee (FTE)*
+
+17.97 GJ per Full Time 
+Employee (FTE)*
+
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+
+ No, the Company did not carry out assessment by external agency.
+ *FTEs are the count of permanent employees and workers at the end of the reporting year 
+
+2.  Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the 
+PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if 
+any.
+
+ No, the Company does not have any site identified as DCs under PAT scheme.
+3.  Provide details of the following disclosures related to water, in the following format:
+
+Parameter FY 2022 FY 2021
+Water withdrawal by source (in kilolitres)
+(i)  Surface water 0 0
+(ii)  Groundwater 21,834 30,902
+(iii)  Third party water 252,641 192,088
+(iv)  Seawater / desalinated water 0 0
+(v)  Others 0 1,588
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v) 274,475 224,578
+Total volume of water consumption (in kilolitres) 274,475 224,578
+
+
+
+Business Responsibility and Sustainability Report 31Siemens Limited
+
+Parameter FY 2022 FY 2021
+
+Water intensity per rupee of turnover (Water consumed / turnover) 0.0018 L per rupee of  
+turnover
+
+0.0017 L per rupee of  
+turnover
+
+Water intensity (optional) - the relevant metric may be selected by 
+the entity
+
+33.99 KL per FTE 27.01 KL per FTE
+
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+
+ No, the Company did not carry out independent assessment by an external agency.
+
+4.  Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+
+ Yes, water being an important environmental resource, necessary initiatives are taken across all the manufacturing units 
+to conserve and recycle water, thus ensuring the ZLD (Zero liquid Discharge). At all manufacturing locations suitable and 
+efficient wastewater treatment like sewage treatment plants(STP) are installed with primary, secondary, and tertiary 
+treatment which include nano filtration / RO / UV treatment facilities to treat wastewater to usable quality water. The 
+treated water is further used for flushing and gardening activities within the premises. This in-turn has resulted in 
+reduced use of freshwater.
+
+5.  Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+
+Parameter Please specify unit FY 2022 FY 2021
+NOx Kg/day (Average of all locations) 1.02 1.14
+SOx Kg/day (Average of all locations) 1.17 0.54
+Particulate matter (PM) Kg/day (Average of all locations) 4 0.7
+Persistent organic pollutants (POP)  -  -
+Volatile organic compounds (VOC) Tons - 0.442
+Hazardous air pollutants (HAP)  -  -
+Others – please specify   
+
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+
+ No, the Company did not carry out independent assessment by an external agency.
+
+6.  Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+
+Parameter Unit FY 2022 FY 2021
+Total Scope 1 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+
+Metric tonnes of 
+CO2 equivalent
+
+11,794 9,532
+
+Total Scope 2 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+
+Metric tonnes of 
+CO2 equivalent
+
+30,565 25,932
+
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+
+ 0.00028 kg of CO2 
+equivalents per 
+
+rupee of turnover
+
+0.00027 kg of CO2 
+equivalents per 
+
+rupee of turnover
+Total Scope 1 and Scope 2 emission intensity 
+(optional) – the relevant metric may be selected by 
+the entity
+
+ 5.24 MT CO2 
+equivalents / per FTE
+
+4.27 MT CO2 
+equivalents per FTE
+
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+
+ No, the Company did not carry out independent assessment by an external agency.
+
+
+
+Business Responsibility and Sustainability Report32 Siemens Limited
+
+7.  Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+ Siemens is committed to sustainability through the DEGREE framework. 
+ One of the KPI in DEGREE is to achieve net-zero in own operations by 2030 in line with SBTI 
+
+(Science Based Target Initiative) pathway. The details of the DEGREE Framework is available at  
+https://new.siemens.com/global/en/Company/sustainability/sustainability-figures.html#!/siemens/en/our-degree-framework/
+
+ To achieve net-zero in own operations, Siemens has installed solar panels on the factory roofs at some locations. The 
+Company has entered into a Power Purchase Agreement for procuring renewable energy for certain factories. Apart from 
+solar power, the Company is driving multiple Energy Efficiency programs to reduce the CO2 emissions. 
+
+ Details of rooftop solar installation at one location is available at https://www.siemens.com/global/en/home/Company/
+about/businesses/real-estate/green-greener-kalwa.html
+
+8.  Provide details related to waste management by the entity, in the following format:
+
+Parameter FY 2022 FY 2021
+Total Waste generated (in metric tonnes)
+Plastic waste (A) 276 222
+E-waste (B) 47 41
+Bio-medical waste (C) 0 5
+Construction and demolition waste (D) 21.2 13
+Battery waste (E) 7.1 0.2
+Radioactive waste (F) 0 0
+Other Hazardous waste. Please specify, if any. (G) 2554 237
+Other Non-hazardous waste generated (H). Please specify, if any.  
+(Break-up by composition i.e. by materials relevant to the sector)
+
+2,957 3,250
+
+Total (A+B + C + D + E + F + G + H) 3,563 3,768
+For each category of waste generated, total waste recovered through recycling, 
+re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i)  Recycled 3,068 1,239
+(ii)  Re-used  
+(iii)  Other recovery operations 63  
+Total 3,131 1,239
+For each category of waste generated, total waste disposed by nature of 
+disposal method (in metric tonnes)
+Category of waste
+(i)  Incineration 136 2,275
+(ii)  Landfilling 296 61
+(iii)  Other disposal operations 0 193
+Total 432 2,529
+
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+
+ No, the Company did not carry out independent assessment by an external agency.
+
+9.  Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+
+https://www.siemens.com/global/en/home/company/about/businesses/real-estate/green-greener-kalwa.html
+https://www.siemens.com/global/en/home/company/about/businesses/real-estate/green-greener-kalwa.html
+
+
+Business Responsibility and Sustainability Report 33Siemens Limited
+
+by your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes.
+
+ Siemens has initiated an Eco Efficiency @ Siemens program since FY 2020-21. The Eco Efficiency program marks a 
+transition from environmental management to a holistic lifecycle perspective. In terms of waste management, the 
+program strives towards 100% zero landfill rate by 2030, a continuous increase of the waste fraction used for material 
+recycling, and increased waste reduction by own use of end-of-life production equipment. 
+
+ As a process to reclaim electrical and electronic (EEE) waste and plastic packaging for recycling the Extended Producer 
+Responsibility (EPR) is implemented. Producer Responsible Organizations (PROs) are nominated centrally for the 
+collection of e-waste and plastic waste from customers. The collected waste/s are recycled. 
+
+10.  If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format:
+
+ Currently no Siemens office or factory locations are part of ecologically sensitive areas.
+ For projects at customer sites, the Company assesses the location related ESG risks via an internal ESG due diligence tool. 
+
+The tool helps in risk identification, risk assessment and risk management (mitigation) for customer related business 
+activities. Mitigation measures are suggested basis the location and country data entered in ESG tool where Siemens is 
+to perform operations for customer.
+
+S. 
+No.
+
+Location of 
+operations/ 
+
+offices
+
+Type of operations Whether the conditions of environmental approval /clearance 
+are being complied with? (Y/N) If no, the reasons thereof and 
+
+corrective action taken, if any.
+  -  -  -
+
+11.  Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year:
+
+Name and 
+brief details of 
+
+project
+
+EIA Notification 
+No.
+
+Date Whether conducted by 
+independent external 
+
+agency (Yes / No)
+
+Results 
+communicated 
+
+in public domain 
+(Yes / No)
+
+Relevant Web 
+link
+
+- - - - - -
+
+ No projects were implemented in FY 2021-22 which required EIA to be undertaken.
+
+12.  Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection 
+act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+
+S. 
+No.
+
+Specify the law / regulation 
+/ guidelines which was not 
+
+complied with
+
+Provide details 
+of the non- 
+compliance
+
+Any fines / penalties / action taken 
+by regulatory agencies such as 
+
+pollution control boards or by courts
+
+Corrective 
+action taken, 
+
+if any
+
+- - - - -
+
+ Siemens complies to all the applicable environmental law/ regulations/ guidelines in India. 
+
+
+
+Business Responsibility and Sustainability Report34 Siemens Limited
+
+Leadership Indicators
+1.  Provide break-up of the total energy consumed in gigajoules (GJ) from renewable and non-renewable sources, in 
+
+the following format:
+
+Parameter FY 2022 FY 2021
+
+From renewable sources
+Total electricity consumption (A) 18,346 13,282 
+Total fuel consumption (B) 0 0
+Energy consumption through other sources (C) - -
+Total energy consumed from renewable sources (A+B+C) 18,346 13,282
+From non-renewable sources
+Total electricity consumption (D) 141,227 129,996
+Total fuel consumption (E) 6,348 6,129
+Energy consumption through other sources (F) 0 0
+Total energy consumed from non-renewable sources (D+E+F) 147,575 136,125
+
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+
+ No, the Company did not carry out independent assessment by an external agency.
+2.  Provide the following details related to water discharged:
+
+Parameter FY 2022 FY 2021
+
+Water discharge by destination and level of treatment (in kilolitres)
+(i)  To Surface water 0 0
+ -  No treatment   
+ -  With treatment – please specify level of treatment   
+(ii)  To Groundwater 0 0
+ -  No treatment   
+ -  With treatment – please specify level of treatment   
+(iii)  To Seawater 0 0
+ -  No treatment   
+ -  With treatment – please specify level of treatment   
+(iv)  Sent to third-parties 0 0
+ -  No treatment   
+ -  With treatment – please specify level of treatment   
+(v)  Others 0 0
+ -  No treatment   
+ -  With treatment – please specify level of treatment
+Total water discharged (in kilolitres) 0 0
+
+ Initiatives are taken across all the manufacturing units to conserve and recycle wastewater, thus ensuring the ZLD (Zero 
+liquid Discharge). At all manufacturing locations suitable and efficient wastewater treatment facilities like sewage 
+treatment plants (STPs) are installed with primary, secondary, and tertiary treatment to treat wastewater to usable 
+quality water. The entire treated water is used for flushing and gardening activities within the location premises. This 
+in-turn has resulted in reduced intake of freshwater.
+
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+
+ No, the Company did not carry out independent assessment by an external agency.
+
+
+
+Business Responsibility and Sustainability Report 35Siemens Limited
+
+3.  Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+ For each facility / plant located in areas of water stress, provide the following information:
+ (i)  Name of the area: Puducherry and Gurgaon
+ (ii)  Nature of operations: Manufacturing of fire protection devices, fire extinguisher assembly, assembly & testing of 
+
+control panel; sales, project management and service
+ (iii)  Water withdrawal, consumption and discharge in the following format:
+
+Parameter FY 2022 FY 2021
+
+Water withdrawal by source (in kilolitres)
+(i)  Surface water NA NA
+
+(ii)  Groundwater 2,902 5,204
+
+(iii)  Third party water 4,022 1,271 
+
+(iv)  Seawater / desalinated water  
+
+(v)  Others  
+
+Total volume of water withdrawal (in kilolitres) 6,924 6,475
+Total volume of water consumption (in kilolitres) 6,924 6,475
+Water intensity per rupee of turnover (Water consumed / turnover) 0.046 ml 
+
+per rupee of 
+turnover
+
+0.049 ml 
+per rupee of 
+
+turnover
+Water intensity (optional) – the relevant metric may be selected by the entity  
+Water discharge by destination and level of treatment (in kilolitres)
+
+(i)  Into Surface water   
+
+ -  No treatments 0
+
+ -  With treatment – please specify level of treatment 0
+(ii)  Into Groundwater
+
+ -  No treatment 3,480 2,700
+
+ -  With treatment – please specify level of treatment 0
+
+(iii)  Into Seawater
+
+ -  No treatment 0
+
+ -  With treatment – please specify level of treatment 0
+
+(iv)  Sent to third-parties  
+
+ -  No treatment  0
+
+ -  With treatment – please specify level of treatment  0
+
+(v)  Others  
+
+ -  No treatment 102 (Losses 
+due to cooling 
+
+tower)
+
+ 0
+
+ -  With treatment – please specify level of treatment  0
+
+Total water discharged (in kilolitres)  0
+
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+
+ The Company did not carry out independent assessment by an external agency.
+
+
+
+Business Responsibility and Sustainability Report36 Siemens Limited
+
+4.  Please provide details of total Scope 3 emissions & its intensity, in the following format:
+
+Parameter Unit FY 2022 FY 2021
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+
+Metric tonnes of 
+CO2 equivalent
+
+69,850,000 69,784,000
+
+Total Scope 3 emissions per rupee of turnover 0.47 kg of CO2 
+equivalent 
+
+per rupee of 
+turnover
+
+0.48 kg of CO2 
+equivalent 
+
+per rupee of 
+turnover
+
+Total Scope 3 emission intensity (optional) – the relevant 
+metric may be selected by the entity
+
+- -
+
+ The Scope 3 emissions are calculated for the following categories:
+	 l Scope 3 Upstream:  Purchased goods and services, Fuel and Energy related activities not included in Scope 1 and 
+
+Scope 2, Upstream transportation and distribution, Waste generated in operations, Employee commuting and 
+Business travel
+
+	 l Scope 3 downstream:  Emissions from use of sold products
+ The source of the emission factors applied in the 2022 reporting year is the “IEA Emission Factors 2021” published  
+
+by the International Energy Agency. For example, the India CO2e emission factor used for electricity generation is  
+726.1 g CO2e/kWh.
+
+ Similarly for FY 2021 the emission factor applied is the “IEA Emission Factors 2020”. For FY 2021, the India CO2e factor 
+for electricity generation is 751.9 g CO2e/kWh.
+
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+
+ No, the Company did not carry out independent assessment by an external agency.
+5.  With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities.
+
+ Currently no Siemens locations are part of ecologically sensitive areas. 
+6.  If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+
+Sr. 
+No
+
+Initiative undertaken Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+
+Outcome of the initiative
+
+1 Installation of roof top solar 
+photovoltaic power generation 
+plants 
+
+Installation of roof top solar photovoltaic power 
+generation plants in Kalwa and Aurangabad 
+factories has generating 3,744 MWh of 
+renewable energy.
+
+Environmental impact 
+reduced by 2,958 tons CO2 
+emission equivalent
+
+2 Power Purchase Agreement 
+(PPA) with Sunsole Renewables 
+Pvt. Ltd.
+
+PPA complements onsite solar and has 
+generated 1,352 MWh of renewable energy
+
+Environmental impact 
+reduced by 1,068 tons CO2 
+emission equivalent
+
+3 Installation of energy efficient 
+centralized chiller and 
+installation of 6 High Volume 
+Low Speed (HVLS) fans 
+
+Installation of energy efficient centralized 
+chiller system and replacement of 28 old high-
+rate fans by 6 High Volume Low Speed (HVLS) 
+fans at Kalwa.
+
+Saving 2,634 MWh of energy 
+equivalent to 2,081 tons of 
+CO2 emission equivalent
+
+4 Installation of Adiabatic Mist 
+cooling
+
+Adiabatic Mist cooling installed wherein 
+through misting nozzles, ultra-fine water 
+droplets are created which quickly absorb the 
+surrounding energy and evaporate thereby 
+cooling the air around the A.C Condenser 
+and this reduces Air Conditioner power (AC) 
+consumption 
+
+Estimated energy savings of 
+80 MWh
+
+
+
+Business Responsibility and Sustainability Report 37Siemens Limited
+
+Sr. 
+No
+
+Initiative undertaken Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+
+Outcome of the initiative
+
+5 Reclaim and re-use transformer 
+oil
+
+Re-used and reclaimed 29,000 litres of scrap 
+transformer oil for the manufacturing process.
+
+Environmental impact 
+reduced by 73 tons CO2 
+emission equivalent
+
+6 Installation of Variable 
+Frequency Drive (VFD) in the 
+plastic shop in Kalwa
+
+Variable Frequency Drive (VFD) installed in 
+the plastic shop with interlock to optimize the 
+exhaust ventilation motor usage during idle and 
+working periods.  Installation of VFD for magnet 
+riveting press motor for efficiently running the 
+motor and switching off automatically when 
+asset is idle for more than 10 minutes. 
+
+Saving 9 MWh of electricity
+
+7 Reduction of heated water 
+volume in rotor machine 
+washing tank.
+Operations sequence of 
+Vacuum Pressure Impregnation 
+(VPI) chamber modified ; logic in 
+Programmable Logic Controller 
+(PLC) modified to maintain 
+temperature automatically
+
+In Nashik factory, dummy blocks have been 
+placed in the water tank used for washing rotor 
+machine, to reduce water volume that needs to 
+be heated.
+The heating phase duration was optimised by 
+modifying operations sequence of the Vacuum 
+Pressure Impregnation (VPI) chamber including 
+modification of the heating process of stator 
+packet from the oven at 90 degrees to Vacuum 
+Pressure Impregnation (VPI) chamber using 
+thermic oil heaters. Additionally, the logic was 
+modified in the Programmable Logic Controller 
+(PLC) to maintain temperature automatically. 
+
+Savings of 34 MWh of 
+electricity
+
+8 Usage of electromagnetic 
+feeders for components
+
+Usage of electromagnetic feeders instead 
+of air for feeding the components, helped 
+eliminate leakages caused by pressure valves at 
+Aurangabad factory.
+
+Savings of 55 MWh of 
+electricity
+
+9 Installation of High-Volume 
+Low Speed Fans (HVLS), 
+optimizing operation of the 
+chillers and the Electropolishing 
+process. Additionally, installing 
+Brushless. 
+
+Installation of 4 High-Volume Low Speed Fans 
+(HVLS) in production hall and optimizing the 
+chiller outlet temperature. 
+Optimization of the Electropolishing process 
+with elimination of 1 additional tank and 
+replacing the 56 TR (Ton of refrigeration) 
+Chiller to 2 TR for cooling the tank liquid. 
+Replacing 250 TR chiller by a 150 TR chiller 
+in parallel with a water-cooled chiller thereby 
+increasing discharge time and auto chemical 
+dosing system installed for cooling tower which 
+prevents formation of scaling on condenser 
+coil and chiller operates at optimum efficiency 
+and installing Brushless Direct Current motors 
+(BLDC) in place of induction motors in Air 
+Handling Units (AHU).
+
+Savings of 103.3 MWh of 
+energy 
+
+10 Replacing Compact fluorescent 
+lamps (CFL) by Light Emitting 
+Diode (LED) lights
+
+Replacement of lighting fixtures in staircase, 
+lobby and production areas in Pondicherry 
+factory.
+
+Savings of 11 MWh of 
+electricity
+
+ For more details on energy conservation initiatives, please refer Annexure II Conservation of Energy, etc. in the Annual 
+Report.
+
+
+
+Business Responsibility and Sustainability Report38 Siemens Limited
+
+7.  Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+ The Company has a crisis management plan for managing crisis affecting Company’s operations, assets and staff under 
+
+its responsibility and duty of care. There is a Crisis Management Team (CMT) that provides direction to the Incident / 
+Emergency Management Teams. Decisions of the CMT are binding. 
+
+ The Company’s Business Continuity Plan (BCP) covers the following components:
+ a.  The ACP (Asset Classification and Protection) process covering location assets, information assets, people assets 
+
+and project sites.
+ b.  Preventive crisis management plans for every location, 
+ c.  Disaster recovery planning for IT Applications and Infrastructure, 
+ d.  Situation specific business level BCP
+8.  Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+
+mitigation or adaptation measures have been taken by the entity in this regard.
+ Siemens ensures that there are no adverse impacts to the environment arising from its value chain. For the upstream 
+
+value chain i.e. at the suppliers’, regular external sustainability Audits (ESA) are conducted to assess their environmental 
+impact and course corrected as necessary.
+
+ The downstream value chain is governed under the ESG Risk Framework. This ESG Risk Framework defines the minimum 
+global Company standard the Company shall fulfil in relation to environmental and social risk due diligence in order to 
+avoid or at least reduce and responsibly mitigate within our leverage potential business and reputational risks as well as 
+risks to people and planet.
+
+9.  Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+
+ 24% of the suppliers were assessed for environmental impacts through External Sustainability Audit (ESA) during the 
+reporting period. Total 231 ESA audits were conducted over a period of 3 years.
+
+ Additionally, 83.5% of suppliers took the CRSA as a part of ‘Ready for Business’ (R4B). If CRSA or ESA reveal infringements 
+of Siemens sustainability requirements, they must be remedied by the suppliers in question within a reasonable period 
+of time
+
+ Similarly 11% of orders received were assessed for environmental impacts through the internal ESG risk due diligence 
+tool.
+
+
+
+Business Responsibility and Sustainability Report 39Siemens Limited
+
+Principle 7: Businesses, when engaging in influencing public and 
+regulatory policy, should do so in a manner that is responsible and 
+transparent
+
+Essential Indicators
+1. a.  Number of affiliations with trade and industry chambers/ associations.
+  Siemens Limited is affiliated with 12 trade and industry chambers.
+ b.  List the top 10 trade and industry chambers/ associations (determined based on the total members of such 
+
+body) the entity is a member of/ affiliated to. 
+
+Sr. 
+No.
+
+Name of the trade and industry chambers/ associations Reach of trade and industry chambers/ 
+associations (State/National)
+
+1 Bombay Chamber of Commerce and Industry (BCCI) State
+2 Bureau of Indian Standards (BIS) National
+3 Bureau of Energy Efficiency (BEE) National
+4 Confederation of Indian Industry (CII) National
+5 Indian Electrical & Electronics Manufacturers’ Association (IEEMA) National
+6 Indo German Chamber of Commerce (IGCC) National
+7 Federation of Indian Chambers of Commerce and Industry (FICCI) National
+8 Indian Merchants Chambers State
+9 Indian Machine Tool Manufacturers Association (IMTMA) National
+10 Capital Goods Sector Skill Council of India National
+
+2.  Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+entity, based on adverse orders from regulatory authorities. 
+
+Name of authority Brief of the case Corrective action taken 
+- - -
+
+ There were no cases of anti-competitive conduct during the reporting period. 
+
+
+
+Business Responsibility and Sustainability Report40 Siemens Limited
+
+Leadership Indicators
+1.  Details of public policy positions advocated by the entity:
+
+S. 
+No.
+
+Public policy advocated Method resorted for such 
+advocacy
+
+Whether information 
+available in public 
+domain? (Yes/No)
+
+Frequency of Review 
+by Board (Annually/ 
+
+Half yearly/ Quarterly 
+/ Others – please 
+
+specify)
+
+Web Link, if 
+available
+
+1 The Company has 
+advocated on adoption of 
+international standards 
+relevant to its solutions in 
+the areas of e-mobility and 
+infrastructure (chargers), 
+renewable energy, energy 
+storage, distributed 
+energy systems, smart 
+grids and digitalization, 
+business ethics and skill 
+development. The Company 
+continuously makes efforts 
+to further contribute on 
+specific sustainable business 
+issues. 
+
+Through membership 
+with trade and industry 
+associations the Company 
+shares its feedback on 
+matters as mentioned in the 
+adjacent cell. Also, as and 
+when the government seeks 
+inputs from Industry the 
+Company provides feedback 
+on these issues through 
+Industry Associations.
+
+This is part of 
+S t a k e h o l d e r 
+consultation by the 
+respective Industry 
+Associations.
+
+Reviewed by relevant 
+business management 
+on as and when basis.
+
+Not applicable.
+
+
+
+Business Responsibility and Sustainability Report 41Siemens Limited
+
+Principle 8: Businesses should promote inclusive growth and equitable 
+development
+
+Essential Indicators
+1.  Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+
+current financial year.
+
+Name and 
+brief details 
+
+of project
+
+SIA 
+Notification 
+
+No.
+
+Date of 
+notification
+
+Whether conducted by 
+independent external 
+
+agency (Yes / No) 
+
+Results communicated 
+in public domain (Yes 
+
+/ No)
+
+Relevant Web 
+link 
+
+- - - - - - 
+
+ SIA was not applicable in the reporting year.
+2.  Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+
+by your entity, in the following format:
+
+S. 
+No.
+
+Name of Project for 
+which R&R is ongoing
+
+State District No. of Project 
+Affected Families 
+
+(PAFs)
+
+% of PAFs 
+covered by 
+
+R&R 
+
+Amounts paid to 
+PAFs in the FY (In `)
+
+- - - - - - -
+
+ Rehabilitation and Resettlement (R&R) was not applicable in the reporting year.
+3.  Describe the mechanisms to receive and redress grievances of the community
+ The Company has a defined a process to ensure all the complaints and feedback from all stakeholders including 
+
+communities are received and addressed. This defined process includes: 
+ (i) A dedicated toll-free number 
+ (ii) A dedicated contact page on the website 
+ (iii) Complaints / Feedback received on contact Email 
+ (iv) Complaints / Feedback received directly by Siemens representative 
+ Dedicated teams within the businesses manage all the complaints and feedback to ensure timely response.
+ Apart from this, Siemens has a reporting channel called “Tell Us” and Ombudsman for receiving grievances of stakeholders. 
+
+4.  Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+
+Name of Product / Service FY 2022 FY 2021
+Directly sourced from MSMEs/ small producers 32% 34%
+
+Sourced directly from within the district and neighbouring districts 57% 60%
+
+
+
+Business Responsibility and Sustainability Report42 Siemens Limited
+
+Leadership Indicators
+1.  Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+
+(Reference: Question 1 of Essential Indicators above):
+
+Details of negative social impact identified Corrective action taken
+
+- - 
+ Not applicable as no SIA was undertaken in the reporting period.
+
+2.  Provide the following information on CSR projects undertaken by your entity in designated aspirational districts 
+as identified by government bodies:
+
+S. 
+No.
+
+State Aspirational District Amount spent ` in million
+
+1 Maharashtra Osmanabad 0.70
+
+2 Tamil Nadu Virudhunagar 0.07
+3 Bihar Aurangabad 0.07
+4 Jharkhand Bokaro 0.15
+5 Bihar Begusarai 0.35
+6 Uttar Pradesh Siddharth Nagar 0.18
+7 Uttar Pradesh Hathgaon Fatehpur 0.18
+8 Uttar Pradesh Sonbhadra 0.17
+9 Bihar Gaya 0.18
+10 Assam Dhubri 0.17
+11 West Bengal Murshidabad 0.17
+12 West Bengal Birbhum 0.34
+13 Jharkhand Garhwa 0.17
+14 Andhra Pradesh Vizianagaram 0.34
+15 Telangana Khammam 0.17
+
+3.  a.  Do you have a preferential procurement policy where you give preference to purchase from suppliers 
+comprising marginalized /vulnerable groups? (Yes/No)
+
+  No, contracts are awarded on merit and not on preference.
+ b.  From which marginalized /vulnerable groups do you procure? 
+  Not applicable. 
+ c.  What percentage of total procurement (by value) does it constitute?
+  Not applicable.
+
+4.  Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity  
+(in the current financial year), based on traditional knowledge:
+
+S. 
+No.
+
+Intellectual Property based on traditional knowledge Owned/ Acquired  
+(Yes/No) 
+
+Benefit shared  
+(Yes / No) 
+
+- - - -
+ Siemens Limited does not have (acquired or owned) Intellectual Property Rights based on the traditional knowledge 
+
+during the reporting period.
+
+
+
+Business Responsibility and Sustainability Report 43Siemens Limited
+
+5.  Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved.
+
+Name of authority Brief of the Case Corrective action taken
+- - -
+
+ Not applicable.
+
+6.  Details of beneficiaries of CSR Projects
+
+S. 
+No.
+
+CSR Project No. of persons 
+benefitted from CSR 
+
+Projects
+
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+
+1 COVID 19 response 2022 * 100%
+2 Siemens Scholarship Program - Batch Ix 160 100%
+3 Siemens Scholarship Program - Batch VIII 160 100%
+4 IGnITE - Indo-German Initiative for Technical Education 501 100%
+5 Project Asha - Mokhada (Aase) 10,060 100%
+6 Siemens Scholarship Program - Batch VI 147 100%
+7 Siemens Scholarship Program - Batch VII 150 100%
+8 Project Asha - Mokhada (Koshimshet - Dhamanshet) 10,500 100%
+9 Project Jigyaasa 23,000 100%
+10 Project Asha - Aurangabad (Sagarwadi) 6,160 100%
+11 Dual VET at Government ITIs 32,145 100%
+12 Dual Education for Management Students 2022 6 85%
+13 Dual Education for Management Students 2021 9 77%
+14 Project Asha - Aurangabad (Daregaon) 7,880 100%
+15 Disaster Relief - Catastrophe Fund 6,660 100%
+16 Dual Education for Management Students 2020 12 83%
+
+ * COVID 19 response mainly consists of strengthening and upgrading of public health systems. Hence, we are not using 
+/ including the number of patients benefitting from these public health systems.
+
+
+
+Business Responsibility and Sustainability Report44 Siemens Limited
+
+Principle 9: Businesses should engage with and provide value to their 
+consumers in a responsible manner
+
+Essential Indicators
+1.  Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+ Siemens Limited has a defined a process to ensure all the complaints and feedback from customers received from 
+
+multiple channels are addressed. These multiple channels integrated within the defined process include, 
+ (i) dedicated toll-free number that is active from 8am - 8pm Monday to Saturday 
+ (ii) dedicated contact page on website that includes multiple enquiry forms to address different types of enquiries and 
+
+is accessible 24*7, all days of the week
+ (iii) Complaints/Feedback received on Email
+ (iv) Complaints/Feedback received directly by Siemens representative via phone or other means
+ Dedicated expert teams within the businesses manage all the complaints and feedback to ensure prompt response and 
+
+timely resolution. The received complaints and feedback are captured within an online tool where tickets are generated, 
+assigned to the experts from relevant business units, tracked, and managed as per the defined process.
+
+2.  Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about:
+
+As a percentage to total turnover
+Environmental and social parameters relevant to the product 15%
+Safe and responsible usage 100% (of products)
+Recycling and/or safe disposal 100% (of products)
+
+3.  Number of consumer complaints in respect of the following
+
+FY 2022 FY 2021
+Received 
+
+during the 
+year
+
+Pending 
+resolution at 
+end of year 
+
+Remarks Received 
+during the 
+
+year
+
+Pending 
+resolution at 
+end of year 
+
+Remarks
+
+Data privacy - - - - -
+Advertising - - - - -
+Cyber-security - - - - -
+Delivery of essential services - - - - -
+Restrictive Trade Practices - - - - -
+Other 1,105 90 1,205 24
+
+4.  Details of instances of product recalls on account of safety issues:
+
+Number Reasons for recall 
+Voluntary recalls 0
+
+Forced recalls 0
+
+
+
+Business Responsibility and Sustainability Report 45Siemens Limited
+
+5.  Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+
+ Cybersecurity
+ Siemens has established a global Product Computer Emergency Response Team (CERT) to address the reported 
+
+vulnerabilities in its products and Siemens publishes the remedial measures for these reported vulnerabilities. 
+ More details on the framework are available on
+ https://new.siemens.com/global/en/products/services/cert.html#SecurityPublications 
+ https://new.siemens.com/global/en/Company/topic-areas/cybersecurity.html 
+ Data Privacy
+ Siemens processes personal data in compliance with applicable laws on data protection and data security. This policy is 
+
+applicable to all entities of Siemens AG. For data privacy there is a global policy available at https://new.siemens.com/
+global/en/general/legal/business-partner-privacy-notice.html
+
+6.  Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty / action taken by regulatory authorities on safety of products / services.
+
+ There were no consumer complaints on issues relating to advertising, delivery of essential services, cyber security and 
+data privacy of customers. The complaints in ‘others’ category under indicator 5 of this principle pertains to either 
+product delivery or service issues. The respective businesses have resolved the complaints effectively.
+
+Leadership Indicators
+1.  Channels / platforms where information on products and services of the entity can be accessed (provide web link, 
+
+if available).
+ The information on products and services is available on the Siemens website under www.siemens.co.in.
+
+2.  Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+ The usage of products and services is outlined in manuals and videos available on the Siemens platforms. 
+
+3.  Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+ Siemens is not involved in directly providing essential services (as per essential service definition given in The Essential 
+
+Services Maintenance Act, 1981), however, Siemens also supplies its product and services to customer who are provider 
+of essential services like Railways, Power utilities etc. Siemens ensures that its customer face minimum disruption in their 
+operations and services. Siemens maintains continuous connect with its customers which ensures smooth running of 
+their operations.
+
+4.  Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products / services of the entity, significant locations of operation of the entity 
+or the entity as a whole? (Yes/No) 
+
+ Yes, products / services of Siemens Limited adhere to all relevant laws and applicable regulations including product 
+labelling. Beyond that the Company also adhere to the product labelling norms as applicable and required as per global 
+established standards e.g., Siemens uses EPD (Environmental Product Declaration) for communication. 
+
+ Siemens Limited carried out consumer satisfaction survey based on Net Promoter Score (NPS) methodology. NPS is an 
+internationally followed and recognized approach based on the commonly applied performance indicators. The NPS 
+in FY 2021-22 was 73. Besides the NPS, customer feedback is gathered post customer interaction, such as product or 
+service delivery as well as during the project execution / completion. The inputs are analysed for bringing about relevant 
+continual process improvements.
+
+5.  Provide the following information relating to data breaches: 
+ a.  Number of instances of data breaches along-with impact 
+ b. Percentage of data breaches involving personally identifiable information of customers
+ Currently there are no incidents recorded pertaining to customer data breaches.
+
+https://new.siemens.com/global/en/company/topic-areas/cybersecurity.html
+https://new.siemens.com/global/en/general/legal/business-partner-privacy-notice.html
+https://new.siemens.com/global/en/general/legal/business-partner-privacy-notice.html
+http://www.siemens.co.in
+
+
+Business Responsibility and Sustainability Report46 Siemens Limited
+
+Annexure I
+
+Web Links of Siemens Policies 
+
+Siemens Policies in line with the National Guidelines on Responsible Business Conduct
+1.  Siemens Business Conduct Guidelines 
+ https://new.siemens.com/in/en/company/investor-relations/business-ethics.html 
+2.  Siemens Group Code of Conduct for Suppliers and Third Party Intermediaries
+ https://new.siemens.com/global/en/company/sustainability/compliance.html 
+3.  Corporate Social Responsibility Policy 
+ https://new.siemens.com/in/en/company/investor-relations/corporate-governance.html 
+4.  Policy for determination of materiality of any event / information
+ https://new.siemens.com/in/en/company/investor-relations/corporate-governance.html 
+5.  General Policies 
+ https://new.siemens.com/in/en/company/investor-relations/corporate-governance.html 
+
+All other policies are available on the Company’s internal network. 
+
+https://new.siemens.com/in/en/company/investor-relations/business-ethics.html
+https://new.siemens.com/global/en/company/sustainability/compliance.html
+https://new.siemens.com/in/en/company/investor-relations/corporate-governance.html
+https://new.siemens.com/in/en/company/investor-relations/corporate-governance.html
+https://new.siemens.com/in/en/company/investor-relations/corporate-governance.html

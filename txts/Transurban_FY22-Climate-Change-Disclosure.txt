@@ -1,0 +1,4025 @@
+FY22 Climate Change Disclosure
+
+
+Climate Change 
+Disclosure FY22
+
+Bango Windfarm, NSW (Source: CWP Renewables)
+
+
+
+Contents
+Our strategic 
+response to  
+climate change 13
+
+Impacts of climate 
+change on our 
+organisation 13
+
+Testing resilience 
+through climate-
+related scenarios  14
+
+Key studies and 
+engagement 
+undertaken in  
+FY22  16
+
+Our progress 
+understanding 
+financial impacts   18
+
+Group financial 
+statement 
+climate-related 
+considerations   18
+
+Section 1: 
+Introduction
+
+Section 2: 
+Governance
+
+Section 5: 
+Metrics and 
+targets
+
+Section 3: 
+Strategy
+
+Section 4:  
+Risk 
+management
+
+Board oversight of 
+climate change 11
+
+Business  
+governance of 
+climate change 11
+
+—Reporting suite—
+
+FY22 Climate Change Disclosure1 
+
+—(this report)
+
+Our response to the Task Force on  
+Climate-related Financial Disclosures’ (TCFD) 
+recommendations.
+
+FY22 Corporate Report2
+
+The holistic performance of Transurban in 
+FY22 including our Financial Statements and 
+Sustainability Supplement.
+
+FY22 Results Presentation
+
+Management presentation of financial and 
+non-financial results, including non-statutory 
+analysis.
+
+FY22 Sustainability Data1
+
+Our progress against the UN Sustainable 
+Development Goals and other sustainability 
+performance data.
+
+Corporate Governance Statement
+
+Statement made in accordance with the ASX 
+Corporate Governance Council’s Corporate 
+Governance Principles and Recommendations 
+(4th Edition). 
+
+Tax Transparency Report
+
+Overview of our corporate structure, approach 
+to tax and tax position for FY21—available late 
+August 2022.
+
+Modern Slavery Statement
+
+Overview of how we identify, manage and 
+mitigate the specific risks of modern slavery in 
+our operations and supply—available late 2022.
+
+All available on our website 
+transurban.com
+
+1  Previously incorporated in our Sustainability Supplement
+2  We have integrated some of our Sustainability Supplement into our FY22 Corporate Report. This approach 
+
+provides additional information on our non-financial performance (including environmental, social and 
+governance performance) and progress in achieving our Sustainability Strategy
+
+Acknowledgement of Country
+Transurban acknowledges the Traditional Owners of 
+the lands across Australia—in particular where we 
+own and operate toll roads—and we pay respect to 
+Elders past, present and emerging. 
+
+As caretakers and custodians of transportation 
+in urban communities we have a deep respect for 
+Indigenous communities and culture and seek to 
+celebrate pride in Country through engagement 
+with, and providing opportunities for, Aboriginal 
+and Torres Strait Islander peoples. We also celebrate 
+connection to Country through artwork and design 
+elements in our infrastructure. 
+
+To achieve our purpose—to strengthen communities 
+through transport—we will continue to foster positive 
+and sustainable relationships with all communities, 
+while progressing our efforts to contribute to 
+Australia’s reconciliation journey.
+
+StrategyGovernance Metrics and targetsIntroduction Risk management
+
+Climate change risk 
+management  20
+
+Managing strategic 
+climate-related  
+risks 22
+
+Possible  
+long-term climate-
+related physical 
+risk for asset 
+components  28
+
+Climate-related 
+metrics  32
+
+GHG and 
+energy targets and 
+progress on our 
+transition to a low 
+carbon economy 34
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk management
+
+Climate Change 
+Disclosure FY22
+
+Climate Change 
+Strategic Risk 
+Themes and 
+Framework 7
+
+Summary of 
+how we have 
+addressed the TCFD 
+recommendations  8
+
+For best viewing experience 
+download this report
+
+http://transurban.com/CCD22
+http://transurban.com/corporate-report-2022
+http://transurban.com/fy22-results-presentation
+https://insights.transurban.com/sustainability
+http://transurban.com/corporate-governance-statement
+http://transurban.com/tax-transparency-report
+https://www.transurban.com/modern-slavery-fy22
+http://transurban.com
+http://transurban.com/CCD22
+
+
+4 5
+
+Executive summary
+
+While many communities suffered major 
+impacts, and there were subsequent 
+broader economic effects, our infrastructure 
+demonstrated resilience with all our road 
+assets remaining open during this period.
+
+FY22 has seen us advance the 
+implementation of our Climate Change 
+Framework with significant progress 
+achieved in our two priority areas, namely: 
+the transition to net zero1 and resilient 
+infrastructure and operations. We have 
+entered into renewable energy agreements 
+across all Australian markets. In FY22, 56% 
+of our electricity needs were met through 
+renewable energy with our renewable 
+electricity position increasing to 66% by 
+the end of the period. Our understanding 
+of physical climate change risks evolved 
+as we reflected on the flooding events 
+and conducted a desktop emergency 
+management exercise focused on an 
+extreme weather event for Sydney’s Hills M2 
+
+Motorway. This has moved us closer to being 
+able to estimate potential financial impacts 
+and improved our confidence in the likely 
+success of planned and proposed adaptation 
+measures. We acknowledge that there may 
+be potential material financial risks in the 
+future associated with climate change. At this 
+stage, we have identified potential climate-
+related material impacts for the business 
+and plan to quantify the potential financial 
+impacts into FY23 and beyond. Our climate-
+related risk procedures and supply chain 
+engagement also improved over FY22.
+
+Our Climate Change Risk and Adaptation 
+Guideline standardises the approach to 
+preparing asset-specific Climate Risk and 
+Adaptation Management Plans (CRAMPs), 
+ensuring consistency across markets and 
+enhancing efficiency. We prepared CRAMPs 
+for two Queensland assets – a tunnel and an 
+open road. We chose Queensland assets as 
+a priority as this market has higher overall 
+levels of climate-related risks compared 
+to other markets where we operate. The 
+experience of preparing the CRAMPs has 
+flagged the importance of understanding 
+the resilience of adjacent road networks and 
+feeders into our assets. This is a clear area of 
+focus for us over the coming years.  
+
+Through the CDP supplier engagement 
+process, we surveyed our major suppliers 
+(top 50 suppliers by spend, excluding 
+those engaged for major projects) this 
+year to better understand their progress 
+in transitioning to a low carbon economy 
+and the climate-related risks they face by 
+geographic location. A high proportion, 
+
+71%, of responding suppliers have active 
+Greenhouse Gas (GHG) emission reduction 
+targets, with most either having or 
+committed to setting, science-based GHG 
+emission reduction targets. Some appear to 
+understand the key transition and physical 
+risks for their operations. Examples of 
+transition risks cited included carbon pricing 
+( Japan) and changes to environmental 
+regulation ( Japan and Europe). Physical risks 
+identified included extreme weather events 
+(most geographies), rising temperatures 
+( Japan) and bushfires (Australia). We will 
+continue to work with our supply chain to 
+evolve our appreciation of climate-related 
+risks, their management approaches and 
+impact on our operations and projects.
+
+Five case studies with detailed information 
+about how we are responding to transition 
+and physical risks are provided in the 
+Disclosure. They cover operational climate 
+risk assessments for two Queensland assets, 
+workshops on extreme weather events, an 
+emergency management exercise on the 
+Hills M2 Motorway, climate-related risks in 
+our supply chain and how climate change 
+has been considered in the design and 
+construction of WestConnex’s M4-M5 Link 
+Tunnels in Sydney.
+
+Much remains to be done. However, we are 
+confident our Climate Change Framework 
+remains fit for purpose – as evidenced by 
+this year’s metrics and target progress - and 
+positions us well to respond to climate-
+related threats and opportunities.
+
+The significant and widespread 
+flooding in South-East 
+Queensland and New South 
+Wales in February and 
+March 2022 underscores the 
+importance of robust and 
+comprehensive climate change 
+management for organisations 
+like ours.
+
+1   “Setting corporate net-zero targets aligned with meeting societal climate goals means (1) achieving a scale of value chain emissions reductions consistent with the depth of abatement at  
+ the point of reaching global net-zero in 1.5˚C pathways and (2) neutralizing the impact of any residual emissions by permanently removing an equivalent volume of CO2.” (SBTi Corporate     
+ Net -Zero Standard, 2021)
+
+Forward looking statement disclaimer
+This Disclosure contains forward looking 
+statements, including, but not limited to plans, 
+strategies and objectives of management; 
+assumed long-term scenarios; potential global 
+responses to climate change; regulatory and 
+policy developments; the development of 
+certain technologies; the potential effect of 
+possible future events on Transurban’s assets 
+and performance and internal management 
+estimates and assessments of traffic 
+expectations and market outlook.
+
+Forward looking statements may be identified 
+by the use of terminology, including, but not 
+limited to, ‘anticipate’, ‘expect’, ‘forecast’, 
+‘potential’, ‘target’, ‘intend’, ‘will’, ‘outlook’, 
+‘aim’, ‘project’, ‘see’, ‘estimate’, ‘plan’, ‘objective’, 
+‘believe’, ‘may’, ‘should’, ‘would’, ‘continue’ or 
+similar expressions.
+
+These statements discuss future expectations 
+concerning the results of asset and/or financial 
+conditions, or provide other forward looking 
+information. In particular, such statements 
+may include, but are not limited to, statements 
+that relate to the purpose, goals, targets, plans 
+and objectives of Transurban, assumptions 
+made in respect to potential weather and other 
+environmental transition scenarios, as well as 
+statements about how we run our business, 
+including how we engage with our stakeholders.
+
+The forward looking statements in this 
+Disclosure are based on the information 
+available as at the date of this Disclosure and/or 
+the date of Transurban’s planning processes or 
+scenario analysis processes.
+
+There are inherent limitations with scenario 
+analysis and it is difficult to predict which, 
+if any, of the scenarios might eventuate. 
+
+Scenarios do not constitute definitive outcomes 
+for Transurban. Scenario analysis relies on 
+assumptions that may or may not be, or prove 
+to be, correct and may or may not eventuate, 
+and scenarios may be impacted by additional 
+factors to the assumptions (including regulatory 
+or other governmental changes, obligations 
+or requirements) disclosed. Forward-looking 
+statements are not guarantees of future 
+performance and involve known and unknown 
+risks, uncertainties and other factors, many of 
+which are beyond the control of Transurban, 
+its directors, officers, employees, agents and 
+advisors that may cause actual results to differ 
+materially from those expressed or implied in 
+such statements. Transurban strongly cautions 
+against reliance on any forward looking 
+statements.
+
+Except as required by applicable regulations 
+or by law, Transurban does not undertake any 
+obligation to publicly update or review any 
+forward looking statements, whether as a result 
+of new information or future events. Forward 
+looking statements speak only as of the date 
+of this Disclosure or the date planning process 
+assumptions or scenario analysis assumptions 
+were adopted, as relevant. Past performance 
+cannot be relied on as a guide to future 
+performance.
+
+The views expressed in this Disclosure contain 
+information that has been derived from 
+publicly available sources that have not been 
+independently verified. No representation 
+or warranty is made as to the accuracy, 
+completeness or reliability of the information. 
+This Disclosure should not be relied upon as a 
+recommendation or forecast by Transurban.
+
+Climate Change 
+Disclosure FY22 Climate change 
+
+disclosure FY22
+
+Climate Change 
+Disclosure FY22StrategyGovernance Metrics and targetsIntroduction Risk management
+
+Gateway Motorway in Queensland, with the Transurban 
+Queensland team looking over Karawatha Forest 
+(Source: Transurban)
+
+StrategyGovernance Metrics and targetsIntroduction Risk management
+
+
+
+7
+
+6
+
+Section 1: 
+Introduction 
+
+Figure 1: Climate Change Strategic Risk Themes & Framework
+
+Climate Change Strategic Risk Themes
+
+Opportunity 1 
+
+Showcase our leadership in climate risk management to open new 
+market opportunities, strengthen relationships with existing government 
+partners, and capitalise on innovation
+
+Opportunities
+
+Opportunity 2 
+
+Take proactive steps to reduce Scope 1, 2 and 3 greenhouse gas 
+emissions and customer emissions, and transition to net zero
+
+Threats
+
+Threat 3
+
+Macroeconomic and/or land use 
+changes caused by government 
+policies and regulations, and severe 
+weather events, alter city travel 
+patterns and toll road use impacting 
+traffic models and revenue 
+
+Threat 1
+
+Unexpected changes to stakeholder 
+expectations, government policies 
+and regulations in relation to climate 
+change create an unfavourable 
+operating environment, impacting our 
+reputation and financial performance
+
+Threat 2
+
+Increased incidence of 
+severe weather events and 
+average temperature affects 
+lifecycle planning, disrupts 
+operations, and increases 
+operating costs
+
+Threat 4
+
+Access to and use of our roads 
+and tunnels are impacted 
+during extreme weather 
+events and in periods of 
+extended rain or heat
+
+Resilient infrastructure and operations
+
+Energy
+
+Energy  
+efficiency 
+upgrades
+
+Onsite 
+renewables
+
+Renewable 
+energy 
+
+agreements
+
+Low-carbon 
+supply chain
+
+Low-carbon 
+materials
+
+Circular 
+economy
+
+Partnerships 
+and 
+
+engagement
+
+Customer 
+emissions
+
+Customer 
+engagement 
+on fuel and 
+emissions 
+reduction
+
+Support the 
+uptake of 
+
+zero-emission 
+vehicles
+
+Roadside 
+regeneration
+
+Improve 
+vegetation and 
+
+biodiversity 
+within our 
+
+alignments 
+
+Green 
+infrastructure
+
+Climate risk 
+integration
+
+Embed  
+relevant  
+climate 
+
+projections and 
+associated risks 
+
+(threats and 
+opportunities) 
+
+within  
+processes  
+
+and systems 
+
+Asset and 
+business 
+
+adaptation
+
+Scenario 
+analysis 
+
+Asset-specific 
+Climate Risk 
+
+and Adaptation 
+Management 
+
+Plans including 
+adaptation 
+pathways
+
+TCFD  
+alignment
+
+Climate 
+risk impact 
+
+assessments
+
+Integration with 
+financial systems, 
+
+processes and 
+reporting
+
+Ongoing review, 
+monitoring and 
+
+reporting 
+
+Climate Change Framework
+
+Transition to Net Zero
+
+Training and capacity building 
+
+This Climate Change Disclosure is 
+structured around the four categories of 
+the Taskforce on Climate-related Financial 
+Disclosures (TCFD): governance, strategy, 
+risk management, and metrics and targets. 
+We have continued to address all 11 of the 
+TCFD’s recommendations and have outlined 
+the next steps we will be taking through to 
+FY25 and beyond. A summary of how we 
+have addressed the recommendations is 
+outlined in Table 1 on the following page.
+
+We considered the Intergovernmental Panel 
+on Climate Change’s (IPCC) Sixth Assessment 
+Report and the TCFD’s revised October 2021 
+guidelines when preparing this Disclosure, 
+and our associated response to the revised 
+TCFD recommendations, and more broadly 
+in relation to our climate change program. 
+We will also consider the potential impacts 
+of the proposed International Sustainability 
+Standards Board’s (ISSB) first two standards 
+for future Disclosures. KPMG have assured 
+Table 1 and Table 4 of this Disclosure, to 
+provide confidence in the veracity of key 
+content.
+
+Our Climate Change Framework (Figure 1 
+below) applies to our Australian and North 
+American operations and responds to 
+our strategic climate-related risk themes 
+including four strategic climate-related 
+threats and two strategic climate-related 
+opportunities. We continue to evolve our 
+understanding of the ramifications arising 
+from climate change, with additional 
+information on our strategic response, and 
+improved management of climate-related 
+risks (threats and opportunities) included in 
+this year’s Disclosure.
+
+Governance
+
+Twice-yearly updates provided to the ARC, 
+Transurban Board and subsidiary Boards on 
+
+climate-related aspects
+
+Climate-related risk oversight by 
+the Transurban Board’s ARC
+
+Internal Climate Change Governance 
+Committee provide additional oversight 
+
+and guidance on business-wide 
+implementation of the Framework
+
+Climate change 
+disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk management
+
+Climate Change 
+Disclosure FY22
+
+
+
+8 9
+
+Table 1: Summary of how we have addressed the TCFD recommendations
+
+Recommendations addressed FY22 summary Next steps in the short-term (FY23-FY25) Where this is addressed in our Disclosure
+
+G
+ov
+
+er
+na
+
+nc
+e
+
+Disclose the organisation’s governance around 
+climate-related risks and opportunities.
+
+• Describe the Board’s oversight of climate-
+related risks and opportunities 
+
+• Describe management’s role in assessing 
+and managing climate-related risks and 
+opportunities
+
+• We have reviewed and addressed the TCFD Implementation Guidance released in 
+October 2021 for the Governance category.
+
+• Climate-related risks covering both threats and opportunities are overseen by the Board 
+of Directors via the Audit and Risk Committee (ARC). The ARC is updated at least twice 
+each year on specific climate-related risks, emerging themes, and areas of progress. 
+
+• Quarterly material risk reviews are undertaken encompassing all material risks 
+including relevant climate-related threats and opportunities.
+
+• Responsibility for climate-related risks applies to all areas of the business, however the 
+strategic response and overall direction is managed between the Sustainability and Risk 
+and Compliance teams, in addition to the Chief Financial Officer (CFO) and other relevant 
+members of Transurban’s Executive Committee.
+
+• Our internal Climate Change Governance Committee provides additional oversight of 
+climate-related initiatives, management priorities, and annual disclosure.
+
+• Ongoing monitoring and reporting of performance metrics.
+
+• Ongoing training/capacity building for Board and Governance 
+Committee.
+
+Section 2 Governance
+
+2.1 Board oversight of climate change
+
+2.2 Business governance of climate change
+
+St
+ra
+
+te
+gy
+
+ 
+
+Disclose the actual and potential impacts of 
+climate-related risks and opportunities on the 
+organisation’s businesses, strategy, and financial 
+planning where such information is material.
+
+• Describe the climate-related risks and 
+opportunities the organisation has identified 
+over the short, medium, and long-term
+
+• Describe the impact of climate-related risks 
+and opportunities on the organisation’s 
+businesses, strategy, and financial planning 
+
+• Describe the resilience of the organisation’s 
+strategy, taking into consideration different 
+climate-related scenarios, including a 2°C or 
+lower scenario
+
+• We have reviewed and addressed the TCFD Implementation Guidance released in 
+October 2021 for the Strategy category.
+
+• Our Climate Change Framework addresses the threats and opportunities associated 
+with the transition to net zero and the physical impacts of climate change and sets our 
+strategic direction and implementation plan across short, medium, and long-term time 
+horizons. 
+
+• Climate-related threats and opportunities have been identified and consolidated into six 
+high-level strategic risk themes and climate change (as a broad topic) is also considered 
+as a broader strategic business risk. At this stage, materiality is determined by the 
+potential long-term impacts, likelihood the risk will be realised, and relationship with our 
+organisational strategy and financial systems. 
+
+• We have considered each of the three climate change scenarios (aligned with RCP 2.6, 
+4.5, 8.5) to understand the possible short, medium, and longer-term impacts to our 
+operational assets. 
+
+• We are working to identify potential material climate-related financial impacts to  
+the business and further investigation is required to quantify the potential impacts  
+from FY23. 
+
+• Ongoing monitoring and review of strategic climate-related threats 
+and opportunities.
+
+• Further detailed investigation of the financial implications of material 
+climate-related risks and opportunities in the longer-term time 
+horizon will be explored from FY23.
+
+Section 3 Strategy
+
+3.1 Our strategic response to climate change
+
+3.2 Impacts of climate change on our organisation
+
+3.3 Testing resilience through climate-related scenarios 
+
+3.4 Key studies and engagement undertaken in FY22
+
+3.5 Our progress understanding financial impacts
+
+3.5.1 Group financial statement climate-related considerations
+
+Ri
+sk
+
+ M
+an
+
+ag
+em
+
+en
+t
+
+Disclose how the organisation identifies, 
+assesses, and manages climate-related risks.
+
+• Describe the organisation’s processes for 
+identifying and assessing climate-related risks
+
+• Describe the organisation’s processes for 
+managing climate-related risks
+
+• Describe how processes for identifying, 
+assessing and managing climate-related risks 
+are integrated into the organisation’s overall 
+risk management. 
+
+• We have reviewed and addressed the TCFD Implementation Guidance released in 
+October 2021 for the Risk Management category.
+
+• A business-wide Climate Risk and Adaptation Guideline has been developed to ensure a 
+consistent and aligned approach when undertaking detailed investigations and inform 
+asset-specific Climate Risk and Adaptation Management Plans (CRAMPs). The Guideline 
+aligns with Transurban’s Enterprise Risk Management (ERM) Framework, and details how 
+to identify, assess and manage climate-related risks, including those with the potential 
+to have a material impact on the business, to subsequently escalate appropriately for 
+decision-making and proactive management.
+
+• Climate-related risks are reviewed in accordance with our ERM Framework every 12-18 
+months, or as otherwise required (dependent on asset-specific CRAMP outcomes, 
+emerging TCFD guidance and frequency of evolving IPCC scientific findings).  
+
+• On major construction and development projects, our contractors endeavour to 
+undertake a climate change risk adaptation assessment, consider the impact of design 
+and construction on the environment, and achieve sustainability performance ratings. 
+
+• Climate-related threats and associated climate projections are considered as part of the 
+organisation’s business resilience activities. In FY22 an emergency managment exercise 
+on the Hills M2 Motorway was conducted which was based on an extreme weather 
+event.
+
+• Ongoing development of asset-specific CRAMPs to identify adaptation 
+pathways to consider over time.
+
+• Develop financial logic maps for asset-specific CRAMP assessments.
+
+• Ongoing business resilience activities to include climate projections for 
+extreme weather events. 
+
+Section 4 Risk Management
+
+4.1 Climate change risk management
+
+4.2 Managing climate-related strategic risks 
+
+4.3 Possible long-term climate-related physical risk for asset 
+components
+
+M
+et
+
+ri
+cs
+
+ a
+nd
+
+ T
+ar
+
+ge
+ts
+
+Disclose the metrics and targets used to assess 
+and manage relevant climate-related risks 
+and opportunities where such information is 
+material.
+
+• Disclose the metrics used by the organisation 
+to assess climate-related risks and 
+opportunities in line with its strategy and risk 
+management process 
+
+• Disclose Scope 1 and 2 (and Scope 3 if 
+appropriate) GHG emissions and the related 
+risks
+
+• Describe the targets used by the organisation 
+to manage climate-related risks and 
+opportunities and performance against targets 
+
+• We have reviewed and addressed the TCFD Implementation Guidance released in 
+October 2021 for the Metrics and Targets category, with our current set of performance 
+metrics aligning with our key strategic climate-related threats and opportunities.
+
+• We have established scope 1, 2 and 3 GHG emission reduction targets for 2030 which 
+have been verified by the Science Based Targets initiative (SBTi) and are committed to 
+achieving net zero by 2050.
+
+• Our Disclosure includes Scope 1, 2 and 3 emissions as well as customer emissions, 
+related threats and opportunities, progress against emission reduction targets, and 
+their management.
+
+• Review and enhance our current set of performance metrics in line 
+with TCFD guidance, Implementing the Recommendations of the  
+TCFD 2021 Appendix 2, Cross-Industry Climate-Related Metric 
+Categories.
+
+Section 5 Metrics and Targets
+
+5.1 Climate-related metrics
+
+5.2 GHG and energy targets and progress on our transition
+
+Climate Change 
+Disclosure FY22 Introduction IntroductionIntroductionClimate change 
+
+disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsRisk managementStrategyGovernance Metrics and targetsRisk managementStrategyGovernance Metrics and targetsRisk managementStrategyGovernance Metrics and targetsRisk management
+
+
+
+11
+
+10
+
+Section 2: 
+Governance
+
+2.1 Board 
+oversight of 
+climate change
+
+Transurban’s Enterprise Risk Management 
+(ERM) Framework guides the identification 
+of climate-related threats and opportunities, 
+which are overseen by the Board of Directors 
+through the ARC. The ERM Framework 
+outlines the methodology to identify, 
+assess, and govern material physical and 
+transition risk, and ensure the appropriate 
+escalation for decision-making and proactive 
+management where required. 
+
+The ARC is updated twice-yearly through 
+standard business and operational risk 
+reporting on climate-related risks, areas of 
+progress, emerging trends, and updates on 
+climate-related issues. In FY22, updates were 
+provided on the IPCC’s Sixth Assessment 
+Report findings and progress against the 
+Climate Change Framework. This Disclosure 
+is reviewed by the Board of Directors 
+through the annual corporate reporting 
+process, as per our previous Disclosures 
+reported in accordance with the TCFD 
+recommendations since their release in 
+2017. In March 2022 we held a Strategy Day 
+for Transurban’s Board, and in May 2022 we 
+held Investor Day, both of which considered 
+the organisation’s transition to net zero and 
+overall strategic direction. 
+
+2.2 Business 
+governance of 
+climate change
+
+The broad theme of climate change is 
+considered a strategic driver of our business 
+risks, and responsibility for climate-related 
+risks applies to all areas of our business. The 
+strategic response and overall direction are 
+managed between the Sustainability and 
+Risk teams, with additional oversight by the 
+General Manager of Risk and Compliance, the 
+General Manager of Corporate Affairs and 
+Investor Relations, and the Chief Financial 
+Officer (CFO). Asset-specific CRAMPs are 
+developed for individual asset, climate-
+related risks (threats and opportunities) and 
+the associated adaptation pathways are 
+managed by key stakeholders involved in the 
+operations and maintenance of the asset. 
+Figure 2 provides an outline of our business 
+governance structure for climate change. 
+
+Transurban’s cross-disciplinary Climate 
+Change Governance Committee provides 
+additional internal oversight of climate-
+related initiatives, management priorities, 
+emerging industry trends, and reporting on 
+a quarterly basis. Dedicated resources are 
+allocated to manage climate change across 
+the organisation, including external specialist 
+assistance.
+
+There are a range of formal and informal 
+communication channels used to share 
+progress and understand the views of our 
+investors. In FY22, Transurban’s 1H22 Results 
+Investor presentation and Investor Day 
+presented a range of related topics including 
+future mobility trends focused on low or 
+zero emission vehicles (ZEVs) and our ESG 
+progress more broadly.
+
+Executive Committee
+
+Remuneration, People
+and Culture Committee
+
+Nomination
+Committee
+
+Audit and Risk
+Committee
+
+Executive CommitteeExecutive Committee
+
+Board of Directors
+
+Security holders
+
+Chief Executive Officer
+
+Board of Directors
+
+Security holders
+
+Board reserved powers and delegation of authority
+
+Chief Financial OfficerChief Financial Officer
+
+Climate Change Governance Committee
+
+This includes internal members from legal, finance, risk and compliance, strategy, sustainability, traffic, 
+business resilience, and investor relations
+
+Asset Operations, Maintenance and Engineering Teams
+
+Accountability, monitoring, implementation
+
+Our People
+
+Risk and 
+Compliance
+
+Corporate Affairs, Investor 
+Relations and Sustainability 
+
+Risk Team
+Accountability, scenario 
+and disruption analysis
+
+Sustainability Team
+Accountability, reporting, 
+implementation
+
+Figure 2: Climate Change Governance Structure 
+
+Climate change 
+disclosure FY22
+
+Climate Change 
+Disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk managementIntroduction StrategyGovernance Metrics and targetsRisk management
+
+
+
+13
+
+12
+
+Section 3: 
+Strategy
+
+3.1 Our strategic 
+response to 
+climate change
+
+Transurban continues to evolve and 
+mature our response to climate change, 
+and manage the associated impacts across 
+our operations, organisational strategy, 
+financial planning, and major construction 
+and development projects. We have made 
+considerable progress in our low-carbon 
+transition since committing to 2030 interim 
+targets and our long-term 2050 net zero 
+target in FY21. In FY22, 56% of our electricity 
+needs were met through renewable 
+energy with our renewable electricity 
+position increasing to 66% by the end of 
+the period. We have also continued our 
+efforts in developing physical climate-related 
+assessments across our assets and have 
+begun to define the potential associated 
+financial implications.
+
+Our Climate Change Framework (Figure 1)
+outlines the climate-related strategic risk 
+(threats and opportunities) themes and 
+direction to prioritise our efforts in the net 
+zero transition, and ensure we operate 
+resilient infrastructure into the future. The 
+climate-related risk themes are consolidated 
+into four threats and two opportunities, 
+which capture the various climate-related risk 
+themes identified by TCFD Implementation 
+Guidance released in October 20213. These 
+strategic threats and opportunities link to 
+the broader strategic business direction 
+and define a clear, top-down approach to 
+help identify key external trends and drivers, 
+and our potential exposure. Further detail 
+and our progress against these threats and 
+opportunities are outlined in Table 4. 
+
+These commitments, targets and initiatives 
+are underpinned by our business-wide 
+Sustainability Strategy, which positions our 
+business to make meaningful progress 
+towards the United Nations Sustainable 
+Development Goals (UN SDGs). We have 
+commitments in place over short, medium, 
+and longer-term time horizons to ensure 
+an orderly and effective transition. Figure 3 
+summarises our priority areas for the business 
+to manage climate-related physical and 
+transition risk.
+
+3.2 Impacts of 
+climate change on 
+our organisation
+
+Transurban’s strategy is “By understanding 
+what matters to our stakeholders, we create 
+road transport solutions that make us a 
+partner of choice.” Climate change is likely to 
+affect our strategy to some extent, from a 
+risk (threat and opportunity) perspective. 
+
+Our infrastructure will likely face a range 
+of climate-related physical risk drivers, 
+both acute and chronic, which may lead 
+to financial, operational, and service 
+delivery impacts. In addition, transition risk 
+impacts such as change in the regulatory 
+environment, stakeholder expectations 
+and broader disruption could lead to an 
+unfavourable operating environment. A 
+range of climate-related impacts have been 
+considered across our organisation are being 
+monitored as outlined in Table 2 below. 
+
+A review of priority climate risk drivers for 
+Transurban was undertaken in FY22 in order 
+to understand these potential organisational 
+climate-related risks and associated 
+materiality. Materiality in this context has 
+been determined by the potential long-
+term horizon of the risk, likelihood the 
+risk will be realised, and relationship with 
+our organisational strategy and financial 
+systems.
+
+At this stage, in the short to medium-
+term, we expect the potential impacts to 
+our business to be largely influenced by 
+acute physical events such as extreme 
+weather, bushfire or flooding. Changes 
+in stakeholder expectations and in the 
+regulatory environment, and disruptions 
+to the broader road networks across each 
+of our markets caused by acute extreme 
+weather events could also affect our 
+business and operations to some extent. 
+Our organisational strategy is not expected 
+to be materially impacted across these time 
+horizons; however further investigation is 
+planned from FY23 to FY25 to confirm this 
+and quantify potential impacts. 
+
+3 TCFD Implementation Guidance 2021, Table A1.1 
+4 TCFD Implementation Guidance 2021, Strategy  
+   recommended Disclosure b) 
+
+TCFD Impact 
+category4 
+
+Summary of potential organisational 
+impact
+
+Strategic climate-
+related threat or 
+opportunity where 
+this is monitored
+
+Products and 
+services
+
+• Continued escalation in fuel prices affecting 
+customers.
+
+• Cumulation of physical risk affecting customer 
+access to our assets.
+
+Threats 1, 3 and 4 and 
+opportunity 1
+
+Supply chain • Cumulation of physical and transition risk 
+affecting our supply chain leading to increased 
+cost of materials, product availability shortage, 
+and delivery delays.
+
+• Need for proactive engagement with supply chain 
+to mitigate potential climate-related risks.
+
+Threats 1 and 2, and 
+opportunity 1
+
+Adaptation 
+and mitigation 
+activities
+
+• Increased maintenance and rectification cost for 
+assets not designed for projected physical threats.
+
+• Need for proactive engagement with external 
+stakeholders such as government partners to 
+enhance climate resilience. 
+
+Threats 2 and 4, and 
+opportunity 1
+
+Investment in 
+research and 
+development
+
+• Increased need for research and development; 
+likely focused on the application of low-carbon 
+materials.
+
+Opportunity 1
+
+Operations • Cumulation of physical threats affecting customer 
+and staff health and safety.
+
+• Increased operating cost due to changing 
+environment (physical and transition).
+
+Threat 2 and opportunity 2
+
+Acquisitions or 
+divestments
+
+• Consideration of climate change as part of due 
+diligence
+
+Threat 1 and opportunity 1
+
+Access to 
+capital
+
+• Need to demonstrate robustness and 
+transparency of climate change commitments 
+and asset resilience.
+
+Opportunity 1
+
+Table 2: Transurban’s response to the TCFD’s Impact Categories
+
+Climate change 
+disclosure FY22
+
+Climate Change 
+Disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyStrategyStrategyGovernance Metrics and targetsIntroduction Risk management GovernanceIntroduction GovernanceIntroduction Metrics and targetsRisk management Metrics and targetsRisk management
+
+
+
+14 15
+
+Resilient 
+Infrastructure 
+& Operations
+
+—Case study—
+
+Emergency 
+Management 
+Exercise on the 
+Hills M2
+
+In March 2022, the Business Resilience 
+team conducted an emergency 
+management desktop exercise with 
+the NSW Business. The exercise was 
+based on an extreme weather event 
+impacting the Hills M2 Motorway and 
+the broader Sydney region. Using the 
+climate projections identified in the Hills 
+M2 Motorway CRAMP, the aim of the 
+exercise was to provide an opportunity 
+
+to rehearse the response to a major 
+adverse weather event and to further 
+understand potential consequences of 
+a period of excessive high temperatures 
+on the asset, the surrounding community 
+and customers. The exercise included 
+both tactical and strategic response 
+management teams to establish 
+immediate response activities, and plan 
+for ongoing safety, operational, financial, 
+and reputational impacts. The exercise’s 
+objectives included:
+
+• Review operational processes, including 
+the notification, escalation, and 
+activation protocols, between response 
+management teams;
+
+• Provide an opportunity for all parties 
+to understand their role, as well as 
+the roles of others during an extreme 
+weather event; and
+
+• Demonstrate preparedness and 
+operational resilience as part of the Hills 
+M2 Motorway CRAMP.
+
+The complex scenario highlighted 
+the importance of preparing the assets 
+and response teams in the lead up to 
+predicted extreme weather events 
+and demonstrated the challenges of 
+responding to a dynamic event, impacting 
+multiple assets and communities.  
+
+The potential impacts of climate change 
+over a longer-term time horizon are more 
+uncertain due to a range of variables, 
+including climate projection confidence. 
+Our organisation will likely be affected by 
+both acute and chronic physical events, 
+given these impacts are projected to be 
+more severe and impactful over time. 
+Further investigation is planned from FY23 
+to understand the potential longer-term 
+impacts such as increased extreme rainfall 
+intensity and resultant flooding, sea level rise 
+and storm surge. 
+
+Broader network disruption is anticipated 
+to arise. It is therefore important we continue 
+to work with our government partners and 
+key stakeholders to understand and respond 
+to expectations and emerging requirements 
+and continue to enhance our assets’ overall 
+resilience. A detailed investigation of arterial 
+road systems and other infrastructure which 
+feed into our roads and tunnels, and their 
+associated resilience, is planned from FY24 
+to FY30. 
+
+We recognise it is important to also 
+consider the potential implications of the 
+accumulation of events and the interrelation 
+of different events, such as sea level rise 
+and storm surge. These projected longer-
+term impacts will continue to be assessed 
+across the lifecycle of our assets through 
+the implementation of infrastructure 
+sustainability rating tools, ongoing 
+climate risk and adaptation assessments, 
+development of asset-specific CRAMPs, and 
+continued stakeholder engagement. 
+
+To ensure we capture the evolving climate 
+science projections and emerging market 
+and regulatory trends, continued climate-
+
+related assessments and ongoing monitoring 
+are required. This will be undertaken 
+through the delivery of our Climate Change 
+Framework (Figure 3) which shows our 
+priorities for resilient infrastructure and 
+operations across short, medium and longer-
+term time horizons. 
+
+There is continued momentum in the 
+prominence of climate-related risks across 
+the regulatory and legal environment, 
+and we expect this trend to continue. 
+We consequently realise the importance 
+of our continued transition to net zero, 
+integration of climate-related risk across 
+our organisational pillars and strategy, and 
+governance of independent sustainability 
+performance ratings for assets to ensure 
+ongoing transparency in our climate change 
+risk management and disclosure. 
+
+3.3 Testing 
+resilience through 
+climate-related 
+scenarios 
+
+Our 2030 decarbonisation targets are 
+validated by the SBTi and align with limiting 
+climate change to 1.5-degrees. Within the 
+business, we use three climate scenarios 
+associated with global temperature increases 
+to test possible future conditions. A detailed 
+review of the trends and key assumptions for 
+each of the three scenarios was undertaken 
+
+Scope 1 & 2 science-based emission reduction target: 
+50% reduction by 2030
+Transition to zero-emission Transurban fleet; contractor 
+targets for fuel efficiency and transition to zero-emissions 
+vehicles by 2030; pursue North American market 
+renewable energy strategy; ongoing tunnel ventilation 
+optimisation and lighting upgrades; and installation of 
+more onsite renewables on a case-by-case basis
+
+Scope 3 science-based emission reduction target: 
+55% reduction in emissions intensity across major 
+construction and development projects by 2030, 22% 
+reduction in emissions intensity across purchased 
+goods and services by 2030
+Engage supply chain on commitments to renewable 
+energy and science-based targets; increase availability 
+and use of low-carbon and circular materials; enhance 
+major project specifications; and industry engagement 
+and partnerships
+
+Ongoing climate-related risk and adaptation assessment reviews; monitoring of climate-related metrics; and 
+reporting and governance
+
+Scope 3 
+does not include 
+
+customer emissions. 
+We are encouraging 
+
+customers to  
+reduce these through  
+
+eco-driving and  
+zero-emission vehicle 
+
+uptake initiatives
+
+Figure 3: Current and future climate-related risk management priorities  
+
+FY23* FY24* FY30* FY50*
+
+Scope 1 & 2 emission 
+reduction target: 
+Expected initiatives 
+to reach Net Zero
+100% renewable 
+electricity use; and 
+eliminate residual 
+fuel usage through 
+electrification across 
+direct and contractor 
+operations
+
+Scope 3 emission 
+reduction target: 
+Expected initiatives 
+to reach Net Zero
+Electricity grid 
+transition to 
+renewables; 
+accelerated uptake 
+of low-carbon 
+materials; supply chain 
+minimum contract 
+requirements; 
+partnerships to drive 
+sectoral transition; and 
+carbon offset where 
+residual emissions 
+cannot be avoided
+
+FY25*
+
+Asset-specific Climate Risk and 
+Adaptation Management Plans
+
+The CRAMPs will include a risk and 
+adaptation assessment, defined 
+adaptation pathways, broad 
+financial implications and triggers 
+and thresholds
+
+Broader road infrastructure assessment 
+and enhancing resilience
+
+Undertake an analysis of the broader arterial 
+road system to understand potential hotspots 
+which could impact our asset operations as 
+a result of extreme weather events. Work 
+with key external stakeholders to undertake 
+mapping where our assets interface with 
+others and encourage mitigation and 
+adaptation (where applicable)
+
+* Time horizons indicate EOFY and are not to scale
+1 All GHG targets are relative to a 2019 base year
+
+Cl
+im
+
+at
+e 
+
+Ch
+an
+
+ge
+ F
+
+ra
+m
+
+ew
+or
+
+k 
+pr
+
+io
+ri
+
+ty
+ a
+
+re
+as
+
+Transition  
+to Net Zero1
+
+Continued integration into business 
+operations
+
+Development of climate-related metrics across 
+our asset lifecycle models and traffic models to 
+continuously improve business resilience and 
+future climate-related projections
+
+Climate 
+resilience 
+training 
+and 
+capacity 
+building
+
+Develop and 
+implement 
+compulsory 
+training 
+module
+
+Financial physical climate risk and 
+adaptation assessment
+
+Measure and quantify the identified  
+long-term impacts of the climate-related 
+risks and adaptation measures
+
+FY23* FY24* FY30* FY50*FY25*
+
+in FY22 to capture the most recent physical 
+scientific findings by the IPCC, and the 
+broader regulatory changes across the 
+markets where we operate. Further work is 
+required to consider the social cost of carbon 
+(SCC) as defined by the IPCC within our 
+scenarios.
+
+We have considered each of the three 
+climate change scenarios to understand the 
+possible short, medium, and longer-term 
+impacts to operational assets. The scenarios 
+align with TCFD recommendations, the 
+Australian government’s commitments to 
+meet the United Nations’ Paris Agreement, 
+and the IPCC’s Representative Concentration 
+Pathways (RCP 2.6, 4.5, 8.5). Through 
+implementation and use of each scenario, a 
+consistent set of assumptions inform our risk 
+assessment and management process and 
+enable us to consider a full range of possible 
+outcomes.
+
+Importantly, each of the three climate 
+scenarios also present opportunities across 
+the various time horizons. These include 
+asset efficiencies through improved design, 
+sustainable finance, adoption of innovative 
+technology, the use of low carbon materials, 
+and uptake of zero emission vehicles. We 
+will continue to explore the significance of 
+these opportunities to enable our business 
+and operations to drive longer-term positive 
+change and strengthen our organisational 
+resilience.
+
+Example of scenario information provided to 
+responding teams for the purposes of the exercise 
+(Source: Bureau of Meteorology)
+
+Climate Change 
+Disclosure FY22 Climate change 
+
+disclosure FY22
+
+Climate Change 
+Disclosure FY22StrategyGovernance Metrics and targetsIntroduction Risk management StrategyStrategyGovernanceIntroduction GovernanceIntroduction Metrics and targetsRisk management Metrics and targetsRisk management
+
+
+
+16 17
+
+3.4 Key studies 
+and engagement 
+undertaken in 
+FY22
+
+Several studies and engagement 
+activities were conducted in FY22 to further 
+understand potential organisational impacts 
+associated with climate change. We continue 
+to build our knowledge base on potential 
+longer-term asset adaptation measures, and 
+associated adaptation pathways to transition 
+and enhance our resilience over time. 
+
+An outline of the detailed assessments and 
+engagement activities is provided below:
+
+• Enterprise physical climate-related risk 
+materiality assessment: We engaged a 
+climate specialist to undertake a detailed 
+review and assessment of priority climate 
+risk drivers across our operational assets. 
+The purpose was to understand potential 
+materiality across the organisation 
+associated with physical climate change 
+impacts. This study will inform part 
+of a broader financial climate-related 
+assessment to be conducted from FY23, 
+which will define key financial metrics 
+associated with our organisation’s material 
+climate-related risks. 
+
+• Case studies reflecting on extreme 
+climate events already experienced: An 
+interactive workshop was held with key 
+stakeholders from each Australian market 
+to discuss how recent extreme weather 
+events experienced in each region affected 
+the operations and resilience of our assets. 
+The outputs from each workshop informed 
+where potential material risks could lie over 
+the longer-term time horizon, and further 
+support the enterprise physical climate risk 
+materiality assessment (mentioned above).
+
+• Climate scenario review: We undertook 
+a detailed review of our three climate 
+scenarios to capture the most recent 
+physical scientific findings by the IPCC, 
+the United Nations Climate Change 
+Conference (COP26 summit) outcomes, 
+and the broader regulatory changes 
+across Australia and North America. Our 
+scenarios align with RCP 2.6, 4.5 and 
+8.5, and include characteristics such as 
+carbon market and pricing, technology, 
+stakeholders and regulation, and physical 
+science. 
+
+• Emergency management exercise on 
+the Hills M2: Taking into consideration 
+the outcomes of the climate risk and 
+adaptation assessment developed in FY21 
+for the Hills M2 Motorway, the Business 
+Resilience team conducted an emergency 
+
+—Case study—
+
+Reflecting on extreme climate events experienced and 
+asset resilience
+
+Melbourne: Severe storm event
+Climate event background: 
+
+On 27 and 28 January 2022, 
+thunderstorms brought strong winds, 
+heavy rainfall, hail, and flash flooding 
+to the western and central parts of 
+Melbourne. Hailstones measuring three 
+centimetres were reported, in addition to 
+damaging lightning strikes causing power 
+outages and flash flooding. 
+
+Observed impacts on our assets and 
+operations: 
+
+Based on a workshop with market 
+stakeholders in Victoria, the impacts of 
+the severe storm event were discussed 
+in terms of the asset performance and 
+operations. The road and tunnel design 
+were considered resilient to severe 
+storm events due to design features 
+such as drainage designed for large 
+rainfall events. Severe storms impacted 
+construction both directly and indirectly 
+by generally generating delays. Impacts 
+included reduced crane operations in 
+severe winds and stop work and safe 
+work orders onsite. These impacts 
+however were not considered significant.
+
+Direct impacts to operations observed 
+during this storm event were mostly 
+confined to flooding hotspots such as 
+on-ramps, or where the assets joined 
+other networks. The severe storm event 
+produced minor operational impacts. 
+Minor maintenance issues were also 
+reported such as clearing fallen branches 
+on the roadside. Despite the severity of 
+lightning strikes and grid failures during 
+the event, power outages were not 
+problematic because the assets have 
+dual feed power systems from different 
+suppliers and back-up power networks 
+capable of providing supply over an 
+extended period.
+
+Reflecting on the storm event and 
+associated direct and indirect impacts, 
+the group collectively noted minimal 
+overall impact. 
+
+Sydney: Black Summer 
+bushfires
+Climate event background: 
+
+In December 2019 and January 2020, 
+drought and a heatwave in Sydney 
+saw temperatures reach around 45°C 
+and create favourable conditions for 
+persistent bushfires. Smoke and dust 
+storms created poor air quality and 
+reduced air quality and visibility in the 
+area. As a result of these conditions 
+persistent bushfires were generated 
+which led to indirect impacts of smoke 
+and dust storms causing poor air quality 
+and reduced visibility in Sydney.
+
+Observed impacts on our assets and 
+operations: 
+
+The compound event was discussed in a 
+workshop held with market stakeholders 
+in NSW. Significant pressure on the air-
+conditioning units in Intelligent Transport 
+Systems (ITS) equipment rooms on open 
+road assets was noted, with the lifespans 
+of these units known to be considerably 
+reduced with excessive prolonged heat 
+and increased workloads. On the Hills 
+M2 and M5 Southwest, both open road 
+motorways, near misses were reported 
+from localised bushfires. There were no 
+reported issues with the prolonged heat 
+or drought on the geotechnical integrity 
+of the assets, and landscaping was found 
+to be resilient due to the hardy, drought-
+tolerant Australian natives planted.
+
+From an operational perspective, the 
+excessive heat resulted in stop work 
+orders and health and safety concerns for 
+outdoor staff and contractors, particularly 
+those involved in landscaping-related 
+maintenance activities. There was also an 
+increase in vehicle breakdown frequency 
+during the peak heatwave events. 
+Visibility was impacted by smoke haze 
+and as a result speed restrictions were 
+imposed for safety purposes.
+
+Overall, the group noted there 
+were impacts experienced across the 
+assets due to the compound of events, 
+predominantly for the open road assets. 
+However, the controls in place ensured 
+that the assets remained safe and 
+operational. 
+
+Brisbane: East-coast flooding 
+event
+Climate event background: 
+
+A back-to-back La Niña event persisted 
+throughout 2021 and into 2022 
+generating above average rainfall across 
+Greater Brisbane. A total of 792.9mm 
+of rainfall was recorded in Brisbane 
+City over 6 days from 23 to 28 February 
+2022, which is 78% of the annual average 
+rainfall. This rainfall led to significant river 
+and creek level rises, causing extensive 
+and significant flooding along the 
+Brisbane River. 
+
+Observed impacts on our assets and 
+operations: 
+
+A workshop was held with market 
+stakeholders in Queensland to reflect on 
+the extreme event experienced. Most of 
+the reported impacts occurred during 
+the acute period of intense rainfall in the 
+last week of February 2022. Open road 
+assets are designed for 1 in 100-year 
+rainfall events, and tunnel assets for 1 in 
+1000-year events. They were therefore 
+largely resilient to this event. Geotechnical 
+impacts to open road assets such as 
+embankment slips were noted as the 
+most significant. Low lying roadside 
+cabinets were also inundated and full 
+replacement was required post-event, 
+which resulted in some minor cascading 
+impacts to services and operations.
+
+Pleasingly, all assets remained open 
+and direct impacts on operations were 
+relatively minor. The pumping systems 
+proved to be effective where localised 
+flooding was experienced, and some 
+back-up tankers were deployed to 
+prevent overflows.
+
+Taking into consideration the scale 
+and extreme intensity of the event, the 
+group concluded that inundation impacts 
+were relatively minor and short lived. A 
+comprehensive internal post incident 
+review was conducted to ensure both the 
+resilience of the assets and future lessons 
+learnt were captured.
+
+CityLink, Melbourne (Source: Transurban)
+
+Sydney CBD blanketed by smoke from bushfires 
+(Source: BBC News, https://www.bbc.com/news/world-
+australia-50468450)
+
+One of Transurban’s assets, Go Between Bridge, 
+showing the river level >4.25m RL which is considered 
+a 1 in 100-year event (Source: Transurban)
+
+management desktop exercise with the 
+NSW Business based on the extreme 
+weather projections for the asset. The 
+scenario highlighted the importance of 
+preparing the asset and response teams in 
+the lead up to predicted extreme weather 
+events and demonstrated the challenges 
+of responding to a dynamic event.  
+
+• Climate-related risk analysis across 
+our supply chain: As a result of indirect 
+engagement with our major suppliers,  
+an analysis was conducted to understand 
+the potential impacts of climate-related 
+physical and transition risk across our 
+supply chain. This will inform future 
+engagement to define areas of opportunity 
+and further risk mitigation with our 
+suppliers.
+
+• Infrastructure Sustainability (IS) 
+Operations rating on the Hills M2 
+Motorway: We have submitted an IS 
+Operations Rating on the Hills M2, and are 
+awaiting the final verified outcome. As part 
+of the rating, a detailed climate risk and 
+adaptation assessment was completed, 
+and the highest possible score for the 
+assessment was verified. This means that 
+over 50% of the identified adaptation 
+actions have been implemented in line with 
+the time implementation thresholds, and 
+the assessment aligned with all operational 
+requirements of the IS Rating Scheme.
+
+• Queensland open road and tunnel 
+climate risk adaptation assessment: 
+Detailed climate risk and adaptation 
+assessments were undertaken on two 
+Queensland assets to understand 
+possible adaptation required across short, 
+medium, and long-term timeframes. The 
+assessments considered potential impacts 
+on an open road (Gateway Motorway) 
+and a tunnel asset (Legacy Way). Given 
+the timing of when the assessments were 
+conducted, integration of the February 
+2022 flooding event was considered and 
+reviewed during the process. 
+
+• WestConnex M4-M5 Link Tunnel 
+design and construction: A workshop 
+and subsequent review was held with the 
+WestConnex and the contractor (ASBJV) 
+teams to discuss the climate-related risk 
+and adaptation measures implemented 
+on the M4-M5 Link tunnels from the 
+design and construction phases of asset, 
+prior to the asset becoming operational. 
+The purpose of the workshop was to 
+capture the applicable climate-related 
+risks for integration into Transurban’s 
+risk management system for ongoing 
+monitoring by the WestConnex Operation 
+and Maintenance team.  
+ 
+ 
+(Continued on page 18)
+
+Climate Change 
+Disclosure FY22 Climate change 
+
+disclosure FY22
+
+Climate Change 
+Disclosure FY22StrategyGovernance Metrics and targetsIntroduction Risk management StrategyStrategyGovernanceIntroduction GovernanceIntroduction Metrics and targetsRisk management Metrics and targetsRisk management
+
+
+
+18
+
+19
+
+In the short-term, from FY23 to FY25, we 
+will focus on continuing to develop asset-
+specific CRAMPs across our Australian and 
+North American markets, and start assessing 
+the financial implications associated with the 
+physical impacts of climate change. Through 
+these assessments, we will enhance our 
+current understanding of the longer-term 
+impacts of climate change and potential 
+financial impacts. Additional studies to 
+determine the broader network impacts 
+of extreme weather events, in line with the 
+management priorities identified in our 
+Climate Change Framework, are planned 
+from FY24. 
+
+3.5 Our progress 
+towards 
+understanding 
+financial impacts 
+
+Climate change poses both a threat 
+and an opportunity to our business. It 
+could therefore potentially have a range of 
+impacts on our financial performance. The 
+extent of financial impacts on our business 
+relies on our organisational response to 
+the various risks and associated adaption 
+pathways identified, continued integration of 
+climate-related risk with our operational and 
+financial processes, and our effectiveness in 
+capitalising on emerging opportunities. Our 
+current understanding of climate-related 
+financial risk is that climate change may have 
+an impact on one or more of the TCFD’s 
+four major financial categories (revenues, 
+expenditures, assets and liabilities, and 
+capital and financing) particularly over the 
+long-term. We have previously mapped the 
+potential climate-related financial impacts on 
+our business against these categories. 
+
+In FY22 we engaged a climate specialist to 
+undertake a detailed review and assessment 
+of priority climate risk drivers to understand 
+the potential materiality across the 
+organisation associated with physical climate 
+change impacts. This study will inform a 
+broader financial climate-related assessment 
+to be conducted from FY23, which will 
+define key financial logic maps and metrics 
+associated with our material climate-related 
+risks. 
+
+As part of the study, we have mapped 
+at a high-level the potential impact flow, 
+intermediate implication, and associated 
+outcomes which could affect our financial 
+
+Increased 
+instance of 
+extreme rainfall
+
+Flooding on 
+Transurban roads 
+and connecting 
+arterials
+
+Disruption for 
+road users
+
+Reduced 
+toll road 
+trips
+
+Increased 
+maintenance 
+of drainage 
+
+Figure 4: Example climate-related logic 
+map for increased instance of extreme 
+rainfall
+
+processes. An example of a climate-related 
+logic map is illustrated in Figure 4 for the 
+risk of increased instance of extreme 
+rainfall. In this example extreme rainfall 
+could lead to financial impacts on revenue 
+and maintenance costs and have two key 
+financial reporting impacts on our financial 
+statements: firstly, lower revenues and 
+higher costs could impact the valuation of 
+our concession assets and secondly, bringing 
+forward expected maintenance activities 
+could increase maintenance expense and 
+maintenance provisions. We will continue to 
+investigate these potential impacts in FY23 
+and beyond.
+
+3.5.1 Group financial statement 
+climate-related considerations
+
+We have considered the potential financial 
+reporting impacts and disclosures related to 
+climate change in our financial statements, 
+with particular reference to the Australian 
+Accounting Standards Board/International 
+Accounting Standards Board Practice 
+Statement 2 Making Materiality Judgements 
+(PSA/PS 2) which summarises the best 
+practice interpretation of materiality in the 
+context of the financial statements.
+
+In FY22 we have updated our largely 
+qualitative consideration of the potential 
+financial reporting impacts on the Group’s 
+financial statements from the climate-
+related financial risks identified, through 
+analysis of the studies and engagement 
+activities conducted during the period. 
+We have analysed the actual impacts of 
+severe weather events already experienced 
+in respect to our various assets (refer to 
+section 3.4 ). The research and discussions 
+with external advisors to date indicate 
+that the key potential impact areas may 
+include impairment of assets, maintenance 
+provisions, contingent liabilities as well as 
+expenses.  
+
+We note that our financial statements 
+include assets and liabilities supported by 
+cash flows that extend into the medium 
+and long term, and climate change could 
+have financial impacts particularly over the 
+long-term that may impact our financial 
+statements. Further work is required to 
+better understand the potential financial 
+impacts and therefore financial reporting 
+impacts. We will also consider the potential 
+impacts of the proposed ISSB’s first two 
+standards for future Disclosures5.
+
+As our understanding of financial impacts 
+progresses into the future, we will also 
+seek to embed climate-related data into 
+the measurement of impacted financial 
+statement line items.
+
+Section 4:  
+Risk 
+management  
+
+5 IFRS S1—General Requirements for Disclosure of Sustainability-related Financial Information; IFRS S2—Climate-related  
+  Disclosures
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk management
+
+Climate change 
+disclosure FY22StrategyGovernance Metrics and targetsIntroduction Risk management
+
+
+
+20 21
+
+4.1 Climate change risk management 
+Climate change is considered a strategic 
+
+business risk (refer to Corporate Report 
+Governance and Risk management section). 
+We identify and manage climate-related 
+risks through our business-wide Climate 
+Risk and Adaptation Guideline. Aligning with 
+and supporting Transurban’s enterprise 
+approach to risk management, the Guideline 
+describes the process we use to identify, 
+asses, manage, and escalate climate-related 
+risks and document them in asset-specific 
+CRAMPs which ensures we are operating 
+as a business within our risk appetite. We 
+continue to develop asset-specific CRAMPs 
+for our operational assets in each market 
+and have also integrated climate-related risk 
+into our Strategic Asset Management and 
+Operations Plan, as well as at a business 
+and strategic level. These Plans are also 
+integrated into our business resilience 
+activities and enable teams to exercise and 
+enhance their response to climate-based 
+disruption events. A high-level summary of 
+our climate change risk management process 
+is outlined in Table 3 below.
+
+Given climate-related risk continues to 
+evolve, it is essential to monitor emerging 
+trends, our climate-related metrics, changes 
+across the regulatory environment and 
+potential for disruption across our supply 
+chains. A holistic review of our climate 
+scenarios was undertaken in FY22, to ensure 
+that assumptions and potential impacts 
+remain up to date with the national and 
+international trends, and latest physical 
+climate science. 
+
+Six strategic climate-related risk themes 
+including four threats and two opportunities 
+inform our Climate Change Framework 
+(Figure 1). Climate-related operational risks, 
+which apply to corporate services, our 
+customer and asset teams, are identified, 
+reviewed, and updated regularly. Business-
+wide climate-related risks are reviewed every 
+12-18 months or more regularly based on 
+their potential consequence. 
+
+For new assets, we endeavour to include 
+contractual requirements to undertake a 
+climate change risk assessment, consider 
+the impact of design and construction 
+on the environment, and achieve third-
+party sustainability performance ratings. 
+In Australia, all major construction and 
+development projects are required to achieve 
+at least an ‘Excellent’ IS rating through 
+design and construction. The IS rating tool is 
+facilitated by the Infrastructure Sustainability 
+Council (ISC), and benchmarks best practice 
+sustainability standards on infrastructure 
+assets across planning, design, construction, 
+and operation phases. Specific requirements 
+for climate risk and adaptation are included 
+in the tool, which drives projects to deliver 
+innovative and resilient infrastructure under 
+a worst-case scenario of approximately 
+4-degrees of warming by 2100. In North 
+America, we have committed to achieving 
+‘Envision’ sustainability ratings from the 
+Institute for Sustainable Infrastructure for two 
+current major construction and development 
+projects (Fredericksburg Extension and the 
+495 Express Lanes Northern Extension).
+
+Within our supply chain, we regularly 
+engage with our major suppliers to 
+disclose GHG emissions, reduction targets 
+and outcomes via CDP, which provides a 
+standardised approach to data collection 
+including noting the physical and transition 
+climate-related risk components. We have 
+assessed our first round of responses  
+in FY22 which are detailed on the  
+following page.
+
+By integrating climate-related threats and 
+opportunities into our risk management 
+approach, systems and processes, we are 
+well positioned to anticipate, manage, and 
+ultimately strengthen the resilience of our 
+business into the future.
+
+Key steps Description
+
+1. Training and engagement Engage a multidisciplinary team. Where applicable, conduct a preliminary workshop to ensure consistent 
+understanding of the climate change framework, supporting risk guidelines, and climate risk and adaptation 
+identification process. 
+
+2. Climate research Establish scope, context and criteria for climate risk assessment, and undertake relevant climate research 
+aligned with climate scenarios across short, medium and long-term time horizons. Research historical and 
+future climate data applicable to the scope of the assessment.
+
+3. Plan Collate previous climate-related risk assessments which are applicable, and obtain relevant design, 
+maintenance and operational information to conduct the risk assessment. 
+
+4. Risk and adaptation 
+identification
+
+Complete a risk assessment in line with the ERM Framework, to identify the likelihood, impacts, consequence 
+and risk rating in line with the climate projections from step 2. Conduct a workshop for both climate-related risk 
+and adaptation to capture inherent and residual risk ratings.
+
+5. Report Develop a Climate Risk and Adaptation Management Plan (CRAMP) based on the workshops and stakeholder 
+engagement. The Plan should include adaptation pathways to implement the applicable actions and mitigation 
+measures over different time horizons.
+
+6. Monitoring and review Embed the CRAMP findings into Active Risk Manager (ARM) for ongoing monitoring and review by the applicable 
+risk and action owners. Complete a review of strategic and operational climate-related risks every 12-18 months.
+
+7. Audit and assurance Test and confirm identified control measures, where applicable. Undertake ongoing audits of broader risk 
+management processes.
+
+Table 3: Climate change risk management process
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk management
+
+In FY22 we asked major suppliers 
+(excluding our major construction and 
+development projects) to participate in 
+CDP supply chain reporting which provides 
+a consistent climate change questionnaire 
+for nominated suppliers. 
+
+The results provided us with a detailed 
+understanding of the extent of risk 
+identification, mitigation, and management 
+by our top 50 major suppliers and some 
+of their climate-related physical and 
+transition risks. A total of 56 climate-
+related risks were identified by our 
+suppliers who operate in the professional 
+services, Intelligent Transport Systems (ITS) 
+equipment, Information Technology (IT) 
+
+Climate-related risk in our 
+supply chain
+To meet our interim scope 3 GHG emission reduction targets and  
+long-term commitment to net zero GHG emissions and to ensure 
+the resilience of our operations and business strategy, we seek to 
+understand our suppliers’ commitments to GHG reduction and 
+addressing climate-related risks.
+
+services, telecommunications service, and 
+engineering services sectors. The findings 
+are shown in Figure 5 below, with climate-
+related risks mapped against identified 
+locations. The key geographical hotpots are 
+highlighted below:
+
+• Japan: suppliers identified physical 
+risks relating to rising temperatures and 
+extreme weather, and transition risks 
+relating to carbon pricing and change in 
+the regulatory environment.
+
+• India: suppliers identified physical 
+risks relating to increased severity and 
+frequency of extreme events (namely 
+cyclones, floods, and extreme heat) and 
+variability in weather events.
+
+• Europe: suppliers identified physical 
+risk relating to increased severity 
+and frequency of extreme weather 
+events and transition risks relating to 
+carbon pricing, enhanced reporting 
+and regulation and reputational risks. 
+Countries of focus include the United 
+Kingdom, France, Spain, Poland, 
+Germany, Italy, and the Netherlands. 
+
+• Philippines: suppliers identified physical 
+risks relating to increased severity and 
+frequency of extreme weather events.
+
+• Australia: suppliers identified physical 
+risks relating to the increase of extreme 
+weather events and bushfires, making 
+reference to the Black Summer bushfires. 
+
+This analysis will form part of our 
+broader sustainable procurement program 
+and supply chain climate-related risk 
+management. 
+
+Further engagement with our suppliers 
+will continue over the coming years to 
+review and enhance climate-related risk 
+identification, and associated mitigation 
+and adaptation where required.
+
+Climate change 
+disclosure FY22
+
+—Case study—
+
+India
+
+IT services
+Professional services
+
+Singapore
+
+Telecommunications 
+services
+
+Philippines
+
+IT services
+Professional services
+
+Australia
+
+Telecommunications 
+services
+Professional services
+
+Taiwan
+
+IT services
+
+China
+
+IT services
+Telecommunications 
+
+services
+
+Japan
+
+IT services
+Telecommunications 
+services
+
+Europe
+
+Electrical equipment
+Professional services
+
+UK
+
+Engineering services
+
+USA
+
+Professional services
+
+Chile
+
+Engineering services
+
+Bubble size equates to the accumulation of climate-related physical or transition risk Physical risk Transition risk
+
+Figure 5: Supply chain climate-related risk in FY22
+
+StrategyGovernance Metrics and targetsIntroduction Risk management
+
+https://www.transurban.com/corporate-report-2022#page=88
+https://www.transurban.com/corporate-report-2022#page=88
+
+
+22 23
+
+4.2 Managing strategic climate-related risks 
+The strategic climate-related risk themes 
+
+(threats and opportunities) and our 
+responses are outlined in Table 4 below. 
+The six themes represent our current 
+understanding of the most material and 
+relevant potential climate-related physical 
+and transition impacts to our organisation 
+and business operations across our three 
+climate change scenarios. We consider 
+possible impacts across different time 
+horizons, the consequence and likelihood 
+the risk will be realised, the relationship 
+
+with our organisational strategy and 
+financial systems, and the effectiveness 
+of existing controls. Our management 
+response provides commentary of the 
+interdependencies across the strategic 
+risk (threat and opportunity) themes, and 
+the relevant financial category which could 
+impact our financial processes. Each risk 
+theme is supported by detailed control and 
+management measures at the organisation 
+and asset levels where applicable. 
+
+Table 4: Our strategic climate-related risk response
+
+Threats
+
+Threat 1:  
+Unexpected changes to stakeholder expectations, government policies and regulations in relation to climate change create an 
+unfavourable operating environment, impacting our reputation and financial performance 
+
+Current risk rating Medium
+
+Relevant scenarios & 
+timeframes
+
+All scenarios (1.5°C, 2°C, 4°C)  
+Medium-term
+
+Relevant financial category* Revenues, expenditures, assets and liabilities, capital financing
+
+Relevant climate-related 
+risk category**
+
+Acute and chronic physical risk, policy and legal, market, reputation
+
+Potential business impacts • Changes to infrastructure approval and concession deed requirements.
+
+• Increased capital expenditure and operating costs.
+
+• Increased risk of litigation associated with emissions and our contribution to climate change.
+
+• Introduction of more stringent lending requirements.
+
+• Community concern related to emissions affect travel and choice of transport method.
+
+• Global supply chain impacts from carbon pricing, extreme weather events, pandemics (such as COVID-19) and 
+resource constraints.
+
+Our management response • Interim (2030) and long-term (2050) GHG emission reduction targets in place. Example of progress against these 
+targets in FY22 includes:
+
+ – In FY22, 56% of our electricity needs were met through renewable energy with this increasing to 66% at the 
+end of the period (all Australian markets now have renewable energy supply agreements in place); and
+
+ – We continue to pursue opportunities to reduce embodied GHG emissions in materials such as concrete and 
+asphalt across the lifecycle of our assets. 
+
+• Continuing our sustainable procurement program and supplier engagement. We commenced annual reporting for 
+our top 50 suppliers via the CDP – refer to the case study.
+
+• Ongoing monitoring of environmental and climate-related litigation cases, and broader media and rhetoric such as 
+greenwashing. 
+
+• Continuing to benchmark major project and operational asset sustainability performance against robust, third-
+party standards. In FY22 we submitted our first IS Operational rating (Hills M2 Motorway) and are awaiting the final 
+verified outcome.
+
+Short-term focus areas 
+(FY23-FY25)
+
+• Continue our decarbonisation agenda to meet emission reduction targets.
+
+• Continue implementing the sustainable procurement program, including engagement on identified climate-related 
+risk areas.
+
+• Engage government partners and industry to understand potential future changes to climate-related policy and 
+regulations and responses.
+
+• Start investigating possible wider network impacts across the markets where we currently operate.
+
+• Continue to monitor and refine our climate-related metrics.
+
+Threat 2:  
+Increase in incidence of severe weather events and average temperature affects lifecycle planning, disrupts operations, and increases 
+operating costs
+
+Current risk rating Medium
+
+Relevant scenarios & 
+timeframes
+
+2°C and 4°C scenarios 
+
+Medium to long-term
+
+Relevant financial category* Revenues, expenditures, assets and liabilities    
+
+Relevant climate-related 
+risk category**
+
+Acute and chronic physical risk, market   
+
+Potential business impacts • Disruption to power supply, possibly leading to increased operating costs and increased likelihood of blackouts.
+
+• Heat-related injuries affect employee/ contractor safety.
+
+• Road user safety is affected in extreme weather events (water over road, reduced visibility). 
+
+• Disruption to asset lifecycle, causing delays and possibly increasing funding allocation.
+
+Our management response • Adhering to and implementing robust design standards in accordance with best practice and state-mandated 
+specifications which address weather-related impacts. Refer to section 4.3 for further detail. 
+
+• Continually monitoring asset performance, implementation of preventative and regular maintenance schedules, 
+and ongoing asset inspections.
+
+• Undertaking ongoing lifecycle planning processes for individual assets.
+
+• Capturing existing and emerging risks and applying mitigation measures via our HSE management and risk 
+management systems and processes. This includes development of asset-specific CRAMPs, and integration of 
+identified risks and adaptation measures into the enterprise risk management software system, ARM.
+
+• Applying our road safety approach which includes road safety action plans and performance measurement.
+
+• Conducting climate-related risk reviews to ensure emerging trends, threats and opportunities are captured. 
+
+Short-term focus areas 
+(FY23-FY25)
+
+• Continue the development of asset-specific CRAMPs, expected to be complete across our markets by FY24.
+
+• Develop and implement a climate change training module in FY23 for relevant teams.
+
+• Commence detailed financial impact assessment in FY23, based on the climate-related logic maps defined this year.
+
+Threat 3:  
+Macroeconomic/ land use changes, caused by climate policy, and severe weather events, alter city travel patterns, development 
+opportunities, and toll road use impacting traffic models and revenue
+
+Current risk rating Low
+
+Relevant scenarios & 
+timeframes
+
+All scenarios (1.5°C, 2°C, 4°C)
+
+Long-term
+
+Relevant financial category* Revenues, expenditures, assets and liabilities    
+
+Relevant climate-related 
+risk category**
+
+Acute and chronic physical risk, policy and legal, technology, market, reputation
+
+Potential business impacts • Economic growth slows and affects future development/growth opportunities. 
+
+• Reduction in long-term revenue as city travel patterns shift due to climate impacts. 
+
+Our management response • Ongoing monitoring of travel patterns and patronage across the markets where we operate through our strategic 
+traffic modelling capability.
+
+• Ongoing monitoring of our valuation and project due diligence processes. 
+
+• Continued tracking of national and global climate policies, changes to insurance and city planning, and the rate in 
+which Australia and North America transition to renewables. 
+
+Short-term focus areas 
+(FY23-FY25)
+
+• Commence detailed financial impact assessment in FY23, based on the climate-related logic maps defined this 
+year; and
+
+• Continue investigating and monitoring long-term transition and physical impacts across our asset operations. 
+
+Climate Change 
+Disclosure FY22 Climate change 
+
+disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk management
+
+
+
+24 25
+
+Threat 4:  
+Access to and use of our roads and tunnels is impacted during extreme weather events and in periods of extended rain/heat
+
+Current risk rating Medium
+
+Relevant scenarios & 
+timeframes
+
+2°C and 4°C 
+
+Medium to long-term
+
+Relevant financial category* Revenues        
+
+Relevant climate-related 
+risk category**
+
+Acute and chronic physical risk, reputation
+
+Potential business impacts • Changes to toll revenue. 
+
+• Changes to traffic patterns and forecasts.
+
+• Impacts on customer safety.
+
+Our management response • Ongoing implementation of asset-specific CRAMPs to identify potential hotspots on our operational assets.
+
+• Ongoing monitoring of the development and implementation of resilience and adaptation plans for surrounding 
+(non-Transurban) road and tunnel infrastructure.
+
+Short-term focus areas 
+(FY23-FY25)
+
+• Further investigation of behaviour and travel pattern changes during extreme weather events and the surrounding 
+(non-Transurban) road infrastructure’s level of resilience. 
+
+• Continue to monitor and refine our climate-related metrics.
+
+• Ongoing engagement and cooperation with government partners to help improve overall city resilience.
+
+Opportunities
+
+Opportunity 1: 
+Showcase our leadership in climate-risk management to open new market opportunities, strengthen relationships with existing 
+government partners, and capitalise on innovation opportunities
+
+Current risk rating High
+
+Relevant scenarios & 
+timeframes
+
+1.5°C scenario
+
+Short to medium-term
+
+Relevant financial category* Revenues, expenditures, assets and liabilities, capital financing
+
+Relevant climate-related 
+risk category**
+
+Acute and chronic physical risk, energy sources, products and services, markets, resilience, resource efficiency
+
+Potential business impacts • New market opportunities.
+
+• Favourable lending rates.
+
+• Increased trust and reputation with community and other key stakeholders. 
+
+• Partnership opportunities for research and innovation.
+
+Our management response • Implementing Transurban’s Sustainability Strategy which aligns with the UN SDGs which is driving transformative 
+outcomes across the business (Strategy addresses opportunities including energy efficiency, GHG emission 
+reduction, and climate risk management).
+
+• Active engagement and partnering with our supply chain, government partners, and industry to enhance 
+sustainability outcomes for our projects, assets, and communities.
+
+• Continue to drive implementation of lower emission materials into the future via our role as a founding member of 
+the Materials Embodied Carbon Leaders Alliance (MECLA).
+
+• Strengthen asset resilience into the future through improved technologies and implementation strategies.
+
+• Ongoing disclosure and engagement with our investors.
+
+Short-term focus areas 
+(FY23-FY25)
+
+• Develop and implement a compulsory training module for relevant teams in FY23.
+
+• Ongoing involvement with MECLA.
+
+• Ongoing engagement and partnerships with our supply chain, government partners, and industry.
+
+Opportunity 2: 
+Take proactive steps to reduce scope 1, 2 and 3 greenhouse gas emissions and customer emissions, and transition to Net Zero
+
+Current risk rating High
+
+Relevant scenarios & 
+timeframes
+
+All scenarios (1.5°C, 2°C, 4°C) 
+
+Short to medium-term
+
+Relevant financial category* Revenues, expenditures, assets and liabilities, capital financing
+
+Relevant climate-related 
+risk category**
+
+Acute and chronic physical risk, energy sources, products and services, markets, resilience, resource efficiency
+
+Potential business impacts • Mitigate impacts associated with any carbon taxes and fluctuations in pricing.
+
+• Reduce operating expenditures (energy).
+
+• Demonstrated leadership in sustainability. 
+
+• Improved trust and reputation with stakeholders.
+
+Our management response • Energy reduction through progress towards our 10 in 10 target – In FY22 we completed several major energy 
+efficiency initiatives bringing our total energy efficiency savings to 8.3%, reducing our annual energy consumption 
+by 46,815 GJ. 
+
+• In FY22, 56% of our electricity needs were met through renewable energy, with this increasing to 66% at the end of 
+the period.
+
+• Continuing to review and implement, where feasible, lower-carbon and circular materials on current and new 
+assets.
+
+• Continuing to commit to low-carbon materials on our major construction and development projects. For example, 
+the WestConnex M4-M5 Link Tunnels project is using high supplementary cementitious material (SCM) content in 
+concrete mixes. 
+
+Short-term focus areas 
+(FY23-FY25)
+
+• Develop a corporate Low-carbon and Circular Materials Strategy to increase the use of low-carbon alternatives and 
+reduce associated GHG emissions.
+
+• Continue to implement energy efficiency initiatives and fleet transition to zero emission vehicles (ZEVs).
+
+• Work to reduce customer emissions through encouraging uptake of ZEVs, promoting eco-driving practices and 
+optimising our infrastructure.
+
+*    Financial category aligns with the TCFD categories, based on high-level financial impact mapping 
+** Climate-related threats have been mapped against the TCFD categories outlined in the TCFD Implementation Guideline 2021 Table A1.1, and climate-related opportunities have been     
+     mapped against the TCFD Implementation Guideline 2021 Table A1.2
+
+Climate Change 
+Disclosure FY22 Climate change 
+
+disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk management
+
+
+
+2626 27
+
+Transurban’s major 
+construction and development 
+projects are required to 
+undertake a climate-related 
+risk assessment as part of 
+the design and construction 
+phases. 
+
+Sydney’s M4-M5 Link Tunnels are the 
+final component of WestConnex and 
+feature twin tunnels between the New M4 
+at Haberfield and the M8 at St Peters, and 
+stub tunnels to Rozelle Interchange. 
+
+A detailed climate-related risk and 
+adaptation assessment was undertaken for 
+the project to identify current and future 
+adaptation actions and mitigate risks 
+over the forecast useful life of the asset. 
+Climate-related risks are being mitigated 
+according to optimal scale and timing 
+by considering distribution and severity. 
+The adaptation pathways approach was 
+adopted for risk treatment. To guide 
+the selection of adaptation options 
+AS5334:2013 Climate change adaptation 
+for settlements and infrastructure – a risk-
+based approach, was used. Considerations 
+included:
+
+• effectiveness and robustness of 
+adaptation over the life of the 
+infrastructure, including the flexibility to 
+respond to changing climatic conditions;
+
+• practicability of implementation 
+including consideration of related 
+operational and maintenance activities;
+
+• economic efficiency of operation and 
+ongoing maintenance; and
+
+• greenhouse gas emission implications. 
+
+During the design and construction 
+phase, risks were mapped to design 
+packages to identify adaptation options 
+that could be applied during design and 
+construction. For example, temperature 
+and heatwave risks to tunnel equipment 
+may have impacted four design packages: 
+durability, ventilation equipment, 
+instrumentation, and monitoring. 
+The severity of risks was considered 
+to understand their distribution and 
+prioritisation for integration into the design.
+
+The project has ultimately embedded 
+a range of mitigation measures into 
+the design of the asset, in line with the 
+adaptation pathways approach. Design 
+features implemented to enhance asset 
+resilience include:
+
+• Flood mitigation design features such 
+as conservative groundwater infiltration 
+measures, sump-and-pump redundancy 
+and associated sizing to delay overflow, 
+back-up power for emergency 
+equipment, appropriately sized Gross 
+Pollutant Traps for drainage systems, and 
+the ventilation building floor level is set at 
+appropriate flood levels to allow for the 
+modeled climate scenarios.
+
+• Durability assessment of the materials 
+used to construct the tunnels. This 
+included concrete reinforcement 
+designed to prevent the initiation of 
+corrosion and the use of non-reactive 
+aggregates.
+
+• Backup power and battery systems 
+installed to cater for the event of a 
+broader network power failure. For 
+example, there are two uninterrupted 
+power systems (UPS) provided for each 
+substation. The UPS will also power 
+emergency lighting and signage. 
+
+Next steps:
+
+When the M4-M5 Link Tunnels open 
+to the public and become operational, 
+the WestConnex risk, sustainability, and 
+operational and maintenance teams 
+will undertake a detailed review of the 
+assessment.
+
+ The climate-related risks and 
+opportunities applicable to the operational 
+phase of the asset will be integrated into 
+our risk management system for continued 
+monitoring and review. This is planned to 
+occur in FY23.
+
+WestConnex M4-M5 Link Tunnel 
+design and construction
+
+Campbell Road Ventilation Facility (Source: ASBJV)
+
+ Operational sump pits for water management 
+(Source: ASBJV)
+
+High voltage power feeds for power redundancy 
+(Source: ASBJV)
+
+—Case study—
+
+Queensland operational climate risk assessments 
+Outline of assessment scope for 
+operations: 
+
+Queensland was identified as a priority 
+market in FY22 to target our asset-
+specific climate risk and adaptation 
+assessment efforts. This is due to the 
+extent and intensity of the various 
+climate projections for the Brisbane 
+region including increased intensity 
+of storm events, variance of rainfall 
+and sea level rise. The recent flooding 
+event experienced in the Brisbane 
+area in early 2022 (as mentioned in an 
+earlier case study) was also integrated 
+into the assessments given the timing, 
+significance, and relevance of the event.
+
+Legacy Way tunnel and Gateway 
+Motorway, an open road asset, were 
+investigated in detail, and a CRAMP 
+developed for each of the two assets. 
+The climate impacts considered included 
+hot days and heatwaves, rainfall and 
+flooding, bushfire weather, sea level rise, 
+and cumulative climate change impacts, 
+inclusive of transition risk. Detailed 
+climate-related risk assessments were 
+undertaken in line with RCP 8.5 to assess 
+the worst-case scenario and ensure 
+a high level of resilience across the 
+Brisbane market. 
+
+Building on the risk register and 
+adaptation options identified, additional 
+adaptation pathways workshops were 
+undertaken to identify the optimal scale 
+and timing of key adaptation actions, and 
+to understand their potential thresholds  
+
+ 
+ 
+
+and triggers for implementation over 
+the operational life of the asset. The 
+output of these workshops was two 
+adaptation pathways, which determined 
+adaptation action implementation across 
+the short, medium, and longer-term time 
+horizons, to incorporate flexibility into 
+decision-making and account for future 
+uncertainties. 
+
+The adaptation pathways were:
+
+• How can Transurban Queensland 
+maintain a safe environment for 
+customers and employees of the asset 
+given the projected increases in the 
+intensity of extreme weather events?
+
+• How can Transurban Queensland 
+maintain successful and profitable 
+motorway operations in the face of 
+accumulating physical impacts on the 
+asset, namely the increase in intensity of 
+extreme weather events?
+
+Findings and next steps: 
+
+Adaptation actions to address key risk 
+areas have been developed to ensure 
+that relevant and practical mitigation 
+measures are implemented at a scale and 
+timing that is appropriate, in response 
+to defined thresholds and triggers. 
+The effectiveness and progress of the 
+adaptation pathways and associated 
+adaptation actions will be reviewed as 
+part of the annual risk review process for 
+the market. We plan to develop asset-
+specific CRAMPs for the remaining assets 
+in the Queensland market during FY23. 
+
+Adaptation actions to 
+address key risk areas 
+have been developed 
+to ensure that 
+relevant and practical 
+mitigation measures 
+are implemented at 
+a scale and timing 
+that is appropriate, in 
+response to defined 
+thresholds and triggers. 
+
+Transurban Queensland Control 
+Room (Source: Transurban)
+
+Climate change 
+disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk management
+
+Transurban Queensland Asset Maintenance engineers inspecting the 
+flooded Inner City Bypass Breakfast Creek Tunnel following the Brisbane 
+
+floods in February 2022. This Brisbane City Council asset is designed 
+to flood when there is a rise in the water levels in the creek above the 
+normal acceptable tide levels and the hydrostatic pressure increases 
+
+putting abnormal pressure against the asset.  
+(Source: Transurban) 
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk management
+
+—Case study—
+
+
+
+28 29
+
+4.3 Possible long-term climate-related physical risk for asset 
+components 
+
+We have analysed possible long-term 
+impacts across individual asset components 
+using the most extreme climate projections 
+aligned with a 4°C scenario and identified 
+potential impacts likely to occur from now 
+until 2100. The climate projections align 
+with the latest data published by the IPCC 
+and RCP 8.5 projection data. The analysis 
+combines market-specific data which capture 
+differences across asset locations and the 
+broader markets where we operate. 
+
+Our assets are designed and delivered 
+in accordance with industry best practice 
+and state-mandated specifications which 
+address weather-related impacts. As a result, 
+our assets have a strong level of resilience 
+incorporated into their design. A long-term 
+timeframe and extreme climate scenario 
+have been used given the forecast useful life 
+of infrastructure assets, our long operational 
+concession periods, and the opportunity to 
+capture and prepare for worst-case climatic 
+
+changes. These potential long-term impacts 
+and control measures will be incorporated 
+into asset-specific adaptation plans over 
+the coming years. Table 5 summarises 
+the possible long-term impacts, current 
+controls and any short-term actions required 
+to better understand or manage each 
+respective risk. This information informs 
+our climate risk management process and 
+broader Climate Change Framework.
+
+Table 5: Potential long-term impacts and actions by asset component (4°C scenario aligned with RCP 8.5 projection data) 
+
+Asset components
+
+ Structures and surfaces
+
+Summary of projections Potential impacts
+
+Temperature increases 
+Increase in average temperatures and more frequent 
+occurrence of heat waves
+
+• Accelerated deterioration of exposed surfaces and structures
+
+Extreme weather events 
+Increased intensity and volatility of storms including hail, 
+lightning, wind, and rainfall
+
+• Storm surge causing damage to structures and footings
+
+• Accelerated deterioration of exposed surfaces and structures  
+
+Drought 
+Decrease in annual rainfall resulting in extended periods of 
+drought and subsequent increase in fire danger
+
+• Subsidence following drought reduces soil stability and impacts structures
+
+• Potential fire damage to road surfaces
+
+Sea level rise 
+Rising sea levels as polar icecaps melt and thermal expansion 
+occurs
+
+• Increased salinity leads to corrosion of structures and materials
+
+• Permanent inundation of footings and low-lying structures 
+
+• Destabilisation due to scour
+
+Snow and ice* 
+Decrease in snow and ice storms due to warming temperatures • Permanent inundation of footings and low-lying structures
+
+Examples of current controls • Existing design standards (for example design for 1 in 100-year flood)
+
+• Operations, maintenance and engineering-related management plans, procedures, 
+and systems in place for structural deterioration, changes, or disruption
+
+• Preventative and regular maintenance schedules 
+
+• Asset-specific lifecycle models
+
+• Engineering inspections of structures
+
+Actions for consideration over short and medium-term 
+time horizons
+
+Short-term:
+
+• Progressively implement asset-specific adaptation plans (CRAMPs)
+
+• Develop pavement strategy and incorporate climate projections
+
+• Monitor the asset elements’ vulnerability to the climate context and incorporate into 
+the asset lifecycle model
+
+Medium-term:
+
+• Explore opportunities for smart monitoring systems
+
+* Applicable to our North American market only based on a preliminary assessment
+
+Non-structural, roadside furniture and landscaping
+
+Summary of projections Potential impacts
+
+Temperature increases 
+Increase in average temperatures and more frequent 
+occurrence of heat waves
+
+• Adverse impacts to plant health
+• Accelerated wear of surface coatings (for example, paint and façade panels)
+
+Extreme weather events 
+Increased intensity and volatility of storms including hail, 
+lightning, wind, and rainfall
+
+• Landslides and erosion
+• Damage to vegetation plantings
+• Hail damage to roadside furniture 
+
+Drought 
+Decrease in annual rainfall resulting in extended periods of 
+drought and subsequent increase in fire danger
+
+• Landslides and erosion
+• Adverse impacts to plant health 
+
+Sea level rise 
+Rising sea levels as polar icecaps melt and thermal expansion 
+occurs
+
+• Flooding and damage to vegetation
+
+Snow and ice* 
+Decrease in snow and ice storms due to warming temperatures • Damage to roadside furniture and landscaping
+
+Examples of current controls • Management plans, inspections and preventative and regular maintenance schedules
+• Investigations into alternative, more resilient construction materials
+• Existing design standards which our assets are designed to
+• Regular arborist reviews across vegetated areas
+• CCTV camera and operator monitoring to track any damage
+
+Actions for consideration over short and medium-term 
+time horizons
+
+Short-term:
+
+• Progressively implement asset-specific adaptation plans (CRAMPs)
+• Monitor the asset elements’ vulnerability to the climate context and incorporate into 
+
+the asset lifecycle model
+
+Medium-term:
+• Continued investigations into alternative, more resilient construction materials
+
+Drainage
+
+Summary of projections Potential impacts
+
+Temperature increases 
+Increase in average temperatures and more frequent 
+occurrence of heat waves
+
+• Accelerated deterioration of exposed drainage surfaces and structures  
+
+Extreme weather events 
+Increased intensity and volatility of storms including hail, 
+lightning, wind, and rainfall
+
+• Reduced capacity of drains from rainfall and surrounding system overload 
+• Localised flooding on the network 
+
+Drought 
+Decrease in annual rainfall resulting in extended periods of 
+drought and subsequent increase in fire danger
+
+• Sediment build up as average rainfall decreases 
+• Potential fire damage to drainage surfaces and structures
+
+Sea level rise 
+Rising sea levels as polar icecaps melt and thermal expansion 
+occurs
+
+• Reduced capacity of drains because of water backflow
+
+Snow and ice* 
+Decrease in snow and ice storms due to warming temperatures • Reduced capacity of drains due to additional runoff and less frequent snow/ice events 
+
+Examples of current controls • Existing design standards that account for a 1 in 100 year flood
+• Incident response and road safety management processes 
+• Preventative and regular maintenance schedules in place
+• Engineering inspections in place
+
+Actions for consideration over short and medium-term 
+time horizons
+
+Short-term:
+
+• Progressively implement asset-specific adaptation plans (CRAMPs). This will consider 
+the impact of flooding events and sea level rise on current drainage systems
+
+• Monitor the asset elements’ vulnerability to the climate context and incorporate into 
+the asset lifecycle model
+
+Medium-term:
+
+• Model longer-term impact associated with rainfall and extreme weather events 
+across the broader networks 
+
+Climate Change 
+Disclosure FY22 Climate change 
+
+disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk management
+
+
+
+30
+
+31
+
+Section 5: 
+Metrics and 
+targets
+
+Asset components
+
+Technology/electrical
+
+Summary of projections Potential impacts
+
+Temperature increases 
+Increase in average temperatures and more frequent 
+occurrence of heat waves
+
+• Failure of equipment in extreme heat and due to temperature fluctuations
+
+Extreme weather events 
+Increased intensity and volatility of storms including hail, 
+lightning, wind, and rainfall
+
+• Failure of equipment due to blackouts or damage from lighting/power surge
+
+Drought 
+Decrease in annual rainfall resulting in extended periods of 
+drought and subsequent increase in fire danger
+
+• Potential fire damage to ITS components
+
+Sea level rise 
+Rising sea levels as polar icecaps melt and thermal expansion 
+occurs
+
+• Potential damage to ITS components
+
+Snow and ice* 
+Decrease in snow and ice storms due to warming temperatures • Potential damage to ITS components
+
+Examples of current controls • Existing design standards and broader design considerations (for example, location 
+of equipment being east or west facing)
+
+• Ruggedised roadside equipment types are considered for newer installations
+
+• Essential supplies for majority of our assets are backed by UPS and generators
+
+• Temperature monitoring and automatic alarms are enabled at some mission critical 
+systems such as tolling technical shelters
+
+Actions for consideration over short and medium-term 
+time horizons
+
+Short-term:
+
+• Progressively implement asset-specific adaptation plans (CRAMPs)
+
+• Monitor the asset elements’ vulnerability to the climate context and incorporate into 
+the asset lifecycle model
+
+Medium-term:
+
+• Consider design of critical roadside equipment to be more resilient to the impacts of 
+lightning for future installations 
+
+* Applicable to our North American market only based on a preliminary assessment
+
+Climate Change 
+Disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk management
+
+
+
+32 33
+
+Trend
+
+Up
+
+Down
+Same
+
+Metric 
+Unit of 
+measure FY20 FY211 FY222 Trend
+
+Metric 
+type
+
+Financial 
+category Commentary
+
+Threat 1: Climate change awareness and policies impact operation, reputation and financial performance
+
+T 1.1 Degree of 
+alignment with 
+government 
+partner climate 
+change policies
+
+Weak/
+Moderate/ 
+Strong
+
+Strong Strong Strong Improve Assets and 
+Liabilities
+
+Well-aligned to the growing 
+ambition in this area and support 
+current government policy.
+
+Threat 2: Severe weather affects assets lifecycle and disrupts operations 
+
+T 2.1 Number 
+of recordable 
+heat-related 
+injuries that 
+have occurred 
+(Transurban 
+employees and 
+contractors)2
+
+Number 0 0 0 Monitor Assets and 
+Liabilities
+
+T 2.2 Weather-
+related traffic 
+incidents on 
+operational 
+assets3
+
+Number 8 5 9 Monitor Assets and 
+Liabilities
+
+New metric included for FY22. 
+Multiple severe weather events 
+experienced such as major 
+flooding in Queensland.
+
+T 2.3 
+Operational 
+assets with 
+current high-
+level climate 
+change risk 
+assessments 
+
+% 80% 100% 100% Monitor 
+and 
+improve
+
+Assets and 
+Liabilities
+
+This metric refers to our business-
+wide high-level climate risk 
+assessment conducted in FY21, 
+which captured operational assets 
+at that time.
+
+T 2.4  
+Operational 
+assets with a 
+CRAMP in place
+
+% 0% 5% 14% Monitor 
+and 
+improve
+
+Assets and 
+Liabilities
+
+New metric included for FY22. This 
+metric refers to detailed CRAMPs 
+developed, which utilises the 
+business-wide high level climate 
+risk assessment conducted in 
+FY21 (refer to metric T2.3). A 
+CRAMP includes both a climate 
+risk assessment and adaptation 
+pathways for an asset. 
+
+T 2.5 Major 
+projects under 
+construction 
+with finalised 
+climate 
+change risk 
+assessments
+
+% 100% 100% 50% Monitor 
+and 
+improve
+
+Assets and 
+Liabilities
+
+New metric added for FY22 
+(previously reported in our SDG 
+Progress Report). For FY22 this 
+included West Gate Tunnel, the 
+WestConnex M4-M5 Link Tunnels 
+which have completed a detailed 
+climate risk assessment as part of 
+the IS Rating As Built submission, 
+and Fredex and 495 Express Lanes 
+in North America which plan 
+to complete a detailed climate-
+related risk assessment in FY23.
+
+5.1 Climate-related metrics 
+We use climate-related metrics and targets 
+
+to provide transparency on what we monitor 
+and the progress we are making towards 
+mitigating climate-related risks. Other 
+sustainability and environmental metrics 
+(such as water use, road injury crash index, 
+waste diversion from landfill) are referenced 
+in Transurban’s Insights Hub. As we continue 
+to progress against our Climate Change 
+Framework and our approach to climate 
+
+change evolves, we will continue to review 
+and enhance our current set of performance 
+metrics in line with TCFD guidance, 
+Implementing the Recommendations of 
+the TCFD 2021 Appendix 2, Cross-Industry 
+Climate-Related Metric Categories. Further 
+metrics may be added, and some may be 
+changed or removed.
+
+Metric 
+Unit of 
+measure FY20 FY211 FY222 Trend
+
+Metric 
+type
+
+Financial 
+category Commentary
+
+Opportunity 1: Demonstrate sustainability leadership 
+
+O 1.1 CDP 
+score4 
+
+Rating C A- B Improve Assets and 
+Liabilities
+
+CDP benchmarks increased in 
+FY22.
+
+O 1.2 
+Cumulative 
+weighted 
+average 
+Infrastructure 
+Sustainability 
+rating score5 
+
+Points 80.2 76.5 76.5 Improve Assets and 
+Liabilities
+
+Equivalent to a ‘Leading’ rating 
+average (≥ 75 points).
+
+No new ratings awarded in FY22.
+
+Opportunity 2: Reduce emissions and move towards carbon neutrality 
+
+O 2.1 Scope 1 
+emissions
+
+tCO2e 4,391 4,598 5046 Improve Assets and 
+Liabilities
+
+Increase in Scope 1 emissions 
+from fuel due to new assets. 
+
+O 2.2 Scope 2 
+emissions
+
+tCO2e 135,426 191,743 101,346 Improve Assets and 
+Liabilities
+
+Significant decrease in scope 
+2 emissions due to greater 
+renewable energy use.
+
+O 2.3 Scope 
+1 and 2 
+emissions 
+intensity6
+
+tCO2e/$m 
+revenue
+
+55.7 86.6 45.8 Monitor Assets and 
+Liabilities
+
+Significant decrease in emissions.
+
+O 2.4 Scope 3 
+emissions7
+
+tCO2e 634,566 428,366 412,593 Improve Assets and 
+Liabilities
+
+Emissions decreased as 
+some major construction and 
+development projects were 
+completed.
+
+O 2.5 
+Cumulative 
+embodied 
+GHG emission 
+savings from 
+major projects8 
+
+tCO2e 304,000 644,000 644,000 Improve Assets and 
+Liabilities
+
+No change in major construction 
+and development project 
+materials and embodied emissions 
+forecasts in FY22. Next revision 
+expected in FY23.
+
+O 2.6 
+Cumulative 
+materials 
+savings from 
+major projects8
+
+Tonnes of 
+concrete
+
+58,000 234,000 234,000 Improve
+
+Improve
+
+Assets and 
+Liabilities
+
+No change in major construction 
+and development project 
+materials savings in FY22. Next 
+revision expected with updated 
+Infrastructure Sustainability rating 
+completion of West Gate Tunnel 
+and WestConnex M4-M5 Link 
+Tunnels in FY23.
+
+Tonnes of 
+asphalt
+
+204,000 209,000 209,000
+
+Tonnes of 
+aggregate
+
+120,000 130,000 130,000
+
+1 Metrics T3.1 and T3.2 have been removed in FY22 as they no longer remain applicable to the respective threats, and new metrics will be considered in FY23 in line with the TCFD guidance,  
+   Implementing the Recommendations of the TCFD 2021 Appendix 2, Cross-Industry Climate-Related Metric Categories 
+2 Heat-related injuries have remained zero over the past few years. With increasing temperatures, this will be monitored closely to capture the HSE impacts of extreme temperatures
+3 Weather-related incident numbers based on reported incidents on our assets in Australia and North America through our HSE Reporting system
+4 Transurban B grading is within the “Management” band in the CDP reporting scheme
+5 Average verified IS Rating score of all projects to date, weighted by project capital cost. Design rating scores are replaced by As Built scores and may vary as each project moves through the  
+   two-phase IS Rating process
+6 To determine Scope 1 and 2 emissions intensity, total revenue has been extracted from the profit and loss statement in corresponding years
+7 Scope 3 emissions include the impacts of our supply chain purchases, major project construction, as well as corporate Scope 3 emissions associated with fuel, electricity, waste and business  
+   travel. Scope 3 emissions are expected to fluctuate year-on-year mostly with variation in construction activities, which are our largest Scope 3 emissions source
+8 GHG savings and materials savings are from efficiencies in design and construction activity and the use of lower-embodied emission materials. Figures are based on Australian major project  
+   IS ratings, which measure reductions achieved from a ‘Base Case’ (initial design) through to ‘Actual Case’ (final project with sustainability initiatives implemented). Figures reported in each year    
+   are cumulative totals of all projects with completed ratings. Each project completes a ‘Design’ rating followed by an ‘As Built’ rating. Cumulative figures are updated to reflect the latest  
+   available rating for each project
+
+Table 6: Climate-related metrics and associated FY20 to FY22 trends1
+
+Climate Change 
+Disclosure FY22 Climate change 
+
+disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk management
+
+https://insights.transurban.com/
+
+
+34 35
+
+5.2 GHG and energy targets and progress on our transition 
+to a low carbon economy
+
+Scope 1 and 2 emissions 
+decreased 45% in FY22 
+compared to FY21.
+
+FY22 scope 1 and 2 emissions were 13% 
+below 2019 levels with further reductions 
+expected in FY23 as we continue to progress 
+towards our science-based 50% GHG 
+reduction target by 2030. To achieve our 
+target we will continue to reduce energy 
+consumption and transition to renewable 
+energy.
+
+Our 10 in 10 energy efficiency 
+program has now delivered 
+46,815 GJ of energy savings to 
+date across existing assets.
+
+In FY22 significant tunnel ventilation 
+optimisation projects were completed across 
+several assets bringing our total energy 
+efficiency savings to 8.3%. We continue 
+to deliver a pipeline of energy efficiency 
+projects towards and beyond the 10% 
+reduction target.
+
+Two-thirds of our electricity 
+needs were met from renewable 
+energy in FY22.
+
+Several of our renewable energy Power 
+Purchase Agreements (PPAs) and renewable 
+energy agreements became operational in 
+FY22 along with entering new contracts for 
+remaining Australian assets. We are now 
+operating with more than 66% renewable 
+electricity with further increases expected in 
+FY23 as new contracts become operational. 
+We continue to investigate renewable energy 
+opportunities in the US.
+
+35 of our top 50 major suppliers 
+engaged in the CDP climate 
+change disclosure process.
+
+Half of our major suppliers reported active 
+GHG targets with the majority committed 
+to science-based targets within the next 
+two years. Our most recently completed 
+major project (WCX M8) was delivered with a 
+construction phase carbon intensity of 127 
+tCO2e/$M (30% below 2019 levels).
+
+Scope 1, 2 and 3 
+emission reduction 
+targets
+
+We have interim  
+science-based and 
+long-term GHG 
+emission reduction 
+targets and are 
+reducing impacts 
+associated with our 
+direct operations and 
+supply chain.
+
+Our business
+Achieve net zero across 
+Scope 1, 2 and 3 GHG 
+emissions by 2050 
+ 
+Reduce our absolute  
+Scope 1 and 2 GHG 
+emissions by 50% by  
+2030 (tCO2e) 
+ 
+Achieve 10% energy 
+efficiency savings by 2023 
+(2013 baseline), target 
+savings 56,366 GJ
+
+Our major 
+projects
+Reduce the carbon 
+intensity across our major 
+projects by 55% by 2030 
+(Scope 3 tCO2e from major 
+projects, per $M project 
+capital cost)
+
+Our supply 
+chain
+Reduce the carbon 
+intensity of the goods 
+and services we purchase 
+from suppliers by 22% by 
+2030 (Scope 3 tCO2e from 
+supplier spending, per 
+kilometre travelled on our 
+roads as a measure of our 
+business output)
+
+10 in 10 energy efficiency 
+progress
+
+To date, over 25 energy efficiency projects 
+have been implemented across our 
+operations, delivering total annual energy 
+savings of 46,815 GJ, or around 8.3% of our 
+10% by 2023 energy efficiency target.
+
+In FY22, several significant tunnel 
+ventilation optimisation projects were 
+completed. Tunnel ventilation systems 
+require large amounts of power and 
+typically account for more than 70% of total 
+energy consumption. Utilising 3D modelling 
+and simulations, our Advanced Data and 
+Analytics Program team were able to 
+optimise and fine tune ventilation systems 
+for several Queensland tunnels’ response to 
+updated traffic profiles, ensuring fans  
+are only on when they need to be while 
+ensuring strict air quality standards continue 
+to be met.
+
+“The results have been a real success story for 
+the Queensland business and for showcasing 
+the power of applying Advanced Analytics to 
+drive efficiencies around our core operations” 
+ – Sue Johnson, Group Executive, Queensland
+
+As we approach the 2023 target year, we 
+are committed to delivering our pipeline of 
+energy efficiency projects and will continue 
+to explore further opportunities beyond 
+2023 aligned with asset lifecycle planning to 
+drive further environmental and economic 
+benefits.
+
+Transitioning to renewable 
+energy
+
+Transitioning to renewable energy across 
+all our markets is a key step towards 
+achieving our interim 2030 science-based 
+targets. In FY22 we reduced our GHG 
+emissions by 45% from FY21 (13% below 
+2019 levels) as our renewable energy PPAs 
+began providing significant volumes of 
+renewable energy.
+
+Our second NSW PPA began providing 
+renewable energy in June 2022, with our 
+Sydney and Brisbane markets forecast to 
+be more than 80% renewable from Q1FY23 
+onwards. Our Melbourne market is currently 
+50% renewable and we have committed 
+to 100% renewable energy for CityLink 
+from 2024 onwards. We are also exploring 
+renewable energy opportunities in the US. 
+FY23 will see further reductions in our GHG 
+emissions as the Queensland and New South 
+Wales PPAs operate for a full year.
+
+Supply chain engagement
+Transurban engages with major suppliers 
+
+on GHG emissions reporting and reduction 
+both directly and annually through the 
+CDP Supply Chain program. CDP measures 
+ongoing supplier engagement and progress 
+towards GHG targets, with 35 of our top 50 
+major suppliers disclosing in FY22. Half of 
+our responding major suppliers reported 
+active GHG targets with the majority either 
+
+already having or committed to setting 
+science-based targets within the next two 
+years. Thirty-five per cent of the energy 
+needs of disclosing suppliers was met from 
+renewable energy. Insights gained from CDP 
+disclosure inform our ongoing supply chain 
+engagement strategy and pathway to our 
+scope 3 reduction targets.
+
+To achieve our scope 3 GHG reduction 
+targets Transurban partners with 
+government and industry to drive collective 
+effort. We are a founding member of MELCA, 
+an alliance of over 150 industry partners and 
+government agencies, which aims to drive 
+reductions in embodied carbon in Australia’s 
+building and construction industry.
+
+0
+
+50,000
+
+100,000
+
+150,000
+
+200,000
+
+250,000
+
+FY18 FY19 FY20 FY30FY21FY16 FY17 FY22 FY23 FY24 FY25 FY26 FY27 FY28 FY29
+
+ Figure 6: Scope 1 and 2 GHG emissions forecast
+
+Transurban Scope 1 and 2 BAU forecast Reduction pathway SBTi target
+
+Em
+is
+
+si
+on
+
+s (
+tC
+
+O2
+e)
+
+ 
+0%
+
+-2%
+
+-4%
+
+-6%
+
+-8%
+
+-10%
+
+-12%
+
+-14%
+
+-16%
+
+-18%
+
+-20%
+
+-4%
+
+-8%
+
+-4%
+
+ Figure 7: Progress to 10% energy efficiency savings by 2023 (2013 baseline)
+
+Complete    
+
+0%
+
+-2%
+
+-4%
+
+-6%
+
+-8%
+
+-10%
+
+-12%
+
+-14%
+
+-16%
+
+-18%
+
+-20%
+
+-4%
+
+-8%
+
+-4%
+
+In progress   
+
+0%
+
+-2%
+
+-4%
+
+-6%
+
+-8%
+
+-10%
+
+-12%
+
+-14%
+
+-16%
+
+-18%
+
+-20%
+
+-4%
+
+-8%
+
+-4%
+ Potentional opportunities
+
+En
+er
+
+gy
+ sa
+
+vi
+ng
+
+s
+Bango Windfarm, NSW (Source: CWP Renewables)
+
+Climate Change 
+Disclosure FY22 Climate change 
+
+disclosure FY22
+
+Climate Change 
+Disclosure FY22 StrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk managementStrategyGovernance Metrics and targetsIntroduction Risk management
+
+
+
+36
+
+Australia
+
+Melbourne (Head office) 
+Tower Five, Collins Square 
+Level 31, 727 Collins Street 
+Melbourne, Victoria 3000
+
+Sydney 
+Level 9, 1 Chifley Square 
+Sydney, New South Wales 2000
+
+Brisbane 
+Level 39, 300 George St 
+Brisbane, Queensland 4000
+
+Mailing address 
+Locked Bag 28 
+South Melbourne,  
+Victoria 3205 
+Phone +61 3 8656 8900 
+Fax +61 3 8656 8585
+
+United States of America
+
+Transurban (USA) Inc. 
+Suite T500, 7900 Westpark Drive 
+Tysons, VA 22102 
+Phone +1 571 419 6100
+
+General enquiries 
+Email corporate@transurban.com
+
+transurban.com
+
+Insights hub 
+
+Visit our Insights hub to view 
+our sustainability strategy, 
+performance reporting 
+and environmental and 
+sustainability initiatives.  
+insights.transurban.com
+
+mailto:Corporate%40transurban.com?subject=Climate%20Disclosure%20Statement%202022
+https://transurban.com/
+http://insights.transurban.com

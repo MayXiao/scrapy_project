@@ -1,0 +1,4261 @@
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+1 
+ 
+
+Welcome to your CDP Water Security Questionnaire 2022 
+
+ 
+
+ 
+
+W0. Introduction 
+
+W0.1 
+
+(W0.1) Give a general description of and introduction to your organization. 
+
+Halkbank was established in 1938 to support tradesmen, and craftsmen and to accelerate permanent economic development and has become one of 
+
+Turkey's steadily growing, well-established, pioneering, and respected brands. Pioneering the development of the Turkish banking sector for 83 years, 
+
+the Bank continues to serve the real sector with its innovative products and services with a global vision, with 1,018 branches in the country and 5 
+
+abroad as of the end of 2021. 
+
+Halkbank aims for a livable world where economic, social, and environmental impacts are in balance in all areas where it creates value, especially in its 
+
+own operations, and growth takes place without compromising these effects. In this direction, it shapes its work with the awareness that it is possible to 
+
+move forward more strongly towards the future by focusing on sustainable economic, environmental and social development. In this context, it 
+
+develops products such as the Green Energy Loan Package to support efforts to reduce carbon emissions through renewable energy and energy 
+
+efficiency projects in order to direct investments to more sustainable technologies and businesses. This package, provides renewable energy 
+
+investment, green workplace investment, energy efficiency, green-certified construction project, and green light commercial vehicle loans. In addition,  it 
+
+also offers free technical consultancy services for the efficient realization of investment in a way to benefit from the knowledge and experience of 
+
+engineers with energy manager certificates. Going beyond just providing financial resources to companies the use of resources, while Halkbank works 
+
+hard to produce innovative solutions for such demands and needs of its customers, it pays great attention to ensuring that its activities are compatible 
+
+with factors such as environmental protection and energy efficiency. It continues to implement digitalization practices that will accelerate the transition 
+
+to emission reduction, waste management, and paperless banking, minimizing the carbon footprint resulting from its operations. In line with this, 
+
+Halkbank has certified all its service buildings, including its Head Office and branches, with the ISO 14001 Environmental Management System and 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+2 
+ 
+
+ISO 50001 Energy Management System, and becoming the first bank in the Turkish banking industry to establish and get certified in the ISO 50001 
+
+Energy Management System. It uses a program namely "İKLİM", which it has developed with its own internal resources, in order to manage, monitor, 
+
+evaluate and report these systems by integrating the relevant environmental and energy management systems and implementing all the requirements. 
+
+In addition, the Bank continues its waste reduction efforts with the principle of separating its wastes and zero waste within the responsible banking 
+
+culture, taking into account waste management within the scope of reducing the environmental impacts of its activities. As of 2019, all service locations 
+
+have complied with the Zero Waste System, and in 2021, 1,055 service locations, including all branches, received Zero Waste Certificates. Halkbank 
+
+also continues to contribute to “Green and Circular Economy” issues, Turkey's green agreement harmonization process, and stud ies in this context with 
+
+the initiatives it has developed under the umbrella of Sustainable Banking. 
+
+In addition, Halkbank has been reporting to the Carbon Disclosure Project, one of the public disclosure platforms, since 2013 due to the importance it 
+
+attaches to the transparency of its operations and has been included in the BIST Sustainability Index since 2017. It is also committed to achieving net-
+
+zero by 2050 as one of the first signatories of the NZBA in Turkey by mid-2022. 
+
+W0.2 
+
+(W0.2) State the start and end date of the year for which you are reporting data. 
+
+ Start date End date 
+
+Reporting year January 1, 2021 December 31, 2021 
+
+W0.3 
+
+(W0.3) Select the countries/areas in which you operate. 
+
+Turkey 
+
+W0.4 
+
+(W0.4) Select the currency used for all financial information disclosed throughout your response. 
+
+TRY 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+3 
+ 
+
+W0.5 
+
+(W0.5) Select the option that best describes the reporting boundary for companies, entities, or groups for which water impacts on 
+
+your business are being reported. 
+
+Companies, entities or groups over which operational control is exercised 
+
+W0.6 
+
+(W0.6) Within this boundary, are there any geographies, facilities, water aspects, or other exclusions from your disclosure? 
+
+No 
+
+W0.7 
+
+(W0.7) Does your organization have an ISIN code or another unique identifier (e.g., Ticker, CUSIP, etc.)? 
+
+Indicate whether you are able to provide a unique identifier for your organization. Provide your unique identifier 
+
+Yes, a Ticker symbol HALKB 
+
+Yes, an ISIN code TRETHAL00019 
+
+W1. Current state 
+
+W1.1 
+
+(W1.1) Rate the importance (current and future) of water quality and water quantity to the success of your business. 
+
+ Direct use 
+
+importance 
+
+rating 
+
+Indirect use 
+
+importance 
+
+rating 
+
+Please explain 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+4 
+ 
+
+Sufficient amounts of 
+
+good quality freshwater 
+
+available for use 
+
+Important Important i&iii) The reason for importance rating and future water dependency for direct use: Halkbank 
+
+uses water directly to meet the clean drinking water needs of employees in its operations and 
+
+to ensure the cleanliness of the branches. Also, the Bank is committed to protecting its 
+
+employees' right to access clean water and providing a healthy working environment. 
+
+Therefore, sufficient amounts of good quality freshwater availability are important and will 
+
+continue to be important in the future since Halkbank operates in areas that are likely to 
+
+experience water scarcity. 
+
+ 
+
+ii&iv) The reason for importance rating and future water dependency for indirect use: Water 
+
+use is quite high in the production operations of Halkbank's suppliers that make up its value 
+
+chain or in the activities of the customers to whom the Bank provides loans. Therefore, 
+
+sufficient amounts of good quality freshwater availability are essential and will continue to be 
+
+important in the future in indirect water use, since Halkbank's stakeholders operate in areas 
+
+that are likely to experience water scarcity. 
+
+Sufficient amounts of 
+
+recycled, brackish and/or 
+
+produced water available 
+
+for use 
+
+Neutral Neutral i&iii) The reason for importance rating and future water dependency for direct use: The use of 
+
+recycled/manufactured water in Halkbank's direct operations is currently only possible in a 
+
+very small portion of its branches. Reverse osmosis treatment systems have been installed in 
+
+the kitchens of the Halkbank Headquarters Building and the Davutpaşa Assistant 
+
+Headquarters Service Building to provide quality drinking water. For this reason, it was chosen 
+
+as neutral because it is not of great importance yet. In the Bank's direct operations, there may 
+
+be an increase in the use and importance of recycled/brackish water in the future as Halkbank 
+
+continues to implement new technologies to reduce the use of fresh water in our branches. 
+
+ 
+
+ii&iv) The reason for importance rating and future water dependency for indirect use: In its 
+
+indirect operations, some of Halkbank's suppliers and customers use recycled water where 
+
+appropriate, such as on production lines. Therefore, importance was chosen as neutral. Also 
+
+for indirect use, customers and suppliers will need to reduce their use of fresh water in the 
+
+future due to water scarcity. In this case, Halkbank anticipates that circular water systems will 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+5 
+ 
+
+be applied to several operations, which will increase the use of recycled/brackish water. For 
+
+this reason, its importance is expected to increase in the coming years. 
+
+W1.2 
+
+(W1.2) Across all your operations, what proportion of the following water aspects are regularly measured and monitored? 
+
+ % of 
+
+sites/facilities/operations 
+
+Please explain 
+
+Water withdrawals – total 
+
+volumes 
+
+100% Halkbank has been calculating its carbon footprint since 2013 as a part of its environmental 
+
+management system. In order to monitor the data required for this account, the IKLIM software 
+
+developed by the IT department of the bank has been used since 2019. Thanks to this software, 
+
+100% water usage levels of all Halkbank buildings in Turkey are measured in line with both the 
+
+environmental management system and the water targets set. In addition, Halkbank aims to 
+
+reduce and optimize water usage and increase water efficiency. Therefore, this parameter is 
+
+monitored monthly, evaluated by the General Directorate at the end of the year, and verified by 
+
+third parties in the annual reports. 
+
+Water withdrawals – volumes 
+
+by source 
+
+100% Turkey is a country with a high risk of water stress and 82% of Halkbank's facilities are located 
+
+in regions with high water stress. All of Halkbank's business units use the existing municipal 
+
+resources of the municipalities where they are located. We follow where the municipalities 
+
+withdraw water from according to the basins they are in and we know the amount of water used 
+
+in our branches with monthly billings. Thus, Halkbank can follow its source of water withdrawal 
+
+amounts on a basin basis. 
+
+Water withdrawals quality 100% All water used by Halkbank is drawn from municipal networks and the quality of the drawn water 
+
+is constantly monitored by the municipalities. In addition, the quality of water drawn from basins 
+
+and rivers to be treated by municipal administrations can be viewed online. As part of 
+
+Halkbank's commitment to access clean and high-quality water, all information on water quality 
+
+is monitored annually through these reports. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+6 
+ 
+
+Water discharges – total 
+
+volumes 
+
+100% Municipal sewerage system is used for water discharge at all Halkbank facilities. The 
+
+municipalities report the discharge volumes to the branches every month via invoices. In 
+
+addition, Halkbank aims to reduce and optimize water use and increase water efficiency. For 
+
+this reason, Halkbank monitors monthly discharge volumes from the monthly bills of 
+
+municipalities. 
+
+Water discharges – volumes 
+
+by destination 
+
+100% All Halkbank facilities across the country use the municipality's sewer system for water 
+
+discharge, and each of these discharges is monitored separately by the administrative 
+
+municipalities. Treated wastewater discharged from treatment plants can be monitored through 
+
+the reports of both the municipality and the Ministry of Agriculture and Forestry. In line with the 
+
+Sustainable Development Goals, Halkbank also annually monitors the use of watersheds 
+
+broken down to ensure the quality and sustainability of water resources and wider ecosystems 
+
+related to water. 
+
+Water discharges – volumes 
+
+by treatment method 
+
+100% Wastewater discharges from all Halkbank branches are domestic and these wastewaters are 
+
+discharged into sewer systems under the control of local municipalities. These wastewaters are 
+
+treated in municipal water treatment plants in accordance with the Urban Wastewater Treatment 
+
+Regulation. Methods implemented by wastewater treatment plants nationwide are available 
+
+online on municipal and government websites. Halkbank follows these methods annually as it is 
+
+committed to complying with local laws and obligations. 
+
+Water discharge quality – by 
+
+standard effluent parameters 
+
+100% Water discharges to environments are of great importance. At Halkbank branches, wastewater 
+
+is discharged directly into the sewerage system of municipalities and is treated in accordance 
+
+with standards in treatment plants. Treated wastewater that has been discharged from 
+
+treatment plants must be in compliance with the wastewater parameters of Regulation on Water 
+
+Pollution Control and the Communique on Wastewater Treatment Plants Technical Procedures. 
+
+This can be monitored through the municipalities' websites and monthly reports. Halkbank 
+
+follows these methods annually as it is committed to complying with local laws and obligations. 
+
+Water discharge quality – 
+
+temperature 
+
+100% Halkbank only discharges its wastewater into the sewer system of the municipality. Waste water 
+
+is discharged at room temperature, which may vary slightly depending on seasonal weather 
+
+conditions.Temperature is an important parameter of discharged wastewater. Therefore, it is 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+7 
+ 
+
+monitored by treatment plants and municipalities while being discharged into the aquatic 
+
+environment. Halkbank monitors the compliance of values from the annual reports of 
+
+municipalities. 
+
+Water consumption – total 
+
+volume 
+
+100% Halkbank's water use consists of cleaning, hygiene, and other domestic water needs equivalent 
+
+to water drawn from the municipal network. In some regions, municipal water can be used as 
+
+drinking water, and in places where municipal water is not used for drinking purposes, drinking 
+
+water is purchased in the form of 0.5 liter recyclable PET bottles. In Ataşehir and Davutpaşa 
+
+Headquarters Service Buildings and in some district buildings, drinking water is provided with 
+
+reverse osmosis systems connected to the main line in order to reduce greenhouse gas 
+
+emissions from plastic bottles and transportation. Halkbank aims to reduce and optimize water 
+
+use and increase water efficiency. Therefore, this parameter is monitored monthly on billings of 
+
+consumed and/or purchased water and evaluated by the General Directorate at the end of the 
+
+year. 
+
+Water recycled/reused Not relevant There is no water recycling process throughout the company. A recycling system will be 
+
+monitored when implemented. 
+
+The provision of fully-
+
+functioning, safely managed 
+
+WASH services to all workers 
+
+100% Halkbank provides fully functional water disinfection and hygiene services to its employees. 
+
+Such services are monitored and maintained by the support services department. The water 
+
+usage levels of all buildings in Turkey are measured and reported as 100% in Halkbank's 
+
+environmental management procedures with the İKLİM software. These reports are checked 
+
+annually by the head office at the end of the year and verified by third parties. 
+
+W1.2b 
+
+(W1.2b) What are the total volumes of water withdrawn, discharged, and consumed across all your operations, and how do these 
+
+volumes compare to the previous reporting year? 
+
+ Volume 
+
+(megaliters/year) 
+
+Comparison with 
+
+previous reporting 
+
+year 
+
+Please explain 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+8 
+ 
+
+Total 
+
+withdrawals 
+
+213.2 About the same Total water withdrawal is calculated as the sum of water withdrawn from the municipal water 
+
+system and drinking water supplied from local suppliers in the form of 0.5 liter recyclable PET 
+
+bottles. The total water withdrawal value in 2021 is 213.2 megaliters. While the discharge volume 
+
+increased due to 10 branches opened in 2021, the decrease in water consumption as a result of 
+
+the IT and call center departments working completely from home created a balance in the total 
+
+water withdrawal value and no change was observed. Year-to-year changes in values between 
+
+5% and 15% are considered "high" or "low", and changes over 15% are considered "much 
+
+higher" or "much lower" for bank operations. With the possible water efficiency projects that 
+
+Halkbank can implement, this value is expected to decrease slightly. 
+
+Total 
+
+discharges 
+
+206.2 About the same The total discharge is directly related to the total withdrawals from the municipalities. The total 
+
+water discharge volume, which was 202.3 megaliters in 2020, increased to 206.2 in 2021. 
+
+Halkbank's return to pre-pandemic conditions with a hybrid system and the opening of 10 new 
+
+branches resulted in an increase of 1.93% in the total discharge volume. Year-to-year changes in 
+
+values between 5% and 15% are considered "high" or "low", and changes over 15% are 
+
+considered "much higher" or "much lower" for bank operations. While accepting this change as 
+
+almost the same, this value is expected to decrease slightly in the future with water efficiency 
+
+applications. 
+
+Total 
+
+consumption 
+
+7.07 Much lower The total consumption is equal to the total water purchased for the consumption of the personnel. 
+
+The total water consumption volume, which was 10.9 megaliters in 2020, increased to 7.07 in 
+
+2021. Although new personnel was recruited in 2021, there was a 35% decrease in water 
+
+consumption as IT and call center units started working entirely at home. Year-to-year changes in 
+
+values between 5% and 15% are considered "high" or "low", and changes over 15% are 
+
+considered "much higher" or "much lower" for bank operations. While accepting this change as 
+
+almost the same, this value is expected to decrease slightly in the future. 
+
+W1.2d 
+
+(W1.2d) Indicate whether water is withdrawn from areas with water stress and provide the proportion. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+9 
+ 
+
+ Withdrawals are 
+
+from areas with 
+
+water stress 
+
+% withdrawn 
+
+from areas with 
+
+water stress 
+
+Comparison with 
+
+previous 
+
+reporting year 
+
+Identification 
+
+tool 
+
+Please explain 
+
+Row 
+
+1 
+
+Yes 76-99 About the same WRI Aqueduct Halkbank uses the WRI Aqueduct Tool to evaluate many water-related 
+
+parameters such as the quality and quantity of the regions where it 
+
+operates while performing water management as part of its environmental 
+
+management. One of the most important parameters that this tool looks at 
+
+is water stress. While it is predicted that Turkey's water stress will 
+
+gradually increase, Halkbank analyzed the current stress situations specific 
+
+to the provinces and therefore included extremely high and high-risk 
+
+activities in its assessment and calculated it as 82%. The WRI tool is used 
+
+with the function of imported and exported excel data sheets for the water 
+
+stress areas, then the withdrawal volumes from stressed areas to total 
+
+withdrawals are calculated. Since the majority of the regions where 
+
+Halkbank operates are currently in high-risk regions, it is anticipated that 
+
+the recently stated percentage will remain approximately the same. When 
+
+the rate of water withdrawn from regions with extremely high and high 
+
+water stress risk is compared to last year, it has been observed that there 
+
+is no change and we anticipate that this amount will decrease in the 
+
+coming years. 
+
+W1.2h 
+
+(W1.2h) Provide total water withdrawal data by source. 
+
+ Relevance Volume 
+
+(megaliters/year) 
+
+Comparison with 
+
+previous 
+
+reporting year 
+
+Please explain 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+10 
+ 
+
+Fresh surface water, including 
+
+rainwater, water from 
+
+wetlands, rivers, and lakes 
+
+Not 
+
+relevant 
+
+  Halkbank uses municipal water in all its branches. It does not draw 
+
+fresh surface water from any river or basin and does not carry out 
+
+rainwater harvesting practices. 
+
+Brackish surface 
+
+water/Seawater 
+
+Not 
+
+relevant 
+
+  Halkbank uses municipal water in all its branches. It does not purify or 
+
+use brackish or sea water in any of its facilities. 
+
+Groundwater – renewable Not 
+
+relevant 
+
+  Halkbank uses municipal water in all of its branches. No groundwater is 
+
+drawn in any of its facilities throughout the country. 
+
+Groundwater – non-
+
+renewable 
+
+Not 
+
+relevant 
+
+  Halkbank uses municipal water in all of its branches. No groundwater is 
+
+drawn in any of its facilities throughout the country. 
+
+Produced/Entrained water Not 
+
+relevant 
+
+  Halkbank uses municipal mains water in all its branches. There is no 
+
+water production in any of its branches. 
+
+Third party sources Relevant 213.2 About the same Quality and sufficient amount of fresh water are needed for the 
+
+consumption and hygiene of the employees in all branches. All water 
+
+withdrawals are from the municipal water mains and drinking water is 
+
+supplied from local suppliers in the form of 0.5 liter recyclable PET 
+
+bottles. The total water withdrawal value in 2020 is 213.2 megaliters 
+
+and this value has not changed in 2021. While the discharge volume 
+
+increased due to 10 branches opened in 2021, the decrease in water 
+
+consumption as a result of the IT and call center departments working 
+
+completely from home created a balance in the total water withdrawal 
+
+value and no change was observed. With the possible water efficiency 
+
+projects that Halkbank can implement, this value is expected to 
+
+decrease slightly. 
+
+W1.2i 
+
+(W1.2i) Provide total water discharge data by destination. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+11 
+ 
+
+ Relevance Volume 
+
+(megaliters/year) 
+
+Comparison with 
+
+previous 
+
+reporting year 
+
+Please explain 
+
+Fresh surface 
+
+water 
+
+Not 
+
+relevant 
+
+  Halkbank does not discharge water directly to any fresh surface water. All of 
+
+Halkbank's wastewater is discharged to the municipal sewer system. 
+
+Brackish surface 
+
+water/seawater 
+
+Not 
+
+relevant 
+
+  Halkbank does not directly discharge any brackish water/seawater. All of 
+
+Halkbank's wastewater is discharged to the municipal sewer system. 
+
+Groundwater Not 
+
+relevant 
+
+  Halkbank does not directly discharge water into any groundwater. All of 
+
+Halkbank's wastewater is discharged to the municipal sewer system. 
+
+Third-party 
+
+destinations 
+
+Relevant 206.2 About the same All of the wastewater is discharged into sewer systems managed by 
+
+municipalities. In the Halkbank, the amount of water discharge is equal to the 
+
+amount of water drawn from the municipal water network. Since drinking water is 
+
+considered water consumption, it is not taken into account when calculating the 
+
+water discharge level. The total water discharge volume, which was 202.3 
+
+megaliters in 2020, increased to 206.2 in 2021. Halkbank's return to pre-pandemic 
+
+conditions with a hybrid system and the opening of 10 new branches resulted in 
+
+an increase of 1.93% in the total discharge volume. Year-to-year changes in 
+
+values between 5% and 15% are considered "high" or "low", and changes over 
+
+15% are considered "much higher" or "much lower" for bank operations. While 
+
+accepting this change as almost the same, this value is expected to decrease 
+
+slightly in the future with water efficiency applications. 
+
+W1.2j 
+
+(W1.2j) Within your direct operations, indicate the highest level(s) to which you treat your discharge. 
+
+ Relevance of 
+
+treatment 
+
+Volume 
+
+(megaliters/year) 
+
+Comparison of 
+
+treated volume 
+
+% of your 
+
+sites/facilities/operations 
+
+this volume applies to 
+
+Please explain 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+12 
+ 
+
+level to 
+
+discharge 
+
+with previous 
+
+reporting year 
+
+Tertiary 
+
+treatment 
+
+Not relevant    Domestic wastewater is not treated in any of the 
+
+branches across the country. All treatment 
+
+processes are carried out by wastewater 
+
+treatment plants operated by the municipal 
+
+administration. 
+
+Secondary 
+
+treatment 
+
+Not relevant    Domestic wastewater is not treated in any of the 
+
+branches across the country. All treatment 
+
+processes are carried out by wastewater 
+
+treatment plants operated by the municipal 
+
+administration. 
+
+Primary 
+
+treatment only 
+
+Not relevant    Domestic wastewater is not treated in any of the 
+
+branches across the country. All treatment 
+
+processes are carried out by wastewater 
+
+treatment plants operated by the municipal 
+
+administration. 
+
+Discharge to the 
+
+natural 
+
+environment 
+
+without 
+
+treatment 
+
+Not relevant    There is no discharge to the natural environment. 
+
+All treatment processes are carried out by 
+
+wastewater treatment plants operated by the 
+
+municipal administration 
+
+Discharge to a 
+
+third party 
+
+without 
+
+treatment 
+
+Relevant 206.2 About the same 100% In all of Halkbank's operations, wastewater 
+
+discharges are made to the municipal sewerage 
+
+system, and wastewater treatment is carried out at 
+
+the treatment plants operated by the 
+
+municipalities. Wastewater is treated by the 
+
+Ministry of Environment and Urbanization in 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+13 
+ 
+
+accordance with the Turkish Environmental Law, 
+
+in accordance with the Urban Wastewater 
+
+Treatment Regulation. The total water discharge 
+
+volume, which was 202.3 megaliters in 2020, 
+
+increased to 206.2 in 2021. Year-to-year changes 
+
+in values between 5% and 15% are considered 
+
+'high' or 'low', and changes over 15% are 
+
+considered 'much higher' or 'much lower'. 
+
+Therefore, this change is considered to be 
+
+approximately the same. It is predicted that the 
+
+discharge volume will decrease slightly. 
+
+Other Not relevant    Domestic wastewater is not treated in any of the 
+
+branches across the country. All treatment 
+
+processes are carried out by wastewater 
+
+treatment plants operated by the municipal 
+
+administration. 
+
+W1.3 
+
+(W1.3) Provide a figure for your organization’s total water withdrawal efficiency. 
+
+ Revenue Total water 
+
+withdrawal volume 
+
+(megaliters) 
+
+Total water 
+
+withdrawal efficiency 
+
+Anticipated forward trend 
+
+Row 
+
+1 
+
+86,606,887,000 213.2 406,223,672.60788 Halkbank is increasing its branches throughout Turkey with each passing year and 
+
+implementing water efficiency initiatives. In this context, it is estimated that the 
+
+efficiency value will slightly decrease since total water withdrawals are expected to 
+
+decrease and the revenue to increase. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+14 
+ 
+
+W1.4 
+
+(W1.4) Do you engage with your value chain on water-related issues? 
+
+Yes, our suppliers 
+
+Yes, our customers or other value chain partners 
+
+W1.4a 
+
+(W1.4a) What proportion of suppliers do you request to report on their water use, risks and/or management information and what 
+
+proportion of your procurement spend does this represent? 
+
+Row 1 
+
+% of suppliers by number 
+
+51-75 
+
+% of total procurement spend 
+
+51-75 
+
+Rationale for this coverage 
+
+i) An explanation of why these suppliers were selected for reporting: A company-wide attention is paid to Halkbank's compliance with ISO 
+
+50001, ISO 14001, and ISO 9001 standards. Within the scope of the requirements of these standards, credit and project evaluation reports and 
+
+water-related data are obtained from the suppliers and these data are collected within the Bank. In the Bank's strategy, all commercial loan 
+
+requests from SMEs and loan requests over 35 million TL are subject to the credit evaluation report. In this report, the activities of the 
+
+companies are evaluated in terms of sustainability and environmental criteria. 
+
+ 
+
+ii) How suppliers are incentivized to report: Customers requesting credit have to fill out these forms and meet the requirements. Sustainability 
+
+evaluation was made in 73% of the Firm Evaluation Reports evaluated by the Headquarters in 2021. 
+
+Impact of the engagement and measures of success 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+15 
+ 
+
+iii) Details of the type of information requested from suppliers: The most important criterion in the international arena for the prevention of water 
+
+pollution is the decisions of the RAMSAR agreement, which aims to ensure the protection and sustainable use of wetlands. Therefore, this 
+
+criterion is definitely evaluated in the evaluation reports. If the negative effects of the activities carried out or the planned projects within the 
+
+company are determined on the wetlands specified in the RAMSAR contract, the projects are not financed even if there is an ISO environmental 
+
+management standard certificate. 
+
+ 
+
+iv) How the information is used within the company: Environmental Impact Assessment, which is a part of credit and project evaluation reports, 
+
+influences the lending process and decision. In case of any inconsistency between bank policies and customers, improvements and revisions 
+
+are recommended to customers, the best actions are taken on climate and water issues, and targets are set. 
+
+ 
+
+v) Details of how success is measured: The Bank offers trainings to SMEs via the online platform. The demand and participation rate in these 
+
+trainings successfully proves the applicability of the bank's strategy. 
+
+Comment 
+
+ 
+
+W1.4b 
+
+(W1.4b) Provide details of any other water-related supplier engagement activity. 
+
+ 
+
+Type of engagement 
+
+Innovation & collaboration 
+
+Details of engagement 
+
+Educate suppliers about water stewardship and collaboration 
+
+Other, please specify 
+
+Run an engagement campaign to educate suppliers about climate change 
+
+% of suppliers by number 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+16 
+ 
+
+51-75 
+
+% of total procurement spend 
+
+76-100 
+
+Rationale for the coverage of your engagement 
+
+i) An explanation for the engagement coverage: Regular and effective communication with stakeholders is the cornerstone of Halkbank's 
+
+Sustainability Approach. The Bank selects the suppliers with which it does the most financial work in the trainings it conducts suppliers on water 
+
+issues related to climate change. Therefore, the coverage of supplier involvement corresponds to 55% of all suppliers. In addition, the trained 
+
+suppliers correspond to 80% of the entire supply. The main purpose of these trainings is to provide resources to suppliers about the 
+
+environmental, social, and economic aspects of the concept of sustainability and to guide them in this area. 
+
+Impact of the engagement and measures of success 
+
+ii) Details of the beneficial water-related outcomes of the engagement activity: The results obtained through the realization of this engagement 
+
+help Halkbank in two ways; the first is to help create better-managed sustainability for humanity on climate change and water issues, and the 
+
+second is to indirectly reduce Halkbank's environmental impacts on water problems related to climate change, such as water scarcity. The 
+
+opinions and actions of its suppliers on the water have changed over the years, thanks to Halkbank's engagement efforts. The Bank has been 
+
+organizing these trainings and meetings with its suppliers since 2016. There is a noticeable increase in the number of suppliers that perform 
+
+better and take action on climate change and water problems in their businesses. 
+
+Comment 
+
+ 
+
+W1.4c 
+
+(W1.4c) What is your organization’s rationale and strategy for prioritizing engagements with customers or other partners in its value 
+
+chain? 
+
+i) Engaged partners within the value chain and a rationale for the engagement: As within the scope of its sustainability and environmental policy, which 
+
+it has established in line with the Sustainable Development Goals, Halkbank aims and encourages to increase the awareness of all its internal and 
+
+external stakeholders on climate change, to reduce direct water use, and to find remedial practices in the financing of its customers, especially water-
+
+intensive projects. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+17 
+ 
+
+ 
+
+ii) The method of engagement with the value chain partners: The biggest water-related risk for the banking sector is the risk arising from the loan 
+
+portfolio. For example, non-repayment of loans extended to customers operating in water-intensive sectors due to the decrease in their income due to 
+
+drought, flood and other water-related problems is one of the important water-related risks. For this reason, Halkbank tries to manage water-related 
+
+risks with a detailed Environmental and Social Impact Assessment in its credit evaluation modules. In addition, since Halkbank's primary mission is to 
+
+support SMEs, online training programs are offered to customers through the www.halkbankkobigelisim.com.tr website. Halkbank also works to reduce 
+
+the bank's general water withdrawal and raise awareness, and in this context, it provides training to its personnel on climate change and water-related 
+
+issues. Thanks to these practices, the water withdrawal figures in the branches have decreased noticeably since 2018. 
+
+ 
+
+iii) How engagement success is measured:  The demand of SMEs for the trainings offered by Halkbank is one of the success criteria. In addition, 
+
+thanks to practices such as personnel awareness trainings in direct operations, the water withdrawal figures in branches have decreased noticeably 
+
+since 2018. 
+
+W2. Business impacts 
+
+W2.1 
+
+(W2.1) Has your organization experienced any detrimental water-related impacts? 
+
+Yes 
+
+W2.1a 
+
+(W2.1a) Describe the water-related detrimental impacts experienced by your organization, your response, and the total financial 
+
+impact. 
+
+ 
+
+Country/Area & River basin 
+
+Turkey 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+18 
+ 
+
+Other, please specify 
+
+Gediz 
+
+Type of impact driver & Primary impact driver 
+
+Acute physical 
+
+Drought 
+
+Primary impact 
+
+Impact on company assets 
+
+Description of impact 
+
+A branch of Halkbank in Izmir was damaged in a flood in 2021. The biggest damage caused by this raid was the damage to the power line and 
+
+this event caused a financial loss for the Bank. However, the impact of this loss was not considered significant as it constituted 0.000011% of 
+
+revenue. 
+
+Primary response 
+
+Improve maintenance of infrastructure 
+
+Total financial impact 
+
+10,000 
+
+Description of response 
+
+In response to the damage, approximately 10.000 TL was spent on the water discharge service, submersible pump purchase, and electricity line 
+
+renewal. However, the impact of this loss was not considered significant as it constituted 0.000011% of revenue. 
+
+W2.2 
+
+(W2.2) In the reporting year, was your organization subject to any fines, enforcement orders, and/or other penalties for water-related 
+
+regulatory violations? 
+
+No 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+19 
+ 
+
+W3. Procedures 
+
+W3.3 
+
+(W3.3) Does your organization undertake a water-related risk assessment? 
+
+Yes, water-related risks are assessed 
+
+W3.3a 
+
+(W3.3a) Select the options that best describe your procedures for identifying and assessing water-related risks. 
+
+ 
+
+Value chain stage 
+
+Direct operations 
+
+Supply chain 
+
+Other stages of the value chain 
+
+Coverage 
+
+Full 
+
+Risk assessment procedure 
+
+Water risks are assessed as part of other company-wide risk assessment system 
+
+Frequency of assessment 
+
+Annually 
+
+How far into the future are risks considered? 
+
+3 to 6 years 
+
+Type of tools and methods used 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+20 
+ 
+
+Tools on the market 
+
+Databases 
+
+Other 
+
+Tools and methods used 
+
+WRI Aqueduct 
+
+Internal company methods 
+
+External consultants 
+
+Nation specific databases, tools, or standards 
+
+Contextual issues considered 
+
+Water availability at a basin/catchment level 
+
+Water quality at a basin/catchment level 
+
+Stakeholder conflicts concerning water resources at a basin/catchment level 
+
+Water regulatory frameworks 
+
+Status of ecosystems and habitats 
+
+Access to fully-functioning, safely managed WASH services for all employees 
+
+Stakeholders considered 
+
+Customers 
+
+Employees 
+
+Investors 
+
+Local communities 
+
+NGOs 
+
+Regulators 
+
+Suppliers 
+
+Water utilities at a local level 
+
+Comment 
+
+N/A 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+21 
+ 
+
+W3.3b 
+
+(W3.3b) Describe your organization’s process for identifying, assessing, and responding to water-related risks within your direct 
+
+operations and other stages of your value chain. 
+
+1. The application of the tools:  
+
+Halkbank's operational risks include loss of income as a result of flooding that may cause property and asset damage, not being able to get clean water 
+
+and the spread of infection are possible water-related risks. Therefore, as part of the risk assessment process, the Bank evaluates the quantitative 
+
+analysis such as water stress risk and qualitative analysis such as water quality parameters of the regions where its operational activities are carried 
+
+out with the WRI Aqueduct Tool and the government's annual reports and databases are used as a tool and resource in determining risks and internal 
+
+methods. After identifying these risks, the Bank integrates the outputs into the Environmental and Social Impact Assessment as an internal method 
+
+created within the company and evaluates its customers. 
+
+ 
+
+2. Management of outputs of the risk assessment: 
+
+ Experienced or potential harmful water-related effects are always considered as part of the risk assessment process. As a result of the evaluation, 
+
+possible material damage, loss of income, and inability to operate are taken into consideration, and customers are questioned in this context during the 
+
+environmental and social impact assessment process.  Risks are evaluated from a global perspective at least four times a year at Sustainability 
+
+Committee meetings, once a month at Sustainability Coordination group meetings, and once a year in management reviews of the Board of Directors. 
+
+By sharing the experiences of different business units, emerging issues are brought to the agenda, possible solutions are discussed and optimal 
+
+solutions are decided. Budget adjustments are made for necessary measures. For example, regarding the supply chain, since the Bank's main water 
+
+suppliers are municipalities, their inability to supply water may increase the Bank's operational costs such as water transportation and storage. In the 
+
+event of such risks, there are communication protocols for local branches and these are responded to immediately by the head office support units. 
+
+ 
+
+3. Reason for contextual issues considered:  
+
+Halkbank uses water as a part of WASH in its direct operations. In addition, the water use of the customers, especially for agriculture and hydroelectric 
+
+power plant projects, is quite high. Therefore, the water availability and quality at a basin level is very important for the Bank in both direct and indirect 
+
+use and is considered part of the risk assessment process. 
+
+ 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+22 
+ 
+
+Failure to comply with water regulations and having a negative impact on the ecosystem or habitat status poses both regulatory and reputational risks 
+
+for the bank. Therefore, during the environmental and social impact assessment process, environmental legislation/legislation changes are followed, 
+
+revisions are made in the domestic legislation and necessary steps are taken.  
+
+ 
+
+The Bank is committed to protecting employees' right to access clean water and providing a healthy working environment. Failure to do so carries 
+
+operational and reputational risks for the bank. For this reason, access to fully functional, securely managed WASH services for all employees is 
+
+addressed in the risk assessment. 
+
+ 
+
+4. Reason for stakeholder considered:  
+
+Water-related risks may affect the repayment ability of customers, especially those in the agricultural sector, which creates credit risk for the bank.  
+
+ 
+
+The Bank includes its employees in the evaluation with the principle of clean water and sanitation within the scope of SDG 6 as it carries operational 
+
+and reputational risks for its direct and indirect operations.  
+
+ 
+
+Relationships between the bank and investors are important in terms of access to foreign funds. Many international funds require individuals to have 
+
+standard practices in their activities and to consider environmental issues in loan allocation.  
+
+ 
+
+Conflicts that may arise with the views of local people and NGOs in projects to be financed carry a reputational risk for the bank, therefore local people 
+
+and NGOs are included in the process. For example, a Sustainability Priority Questionnaire is sent to NGOs, and expectations and current situation 
+
+analyses from Halkbank are compiled in these surveys.  
+
+ 
+
+Non-compliance with regulations carries reputational and regulatory risks for Halkbank. Therefore, changes in environmental legislation created by 
+
+regulators are monitored by the Bank's legal department and sustainability expert, revisions are made in domestic legislation and necessary steps are 
+
+taken. In addition, the legislations are followed and necessary arrangements are made to ensure compliance. 
+
+ 
+
+Supplier-based risks carry operational risks for the bank. In addition, the bank provides drinking water from the municipality. It is accepted that the 
+
+water levels in the basins used by the municipalities as a resource have decreased. Since this situation will also create stress on the communities that 
+
+use municipal water, local water services are also taken into account in the relevant risk assessments. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+23 
+ 
+
+W4. Risks and opportunities 
+
+W4.1 
+
+(W4.1) Have you identified any inherent water-related risks with the potential to have a substantive financial or strategic impact on 
+
+your business? 
+
+Yes, both in direct operations and the rest of our value chain 
+
+W4.1a 
+
+(W4.1a) How does your organization define substantive financial or strategic impact on your business? 
+
+Water-related risks are primarily relevant to the extent that they pose a threat to Halkbank's business, which could potentially affect its customers' 
+
+creditworthiness and ability to repay loans. While achieving the targets and strategies of the Bank collectively and for each type of risk, there is a limit of 
+
+risk we want to carry. The threshold level is determined to ensure that the Bank remains within the limits of its risk capacity. The trigger level refers to 
+
+the level of early warning of the risk level. The purpose of the risk level framework is not to prevent taking risks, but to ensure that bank strategies and 
+
+plans are applied in a consistent manner with the risk level determined by the Board of Directors and that the Bank has an appropriate risk profile. Risk 
+
+and performance indicators are created by taking into account the scope of the risk in order to provide an analysis of risk factors that are considered to 
+
+have an impact. While creating these indicators, it should be taken into consideration that operational losses/errors may affect risks. Therefore, the 
+
+same metrics can be taken into account both in determining operational risk and in assessing reputation risks. Apart from this, metrics that do not 
+
+indicate operational risk but point to reputation risk can be created. The numerical quantities in the indicators and the changes these sizes show over 
+
+time are used in the process of determining and evaluating the risks. For example, reconciliation errors, staff turnover rate, number of system outages, 
+
+transaction volumes and error numbers, audit scores, number/rate of non-audit activity areas. Risk indicators (for example, the number of system 
+
+outages in a given period) are used to monitor possible factors related to key risks. Performance indicators (for example, customer satisfaction index, 
+
+indicators such as a high degree of change in stock prices compared to banks of similar scale) provide meaningful information about the current state 
+
+of business processes with operational weaknesses, errors and losses. Both risk and performance indicators act as a trigger mechanism at trigger 
+
+levels where risk levels approach or exceed threshold/limits and require immediate risk reduction.    
+
+ 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+24 
+ 
+
+Definition and quantifiable indicators of substantive financial impact: Arising from water issues related to climate change, under the operational 
+
+risk category, operational risk limits can be taken as a basis in CDP reporting. An operational risk event arising from climate change exceeding TL 
+
+55,000,000 to be experienced on an annual basis or in a single event can be considered to have a significant financial impact for Halkbank. 
+
+ 
+
+In addition, Halkbank evaluates the significant risks related to water in the following context: 
+
+(a) The presence of water-related risks in the projects financed by the Bank has a negative impact on both financial and non-financial performance, 
+
+such as the default risk of loans, and reputational loss from bad loans. 
+
+(b) Lending Projects that are sensitive to water-related risks, such as agricultural industries and investments, carry a risk of repayment. 
+
+(c) Service interruption caused by natural disasters such as floods may have a temporary negative impact on income, even if there is no substantial 
+
+change in the broad grid business. 
+
+(d) Companies that have been exposed to the media for activities that cause water pollution may pose a risk to the Bank's reputation. Newspapers and 
+
+news are followed regularly by the Bank's relevant units, and such news is detected and necessary actions are taken. 
+
+W4.1b 
+
+(W4.1b) What is the total number of facilities exposed to water risks with the potential to have a substantive financial or strategic 
+
+impact on your business, and what proportion of your company-wide facilities does this represent? 
+
+ Total number of 
+
+facilities exposed 
+
+to water risk 
+
+% company-wide 
+
+facilities this 
+
+represents 
+
+Comment 
+
+Row 
+
+1 
+
+113 1-25 Due to the products it serves, the banking sector generally faces risks related to water originating from the 
+
+producers it finances. The risk that can have a strategic impact on the bank's direct operations is acute 
+
+physical risks such as flooding. Considering both income and water stress risk, it was determined that 113 
+
+facilities out of a total of 1056 branches of the bank could be damaged by a strategic effect in a possible 
+
+flood. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+25 
+ 
+
+W4.1c 
+
+(W4.1c)  By river basin, what is the number and proportion of facilities exposed to water risks that could have a substantive financial 
+
+or strategic impact on your business, and what is the potential business impact associated with those facilities? 
+
+ 
+
+Country/Area & River basin 
+
+Turkey 
+
+Other, please specify 
+
+Sea of Marmara Coast 
+
+Number of facilities exposed to water risk 
+
+2 
+
+% company-wide facilities this represents 
+
+Less than 1% 
+
+% company’s total global revenue that could be affected 
+
+Less than 1% 
+
+Comment 
+
+ 
+
+ 
+
+Country/Area & River basin 
+
+Turkey 
+
+Tigris & Euphrates 
+
+Number of facilities exposed to water risk 
+
+111 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+26 
+ 
+
+% company-wide facilities this represents 
+
+1-25 
+
+% company’s total global revenue that could be affected 
+
+1-10 
+
+Comment 
+
+ 
+
+W4.2 
+
+(W4.2) Provide details of identified risks in your direct operations with the potential to have a substantive financial or strategic 
+
+impact on your business, and your response to those risks. 
+
+ 
+
+Country/Area & River basin 
+
+Turkey 
+
+Other, please specify 
+
+Sea of Marmara Coast 
+
+Type of risk & Primary risk driver 
+
+Acute physical 
+
+Flood (coastal, fluvial, pluvial, groundwater) 
+
+Primary potential impact 
+
+Impact on company assets 
+
+Company-specific description 
+
+Extreme weather events are increasing every year with climate change. According to the Turkey Climate Evaluation Report prepared by the 
+
+General Directorate of Meteorology, 2021 was recorded as the year in which the most extraordinary weather events took place, with 1024 
+
+extraordinary weather events. 89% of these weather events are floods. The loss caused by these events is important for Halkbank's operational 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+27 
+ 
+
+and liquidity risk assessments. In big cities such as Ankara and Istanbul, where the Bank has many operational buildings and vehicles, natural 
+
+events such as floods and hail caused by extreme weather conditions may cause physical damage to property due to these natural events. One 
+
+of the units that will have a strategic impact on the bank in a possible flood disaster is the IT building. The Bank has taken insurance measures 
+
+in case of possible damage to the electric lines and equipment. 
+
+Timeframe 
+
+4-6 years 
+
+Magnitude of potential impact 
+
+Medium 
+
+Likelihood 
+
+Likely 
+
+Are you able to provide a potential financial impact figure? 
+
+Yes, a single figure estimate 
+
+Potential financial impact figure (currency) 
+
+500,000 
+
+Potential financial impact figure - minimum (currency) 
+
+ 
+
+Potential financial impact figure - maximum (currency) 
+
+ 
+
+Explanation of financial impact 
+
+The damage to the power line of the bank's data processing building, the computers, and other equipment inside the building was calculated as 
+
+approximately 500,000 TL in a possible flood. 
+
+ 
+
+Primary response to risk 
+
+Increase insurance coverage 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+28 
+ 
+
+Description of response 
+
+Extreme weather events such as floods are increasing every year because of climate change. As a result of the Bank's risk assessments related 
+
+to water, the bank expanded its insurance coverage in case of damage to its strategic buildings, especially the IT building. 
+
+Cost of response 
+
+150,000 
+
+Explanation of cost of response 
+
+In response to the related risk, approximately 150000 TRY is estimated for expanding the coverage of insurance companies. Exact values 
+
+cannot be disclosed due to confidential data. 
+
+W4.2a 
+
+(W4.2a) Provide details of risks identified within your value chain (beyond direct operations) with the potential to have a substantive 
+
+financial or strategic impact on your business, and your response to those risks. 
+
+ 
+
+Country/Area & River basin 
+
+Turkey 
+
+Tigris & Euphrates 
+
+Stage of value chain 
+
+Other, please specify 
+
+Portfolio 
+
+Type of risk & Primary risk driver 
+
+Acute physical 
+
+Drought 
+
+Primary potential impact 
+
+Changing revenue mix and sources 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+29 
+ 
+
+Company-specific description 
+
+As part of its sustainable financing efforts, Halkbank contributes to facilitating Turkey's transition to a low-carbon economy by reducing foreign 
+
+dependency on energy. In this direction, the share of HPP, WPP, BPP, and SPP renewable energy and energy-saving projects in the energy 
+
+investments portfolio it supports is constantly increasing. In 2021, 654 million TL was provided for 25 renewable power plant projects with a total 
+
+installed capacity of 301.49 MW. Thanks to these power plants, which were evaluated by Halkbank, approximately 295,754 tons of CO2e 
+
+emissions were reduced. The Bank provided the most financing to HPP facilities in renewable energy projects until 2021. However, the fact that 
+
+Turkey is a region with high water stress and the fact that these power plants are located in regions with high water stress risk is considered a 
+
+water-based credit risk. Three of these HEPP facilities are located in the Tigris-Euphrates basin, which was found to be at high water stress risk 
+
+using the WRI Aqueduct Tool. Therefore, taking this risk assessment into account, the renewable energy loan distribution in 2021 has been 
+
+balanced within the portfolio as WPP, SPP, BPP, and HPP, respectively. 
+
+Timeframe 
+
+4-6 years 
+
+Magnitude of potential impact 
+
+Medium-high 
+
+Likelihood 
+
+Very likely 
+
+Are you able to provide a potential financial impact figure? 
+
+Yes, a single figure estimate 
+
+Potential financial impact figure (currency) 
+
+1,000,000,000 
+
+Potential financial impact figure - minimum (currency) 
+
+ 
+
+Potential financial impact figure - maximum (currency) 
+
+ 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+30 
+ 
+
+Explanation of financial impact 
+
+Halkbank evaluated that the 3 power plants located in the Euphrates-Tigris basin, which has a higher risk of water stress compared to other 
+
+HEPP projects it finances, have a strategic impact on revenue. In the event of a possible drought, the maximum cost of repayment and credit 
+
+risk was calculated based on the scenario that these facilities would not be able to produce any energy. Consideringly, this cost is calculated by 
+
+the sum of the income obtained from the difference between the interest applied to the loan given and funds transfer pricing, and it has been 
+
+observed that the risk cost of the loans given is approximately 1,000,000,000 TL. 
+
+Primary response to risk 
+
+Direct operations 
+
+Develop new products and/or markets 
+
+Description of response 
+
+Turkey, which has a wide range of renewable energy resources, is among the countries that are suitable for the use of wind energy in the world. 
+
+Wind and solar energy are among the renewable energy sources. By the end of 2021, Turkey's total installed wind power has reached 10,750 
+
+megawatts. In addition, in 2021, 9.4% of Turkey's electricity production was obtained from wind and 4% from solar. In response to the potential 
+
+drought-related risks by hydroelectric power plants in the future, Halkbank balanced its renewable energy loan distribution in the portfolio as 
+
+WPP, SPP, BPP, and HEPP, respectively, in 2021. 
+
+Cost of response 
+
+512,334,200 
+
+Explanation of cost of response 
+
+Halkbank provided 257.120.00 TL for WPP projects and 188.388,000 TL for SPP projects in 2021. Halkbank, which provides the portfolio 
+
+distribution at this rate against the risks of HEPP projects, provided a total of 445,508,000 TL in financing. The portfolio risk in HEPP has 
+
+decreased to %15 from %45 in 2021. In contrast to that, the ratio of WPP financings in total renewable project portfolio has increased to 39%; 
+
+and SPP has increased to 29% from 21% in 2021. The interest income of these loans is estimated as 15%  of the amounts given, 
+
+corresponding to approximately 66,8 M TRY.  The cost of response has been calculated as 512,334,200TL with the sum of these two values. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+31 
+ 
+
+W4.3 
+
+(W4.3) Have you identified any water-related opportunities with the potential to have a substantive financial or strategic impact on 
+
+your business? 
+
+Yes, we have identified opportunities, and some/all are being realized 
+
+W4.3a 
+
+(W4.3a) Provide details of opportunities currently being realized that could have a substantive financial or strategic impact on your 
+
+business. 
+
+ 
+
+Type of opportunity 
+
+Products and services 
+
+Primary water-related opportunity 
+
+Increased sales of existing products/services 
+
+Company-specific description & strategy to realize opportunity 
+
+i) An explanation of why this opportunity is considered strategic for the company: As part of its sustainable financing efforts, Halkbank 
+
+contributes to facilitating Turkey's transition to a low-carbon economy by reducing foreign dependency on energy. In this direction, the share of 
+
+HPP, WPP, BPP, and SPP renewable energy and energy-saving projects in the energy investments portfolio it supports is constantly 
+
+increasing. The increased risk of water stress with the climate crisis reduces the demand for HPP. In addition, Turkey's electricity production 
+
+was 9.4% from wind and 4% from solar in 2021. Since solar energy is expected to be the trend energy in the world in 2022, Halkbank evaluated 
+
+the financing distribution of its 2021 portfolio according to this opportunity. 
+
+ 
+
+ii) An explanation of the action being taken to realize the opportunity: Halkbank annually evaluates the water stress risk of both the regions 
+
+where it directly operates and the regions it finances with the WRI Aqueduct Tool and determines its strategy accordingly. Having provided the 
+
+highest share in renewable energy financing to HPPs until 2021, the Bank re-established the balance in its portfolio in 2021, considering that 
+
+these power plants are located in regions with high water stress risk and carry a repayment risk. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+32 
+ 
+
+ 
+
+iii) An example of the action taken to realize the opportunity, with reference to their outcome and timescale of implementation: The renewable 
+
+energy loan distribution in 2021 has been balanced within the portfolio as WPP, SPP, BPP, and HPP, respectively. 
+
+Estimated timeframe for realization 
+
+Current - up to 1 year 
+
+Magnitude of potential financial impact 
+
+Medium-high 
+
+Are you able to provide a potential financial impact figure? 
+
+Yes, a single figure estimate 
+
+Potential financial impact figure (currency) 
+
+66,800,000 
+
+Potential financial impact figure – minimum (currency) 
+
+ 
+
+Potential financial impact figure – maximum (currency) 
+
+ 
+
+Explanation of financial impact 
+
+Turkey, which has a wide range of renewable energy resources, is among the countries that are suitable for the use of wind energy in the world. 
+
+Wind and solar energy are among the renewable energy sources. By the end of 2021, Turkey's total installed wind power has reached 10,750 
+
+megawatts. In addition, in 2021, 9.4% of Turkey's electricity production was obtained from wind and 4% from solar. In response to the potential 
+
+drought-related risks by hydroelectric power plants in the future, Halkbank balanced its renewable energy loan distribution in the portfolio as 
+
+WPP, SPP, BPP, and HEPP, respectively, in 2021.  Halkbank provided 257.120.00 TL for WPP projects and 188.388,000 TL for SPP projects in 
+
+2021. Halkbank, which provides the portfolio distribution at this rate against the risks of HEPP projects, provided a total of 445,508,000 TL in 
+
+financing. The portfolio risk in HEPP has decreased to %15 from %45 in 2021. In contrast to that, the ratio of WPP financings in total renewable 
+
+project portfolio has increased to 39%; and SPP has increased to 29% from 21% in 2021. The interest income of these loans is estimated as 
+
+15%  of the amounts given, corresponding to approximately 66,8 M TRY. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+33 
+ 
+
+W5. Facility-level water accounting 
+
+W5.1 
+
+(W5.1) For each facility referenced in W4.1c, provide coordinates,  water accounting data, and a comparison with the previous 
+
+reporting year. 
+
+ 
+
+Facility reference number 
+
+Facility 1 
+
+Facility name (optional) 
+
+Headquarters 
+
+Country/Area & River basin 
+
+Turkey 
+
+Other, please specify 
+
+Sea of Marmara Coast 
+
+Latitude 
+
+41.008237 
+
+Longitude 
+
+28.978358 
+
+Located in area with water stress 
+
+Yes 
+
+Total water withdrawals at this facility (megaliters/year) 
+
+18 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+34 
+ 
+
+Comparison of total withdrawals with previous reporting year 
+
+Higher 
+
+Withdrawals from fresh surface water, including rainwater, water from wetlands, rivers and lakes 
+
+0 
+
+Withdrawals from brackish surface water/seawater 
+
+0 
+
+Withdrawals from groundwater - renewable 
+
+0 
+
+Withdrawals from groundwater - non-renewable 
+
+0 
+
+Withdrawals from produced/entrained water 
+
+0 
+
+Withdrawals from third party sources 
+
+18 
+
+Total water discharges at this facility (megaliters/year) 
+
+17.5 
+
+Comparison of total discharges with previous reporting year 
+
+Higher 
+
+Discharges to fresh surface water 
+
+0 
+
+Discharges to brackish surface water/seawater 
+
+0 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+35 
+ 
+
+Discharges to groundwater 
+
+0 
+
+Discharges to third party destinations 
+
+17.5 
+
+Total water consumption at this facility (megaliters/year) 
+
+0.5 
+
+Comparison of total consumption with previous reporting year 
+
+Much lower 
+
+Please explain 
+
+The water accounting data of the Headquarters, which is located in the Sea of Marmara coast and has a strategic effect, specified in the 1st line 
+
+of question W4.1c , is given in this line. Halkbank monitors the water stress risk of all branches with the WRI Aqueduct Tool. Halkbank monitors 
+
+the water stress risk of all branches with the WRI Aqueduct Tool. Water consumption value is the volume of water purchased for employees to 
+
+drink. The water discharge volume is the water volume supplied from the municipal water source. The total withdrawal volume is calculated by 
+
+the sum of these two uses. Halkbank defines the change between 5% and 15% as high or low in its operations. If the comparison result is less 
+
+than 5%, it is considered about the same, if it is higher than 15%, it is considered very high or very low. Since the water used in all business 
+
+units is supplied only from municipalities and clean water purchasing services, the withdrawal and discharge sources other than third party is 
+
+calculated as 0. 
+
+ 
+
+Facility reference number 
+
+Facility 2 
+
+Facility name (optional) 
+
+Information Technology Center 
+
+Country/Area & River basin 
+
+Turkey 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+36 
+ 
+
+Other, please specify 
+
+Sea of Marmara Coast 
+
+Latitude 
+
+41.008237 
+
+Longitude 
+
+28.978358 
+
+Located in area with water stress 
+
+Yes 
+
+Total water withdrawals at this facility (megaliters/year) 
+
+1.92 
+
+Comparison of total withdrawals with previous reporting year 
+
+Much higher 
+
+Withdrawals from fresh surface water, including rainwater, water from wetlands, rivers and lakes 
+
+0 
+
+Withdrawals from brackish surface water/seawater 
+
+0 
+
+Withdrawals from groundwater - renewable 
+
+0 
+
+Withdrawals from groundwater - non-renewable 
+
+0 
+
+Withdrawals from produced/entrained water 
+
+0 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+37 
+ 
+
+Withdrawals from third party sources 
+
+1.92 
+
+Total water discharges at this facility (megaliters/year) 
+
+1.9 
+
+Comparison of total discharges with previous reporting year 
+
+Much higher 
+
+Discharges to fresh surface water 
+
+0 
+
+Discharges to brackish surface water/seawater 
+
+0 
+
+Discharges to groundwater 
+
+0 
+
+Discharges to third party destinations 
+
+1.9 
+
+Total water consumption at this facility (megaliters/year) 
+
+0.02 
+
+Comparison of total consumption with previous reporting year 
+
+Much lower 
+
+Please explain 
+
+The water accounting data of the IT, which is located in the Sea of Marmara Coast and has a strategic effect, specified in the 1st line of question 
+
+W4.1c, is given in this line. Halkbank monitors the water stress risk of all branches with the WRI Aqueduct Tool. Water consumption value is the 
+
+volume of water purchased for employees to drink. The water discharge volume is the water volume supplied from the municipal water source. 
+
+The total withdrawal volume is calculated by the sum of these two uses. Halkbank defines the change between 5% and 15% as high or low in its 
+
+operations. If the comparison result is less than 5%, it is considered about the same, if it is higher than 15%, it is considered very high or very 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+38 
+ 
+
+low. Since the water used in all business units is supplied only from municipalities and clean water purchasing services, the withdrawal and 
+
+discharge sources other than third party is calculated as 0. 
+
+ 
+
+Facility reference number 
+
+Facility 3 
+
+Facility name (optional) 
+
+111 Branches located in the Euphrates-Tigris basin 
+
+Country/Area & River basin 
+
+Turkey 
+
+Tigris & Euphrates 
+
+Latitude 
+
+37.167403 
+
+Longitude 
+
+38.795514 
+
+Located in area with water stress 
+
+Yes 
+
+Total water withdrawals at this facility (megaliters/year) 
+
+22.42 
+
+Comparison of total withdrawals with previous reporting year 
+
+About the same 
+
+Withdrawals from fresh surface water, including rainwater, water from wetlands, rivers and lakes 
+
+0 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+39 
+ 
+
+Withdrawals from brackish surface water/seawater 
+
+0 
+
+Withdrawals from groundwater - renewable 
+
+0 
+
+Withdrawals from groundwater - non-renewable 
+
+0 
+
+Withdrawals from produced/entrained water 
+
+0 
+
+Withdrawals from third party sources 
+
+22.42 
+
+Total water discharges at this facility (megaliters/year) 
+
+21.68 
+
+Comparison of total discharges with previous reporting year 
+
+Higher 
+
+Discharges to fresh surface water 
+
+0 
+
+Discharges to brackish surface water/seawater 
+
+0 
+
+Discharges to groundwater 
+
+0 
+
+Discharges to third party destinations 
+
+21.68 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+40 
+ 
+
+Total water consumption at this facility (megaliters/year) 
+
+0.74 
+
+Comparison of total consumption with previous reporting year 
+
+Much lower 
+
+Please explain 
+
+The data of the 111 branches, which are located in the Euphrates Tigris river and have a strategic effect, specified in the 2nd line of the W4.1c 
+
+question, are grouped by the river basin and their water accounting data is given in this row. Halkbank monitors the water stress risk of all 
+
+branches with the WRI Aqueduct Tool. Water consumption value is the volume of water purchased for employees to drink. The water discharge 
+
+volume is the water volume supplied from the municipal water source. The total withdrawal volume is calculated by the sum of these two uses. 
+
+Halkbank defines the change between 5% and 15% as high or low in its operations. If the comparison result is less than 5%, it is considered 
+
+about the same, if it is higher than 15%, it is considered very high or very low. Since the water used in all business units is supplied only from 
+
+municipalities and clean water purchasing services,  the withdrawal and discharge sources other than third party is calculated as 0. 
+
+W5.1a 
+
+(W5.1a) For the facilities referenced in W5.1, what proportion of water accounting data has been third party verified? 
+
+Water withdrawals – total volumes 
+
+% verified 
+
+76-100 
+
+Verification standard used 
+
+ 
+
+ISAE3000 (Revised) 
+
+Water withdrawals – volume by source 
+
+% verified 
+
+76-100 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+41 
+ 
+
+Verification standard used 
+
+ 
+
+ISAE3000 (Revised) 
+
+Water withdrawals – quality by standard water quality parameters 
+
+% verified 
+
+76-100 
+
+Verification standard used 
+
+ 
+
+The total water withdrawal volume of Halkbank includes the drinking water purchased for its employees and the water discharged. Municipalities 
+
+take samples and verify the water quality parameters, which are accredited 17025 in their own laboratory. 
+
+Water discharges – total volumes 
+
+% verified 
+
+76-100 
+
+Verification standard used 
+
+ 
+
+ISAE3000 (Revised) 
+
+Water discharges – volume by destination 
+
+% verified 
+
+76-100 
+
+Verification standard used 
+
+ 
+
+ISAE3000 (Revised) 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+42 
+ 
+
+Water discharges – volume by final treatment level 
+
+ 
+
+% verified 
+
+76-100 
+
+Verification standard used 
+
+ 
+
+In all of Halkbank's operations, wastewater discharges are made to the municipal sewerage system, and wastewater treatment is carried out at 
+
+the treatment plants operated by the municipalities.  The water discharge volume by final treatment level is verified according to ISAE 3000 
+
+(Revised). 
+
+Water discharges – quality by standard water quality parameters 
+
+% verified 
+
+76-100 
+
+Verification standard used 
+
+ 
+
+In all of Halkbank's operations, wastewater discharges are made to the municipal sewerage system, and wastewater treatment is carried out at 
+
+the treatment plants operated by the municipalities.  Municipalities take samples and verify the water quality parameters, which are accredited 
+
+17025 in their own laboratory. 
+
+Water consumption – total volume 
+
+% verified 
+
+76-100 
+
+Verification standard used 
+
+ 
+
+ISAE3000 (Revised) 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+43 
+ 
+
+W6. Governance 
+
+W6.1 
+
+(W6.1) Does your organization have a water policy? 
+
+Yes, we have a documented water policy that is publicly available 
+
+W6.1a 
+
+(W6.1a) Select the options that best describe the scope and content of your water policy. 
+
+ Scope Content Please explain 
+
+Row 
+
+1 
+
+Company-
+
+wide 
+
+Description of business 
+
+dependency on water 
+
+Description of business impact on 
+
+water 
+
+Company water targets and goals 
+
+Commitments beyond regulatory 
+
+compliance 
+
+Commitment to stakeholder 
+
+awareness and education 
+
+Commitment to safely managed 
+
+Water, Sanitation and Hygiene 
+
+(WASH) in the workplace 
+
+Acknowledgement of the human 
+
+right to water and sanitation 
+
+Halkbank is aware of how climate change can affect water problems. It has sustainability and 
+
+environmental policies consisting of the approaches and actions to be taken in order to protect the 
+
+environment and minimize the negative effects of its functions. In line with these policies, the WRI 
+
+Aqueduct Tool and the Ministry of Agriculture and Forestry monitor the water stress and amount of 
+
+water in the basins. Thus, the Bank's water-related strategies can be determined through qualitative 
+
+and quantitative analysis. 
+
+As Halkbank, we are aware of the importance of water in human life. In this framework, the Bank 
+
+constantly reviews and improves its policies, environmental, energy, and water management 
+
+systems in all its branches and regions; aims and undertakes to reduce the consumption of 
+
+resources such as energy and water by controlling it and reducing the negative effects that may 
+
+arise from its activities. 
+
+In addition, the Bank, which advocates that water is a natural human right and that everyone should 
+
+have access to clean water for consumption and hygiene, prefers to cooperate with suppliers who 
+
+are aware of the importance of water in its business relations with the value chain. In this context, it 
+
+takes initiatives to raise awareness by organizing trainings on water and climate issues as much as 
+
+possible in the value chain. In addition, the Bank offers trainings and resources on water and 
+
+climate change to SME customers via the online platform. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+44 
+ 
+
+Recognition of environmental 
+
+linkages, for example, due to 
+
+climate change 
+
+W6.2 
+
+(W6.2) Is there board level oversight of water-related issues within your organization? 
+
+Yes 
+
+W6.2a 
+
+(W6.2a) Identify the position(s) (do not include any names) of the individual(s) on the board with responsibility for water-related 
+
+issues. 
+
+Position of 
+
+individual 
+
+Please explain 
+
+Board-level 
+
+committee 
+
+i) Responsibilities of the committee: The Sustainability Committee consists of 20 members at the level of two Board Members, four Deputy 
+
+General Managers, two Group Presidents, and twelve Department Heads. The chairman of the committee serves as the independent board 
+
+member of the Bank, and the vice-chairman of the committee serves as a member of the bank's board of directors. The Sustainability 
+
+Committee is responsible for coordinating the Bank's sustainability efforts, assessing the economic, environmental, and social impacts of its 
+
+activities, assessing and managing risks related to climate, water, and sustainability, taking decisions to take necessary actions, and 
+
+overseeing the risks related to climate and water that the bank will face. The Committee reports to the Bank's Board of Directors to 
+
+coordinate the Bank's sustainability activities. It also conveys risks and other issues subject to the board's authorization level to the board of 
+
+directors. 
+
+ 
+
+ii) Example of a water-related decision: The energy, environment, and water management performance of the branches is monitored with 
+
+the software called İKLİM, which means the climate, created with the bank's own resources. In 2020, the Board Level Sustainability 
+
+Committee decided to include the results of this software in branch performance evaluations and to implement incentive mechanisms 
+
+according to the performance of branches in line with reduction targets in water and other environmental issues. In 2021, the Committee 
+
+decided to improve business processes in order to adapt to national and international developments within the scope of combating the 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+45 
+ 
+
+climate crisis. In this direction, the Committee has decided to establish a Climate Action Plan and also has joined the Net-Zero Banking 
+
+Alliance, and committed to setting GHG emission reduction targets across its operations and its portfolio in line with SBTI criteria in 2022. 
+
+W6.2b 
+
+(W6.2b) Provide further details on the board’s oversight of water-related issues. 
+
+ Frequency that water-
+
+related issues are a 
+
+scheduled agenda item 
+
+Governance mechanisms 
+
+into which water-related 
+
+issues are integrated 
+
+Please explain 
+
+Row 
+
+1 
+
+Scheduled - all meetings Monitoring implementation 
+
+and performance 
+
+Overseeing major capital 
+
+expenditures 
+
+Providing employee 
+
+incentives 
+
+Reviewing and guiding 
+
+annual budgets 
+
+Reviewing and guiding 
+
+business plans 
+
+Reviewing and guiding major 
+
+plans of action 
+
+Reviewing and guiding risk 
+
+management policies 
+
+Reviewing and guiding 
+
+strategy 
+
+Reviewing and guiding 
+
+corporate responsibility 
+
+strategy 
+
+The Board of Directors carries out the Sustainability Management by joining the 
+
+Sustainability Committee with two members (at the level of President and Vice President). 
+
+The sustainability committee meets at least 4 times a year for its regular scheduled 
+
+meetings. At these regular meetings, risks and opportunities for sustainability issues, 
+
+including water issues, are evaluated and targets are set. Budget adjustments and 
+
+performance targets are discussed and decided by a majority vote in order to achieve the 
+
+targets. In addition, the periodic performance of the targets is compared with the results of 
+
+the determined period and necessary revisions are decided. Decisions on rewarding 
+
+performance on sustainability issues are also taken at regular meetings of the Sustainability 
+
+Committees. The sustainability committee may meet urgently and from time to time to 
+
+discuss and take decisions on urgent and important issues that arise outside of the regular 
+
+meeting periods. The Sustainability Practices, Environment, and Energy Management 
+
+Department Manager is authorized to call irregular sustainability committee meetings. 
+
+Decisions taken by the committee that may have important results are reported to the board 
+
+of directors. In addition, a Management review meeting is held at least once a year to ensure 
+
+the adequacy and effectiveness of the Bank's sustainability practices. Thus, actions can be 
+
+taken for measures and opportunities for possible water-related risks. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+46 
+ 
+
+Reviewing innovation/R&D 
+
+priorities 
+
+W6.2d 
+
+(W6.2d) Does your organization have at least one board member with competence on water-related issues? 
+
+ Board member(s) have 
+
+competence on water-
+
+related issues 
+
+Criteria used to assess competence of board member(s) on water-related issues 
+
+Row 
+
+1 
+
+Yes As Halkbank, we are subject to Turkish Banking Law and Capital Markets Board (CMB) regulations in the elections of 
+
+the Board of Directors. The education level of the board about sustainability is important as a climate change 
+
+competency. The chairman of the Sustainability Committee, who is also a member of BoD, is competent in sustainable 
+
+development and economics due to their training and expertise. These criteria meet the board members' competence 
+
+on climate-related issues. 
+
+ 
+
+In addition, all Sustainability Committee members have KPIs on environmental and sustainability issues. In order to 
+
+evaluate their competence in climate and water-related issues, the fact that they have achieved these targets in the past 
+
+is used as a criterion and proves their competence. 
+
+W6.3 
+
+(W6.3) Provide the highest management-level position(s) or committee(s) with responsibility for water-related issues (do not include 
+
+the names of individuals). 
+
+ 
+
+Name of the position(s) and/or committee(s) 
+
+Other C-Suite Officer, please specify 
+
+Chairman of Sustainability Committee 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+47 
+ 
+
+Responsibility 
+
+Assessing water-related risks and opportunities 
+
+Managing water-related risks and opportunities 
+
+Frequency of reporting to the board on water-related issues 
+
+Quarterly 
+
+Please explain 
+
+i) Water-related topics that are reported to the board: As part of sustainable finance, Halkbank commits to the management of water use in the 
+
+determination of targets and action plans. It evaluates water-related risks since its external stakeholders, especially the sectors it finances, are 
+
+highly dependent on water, within the scope of operational and credit risks, and sets targets in the regular meetings where the committee meets 
+
+at least 4 times a year. 
+
+ 
+
+ii) Water-related responsibilities of the committee: The chairman of the committee leads the committee in monitoring the committee's duties and 
+
+authorities and fulfilling the committee's responsibilities. Issues that require further authority from the sustainability committee are forwarded to 
+
+the board of directors for decision. The sustainability committee may meet urgently and from time to time to discuss and take decisions on 
+
+important water-related issues that arise outside of the regular meeting periods. 
+
+W6.4 
+
+(W6.4) Do you provide incentives to C-suite employees or board members for the management of water-related issues? 
+
+ Provide incentives for management of water-related issues Comment 
+
+Row 1 Yes N/A 
+
+W6.4a 
+
+(W6.4a) What incentives are provided to C-suite employees or board members for the management of water-related issues (do not 
+
+include the names of individuals)? 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+48 
+ 
+
+ Role(s) entitled to 
+
+incentive 
+
+Performance 
+
+indicator 
+
+Please explain 
+
+Monetary 
+
+reward 
+
+Other C-suite Officer 
+
+Chairman of 
+Sustainability 
+Committee 
+
+Reduction of water 
+
+withdrawals 
+
+Reduction in 
+
+consumption volumes 
+
+Improvements in 
+
+efficiency - direct 
+
+operations 
+
+Improvements in 
+
+efficiency - supply 
+
+chain 
+
+Improvements in 
+
+efficiency - product-use 
+
+Increased access to 
+
+workplace WASH 
+
+Implementation of 
+
+water-related 
+
+community project 
+
+i) Details on the indicator/s chosen: Halkbank monitors the water withdrawal and consumption 
+
+values annually with the İKLİM software, which means "the climate", it has developed and 
+
+reports it mainly with GHG emission calculations. 
+
+ 
+
+ii) The rationale for the chosen indicator/s:  In line with the water targets that Halkbank has 
+
+determined by considering its environmental policy; is committed to reducing and optimizing 
+
+water consumption and withdrawal in its direct operations and increasing water efficiency both 
+
+in its direct operations and in its supply chain. In addition, no concessions are made on 
+
+observing the right of employees to access clean water and provide a healthy working 
+
+environment. Therefore, the sustainability committee and committee chairperson, who develop 
+
+projects and realize KPIs within the scope of these principles and objectives, are supported 
+
+with monetary awards. 
+
+ 
+
+iii) The linkage between the selected performance indicator and type of incentive: In return for 
+
+a 2% annual reduction in water use in GHG emissions, the Chairman of the Sustainability 
+
+Committee is given incentive awards such as monetary rewards. 
+
+Non-
+
+monetary 
+
+reward 
+
+Other C-suite Officer 
+
+Chairman of 
+Sustainability 
+Committee 
+
+Reduction of water 
+
+withdrawals 
+
+Reduction in 
+
+consumption volumes 
+
+Improvements in 
+
+efficiency - direct 
+
+operations 
+
+i) Details on the indicator/s chosen: Halkbank monitors the water withdrawal and consumption 
+
+values annually with the İKLİM software, which means "the climate", it has developed and 
+
+reports it mainly with GHG emission calculations. 
+
+ 
+
+ii) The rationale for the chosen indicator/s:  In line with the water targets that Halkbank has 
+
+determined by considering its environmental policy; is committed to reducing and optimizing 
+
+water consumption and withdrawal in its direct operations and increasing water efficiency both 
+
+in its direct operations and in its supply chain. In addition, no concessions are made on 
+
+observing the right of employees to access clean water and provide a healthy working 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+49 
+ 
+
+Improvements in 
+
+efficiency - supply 
+
+chain 
+
+Improvements in 
+
+efficiency - product-use 
+
+Increased access to 
+
+workplace WASH 
+
+Implementation of 
+
+water-related 
+
+community project 
+
+environment. Therefore, the sustainability committee and committee chairperson, who develop 
+
+projects and realize KPIs within the scope of these principles and objectives, are supported 
+
+with monetary awards. 
+
+ 
+
+iii) The linkage between the selected performance indicator and type of incentive: In return for 
+
+a 2% annual reduction in water use in GHG emissions, the Chairman of the Sustainability 
+
+Committee is given incentive awards such as monetary rewards. 
+
+W6.5 
+
+(W6.5) Do you engage in activities that could either directly or indirectly influence public policy on water through any of the 
+
+following? 
+
+Yes, direct engagement with policy makers 
+
+Yes, trade associations 
+
+Yes, other 
+
+W6.5a 
+
+(W6.5a) What processes do you have in place to ensure that all of your direct and indirect activities seeking to influence policy are 
+
+consistent with your water policy/water commitments? 
+
+ i) A description of the process used to ensure consistency: The Bank's water policy and procedures are included in the Bank's environmental policy. 
+
+Compliance with all activities within this policy is ensured by routine inspection of inspection and internal control units.  In addition, the carbon footprint 
+
+is calculated regularly in order to follow the targets we have determined within the scope of the policy, and the water withdrawal and consumption 
+
+values are regularly monitored for each branch.  In line with the decisions taken at the committee meetings and management reviews, the Bank 
+
+communicates with the ministry when necessary, exchanges views, and participates in meetings and seminars. Also, opinions are constantly being 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+50 
+ 
+
+exchanged with local municipalities, which are the main water supplier of the bank, by their local offices and central office. In addition, the Bank is a 
+
+member of the Banks Association of Turkey (TBB) and participates in working groups on the subject.  
+
+ 
+
+ ii) An explanation of the action taken if the inconsistency is discovered: Nonconformities detected in these audits are reported, and discussed in the 
+
+committee and the results are shared with the board of directors. Afterward, the relevant departments are informed to take necessary 
+
+actions.  Halkbank negatively evaluates projects in sectors that are accepted and banned in a very high-risk group in the international literature. 
+
+W6.6 
+
+(W6.6) Did your organization include information about its response to water-related risks in its most recent mainstream financial 
+
+report? 
+
+Yes (you may attach the report - this is optional) 
+
+2021-Integrated-Report_Halkbank.pdf 
+
+W7. Business strategy 
+
+W7.1 
+
+(W7.1) Are water-related issues integrated into any aspects of your long-term strategic business plan, and if so how? 
+
+ Are water-
+
+related issues 
+
+integrated? 
+
+Long-term 
+
+time horizon 
+
+(years) 
+
+Please explain 
+
+Long-term 
+
+business 
+
+objectives 
+
+Yes, water-related 
+
+issues are 
+
+integrated 
+
+11-15 Environmental, social and governance (ESG) criteria are gaining more and more importance in global 
+
+investment strategies. In its long-term business strategies, Halkbank aims to effectively manage the 
+
+risks and opportunities it faces in this regard, particularly climate change, and to provide the financing 
+
+needed for the transition to a low-carbon economy. In this context, it controls the environment and 
+
+water management in both its direct and indirect activities under the guidance of international standards 
+
+and regulations. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+51 
+ 
+
+One of Halkbank's goals regarding direct use of water is to continue to raise awareness in all of its 
+
+branches and to reduce water withdrawal and water consumption figures annually. 
+
+Its objectives regarding indirect water use are to monitor the water-related aspects of the projects it 
+
+provides loans and to actively develop ways to mitigate climate-related impacts, including water 
+
+problems. These considerations are important given the ever-increasing risks of water scarcity and 
+
+drought. 
+
+Moreover, since Halkbank is one of the first signatories of NZBA in mid-2022 and committed to 
+
+reaching net-zero by 2050, its long-term business strategies are taking action in line with both this 
+
+decision and the sustainability strategic plan of the Banking Regulation and Supervision Agency 
+
+(BDDK). 
+
+Strategy for 
+
+achieving long-
+
+term objectives 
+
+Yes, water-related 
+
+issues are 
+
+integrated 
+
+11-15 Halkbank includes environmental and water-related physical and transitional risks in its risk assessment 
+
+process in line with its long-term strategy. As part of this process, it monitors the direct water usage on 
+
+a monthly basis with the İKLİM software, which means climate, developed in 2019, monitors the water 
+
+stress of the regions it operates in annually through the WRI Aqueduct Tool, and provides regular 
+
+trainings to raise the awareness of its employees. 
+
+In addition, as a bank that aims to increase the awareness of its internal and external stakeholders on 
+
+climate change and water management, Halkbank tries to manage its water-related risks with a detailed 
+
+Environmental and Social Impact Assessment in the credit evaluation modules of the projects it 
+
+finances. Moreover, since Halkbank's primary mission is to support SMEs, it offers its customers an 
+
+online training program on the www.halkbankkobigelisim.com.tr website. 
+
+Financial 
+
+planning 
+
+Yes, water-related 
+
+issues are 
+
+integrated 
+
+11-15 Risks related to water issues are evaluated with the participation of all relevant business units of the 
+
+bank. Among the members of the Sustainability Group is the Assistant General Manager of the 
+
+Financial Management and Planning Department. The financial aspects of water and climate issues 
+
+directly related to operations and the value chain are always considered in long-term business 
+
+planning. 
+
+In the quarterly meetings of the committee, budget adjustments and performance targets are discussed 
+
+and decided by a majority of the votes to reach the targets. The financial aspects and targets of water 
+
+risks are also decided with the participation of the finance department. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+52 
+ 
+
+W7.2 
+
+(W7.2) What is the trend in your organization’s water-related capital expenditure (CAPEX) and operating expenditure (OPEX) for the 
+
+reporting year, and the anticipated trend for the next reporting year? 
+
+Row 1 
+
+Water-related CAPEX (+/- % change) 
+
+6 
+
+Anticipated forward trend for CAPEX (+/- % change) 
+
+5 
+
+Water-related OPEX  (+/- % change) 
+
+ 
+
+26 
+
+Anticipated forward trend for OPEX (+/- % change) 
+
+3 
+
+Please explain 
+
+The increase in CAPEX is related to the opening of a total of 10 new branches in 2021. Cost calculation covers the supply of water-related 
+
+applications such as faucets, water tanks, water pumps, and digital water meter systems when necessary. Since Halkbank is a growth-oriented 
+
+bank, it expects a 5% increase in CAPEX expenses depending on the number of new branches to be opened next year. 
+
+ 
+
+Annual water withdrawal and consumption expenditures are taken into account for operating expenses. The increase in OPEX is related to the 
+
+replacement of 19-liter water bottles with 0.5-liter personal recyclable PET bottles due to pandemic measures. In addition, regular increases in 
+
+water prices have a great impact on this increase. Considering the impact of both the increasing prices and the increasing water needs of the 
+
+employees in the branches, an increase of approximately 3% is expected in the OPEX values next year. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+53 
+ 
+
+W7.3 
+
+(W7.3) Does your organization use scenario analysis to inform its business strategy? 
+
+ Use of scenario analysis Comment 
+
+Row 1 Yes  
+
+W7.3a 
+
+(W7.3a) Provide details of the scenario analysis, what water-related outcomes were identified, and how they have influenced your 
+
+organization’s business strategy. 
+
+ Type of 
+
+scenario 
+
+analysis 
+
+used 
+
+Parameters, assumptions, analytical 
+
+choices 
+
+Description of possible water-related 
+
+outcomes 
+
+Influence on business strategy 
+
+Row 
+
+1 
+
+Water-
+
+related 
+
+Climate-
+
+related 
+
+Halkbank uses climate scenarios to predict 
+
+the possible consequences for its lending 
+
+activities and its own operations in the 
+
+future due to climate change. The Network 
+
+for Greening the Financial System (NGFS) 
+
+focuses on climate scenarios and 
+
+determines its strategies by taking into 
+
+account the future analyses of the WRI 
+
+Aqueduct Tool. 
+
+While NGFS offers 6 scenarios, the Bank, 
+
+which has committed to becoming net-zero 
+
+until 2050 to the NZBA  in mid-2022, 
+
+considers the Net-Zero 2050 scenario, 
+
+which is one of the regular scenarios, in its 
+
+The annual amount of usable water per 
+
+capita in Turkey is around 1,350 cubic 
+
+meters. It is predicted that the amount of 
+
+water per capita will be around 1,000 cubic 
+
+meters due to the population reaching 100 
+
+million in 2030 and the increase in water 
+
+pollution and the effects of drought. This 
+
+situation will make it difficult to meet the 
+
+water demand, especially in densely 
+
+populated areas, and may cause new 
+
+regulations and changes in water distribution 
+
+and restrictions for sectors with intensive 
+
+water use in industries. Halkbank foresees 
+
+such water cuts/restrictions especially in the 
+
+A description of the response to the water 
+
+related outcomes and the anticipated 
+
+timescale: With the results of the related 
+
+scenario analysis, Halkbank plans to reduce 
+
+the water consumption levels arising from its 
+
+activities, not establish customer relations 
+
+with companies that may cause water 
+
+pollution unless the necessary measures 
+
+determined in the standards are taken, and 
+
+develop practices that encourage 
+
+environmentally friendly technologies. In 
+
+addition, within the scope of the scenario 
+
+analysis results, it is expected that the 
+
+hydroelectric and agriculture sector 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+54 
+ 
+
+strategies. Net-Zero 2050 assumes that 
+
+global warming is limited to 1.5°C, strict 
+
+climate policies are in place, and it is 
+
+possible to reach net-zero greenhouse 
+
+gases by 2050. One of the most important 
+
+topics that this scenario focuses on is 
+
+resource efficiency, especially for the 
+
+energy and agriculture sectors. Since 
+
+Halkbank provides financing to the 
+
+hydroelectric power plant and agriculture 
+
+sector, it also takes water into account 
+
+under this heading and evaluates possible 
+
+risks for water with future analyzes of the 
+
+WRI Aqueduct Tool. In this tool, possible 
+
+changes in Turkey's water stress, seasonal 
+
+variability, water supply, and water demand 
+
+between 2030-2040 are followed. 
+
+energy and agriculture sectors that it 
+
+finances and includes it in the risk 
+
+assessment process as a loan payment risk. 
+
+companies will be affected by the decreases 
+
+in precipitation levels and the effects of 
+
+droughts. This expectation requires 
+
+regulation in the credit allocation evaluation 
+
+methods of banks. Halkbank has integrated 
+
+the necessary water-related criteria into the 
+
+environmental and social impact assessment 
+
+in its credit evaluation modules. In addition, 
+
+by taking climate change into account in its 
+
+portfolios, it balances credit distributions 
+
+against the risks that may be experienced. 
+
+Moreover, as a precaution, the bank plans to 
+
+use circular water systems in its branches 
+
+until 2030. 
+
+W7.4 
+
+(W7.4) Does your company use an internal price on water? 
+
+Row 1 
+
+Does your company use an internal price on water? 
+
+No, but we are currently exploring water valuation practices 
+
+Please explain 
+
+Halkbank operates in the banking sector and its activities are not considered water-intensive. Despite this, necessary measures are constantly 
+
+taken to reduce water consumption and water withdrawal levels are monitored for possible optimizations. In this context, the Bank plans to take 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+55 
+ 
+
+steps to increase water efficiency in its operations by being aware of the possible risks related to water in the future. Internal water price could 
+
+be one of these improvements. Halkbank is currently researching best practices that can be integrated into its operations. 
+
+W7.5 
+
+(W7.5) Do you classify any of your current products and/or services as low water impact? 
+
+ Products and/or 
+
+services classified 
+
+as low water 
+
+impact 
+
+Primary reason  for not classifying any 
+
+of your current products and/or services 
+
+as low water impact 
+
+Please explain 
+
+Row 
+
+1 
+
+No, but we plan to 
+
+address this within 
+
+the next two years 
+
+Important but not an 
+
+immediate business priority 
+
+As a company serving in the banking sector, Halkbank does not produce any 
+
+product, and water use is not intensive. Therefore, there is currently no low water 
+
+impact product or service. However, the most important product and service it offers 
+
+is the loans it gives to projects within the scope of sustainable finance. Taking into 
+
+account the water management of the projects for which environmental and social 
+
+impact assessment is made, the Bank may update the relevant procedure in the 
+
+future to prioritize projects with low water impact. The Bank continues its research 
+
+in this direction. 
+
+W8. Targets 
+
+W8.1 
+
+(W8.1) Describe your approach to setting and monitoring water-related targets and/or goals. 
+
+ Levels for 
+
+targets and/or 
+
+goals 
+
+Monitoring at 
+
+corporate level 
+
+Approach to setting and monitoring targets and/or goals 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+56 
+ 
+
+Row 
+
+1 
+
+Company-wide 
+
+targets and 
+
+goals 
+
+Basin specific 
+
+targets and/or 
+
+goals 
+
+Targets are 
+
+monitored at the 
+
+corporate level 
+
+Goals are monitored 
+
+at the corporate 
+
+level 
+
+Halkbank aims to provide clean drinking water to its employees, raise awareness by providing necessary 
+
+training to its customers, exchange opinions with public authorities on the creation of sustainable water 
+
+policies and management models, and support initiatives in the sustainability scene. In this context, regarding 
+
+regulations and within the scope of ISO 14001 Environmental Management System, it regularly monitors its 
+
+impact on the environment and water in its direct and indirect operations and calculates GHG emissions and 
+
+total water withdrawals and consumption every year. However, since it operates in a country with high water 
+
+stress, it evaluates the water stress of both its own activities and the regions of projects it finances with the 
+
+WRI Aqueduct Tool and works to achieve the goals which are explained in the questions below. Attaching 
+
+importance to transparency, the Bank publishes its sustainability targets and related accounts for the year, 
+
+and the projects it finances, in the integrated report it publishes on its website. 
+
+W8.1a 
+
+(W8.1a) Provide details of your water targets that are monitored at the corporate level, and the progress made. 
+
+ 
+
+Target reference number 
+
+Target 1 
+
+Category of target 
+
+Water withdrawals 
+
+Level 
+
+Company-wide 
+
+Primary motivation 
+
+Reduced environmental impact 
+
+Description of target 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+57 
+ 
+
+Halkbank's target is to have absolute water withdrawals from its branches across the country by 2035 compared to 2018. It is to reduce its 
+
+environmental impact by reducing water withdrawal by 25%. As employees' water consumption and WASH services depend on this, water is an 
+
+important input for Halkbank's direct use. To achieve this, investments are made in equipment and assets that use water more efficiently in 
+
+branches. This target will also provide savings in water costs in line with efficiency. 
+
+Quantitative metric 
+
+% reduction of water withdrawals from municipal supply 
+
+Baseline year 
+
+2018 
+
+Start year 
+
+2020 
+
+Target year 
+
+2035 
+
+% of target achieved 
+
+68 
+
+Please explain 
+
+Halkbank has already achieved 68% of this target, thanks to the training provided to its employees and the more efficient infrastructures 
+
+established. Pandemic measures also affected this figure positively. As long as progress maintains the current pace, it is thought that this target 
+
+will be reached early. 
+
+W8.1b 
+
+(W8.1b) Provide details of your water goal(s) that are monitored at the corporate level and the progress made. 
+
+ 
+
+Goal 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+58 
+ 
+
+Engaging with customers to help them minimize product impacts 
+
+Level 
+
+Company-wide 
+
+Motivation 
+
+Reduced environmental impact 
+
+Description of goal 
+
+i) Why this goal is important to the company: Halkbank aims to increase the awareness of all its internal and external stakeholders about climate 
+
+change, reduce direct water use, and improve the financing of its customers, especially water-intensive projects, within the scope of its 
+
+sustainability and environmental policy, which it has established in line with the Sustainable Development Goals. Therefore, Halkbank tries to 
+
+manage water-related risks with a detailed Environmental and Social Impact Assessment in its credit evaluation modules. In addition, 
+
+Halkbank's primary mission is to support SMEs. 
+
+ 
+
+ii) How the company is implementing the goal across its chosen level: Halkbank achieves its company-wide target of reducing the environmental 
+
+impact of its customers by offering online training programs on climate and water to its SME customers through the website 
+
+www.halkbankkobigelisim.com.tr. 
+
+Baseline year 
+
+2016 
+
+Start year 
+
+2017 
+
+End year 
+
+2040 
+
+Progress 
+
+i) Indicator used to assess progress: The development of this application, which Halkbank has offered since 2016, is evaluated by the 
+
+participation rate. 
+
+ 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+59 
+ 
+
+ii) The threshold of success and how it has progressed against it: The fact that at least 50% of SMEs attend the relevant training shows that this 
+
+target has successfully progressed. When the customers who have participated in the trainings are evaluated, it is seen that this target has 
+
+been successfully progressed. 
+
+W9. Verification 
+
+W9.1 
+
+(W9.1) Do you verify any other water information reported in your CDP disclosure (not already covered by W5.1a)? 
+
+Yes 
+
+2021-Integrated-Report_Halkbank.pdf 
+
+Halkbank CDP WS Assurance Report_2207.pdf 
+
+W9.1a 
+
+(W9.1a) Which data points within your CDP disclosure have been verified, and which standards were used? 
+
+Disclosure 
+
+module 
+
+Data verified Verification 
+
+standard 
+
+Please explain 
+
+W1 Current 
+
+state 
+
+Amount of total water withdrawal volume, total water 
+
+discharge volume and total water consumption volume 
+
+ISAE 3000 All data shared in Current State has been verified by third 
+
+parties to the ISAE 3000 (Revised) standard. 
+
+W10. Sign off 
+
+W-FI 
+
+(W-FI) Use this field to provide any additional information or context that you feel is relevant to your organization's response. Please 
+
+note that this field is optional and is not scored. 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+60 
+ 
+
+  You may find additional information regarding our sustainability approach on our web site at https://www.halkbank.com.tr/en/investor-
+
+relations/corporate-governance/sustainability.html   
+
+ 
+
+Attached, there is verification report of water data disclosed in the questionnaire. The water withdrawal amount in the report is the amount that 
+
+withdrawn from municipalities. When reporting to CDP, the withdrawals are calculated as the sum of municipality withdrawals and PET bottled water 
+
+consumed.   
+
+2021-Integrated-Report_Halkbank.pdf 
+
+Halkbank CDP WS Assurance Report_2207.pdf 
+
+W10.1 
+
+(W10.1) Provide details for the person that has signed off (approved) your CDP water response. 
+
+ Job title Corresponding job category 
+
+Row 1 Chairman of Sustainability Committee (Halkbank Independent Board Member) Board/Executive board 
+
+W10.2 
+
+(W10.2) Please indicate whether your organization agrees for CDP to transfer your publicly disclosed data on your impact and risk 
+
+response strategies to the CEO Water Mandate’s Water Action Hub [applies only to W2.1a (response to impacts), W4.2 and W4.2a 
+
+(response to risks)]. 
+
+ 
+
+Submit your response 
+
+In which language are you submitting your response? 
+
+ 
+
+Please confirm how your response should be handled by CDP 
+
+
+
+TÜRKİYE HALK BANKASI A.Ş. CDP Water Security Questionnaire 2022 Friday, July 22, 2022 
+
+ 
+
+ 
+
+61 
+ 
+
+ I understand that my response will be shared with all requesting stakeholders Response permission 
+
+Please select your submission options  Public 
+
+ 
+
+ 
+
+Please confirm below 
+
+ 
+
+ 
+
+
+	Welcome to your CDP Water Security Questionnaire 2022
+	W0. Introduction
+	W0.1
+	W0.2
+	W0.3
+	W0.4
+	W0.5
+	W0.6
+	W0.7
+
+	W1. Current state
+	W1.1
+	W1.2
+	W1.2b
+	W1.2d
+	W1.2h
+	W1.2i
+	W1.2j
+	W1.3
+	W1.4
+	W1.4a
+	W1.4b
+	W1.4c
+
+	W2. Business impacts
+	W2.1
+	W2.1a
+	W2.2
+
+	W3. Procedures
+	W3.3
+	W3.3a
+	W3.3b
+
+	W4. Risks and opportunities
+	W4.1
+	W4.1a
+	W4.1b
+	W4.1c
+	W4.2
+	W4.2a
+	W4.3
+	W4.3a
+
+	W5. Facility-level water accounting
+	W5.1
+	W5.1a
+
+	W6. Governance
+	W6.1
+	W6.1a
+	W6.2
+	W6.2a
+	W6.2b
+	W6.2d
+	W6.3
+	W6.4
+	W6.4a
+	W6.5
+	W6.5a
+	W6.6
+
+	W7. Business strategy
+	W7.1
+	W7.2
+	W7.3
+	W7.3a
+	W7.4
+	W7.5
+
+	W8. Targets
+	W8.1
+	W8.1a
+	W8.1b
+
+	W9. Verification
+	W9.1
+	W9.1a
+
+	W10. Sign off
+	W-FI
+	W10.1
+	W10.2
+
+	Submit your response

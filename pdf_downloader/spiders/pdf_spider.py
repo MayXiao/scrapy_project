@@ -1,0 +1,370 @@
+"""
+This is google api site scrape script
+"""
+
+import scrapy
+import csv
+import requests
+import pandas as pd
+from urllib.parse import urljoin
+from urllib.parse import urlparse
+import random
+import re
+# from pdfminer.high_level import extract_text
+import io
+# from io import BytesIO
+import tika
+from tika import parser
+import PyPDF2
+import datetime
+from scrapy.http import TextResponse
+from pdf_downloader.items import PdfDownloaderItem
+import time
+import string
+
+patterns = [
+    "sustain",
+    "esg",
+    "environment",
+    "climate",
+    "green",
+    "responsibility",
+    "csr",
+    "tcfd",
+    "integrated",
+    "integrado",
+    "annual"
+]
+
+# xpath_expression = '//a[not(ancestor::head) and not(ancestor::header) and not(ancestor::navigation) and not(ancestor::nav) and not(ancestor::footer)]/@href'
+xpath_expression = '//a[not(ancestor::head) and not(ancestor::header) and not(ancestor::footer)]/@href'
+
+# search_terms = [
+#     "climate", "esg report", "integrated report", "csr report", "corporate social responsibility", \
+#     "annual report", "sustainability report", "net zero", "social", "governance report",\
+#     'commitment',    "csr", "tcfd","sustain","environment","green"
+# ]
+search_terms = [ "net zero", "social", 'commitment']
+
+
+def strip_punctuation_and_newlines(text):
+    chinese_punctuation = "，。！？【】（）％＃＠＆１２３４５６７８９０：；“”‘’《》"
+    translator = str.maketrans('', '', string.punctuation + chinese_punctuation)
+    stripped_text = text.translate(translator)
+    stripped_text = stripped_text.replace('\n', '')
+    return stripped_text
+
+def filter_out_less2page(url):
+    response = requests.get(url) #, verify=False)
+    try:
+        pdf_content = io.BytesIO(response.content)
+        pdf_reader = PyPDF2.PdfReader(pdf_content)
+        page_count = len(pdf_reader.pages)
+    except:
+        page_count = 4
+    if page_count > 3:
+        return True
+    return False
+
+def get_pdf_create_date_page_num(pdf_url):
+    try:
+        response = requests.get(pdf_url) #,verify=False)
+        pdf_content = io.BytesIO(response.content)
+        pdf_reader = PyPDF2.PdfReader(pdf_content)
+        metadata = pdf_reader.metadata
+        create_date = metadata.get('/CreationDate')
+        create_date = int(create_date[2:6])
+        page_count = len(pdf_reader.pages)
+        return create_date, int(page_count) if page_count else 0
+    except:
+        try: 
+            response = requests.get(pdf_url) #, verify=False)
+            parsed = parser.from_buffer(response.content)
+            text = parsed['content']
+            pdf_content = io.BytesIO(response.content)
+            pdf_reader = PyPDF2.PdfReader(pdf_content)
+            page_count = len(pdf_reader.pages)
+            text_short = strip_punctuation_and_newlines(text)[:300]
+            if '2022' in text_short:
+                return 2023, int(page_count) if page_count else 0
+            elif '2021' in text_short:
+                return 2022, int(page_count) if page_count else 0
+            elif '2020' in text_short:
+                return 2021, int(page_count) if page_count else 0          
+            elif '2019' in text_short:
+                return 2020, int(page_count) if page_count else 0              
+        except:
+            return 2021,2
+        
+current_year = datetime.datetime.now().year
+numbers = [str(year)[-2:] for year in range(current_year-3, current_year+1)]  
+regex_patterns = [re.compile(rf"(?=.*{keyword})(?=.*{number})", re.IGNORECASE) for number in numbers for keyword in patterns]
+
+def find_max_url(row, dictionary):
+    allow_domain = row
+    # allowed_domain = get_domain(row["website"])
+    nested_dict = dictionary.get(allow_domain, {})
+    max_first_value = float('-inf')
+    max_second_value = float('-inf')
+    max_url = None
+
+    for url, (first_value, second_value) in nested_dict.items():
+        if first_value > max_first_value:
+            max_first_value = first_value
+            max_url = url
+            # print(max_first_url)
+    
+        if first_value == max_first_value and second_value > max_second_value:
+            max_second_value = second_value
+            max_url = url
+    #
+    # for url, (first_value, second_value) in nested_dict.items():
+    #     if len(first_value) > max_first_value:
+    #         max_first_value = len(first_value)
+    #         max_url = url
+    #         # print(max_first_url)
+
+    #     if len(first_value) == max_first_value and second_value > max_second_value:
+    #         max_second_value = second_value
+    #         max_url = url
+
+    return max_url
+
+
+class PDFSpider(scrapy.Spider):
+    name = "pdf_spider"
+    custom_settings = {
+       'DEPTH_LIMIT': 5,
+        # 'DEPTH_LIMIT': 5,
+
+        'DOWNLOAD_DELAY': 0,  # Set initial delay to 0, will be overridden in spider_opened method
+        # 'DUPEFILTER_CLASS': 'scrapy.dupefilters.BaseDupeFilter',
+        # 'CLOSESPIDER_PAGECOUNT': 1500,
+        # 'USER_AGENT': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36'
+    }
+
+    
+    def __init__(self, urls, domain,id_code):
+        super(PDFSpider, self).__init__()
+        self.website_urls = urls
+        self.id_code = id_code
+        self.allowed_domain = domain
+        self.pdf_url = ''
+        self.pdf_keywords_url_dict = {}
+        self.pdf_keywords_url_list_dict = {}
+        # self.pdf_url_list = []
+        self.start_time = time.time()
+        self.limit_in_seconds = 20*60  # 20 mins
+        print("init.")
+
+    def close_spider(self):
+        self.crawler.engine.close_spider(self, 'Desired value found')
+        print("close_spider!!!!!")
+
+
+    def spider_opened(self, spider):
+        # Set random download delay when the spider is opened
+        download_delay = random.uniform(0.5, 2.5)  # Generate a random delay between 0.5 and 1.5 seconds
+        self.custom_settings['DOWNLOAD_DELAY'] = download_delay
+
+    def start_requests(self):
+        for website_url in self.website_urls:
+            if 'http' in self.pdf_url:
+                print(f"have pdf url: {self.pdf_url} ,stop the request")
+                return
+            response = requests.get(website_url) #, verify=False)
+            print(response.status_code)
+            print('--------------')
+            print(self.pdf_url)
+            if response.status_code == 403:
+                self.pdf_url = "Scrapy spider was forbidden by website."
+                with open('output.txt', 'a') as file:
+                    file.write(self.pdf_url)
+                # item = PdfDownloaderItem()
+                # item['id_code'] = self.id_code
+                # item['pdf_url'] = self.pdf_url
+                # yield item
+
+            else:
+                yield scrapy.Request(url=website_url, callback=self.parse, meta={'allowed_domain': self.allowed_domain,'dont_redirect':False})
+
+    # def parse(self, response):
+    #     """This is to print all links on the website."""
+    #     index = response.meta['index']
+    #     allowed_domain = response.meta['allowed_domain']
+    #     print(allowed_domain)
+    #     print('--------------')
+    #     links = response.css('a::attr(href)').getall()
+    #     for link in links:
+    #         print(link)
+
+    def parse(self, response):
+        print(response.url)
+        self.pdf_keywords_url_dict = {}
+        self.pdf_keywords_url_list_dict = {}
+
+        if response.status == 403:
+             self.pdf_url = "Scrape spider was forbidden by website."
+        else:
+            pdf_urls = []
+            print(response.headers.get('Content-Type').decode('utf-8'))
+            if 'application/pdf' in response.headers.get('Content-Type').decode('utf-8') or '.pdf' in response.url:
+                # pdf_urls.append(response.url)
+                # self.pdf_url = response.url
+
+                # #self.close_spider()
+
+                # item = PdfDownloaderItem()
+                # item['id_code'] = self.id_code
+                # item['pdf_url'] = self.pdf_url
+                # yield item
+                self.pdf_url = "This is a pdf url, no need to check."
+                with open('output.txt', 'a') as file:
+                    file.write(self.pdf_url)
+
+
+            elif 'text/html' in response.headers.get('Content-Type').decode('utf-8') and  len(response.css('a::attr(href)').getall()) == 0:
+                self.pdf_url = "No url on this website, need to manually check."
+                with open('output.txt', 'a') as file:
+                    file.write(self.pdf_url)
+
+                # item = PdfDownloaderItem()
+                # item['id_code'] = self.id_code
+                # item['pdf_url'] = self.pdf_url
+                # yield item
+
+            else:
+                        
+                # show_links = response.css('a::attr(href)').getall()
+                # for showlink in show_links:
+                #     print(showlink)
+
+                links = response.xpath(xpath_expression).extract()
+                full_urls = []
+                for href in links:
+                    # to make full url path 
+                    if href.startswith('http://') or href.startswith('https://'):
+                        # If the href is already a full URL, append it as is
+                        full_urls.append(href)
+                    else:
+                        # Otherwise, join it with the base_url to create the full URL
+                        full_url = urljoin(response.url, href)
+                        full_urls.append(full_url)
+
+                for link in full_urls:
+                    print("link:",link)
+                    # print('bbbbbbb------'+link)
+                    # if time.time() - self.start_time > self.limit_in_seconds:
+                    #     self.crawler.engine.close_spider(self, 'Time limit reached')
+                    #     self.pdf_url = "Spider reached out 1 hour limit on this domain, need to manually check."
+                    #     break
+                    try:
+                        yield response.follow(link, callback=self.parse_subpage, meta=response.meta)
+                    except:
+                        print("error: ",link)
+
+
+    def parse_subpage(self, response):
+        print("subpage:",response.url)
+        pdf_url_list = []
+        # if 'application/pdf' in response.headers.get('Content-Type').decode('utf-8') or '.pdf' in response.url:
+        #     pdf_url = response.url
+        #     if filter_out_less2page(pdf_url) and pdf_url not in pdf_url_list:
+        #         for regex_pattern in regex_patterns:
+        #             if regex_pattern.search(pdf_url):
+        #                 pdf_url_list.append(pdf_url)
+        #                 break
+        #     print(pdf_url_list)
+        #     print('!!!!!!!!!!!!!!!!!')
+            
+        #     if pdf_url_list:
+        #         for pdf_url in pdf_url_list:
+        #             response = requests.get(pdf_url, verify=False)
+        #             parsed = parser.from_buffer(response.content)
+        #             text = parsed['content']
+        #             if [ i for i in search_terms if i in text.lower() ]:
+        #                 new_dict = {self.allowed_domain: {pdf_url: get_pdf_create_date_page_num(pdf_url)}}
+
+        if 'application/pdf' in response.headers.get('Content-Type').decode('utf-8') or '.pdf' in response.url:
+            pdf_url = response.url
+            print("is pdf")
+            new_dict = {}
+            if filter_out_less2page(pdf_url) and pdf_url not in pdf_url_list:
+                print("more than 3 pages")
+                matched = False
+                for regex_pattern in regex_patterns:
+                    if regex_pattern.search(pdf_url):
+                        matched = True
+                        pdf_url_list.append(pdf_url)
+                        break
+                
+                if matched:
+                    new_dict = {self.allowed_domain: {pdf_url: get_pdf_create_date_page_num(pdf_url)}}
+                    print(f"Matched, added {pdf_url} into new_dict through URL")
+
+                else:
+                    print("Unmatched, going to parsing")
+                    response = requests.get(pdf_url) #, verify=False)
+                    parsed = parser.from_buffer(response.content)
+                    text = parsed['content']
+                    text_short = strip_punctuation_and_newlines(text)[:300]
+                    # if [ i for i in search_terms if i in text_short.lower() ]:
+                    if [i for i in patterns + search_terms if i in text_short.lower() and 'report' in text_short.lower()]:
+                            new_dict = {self.allowed_domain: {pdf_url: get_pdf_create_date_page_num(pdf_url)}}
+                            print(f"Matched, added {pdf_url} into new_dict through PDF parsing")
+                    else:
+                        print("PDF doesn't contain keywords....")
+            
+
+                try:
+                    for key, value in new_dict.items():
+                        if key in self.pdf_keywords_url_dict:
+                            self.pdf_keywords_url_dict[key].update(value)
+                        else:
+                            self.pdf_keywords_url_dict[key] = value   
+                except:
+                    print("PDF and URLs don't contain keywords....")
+                # print(len(self.pdf_keywords_url_dict))
+                    # self.df['pdf_url'] = self.df.apply(lambda row: find_max_url(row, self.pdf_keywords_url_dict) if pd.isna(row['pdf_url']) else row['pdf_url'], axis=1)
+                if len(self.pdf_keywords_url_dict) > 0:
+                    self.pdf_url = find_max_url(self.allowed_domain, self.pdf_keywords_url_dict)
+                else:
+                    self.pdf_url = "There is no url contains keywords or pdf contains keywords, but pdf doesn't contain terms, need to manually check."  
+            print(self.pdf_keywords_url_dict)
+            print('------------------------')
+            print(f"final picked {self.pdf_url}"  )
+            if "http" not in self.pdf_url:
+                with open('output.txt', 'a') as file:
+                    file.write(self.pdf_url)
+            else:
+                #self.close_spider()
+                item = PdfDownloaderItem()
+                item['id_code'] = self.id_code
+                item['pdf_url'] = self.pdf_url
+                yield item
+
+        else:
+            # if self.pdf_url:
+            #     return  # Stop crawling subpages if pdf_url already exists for the current row
+            links = response.xpath(xpath_expression).extract()
+            full_urls = [response.urljoin(url) for url in links]
+            for link in full_urls:
+                if time.time() - self.start_time > self.limit_in_seconds:
+                    self.crawler.engine.close_spider(self, 'Time limit reached')
+                    self.pdf_url = "Spider reached out 1 hour limit on this domain, need to manually check."
+                    break
+                if self.allowed_domain in link:
+                    try:
+                        yield response.follow(link, callback=self.parse_subpage, meta=response.meta)
+                    except:
+                        print("error:",link)
+    # def spider_closed(self, reason):
+    #     with open('output.txt', 'a') as f:
+    #         for pdf_url in self.pdf_url:
+    #             f.write(pdf_url + '\n')
+
+# #run scrapy crawl pdf_spider
+# scrapy crawl pdf_spider -a urls=urls -a domain=domain -a id_code=id_code
+
+
+

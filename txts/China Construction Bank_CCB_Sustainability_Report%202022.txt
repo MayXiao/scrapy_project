@@ -1,0 +1,5397 @@
+Sustainability Report | 2022
+
+Message from the President 3
+
+Highlights 2022 6
+
+Introduction 7 
+
+ABOUT THE REPORT 8 
+
+MATERIALITY 8 
+
+MANAGEMENT OF MATERIAL TOPICS 11
+
+ CCB 14
+
+HEAD OFFICE  15
+
+CCB 16
+
+PURPOSE 16
+
+PRODUCTS AND SOLUTIONS 17
+
+Corporate Governance 19
+
+ORGANIZATIONAL STRUCTURE 22
+
+PARTICIPATION IN ASSOCIATIONS 24
+
+ETHICS AND COMPLIANCE 25
+
+CUSTOMER SATISFACTION 26
+
+INFORMATION TECHNOLOGY 27
+
+Risk Management 28
+
+SUSTAINABILITY IN BUSINESS 29
+
+RISK ASSESSMENT 30
+
+SOCIAL AND ENVIRONMENTAL RATING 31
+
+EMISSIONS AND ENERGY CONSUMPTION 32
+
+Recognizing People 35
+
+HUMAN RESOURCE MANAGEMENT 36
+
+INTERNAL STAKEHOLDERS PROFILE 36
+
+COMPENSATION AND BENEFITS 44
+
+HEALTH AND SAFETY 46
+
+EDUCATION AND TRAINING 47
+
+SPECIAL DATES 49
+
+Economic and Financial Performance 50
+
+MAIN RESULTS OF 2022 51
+
+GRI Content Index 54
+
+Credits 68
+
+
+
+MESSAGE FROM THE 
+PRESIDENT
+
+
+
+4Sustainability Report | 2022
+
+We are a bank that believes in long-term relationships, values partnerships, and 
+
+supports the national economic environment.
+
+ Being part of the conglomerate of one of the main financial institutions in the 
+
+world, where people will always be our strongest point of support and our greatest 
+
+source of reliability, is a great responsibility, which is reflected in the excellence of 
+
+the businesses CCB Brasil promotes. We are a Brazilian bank under Chinese control 
+
+and the main subsidiary of the group in the region, which proves the relevance of 
+
+our organization for the headquarters’ strategic planning and our role in the 
+
+promotion of trade between Brazil and China.
+
+ Aware of our mission and committed to the good practices that guide the relationship 
+
+with our stakeholders, we worked vigorously throughout 2022 to meet the 
+
+expectations of CCB Brasil’s internal and external stakeholders. It was an extremely 
+
+challenging moment marked by great uncertainty both in the local and global 
+
+scenarios, but it reinforces and consolidates our commitment to valuing long-term 
+
+partnerships and supporting Brazilian economic development.
+
+ In 2022, after the country overcame the most turbulent phases of the COVID-19 
+
+pandemic, we ended the cycle of social isolation for our employees. The process 
+
+to return on site activities, which started in November 2021 and was concluded in 
+
+April 2022, was carried out with the necessary caution and safety, and taking into 
+
+account the health of the teams and their adaptation to the work environment. It 
+
+is worth mentioning that at no time during this period of health emergency has our 
+
+organization suffered with shutdowns or been subjected to unnecessary risks, 
+
+whether from the point of view of contracts, people or relationships.
+
+MESSAGE FROM THE PRESIDENT
+
+ As in 2021 and 2020, CCB Brasil maintained a conservative and restrictive stance 
+
+regarding credit granting, thus prioritizing stability and the maintenance of the 
+
+quality of the portfolio in order to offer excellent services to customers. The 
+
+slowdown in the global economy associated with high inflation and rising basic 
+
+interest rates, accentuated by the war between Russia and Ukraine, blocked the 
+
+international supply chain and interrupted production plans, impacting the entire 
+
+financial sector. In Brazil, the economic crisis and political instability, which intensified 
+
+throughout the electoral process, created an even more challenging scenario for 
+
+the development of new businesses.
+
+In the financial scope, credit operations – especially those with companies in the 
+
+Corporate and Large Corporate segments – totaled BRL 11.1 billion by the end of 
+
+2022, compared to BRL 10.4 billion by the end of 2021. The portion of loans with 
+
+an AA-C rating (lower risk credit range) represents 97% of the portfolio. Resources 
+
+from the Head Office  represented 29.4% (30.1% in 2021) of CCB Brasil’s total 
+
+funding, amounting to BRL 18.2 billion, which consisted of market funding, borrowing 
+
+and onlending obligations, and capital-eligible debt instruments. The consolidated 
+
+gross income from financial intermediation reached BRL 425.1 million in December 
+
+2022 (BRL 428.6 million in 2021). Consolidated shareholders’ equity reached BRL 
+
+1.1 billion, and the reference equity was BRL 2.0 billion, what caused the Basel 
+
+Ratio to reach 15.9% (above the 10.5% minimum required by Brazil’s Central Bank 
+
+– BACEN).
+
+ The commitment to sustainability, which is inherent to the operational strategies 
+
+and values of CCB Brasil, continued to be treated throughout the year with the 
+
+seriousness that the subject demands from contemporary organizations, whether 
+
+GRI 2-22
+
+
+
+5Sustainability Report | 2022
+
+from an environmental, social or governance point of view. In addition to a financial 
+
+analysis, all our operations are supported by a financial analysis and a careful 
+
+assessment of social-environmental risks, which are applicable to stakeholders at 
+
+different stages in order to mitigate negative impacts, reinforcing our commitment 
+
+to ESG practices in business development.
+
+Concern for the environment and climate change, which are sensitive issues for 
+
+our agribusiness clients – who amount to around 45% of our loan portfolio – were 
+
+even more strongly on the bank’s radar during 2022. In accordance with the new 
+
+resolutions and regulatory requirements of the Central Bank of Brazil and the 
+
+National Monetary Council (Conselho Monetário Nacional – CMN) regarding 
+
+international ESG best practices within the scope of financial institutions, which 
+
+came into force in December 2022, we consolidated and further matured our 
+
+sustainability management. We do not condone economic activities that are not 
+
+in line with sustainable development, promote environmental damage or pose risks 
+
+to people’s well-being and lives.
+
+ I envision a future with many opportunities for the bank, in the national territory 
+
+and in Latin America, where increasingly strengthen the commercial relationship 
+
+between Brazil and China and contribute to the achievement of the Sustainable 
+
+Development Goals (SDGs) of the United Nations (UN). We want to be recognized 
+
+for our transparency and ethics and as an organization that is engaged not only in 
+
+obtaining profit and profitability, but also in supporting investments that generate 
+
+both direct and indirect improvements to society and the environment.
+
+ I invite you to read our report with the certainty that we worked tirelessly throughout 
+
+2022 to build a stronger and more sustainable CCB Brasil, but with the awareness 
+
+that it is possible to go above and beyond. I take this opportunity to thank our 
+
+shareholders, directors and employees for their commitment and dedication this 
+
+past year, which was essential for our institution to face challenges and achieve 
+
+favorable results.
+
+ Good reading!
+
+Liping Shang
+CEO 
+
+GRI 2-22
+
+MESSAGE FROM THE PRESIDENT
+
+
+
+6Sustainability Report | 2022
+
+Celebration  
+of the Mid-Autumn Festival  
+(Moon Festival), Christmas  
+and New Year’s with employees.
+
+Basel ratio  
+15.9%
+
+Net revenue
+
+BRL 376.17 million
+
+Net revenue  
+
+BRL 1.100 million
+
+Credit operations
+
+BRL 11.1 billion
+
+Teleconsultations through the  
+
+“Alô Saúde”, channel, with the option 
+of on-site consultation at the clinic.
+
+HIGHLIGHTS 2022
+
+
+
+INTRODUCTION
+
+
+
+8
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+INTRODUCTION
+
+MATERIALITY
+
+GRI 2-4, 2-29, 3-1, 3-2, 3-3
+
+CCB Brasil’s business strategy is associated with its materiality matrix, which 
+guides all the content that is available throughout this report. Understanding 
+the need for optimization and alignment with the latest update of the GRI 
+Standards, in force since January 2023, the institution revised its materiality 
+between December 2021 and January 2022. At the time, its main stakeholders 
+– Regulatory Entities, Workforce, Customers and Suppliers – participated in a 
+survey through an online questionnaire that was based on both guidelines from 
+the Global Reporting Initiative and matters that are relevant to the banking sector.
+
+During the survey, of which CCB Brasil’s senior management also participated, 
+46 people shared their perceptions on three themes: Environment; Economy/
+Governance; Social. Each of the themes incorporated seven items, which needed 
+to be organized according to their degree of relevance in the opinion of the 
+survey participants. The results presented qualitative and non-statistical data, 
+which served as the base to define the most relevant material topics for the 
+development of the organization’s business and are representative elements of 
+its main impacts on the economy, environment, and people; these topics are 
+highlighted in the 2021 Sustainability Report.
+
+Understanding the need to keep up with the changes and challenges that are 
+inherent to present times, as well as to meet the expectations of stakeholders, 
+new priority topics were incorporated in December 2022. The process was 
+performed together with the bank’s sustainability division and validated by 
+the Board of Directors; it included three new material topics to the subjects of 
+greatest relevance to the institution: assessment of social-environmental risk in 
+credit; compliance and anti-corruption; economic value distribution.
+
+ABOUT THE REPORT
+
+GRI 2-2, 2-3, 2-5, 2-14, 3-3
+
+By publishing the eighth edition of the CCB Brasil Sustainability Report, the bank 
+underlines its commitment to ethics, integrity and best ESG practices. Released 
+every year, this document aims to disclose the bank’s organizational profile, 
+which is guided by respect for sustainability in its three dimensions, as well as 
+the environmental, social and governance impacts related to its activities.
+
+Over the next chapters, the results, risks, challenges, and opportunities observed 
+in 2022 are disclosed to provide accountability to stakeholders and present the 
+institution’s strategic positioning on different topics. In addition to transparency 
+for stakeholders, this report offers an important mechanism for improving internal 
+management and to advance processes based on a careful analysis.
+
+This report brings information that covers the period from 1 January to 31 
+December 2022, in line with the same interval described by the financial report. 
+This document was prepared in accordance with the most recent version of the 
+Global Reporting Initiative (GRI)’s Sustainability Reporting Standards. As there 
+is yet to be a specific standard for the financial industry, the decision was made 
+to use equivalent indicators from the GRI G4 version.
+
+All information disclosed in this report was analyzed and approved internally 
+by CCB Brasil’s Board of Directors, who actively participated in all stages of 
+development. The data presented over the following pages refer to the five 
+companies controlled by the group, which operate with policies that are aligned 
+with the conglomerate’s guidelines.
+
+If you have any questions, comments or suggestions, the bank can be reached 
+out by email at sustentabilidade@br.ccb.com.
+
+mailto:sustentabilidade@br.ccb.com
+
+
+9Sustainability Report | 2022
+
+Here are shared the most relevant material topics for CCB Brasil, as well as the 
+stakeholders who are either directly and indirectly affected by them.
+
+Legend:
+
+                               
+
+   Customers                 Suppliers             Employees  Regulatory Entities
+
+Directly affected 
+
+stakeholders
+
+Indirectly affected 
+
+stakeholders
+
+ MATERIAL TOPICS
+
+Technology and 
+innovation
+
+Emissions
+
+ MATERIAL TOPICS
+
+Sustainability 
+culture 
+
+Social  
+investment
+
+Valuing of 
+Employees 
+
+Client  
+satisfaction 
+
+Social-environmental 
+assessment of 
+suppliers 
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+
+
+10Sustainability Report | 2022
+
+ MATERIAL TOPICS
+
+Social-environmental 
+credit risk 
+assessment
+
+Compliance and 
+anti-corruption
+
+Distribution of 
+economic value
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+
+
+11Sustainability Report | 2022
+
+SDG COMMITMENT IMPACT IMPACT TYPE
+
+TECHNOLOGY  
+AND INNOVATION
+
+Development of technological 
+solutions focused 
+on customer experience 
+and information security
+
+Breach of bank secrecy and data leakage Potential and negative
+
+Improved software and hardware infrastructure Real and positive
+
+EMISSIONS
+Actions focused on 
+adaptability and management 
+of environmental risks
+
+Reduction of direct greenhouse gas 
+emissions and eco-efficient actions
+
+Real and positive
+
+Monitoring indirect emissions 
+associated with stakeholders
+
+Real and positive
+
+SUSTAINABILITY 
+CULTURE
+
+Responsive and inclusive 
+decision-making, focusing 
+on the adoption of 
+practices that contribute to 
+sustainable development
+
+Contribution to sustainable development 
+and commitment to ESG practices
+
+Potential and negative
+
+Business longevity Real and positive
+
+Demands for diversity and inclusion 
+programs and policies
+
+Potential and negative
+
+Association of employees and lines of 
+business to greenwashing practices
+
+Potential and negative
+
+MANAGEMENT OF MATERIAL TOPICS
+
+GRI 3-3
+
+Transparency in the assessment and monitoring of material topics is a hallmark 
+of CCB Brasil, which adopts the best practices for managing the impacts of its 
+activities on the economy, environment, and people. As a financial institution that 
+offers products and services to the corporate market, part of these impacts is 
+associated with the credit granting policy, which stresses the need for the bank 
+to continuously monitor its business relationships in terms of alignment with 
+sustainable development.
+
+Here is a list of information related to the Sustainable Development Goals (SDGs), 
+commitments and main impacts that relate to the material topics of CCB Brasil 
+that are discussed in this report.
+
+ Click on the icons below to find further information
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+https://brasil.un.org/pt-br/sdgs/16
+https://brasil.un.org/pt-br/sdgs/3
+https://brasil.un.org/pt-br/sdgs/14
+https://brasil.un.org/pt-br/sdgs/12
+https://brasil.un.org/pt-br/sdgs/15
+https://brasil.un.org/pt-br/sdgs/16
+
+
+12Sustainability Report | 2022
+
+SDG COMMITMENT IMPACT IMPACT TYPE
+
+SOCIAL INVESTMENT
+Reducing people’s exposure 
+to situations of social 
+vulnerability
+
+Amplify the impact generated by third sector 
+organizations
+
+Potential and positive
+
+Demands to develop own projects and initiatives Potential and positive
+
+Recognition of ESG approach before stakeholders Potential and positive
+
+WORKFORCE 
+RECOGNITION
+
+Development of the workforce 
+and their skills and assurance 
+of an inclusive and diverse 
+work environment
+
+Workforce professional development and talent 
+retention
+
+Real and positive
+
+Strengthening the organizational culture Real and positive
+
+Increased team productivity and high 
+performance
+
+Real and positive
+
+CLIENT 
+SATISFACTION
+
+Offering quality products and 
+services with a focus  
+on customer experience
+
+Consolidation and renewal of contracts Real and positive
+
+Strengthening relationships with strategic 
+customers
+
+Real and positive
+
+SOCIAL-
+ENVIRONMENTAL 
+ASSESSMENT OF 
+SUPPLIERS
+
+Strengthening ethical 
+and compliance topics in 
+relationships with suppliers
+
+Consolidation of compliance practices and ethical 
+conduct
+
+Real and positive
+
+Identification of financial health and ability to fulfill 
+contracts
+
+Real and negative
+
+Termination of contracts due to issues related to 
+social-environmental risks
+
+Real and positive
+
+SOCIAL-
+ENVIRONMENTAL 
+CREDIT RISK 
+ASSESSMENT
+
+Improvement in the 
+management, control and 
+monitoring of risks associated 
+with the granting of credit
+
+Mitigation of social-environmental risks and more 
+assertive financial projection
+
+Real and negative
+
+Termination of contracts due to issues related to 
+social-environmental risks
+
+Real and positive
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+https://brasil.un.org/pt-br/sdgs/11
+https://brasil.un.org/pt-br/sdgs/3
+https://brasil.un.org/pt-br/sdgs/1
+https://brasil.un.org/pt-br/sdgs/8
+https://brasil.un.org/pt-br/sdgs/5
+https://brasil.un.org/pt-br/sdgs/11
+https://brasil.un.org/pt-br/sdgs/9
+https://brasil.un.org/pt-br/sdgs/3
+https://brasil.un.org/pt-br/sdgs/8
+https://brasil.un.org/pt-br/sdgs/5
+https://brasil.un.org/pt-br/sdgs/4
+https://brasil.un.org/pt-br/sdgs/10
+https://brasil.un.org/pt-br/sdgs/8
+https://brasil.un.org/pt-br/sdgs/5
+https://brasil.un.org/pt-br/sdgs/16
+https://brasil.un.org/pt-br/sdgs/9
+https://brasil.un.org/pt-br/sdgs/5
+https://brasil.un.org/pt-br/sdgs/12
+https://brasil.un.org/pt-br/sdgs/17
+
+
+13Sustainability Report | 2022
+
+SDG COMMITMENT IMPACT IMPACT TYPE
+
+COMPLIANCE AND 
+ANTI-CORRUPTION
+
+Compliance with regulatory 
+requirements and ethical 
+standards, in line with the 
+bank’s mission, vision, and 
+values
+
+Compliance with regulatory standards, legal 
+requirements, and rules
+
+Real and positive
+
+Prevention of money laundering, corruption,  
+and financing of terrorism
+
+Real and positive
+
+Identification of illegal activities or practices  
+by stakeholders
+
+Real and positive
+
+DISTRIBUTION OF 
+ECONOMIC VALUE
+
+Generation of results and 
+benefits for society through 
+the relationship with 
+stakeholders
+
+Development of companies, suppliers,  
+and the workforce
+
+Real and positive
+
+Strengthening economic relations between  
+Brazil and China
+
+Real and positive
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+https://brasil.un.org/pt-br/sdgs/16
+https://brasil.un.org/pt-br/sdgs/1
+https://brasil.un.org/pt-br/sdgs/4
+https://brasil.un.org/pt-br/sdgs/10
+https://brasil.un.org/pt-br/sdgs/2
+
+
+CCB
+
+
+
+15
+
+O CCB
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+HEAD OFFICE
+
+China Construction Bank (CCB) is a Chinese public bank known for being one of 
+the largest financial conglomerates in the world. It was founded in 1954 to support 
+the country’s development; today, it has a market value of U$$ 175.302  million, 
+with shares traded on the According to S&P Global Market Intelligence, these 
+numbers made CCB the second largest financial institution on the planet in 2022.
+
+With 351,252 employees and 14,510 offices, the bank is present in 31 countries 
+on all continents, offering a diversity of services through its network of 14,510 
+bank branches. Its 200 subsidiaries operate in different sectors, including fund 
+management, financial leasing, trust funds, insurance, pension plans, and 
+investment banking, providing services to individual and corporate clients under 
+the motto, “Building a better future.”
+
+Since 2014, CCB has been operating in Brazil through the CCB Brasil subsidiary, 
+which has the mission of encouraging and facilitating trade between Brazil and 
+China. Except for the conglomerate’s business operations in Chile, Argentina, 
+and Peru, which are led by CCB Chile, CCB Brasil acts as a flagship operation 
+for the conglomerate throughout Latin America.
+
+14,510 
+bank branches
+
+US$ 175,302 
+million
+market value
+
+200 
+subsidiaries
+
+351,252 
+employees
+
+31 covered 
+countries
+
+
+
+16
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+CCB
+
+GRI 2-1
+
+China Construction Bank (Brasil) Banco Múltiplo S/A is a corporation that since 
+2014 has been performing its activities in Brazil and the Cayman Islands, with 
+headquarters located in the capital of the state of São Paulo. Operating through 
+credit portfolios, foreign exchange investments and foreign trade, the institution 
+provides services mainly to medium and large enterprises, focusing especially 
+on the following sectors: Agribusiness; Energy; Oil and Gas; Industry; Mining; 
+Construction; Retail; Chemical; and Services.
+
+Through its five subsidiaries, CCB Brasil Arrendamento Mercantil SA, CCB Brasil 
+DTVM - Distribuidora Títulos e Valores Mobiliários, CCB Brasil Informática 
+S.A., CCB Brasil Administradora Cartões Ltda. e CCB Brasil SA - Crédito, 
+Financiamentos e Investimentos, the bank offers services in Foreign Trade, 
+Working Capital, Rural Credit, Leasing, Treasury Products, Investments, and 
+Bank Guarantees, serving clients out of its eight national branches and one 
+international branch in the following locations: São Paulo (SP); Ribeirão Preto (SP); 
+Rio de Janeiro (RJ); Belo Horizonte (MG); Curitiba (PR); Blumenau (SC); Brasília 
+(DF); Aldeota (CE); and Grand Cayman, in the Cayman Islands.
+
+VALUES
+
+- Integrity
+
+- Transparency
+
+- Business Sustainability
+
+MISSION
+
+The mission of the CCB Brasil Conglomerate is to 
+operate efficiently within the Brazilian financial system, 
+offering the best products, fostering the professional 
+growth of our employees, ensuring compliance in our 
+internal processes and maintaining the commitment to 
+sustainable development.
+
+VISION
+
+We will be a benchmark in supporting the development  
+of the business chain in the trade and investment 
+segments of the China-Brazil corridor. Operating in an 
+advisory capacity and in the origination and execution, 
+we will expand and increase the range of business 
+opportunities, in line with the Conglomerate´s strategic 
+planning and goals.
+
+
+
+17
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+PURPOSE
+
+GRI 2-23
+
+Respecting ESG practices, in line with the Sustainable Development Goals (SDGs) 
+of the United Nations (UN), is the basis to manage CCB Brasil’s relationship with 
+its stakeholders. This ensures that the bank’s performance is always committed 
+to both legality and the challenges imposed by present times to mitigate the 
+impacts of activities and serve stakeholders with excellence.
+
+PRODUCTS AND SOLUTIONS
+
+GRI 2-6
+
+CCB services are available to individuals and companies, through different 
+types of products and solutions, ensuring that customers enjoy the best banking 
+experience while having their needs met.
+
+For individual clients, and mainly through CCB Brasil SA – Crédito, Financiamentos 
+e Investimentos, the bank offers a payroll loan to civil servants of municipal, state, 
+and federal agencies, with competitive rates, convenience and discounts on 
+monthly installments that are charged directly to the payroll.
+
+Legal entities, mostly Corporate and Large Corporate companies in the 
+Agribusiness, Energy, Oil and Gas, Industry, Mining, Construction, Retail, Chemical, 
+and Services sectors, have several alternatives for products and solutions, which 
+are distributed in the following categories:
+
+LOANS AND FINANCING
+
+WORKING 
+CAPITAL
+
+Type of loan to obtain resources without a specific 
+purpose, commonly used to boost the company’s cash 
+position, either in the short, medium or long terms.
+
+OVERDRAFT 
+ACCOUNT
+
+Pre-approved credit to meet the emergency needs of 
+companies’ cash flow ensured by negotiable instruments, 
+checks, credit rights, assets, and suretyships, among 
+others. It has the advantage of allowing withdrawal or 
+amortization at any time, with interest charged only on 
+the outstanding balance within its term.
+
+ASSIGNMENT  
+OF RECEIVABLES
+
+An important ally for a company’s liquidity, especially for 
+credit sales. They can be advanced with fixed interest, 
+negotiable instruments, checks or other receivables.
+
+LEASING
+
+Options for the acquisition of machinery and equipment, 
+light and heavy vehicles, aircraft, real estate, vessels, etc. 
+whose payments can be fully deducted from the base 
+calculation of the PIS (Program of Social Integration) and 
+the COFINS (Contribution for the Financing of Social 
+Security) taxes; its payments can be posted as deductible 
+expenses for Income Tax and Social Contribution.
+
+NCE AND CCE
+IOF-exempt export incentive modalities, which depend 
+on the formal presentation of a budget and proof of 
+export performance in the period.
+
+ACC 
+(Advances on 
+Export Exchange 
+Contracts)
+
+Offer of working capital at the pre-shipment phase for 
+exporters of goods and services.
+
+
+
+18
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+LOANS AND FINANCING
+
+ACE  
+(Advance on 
+Export Shipment 
+Documents)
+
+Offer of working capital at the post-shipment 
+phase for exporters of goods and services.
+
+PPE  
+(Export 
+Pre-payment)
+
+Advancement of financial resources to Brazilian exporters 
+for the respective financing of their exports.
+
+FINIMP
+(Import Financing)
+
+Special lines of credit for the import of capital 
+goods, machinery, equipment, goods and services, 
+with interest rates in line with the international market. 
+
+IMPORT LETTER 
+OF CREDIT
+
+An instrument that offers greater security to both the 
+exporter and the importer in foreign trade operations.
+
+INTERNATIONAL 
+GUARANTEES
+
+Offer greater security in foreign trade operations, 
+greater credibility with international partners, and support 
+for companies participating in international tenders.
+
+RES 4131
+Its main objective is to meet the cash requirements in 
+foreign currency of a client (company) located in Brazil.
+
+FORFAITING
+Meets the cash requirements in foreign currency 
+of a client located in Brazil or abroad, based on 
+their need to advance payments for imports made.
+
+INVESTMENTS
+
+TIME DEPOSITS 
+(CDB)
+
+Fixed-income security registered to the customer, issued 
+by Banco CCB as a time deposit, with Term and Rate 
+conditions established at the time of the investment.
+
+LCA  
+(Agribusiness 
+Credit Bills): 
+
+Fixed income security issued by CCB Brasil, 
+backed by agribusiness credit rights.
+
+LCI 
+(Mortgage 
+Credit Bills)
+
+Fixed income security issued by CCB Brasil, 
+backed by operations collateralized by real estate.
+
+ LF 
+(Financial Notes)
+
+Long-term fixed income security issued by CCB Brasil 
+with a maturity term of more than two years 
+and no subordination clause.
+
+SERVICES
+
+BANK 
+GUARANTEE
+
+Instrument that guarantees the commitment of the bank’s 
+customer to a third party, with CCB Brasil as the guarantor, 
+the customer as the secured party and the third party as 
+the beneficiary.
+
+
+
+CORPORATE 
+GOVERNANCE
+
+
+
+20
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+CORPORATE GOVERNANCE
+
+ORGANIZATIONAL STRUCTURE
+
+GRI 2-9, 2-10, 2-11, 2-13, 2-16, 2-18, 2-24, 2-27, 3-3
+
+CCB Brasil adopts the best governance practices to operate its business, in 
+compliance with the legal requirements and rules of several institutions that 
+regulate the activities of financial institutions, such as the Central Bank of Brazil 
+(BACEN), the Securities and Exchange Commission (Comissão de Valores 
+Imobiliários – CVM) and the National Monetary Council (CMN). Its management 
+model is marked by solidity and integrity, which is recognized for the balance and 
+development between profitability and sustainable development that is in line 
+with its corporate strategy. This profile of excellence ensured that the institution 
+did not receive significant fines or sanctions related to non-compliance with 
+legislation in 2022.
+
+The organization seeks to generate value and long-term results based on 
+financial discipline and risk management and control, always prioritizing the 
+good relationship with stakeholders and society in general. One of the bank’s 
+main goals is to be a benchmark for commercial relations between Brazil and 
+China, focusing on business continuity, growth, and sustainability, which are 
+guidelines that are in line with the parent company’s culture. That goal can only 
+be achieved with consolidated and excellent corporate governance, with entities 
+that support the decision-making processes and propagate the organization’s 
+values and policies, as is the case at CCB Brasil. Its policies, procedures and 
+operational processes are periodically updated in accordance with the best 
+market practices.
+
+The structure of the organization comprises the Board of Directors, the Senior 
+Management and Advisory Committees, with roles and responsibilities detailed 
+in the Bylaws as well as in specific internal regulations. This model ensures 
+
+safety and efficiency in operations by decentralizing decisions, collegially and 
+constantly discussing strategic issues and delegating responsibilities for a better 
+management of the organization’s impact on the economy, the environment 
+and people.
+
+Although CCB Brasil does not have a performance evaluation process for the 
+Board of Directors regarding the management of economic, environmental, 
+and social impacts, the heads, directors, and vice-presidents meet annually to 
+evaluate themselves and the other members of the management. The results 
+and performance of each professional directly influence changes in the bank’s 
+management, with the aim of ensuring the best way to conduct business and 
+the contribution to sustainable development.
+
+
+
+21
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+The structure of the organization 
+
+Board of 
+Directors
+
+A collegiate body that is responsible for 
+maintaining, in the context of decision-
+making, the strategic direction of business in 
+line with the main interests of the institution 
+by protecting its assets and maximizing 
+the return on its investments. Advisors 
+members are elected at General Meetings 
+and are chosen for a unified term of 2 years 
+through consideration of their broad market 
+perspective, solid academic background and 
+professional experience. With its presidency 
+not held by an executive of CCB Brasil, the 
+Board of Directors assembles periodically or 
+extraordinarily when necessary.
+
+It is appointed by the Board of Directors to 
+lead the execution of the strategic planning 
+established by the entity. It consists of 
+Presidency, Vice-Presidency, and Board, each 
+with 2-year terms; it comprises 4 members 
+who meet on a monthly basis to discuss how 
+the operations and business are conducted. 
+They are responsible for the activities of 15 
+departments and the Ombudsman, who all 
+report to the Senior Management through 
+their Heads.
+
+Senior 
+Management
+
+These are 15 entities that discuss strategic 
+and business topics and support the Board 
+of Directors and Senior Management in their 
+decision-making process. They have the power 
+to decide on certain topics according to their 
+scope of action. All concerns flagged by the 
+departments as well as both regulatory and 
+self-regulatory entities must be communicated 
+to the committees at meetings that are held 
+according to a frequency defined by their 
+respective regulations.
+
+Committee 
+Structure
+
+
+
+22
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Audit Department
+
+BOARD  
+OF DIRECTORS
+
+Risk Committee
+
+Ethic Committee
+
+CEO
+Mr. Liping Shang
+
+Vice-President
+Mr. Yongdong Jiang
+
+Vice-President
+Mr. Zhu Zhiqiang
+
+Director
+Mr. Claudio Rotolo
+
+Remuneration CommitteeAudit Committee
+
+Strategy Committee
+
+Ombudsman
+
+Other Committees
+
+Planning &
+Finance
+
+Department
+
+Financial
+Markets
+
+Department
+
+Asset & Liability
+Management
+Department
+
+Accounting &
+Taxation
+
+Department
+
+Administration
+Department TI Department
+
+Operation
+Management
+Department
+
+Credit
+Management
+Department
+
+Risk
+Management
+Department
+
+Compliance 
+Department
+
+Corporate
+Business
+
+Department
+Legal 
+
+Department
+Credit Recovery
+
+Department
+Human
+
+Resources
+Department
+
+The structure of the organization 
+
+
+
+23
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Remuneration Committee
+Office: Human Resource Department
+
+Audit Committee
+
+GENERAL MEETING
+
+BOARD  
+OF DIRECTORS
+
+CEO
+
+Committee’s Structure Proposal
+
+Operational 
+Committee
+
+Office:
+ Operation 
+
+Management 
+Department
+
+ALM Committee
+ Office: 
+
+Asset & Liability 
+Management 
+Department
+
+Compliance 
+Comittee
+Office: 
+
+Compliance 
+Department
+
+AML Committee
+Office: 
+
+Compliance 
+Department
+
+AML Committee 
+(Cayman) 
+Office: 
+
+Compliance 
+Department
+
+Credit Committee
+Office: 
+
+Credit Management 
+Department
+
+Special Assets 
+Committee
+
+Office: 
+Credit Recovery 
+
+Department
+
+Ethic Committee  
+Office: Human Resource Department
+
+Strategy  Committee
+Office: Planning & Finance Department 
+
+Procurement Committee 
+Office: Administratrion Department 
+
+Risk Committee
+Office: Risk Management Department
+
+Personal 
+ Data Protection  
+
+and Privacy 
+Committee
+
+Office:
+Compliance 
+
+Departament
+
+Senior management committee (SMC) 
+Office: Administration Department
+
+
+
+24
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+PARTICIPATION IN ASSOCIATIONS
+
+GRI 2-28
+
+In order to participate in the main discussions pertaining to the reality of 
+financial institutions, CCB Brasil integrates several entities. Within these spaces 
+of relationship with other banking organizations happen discussions about 
+improvements for the industry as well as alternatives to optimize solutions, 
+products and services, always seeking to strengthen the industry.
+
+Among the main associations and federations in which CCB Brasil maintains an 
+active presence, we would like to highlight the following.
+
+ENTITIES OF WHICH CCB IS A MEMBER
+
+Brazilian Association of Financial and Capital Market Entities (Anbima)
+
+NUCLEA
+
+Brazilian Association of Leasing Companies (ABEL)
+
+Brazilian Association of Banks  (ABBC)
+
+ › Accounting and Tax Affairs Commission;
+ › Legal Affairs Commission;
+ › Legislative Affairs Commission;
+ › Social Responsibility Commission;
+ › Payroll Advance Loan Commission;
+ › Compliance Commission;
+ › Organizational Culture Commission;
+ › Cybersecurity Commission;
+ › Risk Management and Prudential Regulation Commission;
+ › Payment Methods and Arrangements Commission;
+ › Ombudsman Office Commission;
+
+ › Fraud Prevention Commission;
+ › Product Commission;
+ › Social-environmental and Climate Risk Commission;
+ › Technology Commission;
+
+ › Treasury, Funding and Exchange Commission.
+
+Brazilian Federation of Banks (FEBRABAN)
+
+ › Self-Regulation Committee;
+
+ › Exchange and Foreign Trade Committee;
+
+ › Ombudsman Office, Customer Relations and Customer Service 
+Committee;
+
+ › ESG Committee;
+
+ › Advisory Group Committee on Civil Litigation;
+
+ › Advisory Group Committee on Banking;
+
+ › Advisory Group Committee on Loan Recovery;
+
+ › Fraud Prevention Committee;
+
+ › Banking Security Committee;
+
+ › Loan Recovery Subcommittee;
+
+ › Labor Legal Subcommittee.
+
+Brazilian Association of International Banks (ABBI)
+
+ › Tax Affairs Commission – CAT;
+
+ › Internal Audit Commission;
+
+ › Exchange and Foreign Trade Commission;
+
+ › Regulatory Capital Commission;
+
+ › Compliance Commission;
+
+ › Accounting and Regulation Commission;
+
+
+
+25
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+ › Products, Services, and Digital Businesses Commission;
+
+ › Human Resources Commission;
+
+ › Risk Commission (liquidity, market, social-environmental, and climate);
+
+ › Technology Commission;
+
+ › Legal Affairs Commission.
+
+Voluntary external initiatives
+
+ › Banking Self-Regulation Code
+
+Participating stakeholders: Employees, Customers, Partners, Vendors, and 
+Regulatory Entity.
+
+ › Brazilian Advertising Self-Regulation Code
+
+Participating stakeholders: Clients, Partners, and Vendors
+
+ › Consumer Guidance and Protection Program
+
+Participating stakeholders: Clients, Partners, and Vendors
+
+ETHICS AND COMPLIANCE
+
+GRI 2-15, 2-25, 2-26, 3-3, 205-1, 205-2, 205-3
+
+The granting of credit is an initiative that requires great responsibility from 
+financial institutions and needs to be supported by an excellent compliance 
+management system. At CCB Brasil, the relationship with stakeholders and the 
+compliance with regulatory requirements are regularly monitored in order to 
+meet the expectations of the Compliance Department and the guidelines set 
+by central office, when applicable.
+
+The bank relies on monitoring and control mechanisms in order to ensure 
+the implementation and adequacy of policy, procedures, and internal issues 
+related to the prevention of money laundering and financing of terrorism that 
+are continuously improved, considering the complexity of the conglomerate’s 
+operations.
+
+The implemented policy and manuals for internal procedures show the 
+institutional principles and guidelines to carry out the due diligence to identify, 
+qualify and rate according to the following risk profiles:
+
+ I. of customers;
+
+ II. of the institution;
+
+ III. of operations, transactions, products and services;
+
+ IV. of employees, partners, and outsourced service providers.
+
+Throughout 2022, 1,725 operations were performed, they were efficiently 
+managed through processes and by ensuring the elimination of any risk or the 
+occurrence of suspected cases of corruption. During that period, the Board 
+of Directors, Senior Management and employees were also both trained and 
+retrained on the subject and were warned about the adopted policies and 
+procedures to fight such crimes and mitigate their risks.
+
+100% of operations with stakeholders are evaluated in advance 
+to eliminate or mitigate risks of corruption and PLD
+
+CCB Brasil also fully complies with the guidelines established by the regulatory 
+entities, whose rules relate to different processes, including those that are 
+inherent to the industry and the provision of products and services. Among 
+those, we’d like to highlight the following: Banking Self-Regulation by the 
+Brazilian Federation of Banks (Febraban); the Consumer Guidance and 
+Protection Program (Procon); and the regulations of the Central Bank of 
+Brazil (BACEN), which, in addition to the aforementioned topics, also address 
+customer relations.
+
+To strengthen CCB Brasil’s culture, our Code of Ethics and Conduct – which is 
+the responsibility of the Ethics Committee and is intended for all stakeholders 
+– compiles fundamental questions to guide good practices in the work 
+
+
+
+26
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+environment and in corporate business. By ensuring the compliance with 
+current legislation, the Code of Ethics and Conduct  is extremely important 
+to guarantee that the relationship with stakeholders is always guided by four 
+principles: Consideration to Others; Commitment to Transparency; Compliance 
+with Laws; Corporate Social Responsibility. Ethics are the guiding principle of 
+the activities of the bank, which consolidates its brand and reputation in the 
+market and society with integrity and flawlessness.
+
+Any conduct disorder, conflict of interest or practices that do not comply with 
+the Code of Ethics and Conduct must be reported immediately to the Ethics 
+Committee through the Ethics Channel provided by the organization. The entity 
+acts independently and communicates its decisions directly to the president; in 
+addition to reports and complaints, it also receives suggestions and questions 
+from internal and external audiences regarding ethical issues. All information is 
+confidentially analyzed, and the Board of Directors is responsible for evaluating 
+the applicable measures while considering the presumption of innocence 
+and ensuring the personal and professional integrity of those involved. Other 
+mechanisms, such as the Customer Support and the Ombudsman Office, are 
+also available for stakeholders to report law infringement, misconduct, or 
+situations that may result in negative impacts for CCB Brasil.
+
+WHISTLEBLOWER CHANNEL
+
+The Group offers a Whistleblower Channel that is available to 
+everyone who has guaranteed freedom of access, anonymously 
+or not, and which aims to make any communication that is 
+in disagreement with laws or regulations or that not meet 
+expectations of treatment.
+
+External email: comite.etica@br.ccb.com
+
+Corporate website: www.br.ccb.com/Fale-Conosco
+
+Internal audiences can make reports through a specific e-mail or 
+directly on the intranet.
+
+Retaliation of any kind due to reports being made is not allowed.
+
+CUSTOMER SATISFACTION
+
+GRI 3-3
+
+In order to offer a great customer relationship experience and fulfill the goal of 
+maintaining long-term partnerships, CCB Brasil developed the Ombudsman 
+Policy and Manual, which determine the compliance with, and improvement of 
+the internal guidelines associated with the topic. The requests from customers 
+help the process of reviewing the bank’s practices as well as its portfolio of 
+products and services, and they are fundamental to ensure excellence in all 
+levels associated with the relationship with customers.
+
+In line with the rules established by the Central Bank of Brazil and the Banking Self-
+Regulation System of the Brazilian Federation of Banks (Febraban), a mandatory 
+
+
+
+27
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+customer satisfaction survey is offered by telephone after any interaction with 
+the organization to evaluate the customer service. This tool allows the quick 
+and efficient identification of flaws and problems that may be harmful to the 
+institution, thus helping in the implementation of new strategies. The qualitative 
+and quantitative results of this survey are available on CCB Brasil’s website,  this 
+content is also forwarded by the Director in charge of the Ombudsman Office 
+to the internal audit, the Audit Committee and the Board of Directors through 
+the Ombudsman Office’s biannual report.
+
+Up until 2021, the Central Bank of Brazil provided transparency to society about 
+these topics by preparing a document with the received data featuring banks, 
+financial and payment institutions that provided Ombudsman services with 
+greater quality and agility. Since 2017, the year in which CCB Brasil started 
+its activities, the institution has maintained a leading position, ranking first in 
+service quality in the first, third and fourth quarters of last year. Regarding the 
+list of financial institutions with the highest number of complaints, disclosed 
+by the same entity, CCB Brasil did not make the list in 2022, which reflects its 
+commitment to an ethical relationship with customers.
+
+INFORMATION TECHNOLOGY
+
+GRI 3-3, 418-1
+
+Supported by a consistent corporate governance system and a solid due 
+diligence process, CCB Brasil’s management of its relationship with stakeholders 
+is guided by data security. The bank’s technological structure is committed to 
+the responsible handling of personal information, in line with the General Data 
+Protection Regulation (Lei Geral de Proteção de Dados – LGPD) and the bank’s 
+Privacy and Data Protection Policy, both of which establish rules for collection, 
+processing, sharing, transmission, erasure and usage of data. Maintaining privacy 
+is a corporate commitment; this commitment ensured that, in 2021 and 2022, 
+there were no reports of incidents or complaints of customer information having 
+
+been leaked. In line with best practices, CCB Brasil never transfers personal, 
+sensitive, or confidential data of its stakeholders to headquarters without the 
+
+due approval and knowledge of its clients.
+
+There were no reports of incidents or complaints of data leakage 
+in 2021 and 2022
+
+Being aware of the speed of digital transformations and the need to adapt 
+to new market demands, the bank works to offer stakeholders technological 
+strategies that provide the best relationship. CCB Brasil’s infrastructure is regularly 
+evaluated, as is its e-banking structure, a digital self-service channel that offers 
+ease and convenience to use the available banking services. As the bank is 
+attentive to new opportunities for improvements in terms of software, hardware, 
+and automation, it joins debates in the Technology and Cybersecurity committees 
+of the Brazilian Association of Banks (ABBC) and in the Technology Committee 
+of the Brazilian Association of International Banks (ABBI).
+
+Throughout the most intense periods of the COVID-19 pandemic, VPN and 
+remote access solutions were essential to maintaining CCB Brasil’s routine 
+activities amidst social isolation, giving employees the ability to perform their 
+duties remotely from home. These efforts ensured the safety of both the internal 
+stakeholders and the institution itself. The same concern was observed during 
+the gradual return of employees to on-site work, a process that was completed 
+in April 2022, a moment of re-adaptation that relied on the essential support of 
+the IT Department.
+
+https://www.bcb.gov.br/meubc/rankingreclamacoes
+
+
+RISK 
+MANAGEMENT
+
+
+
+29
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+RISK MANAGEMENT
+
+All processes related to risk management are monitored and audited by the 
+Central Bank of Brazil (BACEN), which requires that institutions have governance 
+models with specific structures to manage social-environmental and climate 
+risks, as indicated through its new regulation, disclosed in September 2021. 
+The parent company is also committed to being attentive to this topic, as 
+China’s banking regulatory commission requires that financial institutions 
+comply with guidelines related to the environment. However, even before 
+these legal obligations, CCB Brasil already approached sustainability in a 
+strategic manner in the way it conducts business, as it understands that social, 
+environmental and governance impacts can also turn into financial risks.
+
+In order to participate in important debates on the subject with other institutions 
+and individuals, the bank’s Social-Environmental Risk Division annually 
+participates in the National Financial Education Week (ENEF) promoted by 
+the Brazilian Financial Education Forum (FBEF). In 2022, this initiative – which 
+offers seminars, courses, workshops, campaigns, and other different formats 
+of free activities on the subject – was held between 12 and 18 December; the 
+year’s main topic was Financial Resilience.
+
+SUSTAINABILITY IN BUSINESS
+
+GRI 2-12, 3-3, FS1, FS16
+
+Sustainable development is a commitment for CCB Brazil, a reality that can 
+only be achieved through corporate action based on the respect for ESG 
+practices. With a low appetite for social-environmental, climate and credit 
+risks, the bank relies on a structure that promotes the permanent evolution 
+of the control and mitigation of impacts caused by customers, suppliers and 
+its own performance, which is expressed in its Risk Appetite Statement (RAS).
+
+More than complying with policies, rules and procedures established by 
+legislation, institutions need to recognize their social role and understand 
+that contributions to the environment and future generations is everyone’s 
+duty. To this end, CCB Brasil encourages its stakeholders to act ethically and 
+transparently, in accordance with regulations, thus contributing toward the 
+respect for human rights, healthy relationships in the work environment, the 
+fight against corruption and the promotion of diversity. Supported by its Risk 
+Management Department, which works in integration with different areas of the 
+business and is organized into Credit Risk, Liquidity Risk, Market & Capital, and 
+Social-environmental and Climate Risk divisions, the institution continuously 
+improves its processes for risk assessment, control and monitoring.
+
+Governance is directly involved in this dynamic, deliberating through the Board 
+of Directors, Executive Board and Committees on matters related to sustainable 
+development, thus ensuring the alignment of risk management policies with 
+CCB Brasil’s strategies and values. The Risk Committee, which assembles 
+monthly, is responsible for identifying the main threats and challenges to the 
+execution of the bank’s activities with the objective of mitigating possible 
+impacts triggered by the provision of its products and services.
+
+
+
+30
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+RISK ASSESSMENT
+
+GRI 3-3, 207-2, 308-1, 308-2, 408-1, 409-1, 414-1, 414-2, FS2, FS3, FS5, FS9, FS10
+
+Compared to same-size banks, CCB Brasil is among the pioneers in the social-
+environmental assessment of suppliers and customers; it adopts internal standards 
+of control and integrated monitoring of risks. With the support of this structure 
+and of the Compliance area, the institution ensures that the relationship with 
+stakeholders always considers the environmental, social and economic impacts 
+that are either directly or indirectly promoted by the established contracts, which 
+contain specific clauses on these subjects.
+
+All steps toward granting credit to customers are defined by a strict due diligence 
+process, which systematically verifies the risks involved in these operations. Upon 
+registration, the Social-Environmental Risk Division performs a complete analysis 
+of the client company, through which it verifies the compliance with various 
+legal requirements, including compliance with current legislation as well as the 
+occurrence of harmful actions toward the environment. As most of the bank’s 
+corporate clients come from the agribusiness sector, assessing climate risks is 
+also of great interest to the institution. The results influence the acceptance or 
+rejection to provide products and services; the decision is made in line with CCB 
+Brasil’s profile and the values of business sustainability, social and corporate 
+responsibility, and respect for the environment, which are present in the bank’s 
+Sustainability Policy.
+
+The existence of contractual clauses to prevent forced and child labor in all of 
+the businesses that are developed by the institution are a fundamental part of 
+this process, which ensures that companies that appear on the TEI (Trabalho 
+Escravo e Infantil, or Forced and Child Labor) list are immediately banned. 
+Organizations that have already appeared in the list are closely monitored, and 
+links are immediately severed with any stakeholder that is involved in incidents 
+of this kind.
+
+Such aspects also influence the relationship with suppliers, which are particularly 
+concentrated in the service sector, thus confirming CCB Brasil’s commitment to 
+risk management in different spheres. In the last three years, all of the institution’s 
+new suppliers were chosen based on environmental and social criteria, with the 
+goal of mitigating risks in how they provide services to the bank. In 2022, 11 
+of these 226 partners were identified as causing actual or potential negative 
+impacts, and the bank is analyzing improvements to be agreed with them 
+regarding the observed issues and monitoring them periodically.
+
+100% of new suppliers in the last three years were also selected 
+according to social-environmental criteria
+
+In addition to going through the social-environmental risk assessment, the 
+activities performed by the bank and the relationships it builds are permeated 
+by assessments of credit, liquidity, market and capital risks to meet the interests 
+of shareholders and the financial health of CCB Brasil. Risks related to reputation, 
+operations, information security, and prevention of money laundering and the 
+financing of terrorism are additional sensitive topics that are responsibly and 
+transparently monitored to prevent any criminal activity within the organization.
+
+
+
+31
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+SOCIAL AND ENVIRONMENTAL RATING
+
+GRI 2-16, FS10
+
+CCB Brasil’s clients are rated according to three levels of social-environmental 
+risk, these categories help the periodic assessments that are performed by the 
+Social-Environmental Risk Division to manage the impacts that are associated 
+with credit granting. To consolidate the rating of each client, the institution uses a 
+
+RATING A | High risk
+
+Customers whose activities carry a greater 
+risk potential and thus require more careful 
+analysis, as their impact can be unprecedented 
+or irreversible. This group includes sectors and 
+subsectors of the industries of agricultural 
+pesticides and fertilizers, tanneries, 
+infrastructure (such as road and power 
+plant construction), cargo transport, energy 
+production and distribution, etc.
+
+RATING B | Medium Risk
+
+This range comprises clients operating in 
+industries with considerable risks, but which 
+rely on responsible social-environmental 
+management that is capable of mitigating 
+possible impacts. This rating includes 
+stakeholders from sectors and subsectors of 
+the industries of food, agricultural products, 
+engineering services, etc.
+
+RATING C | Low risk
+
+Clients with lower-risk businesses are part of this 
+group, which includes technical, administrative, 
+and financial consulting services, educational 
+institutions, holding companies, and the 
+wholesale/retail trade sectors, among others, 
+which have responsible social-environmental 
+management.
+
+methodology that cross-checks the data referring to the impact of the client’s main 
+activity with its legal compliance structure. All the criteria that are applicable to 
+this process are described in the bank’s Social and Environmental Rating Manual.
+
+  
+
+
+
+32
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+By the end of the year, CCB Brasil’s portfolio had 19.5% of clients 
+rated “A” (High Risk) and 80.5% rated “B+C” (Medium and  
+Low Risk).
+
+Regarding those stakeholders with A-rating risk, the bank requires specific 
+documentation that safeguards its interests and prevents possible non-
+compliance reports at the level of self-regulation rules and the legislation of 
+the various related regulatory spheres. However, with careful assessments and 
+constant monitoring, there was a reduction in the number of CCB Brasil clients 
+associated with this range of higher social-environmental risk, which highlights 
+the commitment of the institution’s management to reducing impacts arising 
+from the provision of its products and services. Of all those who underwent the 
+social-environmental risk analysis in 2022, 49% had their ratings either reclassified 
+or revised, with 3% of cases referring to specific reclassifications defined by the 
+board in the Risk Committee.
+
+Seeking to improve the Social-Environmental Rating analysis, the institution is 
+adapting its assessment in accordance with BACEN’s Resolution 4943, from 15 
+September 2021, by including a fourth level of rating: D – Irrelevant Risk. The 
+results of the implementation of this new level will be reported in the next cycle.
+
+EMISSIONS AND ENERGY CONSUMPTION
+
+GRI 3-3, 201-2, 302-1, 305-1, 305-2, 305-3
+
+The largest share of Greenhouse Gas (GHG) emissions associated with CCB 
+Brasil’s activities comes from indirect sources, which does not exempt the bank 
+from its responsibility to control these pollutants. Since climate change is a topic 
+of extreme importance for the current times and future generations, the institution 
+understands that it is essential to adopt measures that encourage a low-carbon 
+economy and the conscious and responsible use of resources, in line with good 
+ESG practices. This topic is systematically monitored by the Social-Environmental 
+Risk Division, which works according to internal policies that are based on the 
+principles of adaptation, mitigation, and compensation.
+
+In 2021, the bank adopted the Brazilian GHG Protocol Program tool, coordinated 
+by FGVces, which offers a globally recognized methodology for managing 
+emissions; by doing so, the bank reiterates its commitment to transparency and 
+the continuous improvement of internal GHG management processes, in addition 
+to publicly disclosing its emissions inventory. By contributing to reducing the 
+likelihood of adverse climate events, CCB Brasil positions itself as an institution 
+that is committed to sustainability, thus ensuring the continuity of its business 
+and the mitigation of social-environmental risks arising from the provision of its 
+products and services.
+
+
+
+33
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Direct Greenhouse Gas (GHG) Emissions in tCO2-eq – Scope 1
+
+2021 2022
+
+Stationary combustion (generator) 5.25 11.95
+
+Mobile combustion (fuel) 1.57 2.76
+
+Fugitive emissions (fire extinguishers 
+
+and air conditioning)
+118.76 5.79
+
+Total 125.59 20.50
+
+Emissions of biogenic CO2 (t) 1.01 1.93
+
+This comprises the operational limits of the entire CCB Brasil conglomerate
+
+Indirect Greenhouse Gas (GHG) emissions in tCO2-eq – Scope 2
+
+2021 209.26
+
+2022 68.74
+
+This comprises the operational limits of the entire CCB Brasil conglomerate
+
+Indirect Greenhouse Gas (GHG) emissions in tCO2-eq – Scope 3
+
+2021 2022
+
+Transport and Distribution (upstream) 1.62 1.81
+
+Business travel 15.14   31.76
+
+Commuting 98.77 59.33
+
+Total 115.53 92.90
+
+Emissions of biogenic CO2 (t) 6.95 24.12
+
+This comprises the operational limits of the entire CCB Brasil conglomerate
+
+The large decrease in direct emissions in metric tons of CO2 equivalent, which 
+are part of Scope 1, from 125.59 tCO2 in 2021 to 20.50 tCO2 in 2022, is mainly 
+due to a change in the way the information is reported. In 2021, CCB Brasil was 
+conservative while compiling data and shared the total GHG emissions of the 
+entire building complex where its headquarters are located, and not just the 
+emissions related to its offices. The significant difference was also achieved due 
+to the lack of need to recharge generators, which mitigated the impacts related 
+to polluting gases.
+
+Regarding Scope 2, which concerns indirect emissions from energy acquisition 
+in metric tons of CO2 equivalent, a quantity of 68.74 tCO2-eq was observed 
+in 2022, which is a much lower value than what was identified in the last year. 
+Regarding Scope 3, which refers to the total of other indirect emissions in metric 
+tons of CO2 equivalent, the accumulated value for this report’s base date is 92.90 
+tCO2-eq, which is below the 115.53 tCO2-eq amassed in 2021. Such data reflect 
+the bank’s efforts to promote eco-efficiency actions that reduce the impacts of its 
+operations on climate and the atmosphere, which reflects our risk-management-
+based governance model.
+
+Simultaneously with the process of controlling and monitoring the emission 
+of Greenhouse Gases, the bank has a strategic plan that aims to encourage 
+sustainable businesses and the generation of renewable energy. In line with 
+the parent company’s policies, which encourage operations to grant credit 
+to the solar and wind energy and biofuels sectors, the institution sees great 
+opportunities in supporting these sectors, whether from a financial perspective 
+or to contribute to the country’s energy transition. In synergy with this movement, 
+the bank is improving its internal processes to measure climate risks, which have 
+already been approved by the Risk Committee and the necessary departments 
+and will be put into practice later this year.
+
+34% reduction in electricity consumption compared to 2021
+
+
+
+34
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+* Electricity consumption is obtained from the value in kWh shown in the electricity bills of 
+the offices and building complex (common use) where the agencies, headquarters, and 
+CCB Financeira are located. Some agencies do not have access to the building complex’s 
+common use electricity bill. For these cases, we attributed the average common use 
+electricity consumption by other agencies.
+
+** Accumulated gasoline and diesel fuel. It considers receipts from fueling CCB’s fleet of 
+cars divided by the monthly average for the city of São Paulo, based on the prices listed 
+by the ANP, as well as the fuel used in the generators at the CCB headquarters and the 
+ideal fraction of fuel used in the common-use generators in the branches’ office buildings.
+
+Regarding the organization’s own electricity consumption,* in 2022 CCB Brasil 
+saw a reduction of approximately 34% compared with the previous year; this 
+percentage does not include renewable sources. Regarding the use of fuel**  
+to ensure business travel and commutes by employees, a decrease of almost 
+40% was observed in this report’s base year compared to 2021. These significant 
+decreases, however, underline the bank’s commitment to good ESG practices 
+when it comes to the responsible use of energy resources, highlighting the 
+positive results provided by social-environmental risk management policies.
+
+20222021
+
+ENERGY CONSUMPTION (approximate MWh)
+
+1,629.47
+
+1,079.91
+
+HomemMulher
+
+ano 2020ano 2021ano 2022
+
+Número de empregados por gênero
+
+234
+
+173 170 180
+
+252 271
+
+20222021
+
+FUEL CONSUMPTION (approximate liters)
+
+6,705.81
+
+11,005
+Sul
+
+Sudeste
+
+Centro
+
+Nordeste
+
+ano 2020
+
+ano 2021
+
+ano 2022
+
+Número de empregados por região
+234
+
+173170
+
+180
+252
+
+271This comprises the operational limits of the entire CCB Brasil conglomerate
+20222021
+
+ENERGY CONSUMPTION (approximate MWh)
+
+1,629.47
+
+1,079.91
+
+HomemMulher
+
+ano 2020ano 2021ano 2022
+
+Número de empregados por gênero
+
+234
+
+173 170 180
+
+252 271
+
+20222021
+
+FUEL CONSUMPTION (approximate liters)
+
+6,705.81
+
+11,005
+Sul
+
+Sudeste
+
+Centro
+
+Nordeste
+
+ano 2020
+
+ano 2021
+
+ano 2022
+
+Número de empregados por região
+234
+
+173170
+
+180
+252
+
+271
+
+The 2022 consumption is the sum of gasoline (1,694.07 liters) and diesel fuel (5,011.74 liters).
+
+
+
+RECOGNIZING 
+PEOPLE
+
+
+
+36
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+RECOGNIZING PEOPLE
+
+HUMAN RESOURCE MANAGEMENT
+
+People are CCB Brasil’s main asset, and they are responsible for the standard  
+of excellence in the bank’s business. The staff is composed by talented 
+professionals who are committed to achieving strategic objectives and dedicate 
+their time to deliver the best products and solutions to customers. Offering 
+excellent work conditions to the internal stakeholders is a commitment of the 
+institution, which practices the management of human resources based on three 
+pillars: professional development, adequate compensation, and quality of the 
+work environment.
+
+As a Chinese bank operating in Brazil, the institution prioritizes the cultural 
+integration between the two countries, as it understands that this exchange 
+promotes diversity and strengthens the connection between employees. The idea 
+of a shared spirit to achieve business success is part of CCB Brasil’s organizational 
+culture, which promotes its ESG values and practices in line with the challenges 
+that are inherent to the reality of each nation. Recognizing the fundamental role 
+of each individual in this process, the organization encourages in its employees 
+the feeling of a sense of belonging and pride, recognizing their achievements, 
+challenges and opportunities on a daily basis.
+
+INTERNAL STAKEHOLDERS PROFILE
+
+GRI 2-7, 401-1, 405-1
+
+CCB Brasil has a team of 407 people, including permanent employees and 
+temporary workers, in addition to 43 contractors, in subsidiaries and agencies 
+across seven regions in the country and one abroad. The permanent employees are 
+distributed in teams across the following areas: Operational (111), Administrative 
+(271), Management (21), and President and Senior Management (4). 
+
+Compared to the previous year, in 2022 the percentage of women working at 
+the bank grew by 2.3%, reaching 42.75% of the total staff, a number driven by 
+the 55.29% increase in the hiring of women in the same period. The institution is 
+currently undergoing an organizational restructuring, which explains the 85 new 
+hires and 100 dismissals in the year in question. The increase in the voluntary 
+turnover rate is associated with 70 departures, while 30 departures are associated 
+with involuntary terminations.
+
+
+
+37
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Number of employees by gender
+
+2020 2021 2022
+
+Men 271 252 234
+
+Women 180 170 173
+
+Total 451 422 407
+
+Ano 2022Ano 2021Ano 2020 Ano 2022Ano 2021Ano 2020
+
+Number of employees by region
+
+Midwest Southeast SouthNortheast
+
+5 5
+
+7
+
+Ano 2022Ano 2021Ano 2020
+
+381 394 420
+
+Ano 2022Ano 2021Ano 2020
+
+18 18
+14
+
+8
+9
+
+10
+Ano 2022Ano 2021Ano 2020 Ano 2022Ano 2021Ano 2020
+
+Number of employees by region
+
+Midwest Southeast SouthNortheast
+
+5 5
+
+7
+
+Ano 2022Ano 2021Ano 2020
+
+381 394 420
+
+Ano 2022Ano 2021Ano 2020
+
+18 18
+14
+
+8
+9
+
+10
+
+
+
+38
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Number of employees per type of contract
+
+Total 
+Permanent 
+employees
+
+Total 
+Temporary 
+
+workers
+Total Interns Total Young 
+
+Apprentices Total Part-time Total Full-time Total Contractors
+
+2020
+
+Women 174 170 2 4 4 174 21
+
+Men 264 262 4 3 2 264 31
+
+Northeast 7 7 - - - 7 1
+
+Midwest 10 10 - - - 10 3
+
+Southeast 407 401 6 7 6 407 47
+
+South 14 14 - - - 14 1
+
+2021
+
+Women 163 159 4 3 4 163 22
+
+Men 245 243 3 4 2 245 26
+
+Northeast 5 5 - - - 5 1
+
+Midwest 9 9 - - - 9 3
+
+Southeast 380 374 7 7 6 380 43
+
+South 14 14 - - - 14 1
+
+2022
+
+Women 164 161 5 4 3 164 19
+
+Men 225 222 6 3 3 225 24
+
+Northeast 5 5 - - - 5 1
+
+Midwest 8 8 - - - 8 3
+
+Southeast 363 357 11 7 6 363 38
+
+South 13 13 - - - 13 1
+
+
+
+39
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+New hires
+
+2020 2021 2022
+
+Total Rate Total Rate Total Rate
+Under 30 years of age
+
+Women 6 13.04% 7 12.07% 20 23.26%
+
+Men 8 17.39% 10 17.24% 15 17.44%
+
+Total under 30 years 14 30.43% 17 29.31% 35 40.70%
+
+Northeast 0 0.00% 0 0.00% 0 0.00%
+
+Midwest 0 0.00% 0 0.00% 0 0.00%
+
+Southeast 14 30.43% 17 29.31% 35 40.70%
+
+South 0 0.00% 0 0.00% 0 0.00%
+
+30 to 50 years
+
+Women 15 32.61% 14 24.14% 24 27.91%
+
+Men 16 34.78% 21 36.21% 23 26.74%
+
+Total 30 to 50 years 31 67.39% 35 60.34% 47 54.65%
+
+Northeast 0 0.00% 0 0.00% 0 0.00%
+
+Midwest 0 0.00% 0 0.00% 0 0.00%
+
+Southeast 31 67.39% 35 60.34% 47 54.65%
+
+South 0 0.00% 0 0.00% 0 0.00%
+
+Over 50 years
+
+Women 1 2.17% 2 3.45% 3 3.49%
+
+Men 0 0.00% 4 6.90% 0 0.00%
+
+Total over 50 years 1 2.17% 6 10.34% 3 3.49%
+
+Northeast 0 0.00% 0 0.00% 0 0.00%
+
+Midwest 0 0.00% 0 0.00% 0 0.00%
+
+Southeast 1 2.17% 6 10.34% 3 3.49%
+
+South 0 0.00% 0 0.00% 0 0.00%
+
+Total 46 58 85
+
+
+
+40
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Employee turnover
+2020 2021 2022
+
+Total Taxa Total Taxa Total Taxa
+Under 30 years of age
+
+Women 20 2.22% 16 1.90% 34 4.18%
+
+Men 21 2.33% 23 2.73% 27 3.32%
+
+Voluntary 26 2.88% 32 3.79% 41 5.04%
+
+Involuntary 29 3.22% 24 2.84% 37 4.55%
+
+Northeast 0 0.00% 0 0.00% 0 0.00%
+
+Midwest 0 0.00% 0 0.00% 0 0
+
+Southeast 41 4.55% 39 4.62% 61 7.49%
+
+South 0 0.00% 0 0.00% 0 0.00%
+
+30 to 50 years
+Women 24 2.66% 36 4.27% 51 6.27%
+
+Men 39 4.32% 55 6.52% 62 7.62%
+
+Voluntary 53 5.88% 77 9.12% 96 11.79%
+
+Involuntary 41 4.55% 49 5.81% 64 7.86%
+
+Northeast 0 0.00% 1 0.12% 0 0.00%
+
+Midwest 0 0.00% 0 0.00% 1 0.12%
+
+Southeast 63 6.98% 90 10.66% 112 13.76%
+
+South 0 0.00% 0 0.00% 0 0.00%
+
+Over 50 years
+Women 3 0.33% 4 0.47% 5 0.61%
+
+Men 7 0.78% 11 1.30% 6 0.74%
+
+Voluntary 2 0.22% 7 0.83% 9 1.11%
+
+Involuntary 9 1.00% 14 1.66% 5 0.61%
+
+Northeast 0 0.00% 0 0.00% 0 0.00%
+
+Midwest 0 0.00% 0 0.00% 0 0.00%
+
+Southeast 10 1.11% 15 1.78% 10 1.23%
+
+South 0 0.00% 0 0.00% 1 0.12%
+
+
+
+41
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Diversity in governance bodies and among employees by age range
+
+Under 30 years of age 30 to 50 years Over 50 years
+
+2020
+
+Women Men Total Women Men Total Women Men Total
+
+Operational 4 12 16 24 50 74 10 21 31
+
+Administrative 21 14 35 100 104 204 19 43 62
+
+Management - - 0 1 12 13 1 10 11
+
+Senior Management - - 0 - - 0 - 5 5
+
+Total 25 26 51 125 166 291 30 79 109
+
+2021
+
+Operational 4 12 16 24 42 66 10 19 29
+
+Administrative 19 11 30 92 98 190 19 42 61
+
+Management - - 0 1 13 14 1 10 11
+
+Senior Management - - 0 - - 0 - 5 5
+
+Total 23 23 46 117 153 270 30 76 106
+
+2022
+
+Operational 6 12 18 21 39 60 13 20 33
+
+Administrative 23 13 36 92 89 181 17 37 54
+
+Management - - 0 1 10 11 1 9 10
+
+Senior Management - - 0 - - 0 - 4 4
+
+Total 29 25 54 114 138 252 31 70 101
+
+
+
+42
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Diversity in governance bodies and among employees by ethnicity
+
+Black Asian Brown White
+
+2
+0
+
+2
+0
+
+Women Men Total Women Men Total Women Men Total Women Men Total
+
+Operational 1 6 7 4 7 11 3 15 18 30 55 85
+
+Administrative 7 5 12 13 10 23 17 20 37 103 126 229
+
+Management - - 0 - 6 6 - 1 1 2 15 17
+
+Senior Management - 1 1 - 3 3 - - 0 - 1 1
+
+Total 8 12 20 17 26 43 20 36 56 135 197 332
+2
+
+0
+2
+
+1
+
+Operational 1 6 7 4 6 10 4 16 20 29 45 74
+
+Administrative 8 7 15 13 11 24 15 21 36 94 112 206
+
+Management - - 0 - 6 6 - 1 1 2 16 18
+
+Senior Management - 1 1 - 3 3 - - 0 - 1 1
+
+Total 9 14 23 17 26 43 19 38 57 125 174 299
+
+2
+0
+
+2
+2
+
+Operational 2 4 6 3 5 8 5 17 22 30 45 75
+
+Administrative 8 9 17 9 9 18 19 21 40 96 100 196
+
+Management - - 0 - 5 5 - 1 1 2 13 15
+
+Senior Management - - 0 - 3 3 - - 0 - 1 1
+
+Total 10 13 23 12 22 34 24 39 63 128 159 287
+
+
+
+43
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Diversity in governance bodies and among employees by gender
+
+2020 2021 2022
+
+Women Men Total Women Men Total Women Men Total
+
+Operational 38 83 121 38 73 111 40 71 111
+
+Administrative 140 161 301 130 151 281 132 139 271
+
+Management 2 22 24 2 23 25 2 19 21
+
+Senior Management 0 5 5 - 5 5 - 4 4
+
+Total 180 271 451 170 252 422 174 233 407
+
+Diversity in governance bodies and among employees – people with disabilities (PwD)
+
+2020 2021 2022
+
+Women Men Total Women Men Total Women Men Total
+
+Operational 1 1 2 1 1 2 3 1 4
+
+Administrative 4 7 11 4 7 11 3 8 11
+
+Management - - 0 - - 0 - - 0
+
+Senior Management - - 0 - - 0 - - 0
+
+Total 5 8 13 5 8 13 6 9 15
+
+
+
+44
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+REMUNERATION AND BENEFITS
+GRI 2-19, 2-20, 2-21, 2-30, 3-3, 202-1, 401-2, 401-3, 405-2
+
+CCB Brasil’s fixed and variable salary policy is in line with market standards 
+and is periodically evaluated to meet the best practices adopted by financial 
+institutions. With the individual performance assessment, carried out annually in 
+all departments, branches and subsidiaries, the bank is committed to recognizing 
+the work performed by employees through its Profit-Sharing Program (PPR), 
+while also taking their needs and expectations into consideration. In 2022, 
+the ratio between the base salary and compensation received by women in 
+management positions and that received by men was 1.16, a significant increase 
+when analyzing the previous year. Considering all the positions held by women, 
+the corresponding minimum salary on the base date of this report represents 
+28.19% of the lowest salary received by women in the organization, compared 
+to 27.90% of the lowest salary received by men.
+
+Regarding the guidelines that govern the compensation of its managers, CCB 
+Brasil fully complies with Resolution Nr. 3921 of the Central Bank of Brazil 
+(BACEN), which defines policies associated with the topic. It should be noted 
+that the payment of salaries, fees, commissions, and variable compensation, 
+among others, is also linked to the organization’s objectives and strategies 
+regarding the management of its economic, environmental, and social impacts, 
+always favoring transparency, integrity, and the maintenance of financial health.
+
+In 2022, the ratio between the highest paid individual’s total annual compensation 
+and the average annual total compensation of all employees (excluding the 
+highest paid) was 23.36%. The Senior Management, interns, young apprentices, 
+and expatriates were not considered in this calculation, precisely because of 
+the specificities of labor legislation and conditions. The same happened in 
+the calculation of the ratio between the percentage increase in total annual 
+compensation of the highest paid individual in the organization and the average 
+percentage increase in total annual compensation of all employees (excluding 
+the highest paid), which both suffered a reduction of 8.9% and 6.3%, respectively.
+
+All permanent employees of CCB Brasil, who are governed by the Consolidation 
+of Labor Laws (CLT), are entitled to a benefits package that includes: standard 
+and complementary life insurance, education insurance, funeral assistance, health 
+and dental care coverage, accident insurance, maternity and paternity leaves, 
+retirement plan, gym membership, daycare and/or babysitting allowance, food 
+and meal stipends, transportation allowance, additional end-of-year food stipend, 
+complementary illness and injury disability coverage, night shift commute, and 
+help with professional reskilling, among others.
+
+Benefits offered to full-time employees
+
+2020 2021 2022
+
+Life insurance 268 260 257
+
+Health care coverage 755 749 714
+
+Maternity leave 8 6 8
+
+Paternity leave 7 4 10
+
+Dental care coverage 388 340 331
+
+Gym membership 23 27 26
+
+Daycare/ Babysitting 
+allowance
+
+36 35 37
+
+Food/Meal stipends 353 341 336
+
+Coverage related to accidents and retirement were not granted in the analyzed period.
+
+
+
+45
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+2020 2021 2022
+
+Women Men Women Men Women Men
+
+Total number of employees entitled to take maternity/paternity leaves 174 259 163 240 164 225
+
+Total number of employees who took maternity/paternity leaves 8 7 6 4 8 10
+
+Total number of employees who returned to work after the end of maternity/
+paternity leaves
+
+8 7 6 4 8 10
+
+Total number of employees who returned to work after the end of maternity/
+paternity leaves and remained employed twelve months after their return to work
+
+6 7 4 4 7 8
+
+Return-to-work rates and retention of employees who took maternity/paternity 
+leaves
+
+75% 100% 67% 100% 88% 80%
+
+Total employees
+
+Total
+Total employees covered by collective bargaining 
+
+agreements
+Percentage of employees covered by collective bargaining 
+
+agreements
+
+2020 451 433 96.01%
+
+2021 422 403 95.50%
+
+2022 407 385 94.59%
+
+For interns, the CCB applies the same conditions established in the collective agreement. For young apprentices, we follow the definitions of the CLT.
+
+
+
+46
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+HEALTH AND SAFETY
+
+GRI 3-3, 403-1, 403-2, 403-3, 403-4, 403-5, 403-6, 403-7, 403-8
+
+A work environment that prioritizes the well-being and quality of life of employees 
+and provides health and safety in the context of their work activities is essential 
+for the success of the business. At CCB Brasil, the attention to these matters is 
+treated with the necessary seriousness; it is an integral part of the corporate 
+culture, present in numerous initiatives to support the internal stakeholders. 
+In addition to complying with current legislation, the bank promotes constant 
+investments to ensure that its employees are provided an efficient, welcoming, 
+and healthy work routine.
+
+Considering the main norms of the Ministry of Labor that govern the theme, these 
+efforts by the bank stand out: the PCMSO – Occupational Health Medical Control 
+Program (NR 7), related to the set of procedures for the prevention and early 
+diagnostic of damage to health resulting from work; the PGR – Risk Management 
+Program (NR 1), related to the process of Occupational Risk Management 
+through communication and multidisciplinary actions; the AET – Ergonomic 
+Analysis (NR 17), which establishes rules for the mitigation of occupational risks 
+related to ergonomics; and CIPA – Internal Commission for Accident Prevention 
+(NR 5), which is responsible for the prevention of accidents and work-related 
+illnesses. In line with the best practices related to the subject, the institution 
+uses the SOC Occupational Management system, which is certified by the ISO 
+27001 Information Security Standard and covers all workforce (employees and 
+contractors).
+
+At CCB Brasil, no workers are exposed to a high incidence or high risk of 
+illnesses related to their occupation; however, there is systematic monitoring 
+and evaluation of such issues through the bank’s Occupational Medicine supplier, 
+which is responsible for annual inspections to map possible risks in the bank’s 
+premises. The institution’s Occupational Safety team participates in the control 
+and implementation of the necessary changes, always aiming at the quality of 
+life of the internal stakeholders, who can report problems or complaints related 
+
+to the topic to the Ethics Committee and the Human Resources Department, 
+without fear of retaliation.
+
+To monitor the health condition of its workers and provide a quick response to 
+clinical events, the organization offers outpatient, medical, psychological, and 
+nursing care on its premises. Additionally, throughout the year, various activities 
+are performed through the Health Promotion Program with a focus on the well-
+being of workers, such as campaigns for: vaccination; prevention of AIDS and 
+breast and prostate cancer; handling stress; anti-smoking; and encouraging 
+healthy eating habits. CCB Brasil also has an internal communication tool, the 
+Corporate Portal, to address topics related to the dissemination of best practices 
+and appropriate conduct.
+
+There are also initiatives to raise awareness about security, preventive healthcare, 
+and quality of life under the responsibility of the security committees structured 
+by the members of the CIPA, who represent all the bank’s workforce. In 2022, 
+the commission offered a course to employees on the following topics: study 
+of the environment, working conditions and risks arising from the production 
+process, as well as accidents and occupational diseases related to the premises; 
+investigation and analysis methodology of occupational accidents and diseases; 
+basic knowledge about AIDS and preventive measures; basic knowledge about 
+labor and social security legislation that addresses safety and health at work; how 
+CIPA is organized; general principles of occupational hygiene and risk control 
+measures. Additionally, CIPA organized training sessions for the Fire Brigade, 
+building evacuation drills, and the Internal Occupational Accident Prevention 
+Week (SIPAT); these activities are promoted annually.
+
+
+
+47
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+EDUCATION AND TRAINING
+
+GRI 2-17, 2-24, 3-3, 404-1, 404-2, 404-3, FS4
+
+CCB Brasil is committed to the professional and personal development of its 
+
+internal stakeholders, as it understands that skilling its workforce is a strategy to 
+
+retain talent and promote career advancement. With the support of the Human 
+
+Resources Department, the bank offers training in different aspects related to 
+
+business, behavior, regulations, and sustainability. In 2022 alone, the institution’s 
+
+employees received workshops and courses, as well as educational incentives, 
+
+which promoted the improvement of their skills.
+
+In 2022, six types of learning programs were put into practice by the organization for 
+
+the internship, young apprenticeship, operational, administrative, management, and 
+
+executive board areas, in a total of 190 hours of training and an average of almost 
+
+14,77 hours per person. The decrease in hours compared to 2021 was due to the 
+
+return to on-site activities at the bank, which allowed the internal stakeholders to 
+
+be reaccustomed to on-site work and a return to normal work routines.
+
+Internal On-site/Video-conference Training
+
+Held either inside or outside the institution’s premises, with either internal or 
+contracted instructors, these are always offered under the guidance of the 
+Human Resources Department, and with content established by the managers 
+who requested the training.
+
+Internal E-learning Training
+
+Offered internally at the bank through the online learning platform Portal 
+EducaRHoje, with both content and course development under the responsibility 
+of contracted partners or the institution itself.
+
+Corporate Training
+
+Offered by CCB Brasil through internal coaches or external partners, these 
+aim at disseminating essential information to all workforce, addressing various 
+relevant matters for the institution.
+
+External Training
+
+Promoted inside or outside the institution’s premises; mentoring and content 
+are the responsibility of instructors hired either in Brazil or abroad.
+
+External E-learning Training
+
+Performed inside or outside the bank’s premises, on the internet, by a contracted 
+institution that is also responsible for the training’s content.
+
+Educational Incentives
+
+Allowances and financial aid for the enrollment of employees in higher education 
+courses – specialization (continuing education, MBAs, and specific courses) and 
+postgraduate (lato sensu degrees, as well as Masters and Doctorate) – as long 
+as they are directly related to the institution’s activities of interest.
+
+
+
+48
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Average hours of training per year per employee
+
+2020 2021 2022
+
+Men Women Total 
+average Men Women Total 
+
+average Men Women Total average
+
+Trainee 28.75 46.13 34.54 54.21 33.11 42.15 21.23 42.56 32.86
+
+Young apprentice 10.17 29.75 21.36 30.47 26.01 28.56 22.61 26.06 24.58
+
+Operational 12.20 10.08 11.51 16.98 14.51 17.25 14.22 14.00 14.14
+
+Administrative 8.74 11.15 9.85 13.91 16.96 15.27 14.20 15.18 14.67
+
+Management 5.76 3.67 5.50 22.16 29.09 22.82 11.24 6.42 10.78
+
+Senior Management 3.15 0.00 3.15 0.00 7.88 7.88 2.88 0.00 2.88
+
+Totals 0.24 0.49 - 15.67 16.55 - 13.91 15.93 14.77
+
+Financial education and sustainability, including green finance, are two widely 
+addressed topics in the training sessions provided by the institution, as they 
+are directly aligned with the specificities and challenges faced by the bank’s 
+businesses, as well as ethics, compliance and prevention of money laundering, 
+corruption, and terrorism. Additionally, the workforce can also request specific 
+training according to their interests, as long as those are in line with their activities 
+and are justified to the management of their department. For CCB Brasil, the 
+pursuit of knowledge directly influences high individual performance and the 
+success of the business as a whole.
+
+The workforce’s first contact with training cycles happens shortly after admission, 
+when they join the Corporate Integration Program, an initiative to share 
+information related to the bank’s rules as well as its values, mission, vision, and 
+social-environmental risk management policies. Professionals are evaluated in 
+
+terms of their performance and development throughout their entire time at the 
+institution, in order to monitor their professional development.
+
+Finally, aiming to assist with career transition, retirement plans, and contractual 
+termination, CCB Brasil keeps the following commitments: before a dismissal 
+takes effect, the Human Resources Department evaluates options for a possible 
+internal rotation for the employee; when dismissals occur due to restructuring or 
+cost reduction, the Human Resources Department keeps the CVs of professionals 
+with an above-average performance assessment for future opportunities; bank 
+clerks who are dismissed without just cause receive support to enroll in courses 
+offered by private entities, educational institutions, or labor union entities.
+
+
+
+49
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Employees who receive regular assessments of performance and career development
+
+2020 2021 2022
+
+Men Women Total average Men Women Total average Men Women Total average
+
+Intern 100% 100% 100% 100% 100% 100% 60% 100% 83%
+
+Young apprentice 100% 100% 100% 100% 100% 100% 67% 75% 71%*
+
+Operational 100% 100% 100% 100% 100% 100% 100% 100% 100%
+
+Administrative 100% 100% 100% 100% 100% 100% 100% 100% 100%
+
+Management 100% 100% 100% 100% 100% 100% 100% 100% 100%
+
+Senior Management - - - - - - - - -
+
+*This difference relates to the deadline window for completion of training for new employees
+
+SPECIAL DATES
+
+To promote the cultural integration between Brazil and China, the bank sends 
+several announcements related to special dates for both nations throughout the 
+year. The announcements, sent to employees through internal channels, provide 
+context about these celebrations and highlight their historical relevance and the 
+fundamental role they play for each society.
+
+Important events such as the Chinese New Year, Lantern Festival, Dragon Boat 
+Festival, and Chongyang Festival gained prominence throughout 2022 and offered 
+employees the opportunity to learn more about Chinese traditions. Additionally, 
+during the Moon Festival and the Western Christmas and New Year, employees 
+received special announcements as well as gift cards worth BRL 200 and BRL 500, 
+respectively; these gifts are part of initiatives to reward the workforce that are 
+regularly promoted by CCB Brasil.
+
+The Moon Festival, also known as the Mid-Autumn Festival, is held on the 15th day 
+of the 8th month of the Chinese lunisolar calendar, it combines local symbols and 
+legends to encourage family and friends to come together. This celebration, whose 
+roots can be traced back to agrarian regions of China, originated so the population 
+could show their gratitude to the moon for the harvest; currently, it is marked by 
+the release of paper lanterns that adorn and color the skies of the country.
+
+
+
+ECONOMIC 
+AND FINANCIAL 
+PERFORMANCE
+
+
+
+51
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+ECONOMIC AND FINANCIAL PERFORMANCE
+
+In 2022, the impacts caused by the COVID-19 pandemic continued to influence 
+
+business decisions across countries, including within the scope of CCB Brasil. 
+
+By maintaining a more conservative attitude regarding the granting of credit, 
+
+the bank managed to offer unrestricted support to clients through constant 
+
+monitoring and evaluations of the economic sectors linked to the stakeholders. 
+
+The health of the loan portfolio was treated as a priority to guarantee the 
+
+excellence of the products and services provided by the institution, in particular 
+
+to companies in the Corporate and Large Corporate segments.
+
+This stance aligns directly with CCB Brasil’s tax strategy, whose objective is also 
+
+the strict compliance with tax rules and respect for ESG, as well as the payment 
+
+of all taxes and contributions as established by law. To act in favor of sustainable 
+
+development, in all its spheres, also requires having a financial policy that is 
+
+committed to ethics, integrity, and transparency, values that are part of the 
+
+bank’s organizational culture. The institution’s economic and financial topics 
+
+are managed by senior governance and the Tax Affairs area; they are guided 
+
+and audited by the best market practices.
+
+By offering resources to corporations in sectors such as agribusiness, energy, 
+
+oil and gas, industry, mining, construction, retail, chemicals, and services, CCB 
+
+Brasil contributes to the social and economic development of the regions where 
+
+these clients operate, the institution also contributes toward the advancement 
+
+of environmental topics, as the careful risk assessment carried out by the 
+
+bank ensures that its customers are not promoting negative impacts on the 
+
+environment and society. From the understanding that it is possible to increase 
+
+benefits through the offer of its products and services, in the coming years the 
+
+bank intends to establish its own initiatives and projects to help build a more 
+
+sustainable reality for future generations.
+
+MAIN RESULTS OF 2022
+
+Credit operations reached BRL 11.1 billion, an increase of 6.7% compared to 2021 
+
+(BRL 10.4 billion), especially those with companies in the Corporate and Large 
+
+Corporate segments.
+
+The share of loans that were rated AA-C (lower risk credit range) also grew compared 
+
+to the previous year; they represented 97% of the portfolio (95.9% in 2021).
+
+The central office’s resources represented 29.4% (30.1% in 2021) of CCB Brasil’s 
+
+total funding of BRL 18.2 billion, which comprises market funding, borrowing and 
+
+onlending obligations, and capital-eligible debt instruments.
+
+Consolidated gross income from financial intermediation reached BRL 425.1 
+
+million, compared to BRL 428.6 million in 2021.
+
+Consolidated shareholders’ equity reached BRL 1.1 billion, and the reference 
+
+equity was BRL 2.0 billion, what caused the Basel Ratio to reach 15.9% (above the 
+
+10.5% minimum required by Brazil’s Central Bank – BACEN).
+
+GRI 3-3, 201-1, 203-1, 203-2, 207-1, 207-2, 413-1, FS7, FS8
+
+
+
+Sustainability Report | 2022 52
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Value added statement in % 2021 2022
+
+Shareholders 0.00 0.00
+
+Employees 106.51 65.95
+
+Government 32.12 46.15
+
+Retained earnings -39.48 -12.27
+
+Interest rates and rents (operational costs) 0.86 0.17
+
+Community investments 0.00 0.00
+
+Value added statements summary in BRL 2021 2022
+
+Revenue 903,469,669.61 1,711,888,548.37
+
+Raw materials acquired from vendors 766,732,549.96 1,479,910,896.28
+
+Gross added value 136,737,119.65 231,977,652.09
+
+Withholdings 19,169,882.04 11,056,487.99
+
+Net added value produced by the institution 117,567,237.61 220,921,164.10
+
+Value added received in transfer 44,875,223.63 44,282,945.16
+
+Total value added to be distributed 162,442,461.24 265,204,109.26
+
+
+
+Sustainability Report | 2022 53
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and 
+Financial Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Value added statements in BRL 2021 2022
+
+Revenue 903,469,669.61 1,711,888,548.37
+
+Sales of goods, products, and services 953,781,552.36 1,736,781,495.09
+
+Bad debt provision – Reversal/Formation -80,505,047.73 -31,329,200.38
+
+Non-operational 30,193,164.98 6,436,253.66
+
+Raw materials acquired from vendors (includes ICMS and IPI) 766,732,549.96 1,479,910,896.28
+
+Consumed raw materials 0.00 0.00
+
+Cost of goods and services sold 592,367,598.34 1,353,976,925.28
+
+Materials, energy, third-party services and others 164,575,618.04 124,227,513.34
+
+Loss/Recovery of asset values 9,789,333.58 1,706,457.66
+
+Gross additional value 136,737,119.65 231,977,652.09
+
+Withholdings 19,169,882.04 11,056,487.99
+
+Depreciation, amortization and depletion 19,169,882.04 11,056,487.99 
+
+Net value added produced by the organization 117,567,237.61 220,921,164.10
+
+Value added received in transfer 44,875,223.63 44,282,945.16
+
+Equity income -519,221.26 -2,261,037.16
+
+Financial income 45,394,444.89 46,543,982.32
+
+Total value added to be distributed 162,442,461.24 265,204,109.26
+
+Distribution of value added 162,442,461.24 265,204,109.26
+
+Personnel and costs 173,014,951.69 174,898,916.54
+
+Taxes, fees and contributions 52,176,380.59 122,385,930.15
+
+Interest and rent 1,390,370.02 457,555.57
+
+Interest on equity and dividends 0.00 0.00
+
+Retained earnings / year loss -64,139,241.00 -32,538,293.00
+
+Community investments 0.00 0.00
+
+Economic value retained 162,442,461.24 265,204,109.26
+
+* 2021 values were updated according to adjustments based on the IFRS.
+
+
+
+GRI  
+CONTENT INDEX
+
+
+
+55
+
+GRI CONTENT INDEX
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+Declaration of use
+CCB Brasil’s disclosure is in compliance with the  
+GRI Standards for the period between 1 January 2022  
+and 31 December 2022
+
+Used GRI 1 GRI 1: Foundation 2021
+
+Applicable GRI Sector Standards – Financial Services (G4 Version) NA
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+GRI 2: General 
+Disclosures 2021
+
+2-1 Organizational details - 16 -
+
+1. The Organization 
+and its Reporting 
+Practices
+
+2-2 Entities included in the organization’s 
+sustainability reporting - 8 -
+
+2-3 Reporting period, frequency 
+and contact point - 8 -
+
+2-4 Restatements of information - 8 -
+
+2-5 External assurance - 8 -
+
+2. Activities and 
+Workers
+
+2-6 Activities, value chain and other 
+business relationships - 17 -
+
+2-7 Employees - 36 -
+
+2-8 Workers who are not employees
+All professionals 
+working for CCB Brasil 
+are employees.
+
+- -
+
+
+
+56
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+3. Governance
+
+2-9 Governance structure and composition - 20 -
+
+2-10 Nomination and selection of the 
+highest governance body - 20 -
+
+2-11 Chair of the highest governance body - 20 -
+
+2-12 Role of the highest governance body in 
+overseeing the management of impacts - 29 -
+
+2-13 Delegation of responsibility 
+for managing impacts - 20 -
+
+2-14 Role of the highest governance 
+body in sustainability reporting - 8 -
+
+2-15 Conflicts of interest - 25 -
+
+2-16 Communication of critical concerns - 20/31 -
+
+2-17 Collective knowledge of the 
+highest governance body - 47 -
+
+2-18 Evaluation of the performance of 
+the highest governance body - 20 -
+
+2-19 Remuneration policies - 44 -
+
+
+
+57
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+3. Governance 2-20 Process to determine remuneration - -
+
+CCB Brasil has a Compensation 
+Committee that focuses solely 
+on the remuneration of the 
+executives. Other compensation 
+policies follow a supply and 
+demand logic; that is, they are 
+in line with the market averages. 
+Definition of bonuses and 
+awards is analyzed by HR and the 
+Executive Board, including the 
+Chairman. Profit-sharing bonuses 
+(PSB) are determined following 
+regulatory principles. Additionally, 
+an annual Profit-Sharing Program 
+(PSP) bonus is also analyzed 
+and determined by directors; 
+it can also be evaluated by the 
+Board of Directors and the Head 
+Office. Shareholders are part of 
+the PSP evaluation and analyze 
+the distribution of bonuses as a 
+whole, while the union specifically 
+evaluates the PSP and the PSB.
+
+2-21 Annual total compensation ratio - 44 -
+
+4. Strategy, Policies 
+and Practices
+
+2-22
+Statement on sustainable development 
+strategy
+
+- 4/5 -
+
+2-23 Policy commitments - 16 -
+
+
+
+58
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+4. Strategy, Policies 
+and Practices
+
+2-24 Embedding policy commitments - 20/47 -
+
+2-25 Processes to remediate negative impacts - 25 -
+
+2-26
+Mechanisms for seeking advice and 
+raising concerns
+
+- 25 -
+
+2-27 Compliance with laws and regulations
+
+In cases of non-
+compliance, the bank 
+considers as non-
+significant those fines 
+for potential non-
+compliance with laws 
+and regulations that 
+amount to up to 0.5% 
+of the reference equity 
+value, whereas for 
+labor fines the amount 
+is up to BRL 500.00.
+
+20 -
+
+2-28 Membership associations - 24 -
+
+5. Stakeholder 
+Engagement
+
+2-29 Approach to stakeholder engagement - 8 -
+
+2-30 Collective bargaining agreements - 44 -
+
+Material Topics
+
+GRI 3: 
+Material Topics 2021
+
+3-1 Process to determine material topics - 8 -
+
+3-2 List of material topics - 8 -
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+
+
+59
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+Technology And Innovation
+
+GRI 3: Material  
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+GRI 418: Customer 
+Privacy 2016
+
+418-1
+Substantiated complaints concerning 
+breaches of customer privacy 
+and losses of customer data
+
+- 27 -
+
+Emissions
+
+GRI 3: Material 
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+GRI 201: Economic 
+Performance 2016
+
+201-2 Financial implications and other risks and 
+opportunities due to climate change - 32 -
+
+GRI 302: Energy 2016 302-1 Energy consumption within 
+the organization - 32 -
+
+GRI 305:  
+Emissions 2016
+
+305-1 Direct (Scope 1) GHG emissions - 32 -
+
+305-2 Energy indirect (Scope 2) GHG emissions - 32 -
+
+305-3 Other indirect (Scope 3) GHG emissions - 32 -
+
+305-6
+Emissions of ozone-depleting 
+substances (ODS)
+
+The bank does not 
+have significant 
+emissions of gases 
+according to the Kyoto 
+Protocol or other 
+atmospheric emissions.
+
+- -
+
+
+
+60
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+GRI 305:  
+Emissions 2016
+
+305-7 Nitrogen oxides (NOx), sulfur oxides 
+(SOx), and other significant air emissions
+
+The bank does not 
+have significant 
+emissions of NOx , Sox, 
+or other atmospheric 
+emissions.
+
+- -
+
+Sustainability Culture
+
+GRI 3: Material 
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+GRI 2: General 
+Disclosures 2021
+
+2-12 Role of the highest governance body in 
+overseeing the management of impacts - 29 -
+
+2-13 Delegation of responsibility 
+for managing impacts - 20 -
+
+GRI G4: Financial 
+Services Sector 
+Disclosures 2014
+
+FS5
+
+Interactions with clients/
+investees/business partners 
+regarding environmental and 
+social risks and opportunities
+
+- 30 -
+
+FS8
+
+Monetary value of products and 
+services designed to deliver a specific 
+environmental benefit for each business 
+line broken down by purpose 
+
+Indirectly, the credit 
+that CCB Brasil 
+grants to companies 
+impacts social and 
+environmental topics. 
+However, the bank 
+does not have plans in 
+the foreseeable future 
+to create products that 
+generate social and 
+environmental benefits.
+
+51 -
+
+
+
+61
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+Social Investment
+
+GRI 3: Material 
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+GRI 203: Indirect 
+Economic 
+Impacts 2016
+
+203-1
+Infrastructure investments 
+and services supported
+
+Social investment is 
+a priority topic for 
+CCB Brasil. The bank 
+does not yet have 
+its own projects or 
+initiatives to generate 
+a direct positive 
+impact on society, 
+but policies related to 
+the subject are being 
+discussed internally.
+
+51 -
+
+203-2 Significant indirect economic impacts
+
+Social investment is 
+a priority topic for 
+CCB Brasil. The bank 
+does not yet have 
+its own projects or 
+initiatives to generate 
+a direct positive 
+impact on society, 
+but policies related to 
+the subject are being 
+discussed internally.
+
+51 -
+
+
+
+62
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+Workforce Recognition
+
+GRI 413: Local 
+Communities 2016
+
+413-1
+Operations with local community 
+engagement, impact assessments, 
+and development programs
+
+Social investment is 
+a priority topic for 
+CCB Brasil. The bank 
+does not yet have 
+its own projects or 
+initiatives to generate 
+a direct positive 
+impact on society, 
+but policies related to 
+the subject are being 
+discussed internally.
+
+51 -
+
+GRI G4: Financial 
+Services Sector 
+Disclosures 2014
+
+FS7
+
+Monetary value of products and 
+services designed to deliver a specific 
+social benefit for each business 
+line broken down by purpose
+
+Indirectly, the credit 
+that CCB Brasil 
+grants to companies 
+impacts social and 
+environmental topics. 
+However, the bank 
+does not have plans in 
+the foreseeable future 
+to create products that 
+generate social and 
+environmental benefits.
+
+51 -
+
+GRI 3: Material 
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+GRI 202: Market 
+Presence 2016
+
+202-1
+Ratios of standard entry level wage by 
+gender compared to local minimum wage
+
+- 44 -
+
+
+
+63
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+Workforce Recognition
+
+GRI 401: 
+Employment 2016
+
+401-1
+New employee hires and 
+employee turnover
+
+- 36 -
+
+401-2
+Benefits provided to full-time 
+employees that are not provided to 
+temporary or part-time employees
+
+-
+44
+
+-
+
+401-3 Parental leave - 44 -
+
+GRI 403: Occupational 
+Health and Safety 2018
+
+403-1
+Occupational health and safety 
+management system
+
+- 46 -
+
+403-2
+Hazard identification, risk assessment, 
+and incident investigation
+
+- 46 -
+
+403-3 Occupational health services - 46 -
+
+403-4
+Worker participation,  
+consultation, and communication on 
+occupational health and safety
+
+- 46 -
+
+403-5
+Worker training on occupational 
+health and safety
+
+- 46 -
+
+403-6 Promotion of worker health - 46 -
+
+
+
+64
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+Workforce Recognition
+
+GRI 403: Occupational 
+Health and Safety 2018
+
+403-7
+Prevention and mitigation of occupational 
+health and safety impacts directly 
+linked by business relationships
+
+- 46 -
+
+403-8
+Workers covered by an occupational 
+health and safety management system
+
+- 46 -
+
+GRI 404: Training 
+And Education 2016
+
+404-1
+Average hours of training 
+per year per employee
+
+- 47 -
+
+404-2
+Programs for upgrading employee skills 
+and transition assistance programs
+
+- 47 -
+
+GRI 404: Training 
+And Education 2016
+
+404-3
+Percentage of employees receiving 
+regular performance and career 
+development reviews
+
+- 47 -
+
+GRI 405: Diversity 
+And Equal 
+Opportunity 2016
+
+405-1
+Diversity of governance 
+bodies and employees
+
+- 36 -
+
+405-2
+Ratio of basic salary and 
+remuneration of women to men
+
+- 44 -
+
+GRI G4: Financial 
+Services Sector 
+Disclosures 2014
+
+FS4
+
+Process(es) for improving staff 
+competency to implement the 
+environmental and social policies and 
+procedures as applied to business lines
+
+- 47 -
+
+FS16
+Initiatives to enhance financial 
+literacy by type of beneficiary
+
+- 29 -
+
+
+
+65
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+Client Satisfaction
+
+GRI 3: Material 
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+Social-Environmental Assessment of Suppliers
+
+GRI 3: Material 
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+GRI 308: Avaliação 
+Ambiental de 
+Fornecedores 2016
+
+308-1
+New suppliers that were screened 
+using environmental criteria
+
+- 30 -
+
+308-2
+Negative environmental impacts in 
+the supply chain and actions taken
+
+- 30 -
+
+GRI 414: Avaliação 
+Social de 
+Fornecedores 2016
+
+414-1
+New suppliers that were screened 
+using social criteria
+
+- 30 -
+
+414-2
+Negative social impacts in the 
+supply chain and actions taken
+
+- 30 -
+
+GRI 3: Material 
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+GRI 408: Child 
+Labor 2016
+
+408-1
+Operations and suppliers at significant 
+risk for incidents of child labor
+
+- 30 -
+
+GRI 409: Forced  
+or Compulsory 
+Labor 2016
+
+409-1
+Operations and suppliers at 
+significant risk for incidents of 
+forced or compulsory labor
+
+- 30 -
+
+
+
+66
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+Social-Environmental Credit Risk Assessment
+
+GRI G4: Financial 
+Services Sector 
+Disclosures 2014
+
+FS1
+Policies with specific environmental 
+and social components 
+applied to business lines
+
+- 29 -
+
+FS2
+Procedures for assessing and 
+screening environmental and 
+social risks in business lines
+
+- 30 -
+
+FS3
+
+Processes for monitoring clients 
+implementation of and compliance with 
+environmental and social requirements 
+included in agreements or transactions
+
+- 30 -
+
+FS10
+
+Percentage and number of 
+companies held in the institution’s 
+portfolio with which the reporting 
+organization has interacted on 
+environmental or social issues
+
+- 30/31 -
+
+Compliance and Anti-Corruption
+
+GRI 3: Material 
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+GRI 205: Anti-
+Corruption 2016
+
+205-1
+Operations assessed for risks 
+related to corruption
+
+- 25 -
+
+205-2
+Communication and training about anti-
+corruption policies and procedures
+
+- 25 -
+
+205-3
+Confirmed incidents of 
+corruption and actions taken
+
+- 25 -
+
+
+
+67
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+GRI Standard / 
+Other Source
+
+Disclosure Notes Page Omission
+
+General Disclosures
+
+Compliance and Anti-Corruption
+
+Disclosure do 
+Setor Financeiro
+
+FS9
+
+Coverage and frequency of audits 
+to assess implementation of 
+environmental and social policies 
+and risk assessment procedures
+
+- 30 -
+
+Distribution of Economic Value
+
+GRI 3: Material 
+Topics 2021
+
+3-3 Management of material topics - 8/44/46/47/51 -
+
+GRI 201: Economic 
+Performance 2016
+
+201-1
+Direct economic value 
+generated and distributed
+
+- 51 -
+
+GRI 207: Tax 2019
+
+207-1 Approach to tax - 51 -
+
+207-2
+Tax governance, control, 
+and risk management
+
+- 30 -
+
+
+
+CREDITS
+
+
+
+69
+
+Message from 
+the President
+
+Highlights 
+2022
+
+Introduction
+
+CCB
+
+Corporate 
+Governance
+
+Risk 
+Management
+
+Economic and Financial 
+Performance
+
+GRI Content 
+Index
+
+Credits
+
+Human Resource 
+Management
+
+Sustainability Report | 2022
+
+CREDITS
+
+Published by
+
+Social-Environmental Risk and Sustainability Division
+
+Social-Environmental Risk and Sustainability Division
+
+Social-Environmental Risk and Sustainability Division
+
+Copywriting, Editing, Proofreading and Consulting
+
+Lamparina Comunicação e Sustentabilidade
+
+Graphic design and layout
+
+Lamparina Comunicação e Sustentabilidade and Aline Carrer
+
+Translation
+
+Juliana Alvim
+
+Photography
+
+Adobe Stock
+
+
+
+China Construction Bank (Brasil) Banco Múltiplo S/A
+
+Av. Brigadeiro Faria Lima, 4.440, Itaim Bibi – SP
+
+www.br.ccb.com
+
+https://www.br.ccb.com/
+
+	Palavra do Presidente
+	Destaques de 2022
+	Apresentação
+	GESTÃO DOS TEMAS MATERIAIS
+
+	Governança Corporativa
+	PARTICIPAÇÃO EM ASSOCIAÇÕES
+	SATISFAÇÃO DO CLIENTE
+	TECNOLOGIA DA INFORMAÇÃO
+
+	Gestão de Riscos
+	AVALIAÇÃO DE RISCOS
+	RATING SOCIOAMBIENTAL
+	EMISSÕES E CONSUMO DE ENERGIA

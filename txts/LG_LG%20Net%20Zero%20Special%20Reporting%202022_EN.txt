@@ -1,0 +1,2144 @@
+LG Net Zero Special Reporting 2022
+
+
+
+About This Report
+
+Overview
+
+LG Group has adopted an integrated 2050 Net Zero roadmap with the participation of major 
+
+affiliates. This Net Zero Special Report is the Group’s first integrated report that covers the 
+
+Group’s goal, implementation strategy, and plans for Net Zero. LG Group will execute the global 
+
+commitment to Net Zero with sincerity and transparently share the progress through subsequent 
+
+annual Special Reports.
+
+Scope of the Report
+
+•  Our Net Zero Roadmap  
+
+-Timeline: 2022-2050 
+
+-Base year: 2018/Interim target: 2030/Final target: 2050
+
+•  Participating Affiliates (as of 2022)  
+
+ LG Electronics, LG Display, LG Innotek, LG Chem, LG Energy Solution,  
+
+LG Household & Health Care, and LG Uplus
+
+•  Target facilities   
+
+Over 147 facilities which include domestic and overseas production sites and R&D centers 
+
+of seven affiliates, etc. (not including overseas sales corporations/branches)
+
+Verification
+
+In order to secure objectivity and processability of the contents in this report, third-party  
+
+verification was completed by the Korea Management Registrar, a verification agency with no 
+
+special interests in LG.
+
+Cover Story 
+
+Our motto, "Placing the First Stepping Stone" represents our 
+
+vision to lay a foundation for global Net Zero and prepare 
+
+ourselves to execute our mid- and long-term roadmaps. With 
+
+this first stepping stone, we will continue our path towards a 
+
+sustainable future for our customers and the world.
+
+LG Net Zero Special Reporting 2022Introduction Strategy AppendixRoadmap 02Next Step
+
+
+
+Contents
+
+01
+Introduction  ...................................... 05
+
+02
+Roadmap .............................................. 06
+
+03
+Strategy  .............................................. 10
+
+Emission Reduction  12
+
+Renewable Energy  14
+
+Offsetting  16
+
+Climate Governance  17
+
+04
+Next Step  ........................................... 18
+
+05
+Appendix  ............................................. 20
+
+LG Net Zero Special Reporting 2022
+
+LG Net Zero Special Reporting 2022Introduction Strategy AppendixRoadmap 03Next Step
+
+
+
+LG's Global Business
+The major business areas of LG Group are electronics, chemical, and telecommunications and 
+
+services. LG Electronics, LG Display, and LG Innotek are engaged in various types of businesses 
+
+in the electronics sector, LG Chem, LG Energy Solution, and LG Household and Health Care are 
+
+in the chemical sector, and LG Uplus, LG CNS, LG HelloVision, and D&O, in the telecommunications 
+
+and services sector.
+
+LG Group adopted a 2050 Net Zero Integrated Roadmap for seven (out of ten) affiliates*  
+
+accounted for 99% of the Group’s greenhouse gas (GHG) emissions. The roadmap will enhance 
+
+the capacity of the Group's response to the global GHG regulations and avoiding potential  
+
+greenwashing. We will continuously monitor the execution of Net Zero and update the roadmap 
+
+according to the market and technological changes. 
+
+*LG Electronics, LG Display, LG Innotek, LG Chem, LG Energy Solution, LG Household and Health Care, and LG Uplus 
+
+Telecommunications and Services
+
+Mobile services (phone plans and other support services)
+
+Corporate infrastructure (Corporate 5G network services)
+
+LG Uplus
+
+IT consulting, System integration, ERP, IT infrastructure solution
+
+LG CNS
+
+Hello TV, Internet, Rental service
+
+LG HelloVision
+
+Leisure (resort, training centers), 
+
+AM (Flag One, Courtyard by Marriott Seoul Botanic Park)
+
+D&O
+
+Chemicals
+
+Petrochemicals, advanced materials (Cathode materials, Separators, etc.) 
+
+Life sciences
+
+LG Chem
+
+Automotive batteries (battery cells, modules, etc.)
+
+Small batteries, ESS batteries (power grid, commercial, residential, etc.)
+
+LG Energy Solution
+
+Cosmetic products (base and color, inner beauty) 
+
+Household items, Beverages 
+
+(carbonated, non-carbonated, drinking water, etc.)
+
+LG Household and Health Care
+
+Electronics
+
+H&A (Household appliances), HE (TV, AV, and other media products),
+
+VS (Automotive components)
+
+BS (Products and solutions including monitors, PCs, and signage)
+
+LG Electronics
+
+Product display
+
+(TV, IT, Mobile, Commercial, Automotive etc.)
+
+LG Display
+
+Optical solutions (Camera, 3D sensing modules, Automotive camera modules), 
+
+Substrate materials, Electronic parts 
+
+(Automotive motor sensor, Communication and power modules, etc.)
+
+LG Innotek
+
+Main business areas
+
+LG Net Zero Special Reporting 2022Introduction Strategy AppendixRoadmap 04Next Step
+
+
+
+Our First Stepping Stone 
+to Net Zero
+
+The Climate Crisis by Humans
+The Paris Agreement of 2015 has opened up a new global climate regime, in which every nation 
+
+is required to determine their own goals to reduce GHG emissions and monitor their progress. 
+
+The Intergovernmental Panel on Climate Change (IPCC*) calls for global efforts to limit the  
+
+rise of average global temperature to below 1.5C by the year 2100 compared to pre-industrial  
+
+levels. In August 2022, the United Nations Environment Programme (UNEP) warned in 
+
+their Emission Gap Report** that the climate crisis calls for rapid social transformation.  
+
+Even still, vast areas across the globe are currently experiencing the catastrophic effects of 
+
+climate change even at this moment, and it will only get worse if we fail to limit the rising 
+
+temperature.
+
+Our Common Goal, Net Zero
+Net Zero is a social responsibility to react against climate change as well as a survival and 
+
+competitive strategy for sustainable growth in the face of climate crisis. As a multinational  
+
+enterprise, LG Group is taking part in the worldwide effort to stop global warming by creating 
+
+a feasible and profitable 2050 Net Zero strategy with a primary goal of sustainable value  
+
+creation for all stakeholders including customers and shareholders.
+
+Starting from LG Electronics’ first declaration of 2030 Net Zero goal in Korea, our six other 
+
+major affiliates*** have developed their own goals to accomplish Net Zero as well as 100% 
+
+renewable energy according to their internal plans. Furthermore, in order to achieve the common 
+
+goal of Net Zero in a more systematic and effective manner, LG Group has integrated the Net 
+
+Zero goals and execution plans of such affiliates, which were reviewed with consistent criteria, 
+
+into a Group-level roadmap in 2022. We will continuously monitor the reduction plans of each 
+
+affiliate in accordance with the Net Zero execution standards and update our integrated roadmap 
+
+according to the changing climate agenda and technologies in the market.
+
+Towards Net Zero, "LG Net Zero Special Reporting"
+This report provides LG Group’s 2030 interim goal and 2050 final goal as well as detailed strategies, 
+
+plans, implementation systems and current management with regard to GHG emission reduction.  
+
+We will continue to transparently disclose the Group’s progress to all its the stakeholders 
+
+through this annual report.
+
+* IPCC: Intergovernmental Panel on Climate Change
+
+**  Emission Gap Report: the analysis report on the gap between national pledges and the limiting global warming 
+
+goals of the Paris Agreement
+
+*** LG Electronics, LG Innotek, LG Chem, LG Energy Solution, LG Household & Health Care, and LG Uplus
+
+LG Group is laying a foundation 
+for climate change response
+
+Introduction Strategy Next Step AppendixRoadmap LG Net Zero Special Reporting 2022 05
+
+
+
+LG Group’s mid- and long-term roadmap was created by integrating reduction 
+
+plans of each affiliate. This allows for further advanced vision and strategies 
+
+reflecting the reduction goals and progresses of the major affiliates, including 
+
+LG Electronics and LG Chem.
+
+Roadmap
+
+Introduction Strategy Next Step AppendixRoadmap 06LG Net Zero Special Reporting 2022
+
+
+
+Roadmap
+
+2030
+
+21.12 million tons
+
+27% reduction
+
+62 % reduction
+
+Net Zero goal
+
+� LG Electronics
+
+Net Zero goal
+
+� LG Energy Solution
+
+� LG Innotek
+
+2040 20502018 (Base year)
+
+47%
+
+32%
+
+6%
+
+2%
+
+6%
+
+6%
+
+1%
+
+� LG Electronics
+
+� LG Display
+
+� LG Innotek
+
+� LG Chem
+
+� LG Energy Solution
+
+� LG Household and Health Care
+
+� LG Uplus
+
+LG
+2050
+
+NET ZERO
+
+LG Group adopted an integrated 2050 Net Zero roadmap to reach net zero GHG emissions by 
+
+2050. According to the Net Zero path, the Group will accomplish Net Zero by 2050 through 
+
+the reduction of Scope 1 (direct) and Scope 2 (indirect) emissions from domestic and overseas 
+
+facilities by 27% by 2030 and 62% by 2040 compared to the base year level of 2018.*
+
+As for the affiliates, LG Electronics will achieve Net Zero by 2030, and LG Energy Solution and 
+
+LG Innotek, by 2040. Such an achievement of Net Zero will be a preemptive initiative in the 
+
+global efforts to reduce GHG emissions. While the integrated roadmap provides that the Net 
+
+Zero target of LG Display, LG Chem, LG Household and Healthcare and LG Uplus are 2050, it 
+
+can be updated according to the development level of reduction technologies, etc.
+
+*  Applying Framework Act on Carbon Neutrality and Green Growth for Coping with Climate Crisis, National NDC Base Year
+
+Management Scope
+
+Over 147 facilities including domestic and overseas production sites and R&D centers from seven  
+
+affiliates, etc determined based on the system boundary and operation control of the affiliates*
+
+* See Appendix for details
+
+Emission sources
+
+Scope 1 (Direct): Emissions attribute to fossil fuel combustion within facilities
+
+Scope 2 (Indirect): Emissions attribute to use of purchased electricity or steam
+
+Target greenhouse gases
+
+CO2, CH4, N2O, HFCs, PFCs, SF6
+
+※ ”Tons” used as the GHG emissions quantity expressed in this report represent carbon dioxide equivalent ton (tCO2-eq)
+
+Introduction Strategy Next Step AppendixRoadmap 07LG Net Zero Special Reporting 2022
+
+
+
+GHG Emissions
+
+Accurate measurement, management, and verification of greenhouse gas(GHG) emissions are 
+
+the indispensable elements for setting a Net Zero strategy. Since the Target Management System  
+
+for GHG and Energy was first enforced in 2011, LG Group has been conducting third-party  
+
+verifications for Scope 1 and Scope 2 emissions in the domestic facilities as well as applying this 
+
+verification process to overseas sites to secure accuracy and completeness. Towards our goal of 
+
+Net Zero, we will manage and monitor emissions, reductions, costs, implementation tasks, etc. 
+
+of each affiliate. For this purpose, LG Group developed an ESG IT platform to integrate and systemize 
+
+ESG non-financial information. The platform will enhance the objectivity and transparency of  
+
+the data related to the GHG emission of each affiliate as such data will be managed in a  
+
+comprehensive manner.
+
+ 
+
+The domestic and overseas GHG emissions of LG Group in 2021 were 21.77 million tons. While 
+
+GHG emissions generated in Korea account for 75% of the total, the GHGs emitted overseas 
+
+were mostly in China, Europe, and the US. LG Energy Solution’s business expansion in North 
+
+America and Indonesia is expected to cause an increase in indirect emissions for power usage.
+
+The overall proportion of direct emissions from domestic facilities dropped from 55% in 2018 
+
+to 49% in 2021 as a result of improved energy efficiency of the affiliates as well as reduction 
+
+of process gases by LG Display, whereas the overall proportion of domestic indirect emissions 
+
+slightly grew compared to 2018 due to the business growth of LG Chem, LG Energy Solution, etc.
+
+Roadmap
+
+Emissions features per affiliate in 2021
+
+Our domestic facilities show higher direct emission rate, largely attributable to petroleum 
+
+usage from NCC process and fluorine usage from LG Chem and LG Display respectively. Our 
+
+overseas facilities show relatively higher indirect emission rate, as large portion of subordinate 
+
+process is focused on fabrication and assembly with high energy consumption.
+
+LG Electronics LG Display LG Innotek LG Chem LG Energy 
+Solution
+
+LG Household & 
+Health Care
+
+LG Uplus
+
+● Scope 1   ● Scope 2
+
+Domestic
+
+17.18  million tons(81%)
+
+Domestic
+
+16.23 million tons(75%)
+
+Overseas
+
+3.94  million tons(19%)
+
+Overseas
+
+5.54 million tons(25%)
+
+21.77  million tons
+
+21.12 million tons
+
+3.58 million tons(91%)
+4.9 million tons(88%)
+
+0.64 million tons(12%)
+
+8.26 million tons(51%)
+
+7.97 million tons(49%)
+
+0.36 million tons(9%)
+
+7.68 million tons(45%)
+
+9.5 million tons(55%)
+
+2018 2021
+
+Scope 2
+
+Scope 2
+
+Scope 1
+
+Scope 1
+
+*Scope 1/Scope 2 emissions proportions per affiliate(%)
+
+29 30
+
+4
+
+57
+
+20
+
+33
+
+1
+
+99
+
+67
+
+80
+
+43
+
+70
+
+96
+
+71
+
+Introduction Strategy Next Step AppendixRoadmap 08LG Net Zero Special Reporting 2022
+
+
+
+Resolution
+
+LG Group’s integrated Net Zero roadmap is prepared upon the comprehensive review of the 
+
+NDCs* of each country presented in accordance with the Paris Agreement, international organizations 
+
+such as UNFCCC and IEA, and CDP and SBTi** Net Zero Standards. It also reflects the emission 
+
+features of each affiliate's industry. To reach Net Zero, all available reduction methods both 
+
+inside and outside of worksites needed to be utilized. Power should be switched to renewable 
+
+energy, and the portion of GHGs that do not currently have any feasible reduction methods 
+
+can be dealt with by creating GHG absorption sources like forests or applying innovative future 
+
+technologies such as CCUS.*** To achieve the Net Zero goal, LG Group will further explore 
+
+additional reduction measures as well as drive joint endeavors with its stakeholders including 
+
+governments, academia, research institutes, local communities, and others. 
+
+LG Group’s Net Zero goal was finalized with consistent criteria established based on the review of 
+
+all applicable short-, mid-and long-term reduction methods as well as the cost-benefit analysis of  
+
+reduction methods necessary for reaching 2050 Net Zero. The integrated roadmap will be updated  
+
+according to the technology development level.The management coverage will be extended to 
+
+Scope 3 and the number of affiliates participating in the integrated roadmap will also be increased.
+
+* NDCs: Nationallly Determined Contributions 
+
+**  Science-based Target Initiative: Global guidelines for supporting the facility of mitigation goals according to the 
+
+IPCC 1.5℃ scenario with the science-based mitigation goal initiative
+
+*** Technology for capturing, utilizing, and storing carbon dioxide
+
+Roadmap
+
+Process efficiency, fuel transition
+
+Process efficiency, conversion into 
+
+low carbon, carbon-free fuel
+
+Elimination of process gas, etc.
+
+Innovative future technologies
+
+Green·Blue hydrogen CCUS, etc.
+
+Renewable energy
+
+Self-Generation,  
+
+PPAs RECs, Green Pricing, etc.
+
+Offset
+
+External reduction/absorption 
+
+projects
+
+Development and joint promotion
+
+Portion per method(%)
+
+2030 20402018
+
+Greenhouse 
+
+gas emission
+
+21.12 
+
+million ton
+
+NET ZERO
+
+2050
+
+27% reduction 62% reduction
+
+71%
+
+5%
+
+5%
+
+19%
+
+19%
+
+62%
+
+7%
+
+12%
+
+22%
+
+54%
+
+10%
+
+14%
+
+Introduction Strategy Next Step AppendixRoadmap 09LG Net Zero Special Reporting 2022
+
+
+
+LG Group pursues practical Net Zero strategies with self-reduction within the 
+
+facilities as a top priority. The Group will reduce emissions at all stages of  
+
+a product's lifecycle with innovative future technologies and accumulated  
+
+experiences and, in the mid- and long-term, renewable energy power procurement.
+
+Strategy
+
+Introduction Strategy Next Step AppendixRoadmap 10LG Net Zero Special Reporting 2022
+
+
+
+Strategy
+LG Group’s Net Zero strategy is primarily focused on direct reduction, renewable energy power  
+
+procurement, offset, and climate governance. Through direct reduction methods such as  
+
+improved process efficiency, transition to low carbon/carbon-free fuels and innovative future  
+
+technologies, Scope 1 and Scope 2 emissions of domestic and overseas facilities will be  
+
+reduced first. Transition to renewable energy power will also take place on a step-by-step basis.
+
+  
+
+The offsetting will only be used for the residual emissions that is technically difficult to reduce. 
+
+Transparency and sustainable effectiveness of such offsetting will be guaranteed by applying  
+
+global standards and focusing on those offset businesses allowing joint participation of the  
+
+affiliates.
+
+Emission 
+Reduction
+
+Scope 1 and Scope 2 
+
+direct reductions 
+
+· Use of green·blue hydrogen
+
+· Investment and implementation of CCUS, etc. 
+
+· Replacement of high-efficiency equipment 
+
+· Expanded use of waste heat
+
+· Enhancement of process gas handling efficiency, etc.
+
+·  Operate ESG Committee and dedicated 
+
+organization
+
+·  Inspect and report execution of the Net Zero 
+
+road map
+
+· Policy monitoring and economic feasibility analysis
+
+·  Establishment of regional renewable energy 
+
+procurement strategy
+
+· Electric boiler replacement
+
+· Implementation of bio-energy, etc.
+
+· Execution management of Net Zero goals
+
+· Discuss procurement of renewable energy
+
+·  Joint procurement and development of renewable 
+
+energy
+
+·  Proposal of market activation policies and 
+
+regulatory improvements
+
+Renewable 
+Energy
+
+Stable procurement of 
+
+renewable energy power
+
+Offsetting
+
+Limited use of offset
+
+Process efficiency ESG Committee/ESG Team
+Establishment of renewable energy 
+
+procurement portfolio
+
+· Joint response of participating affiliates
+
+·  Pursue new greenhouse gas absorption and 
+
+storage projects
+
+·  Construct government and industry-academe-
+
+research cooperation system to pursue offset 
+
+projects
+
+Joint offset strategy
+Transition into low carbon, 
+
+carbon-free fuel
+Operate Group climate change councilRenewable energy partnership
+
+·  Limited to residual emissions with technical 
+
+difficulties 
+
+·  Prioritize self-reduction and transition to carbon 
+
+removal
+
+Utilization of global offset standards
+
+Innovative future technologies
+
+Climate 
+Governance
+
+Establishment of  implement 
+
+system and reinforced 
+
+monitoring
+
+Introduction Strategy Next Step AppendixRoadmap 11LG Net Zero Special Reporting 2022
+
+
+
+Emission Reduction
+
+In the Scope 1 emissions, LG Group will reduce 
+
+3.37 million tons by 2030 through, for example, 
+
+elimination of process gas, transition to 
+
+biofuel-materials, and transition to electric boilers.
+
+74 %
+
+Direct reduction of Scope 1 by 2030
+
+In the Scope 2 emissions, LG Group will reduce 
+
+1.18 million tons by 2030 through, for example, 
+
+energy efficiency improvement and, thereby, 
+
+reduce the demand for renewable energy  
+
+procurement.
+
+26 %
+
+Direct reduction of Scope 2 by 2030
+
+LG Group plans to invest about 3.4 trillion KRW 
+
+in developing and applying innovative technologies 
+
+for direct reduction by 2030. The exact amount 
+
+of Investment may be varied depending on the status 
+
+of technological development.
+
+3.4 trillion KRW
+
+2022~2030 Investment plan
+
+35.34 
+million tons
+
+2018
+
+*Direct reductions in total estimated emissions by 2030 (35.34 million tons)
+
+2030
+
+21.12 
+
+million tons
+
+Others
+
+(4.7%)
+
+Conversion into 
+
+pollution-free vehicles
+
+(0.3%)
+
+Electric boiler 
+
+replacement
+
+(8%)
+Conversion into 
+
+bio-fuel and 
+
+materials
+
+(14%)
+
+Process efficiency
+
+(26%)
+
+Process gas 
+
+elimination
+
+(25%)
+
+Innovative future 
+
+technologies 
+
+(hydrogen)
+
+(22%)
+
+Proportion per method of greenhouse gas direct reduction of the LG Group(%)
+
+Emission 
+
+Reduction
+
+Renewable
+
+Energy
+
+Offsetting
+
+LG Group is concretizing its short-term and mid to long-term implementation plans to achieve 
+
+2050 Net Zero. As an interim goal for Net Zero, LG Group plans to reduce 4.55 million tons 
+
+of emissions through direct reduction by 2023, which is 13% of the total expected emissions. 
+
+Such direct reduction will include both Scope 1 and Scope 2 reductions, consisting of 3.37 
+
+million tons (74%) from Scope 1 and 1.18 million tons (26%) from Scope 2. LG Group will 
+
+continue to improve energy efficiency by adopting high-efficiency equipment and replacing the 
+
+fossil fuels used for heat production with waste heat or electricity. Affiliates’ reduction efforts 
+
+will include activities such as the petrochemical sector’s increased use of biofuels material and 
+
+sharing its process of improving gas treatment efficiency. LG Group plans to invest approximately 
+
+3.4 trillion KRW in the direct reduction methods including development of innovative future 
+
+technologies by 2030.
+
+4.55 
+million tons*
+
+Introduction Strategy Next Step AppendixRoadmap 12LG Net Zero Special Reporting 2022
+
+
+
+Down to Zero Emissions 
+
+LG Group is planning various reduction methods to be implemented by 2050, the target year of the Group’s Net Zero. 
+
+The Group will also continuously enhance the Net Zero roadmap by exploring innovative and applicable technologies.
+
+Expand low-carbon steam 
+
+and waste heat
+
+Collect and use waste heat  
+
+or use waste incineration steam
+
+Replacement with 
+
+high-efficiency equipment
+
+Replace with high-efficiency 
+
+motor, inverter freezer, 
+
+and high-efficiency lighting 
+
+devices, construct automated 
+
+system, etc.
+
+Elimination of process gas
+
+Replace with gas with low global 
+
+warming potential or install 
+
+reduction equipment
+
+Electric boiler 
+
+replacement
+
+Install electric boilers 
+
+and electric heaters 
+
+and use renewable energy
+
+Raw material substitution and/
+
+or transition to bio-fuel
+
+Produce energy or replace materials 
+
+with bio-fuels instead of fossil fuels
+
+Fuel transition to hydrogen
+
+Replace fuels with green·blue hydrogen 
+
+emitting little or no GHG
+
+Conversion to pollution- 
+
+free vehicles
+
+Replace possessed 
+
+or leased transportation 
+
+with pollution-free vehicles 
+
+(EVs. etc.)
+
+Renewable energy
+
+Use of renewable energy 
+
+with no discharge of GHG
+
+CCUS
+Collects emitted CO2 and uses it as 
+resources or stores it 
+underground or as minerals
+
+Emissions Reduction
+
+Introduction Strategy Next Step AppendixRoadmap 13LG Net Zero Special Reporting 2022
+
+
+
+Renewable Energy
+In 2018, LG Group’s emissions from electricity usage was approximately 10.6 million tons, 
+
+which accounted for about 50% of its total emissions. It is expected that the percentage will 
+
+increase to 60% in 2050 due to the Group’s plan to open new facilities in North America, 
+
+Europe, and Southeast Asia. LG Group will begin to adopt renewable energy in its overseas 
+
+facilities located in areas where renewable energy usage is feasible. By 2050, it will be able to 
+
+procure all energy from renewable sources.
+
+LG Group plans to continuously increase its renewable energy transition goal (except LG Display) 
+
+to 54% by 2025, 83% by 2030, and 94% by 2040, and finally 100% for all its domestic and 
+
+foreign sites by 2050. In order to proactively develop and secure renewable energy, LG Group 
+
+plans to invest about 1 trillion KRW in Self-Generation from solar photovoltaic energy, purchase 
+
+PPAs and RECs, etc., by 2030.
+
+*See Appendix for details
+
+54%
+
+83%
+
+94%
+
+100%
+
+*LG Uplus has no overseas business sites※ The graph shows six affiliates except LG Display, which plans for 100% renewable energy use by 2050
+
+2025
+LG Electronics Overseas 100%
+
+LG Energy Solution uses 100% of renewable energy 
+
+in production sites
+
+2030
+LG Innotek Domestic/Overseas 100%
+
+LG Energy Solution Domestic/Overseas 100%
+
+LG Chem Overseas 100%
+
+Domestic 50%
+
+Overseas 100%
+
+Domestic 75%
+
+Domestic 100%
+
+2040 2050
+LG Chem Domestic 100%
+
+LG Uplus Domestic 100%*
+
+LG Electronics Domestic 100%
+
+LG Household & Health Care Domestic  
+
+100%
+
+Introduction Strategy Next Step AppendixRoadmap 14LG Net Zero Special Reporting 2022
+
+
+
+Renewable Energy
+Switch to Zero Carbon 
+
+In order to secure stable renewable energy supply, LG Group is continuously monitoring the market  
+
+and procurement condition in the regions where its facilities are located. Also, LG Group is 
+
+strengthening its internal communication channels such as the establishment of an inter-affiliate 
+
+council to identify changes in the Net Zero policies and regulations of each country in a timely 
+
+manner. Such channels will allow for the sharing of valuable information such as renewable energy 
+
+procurement policies and technological development among our affiliates and thereby serve as a 
+
+common ground for joint reaction as required. 
+
+ 
+
+For newly constructed overseas facilities, LG Group is planning to procure 100% renewable 
+
+energy for power usage from the commencement of operations. For the existing overseas 
+
+facilities, renewable energy procurement portfolios will be optimized for each region to achieve 
+
+100% renewable energy by 2030.   
+
+For domestic facilities, LG Group will increase its usage of renewable energy to 50% level by 2030 
+
+by taking initiatives such as participating in the bidding for Green Premium, purchasing renewable 
+
+energy certificates (RECs), and others. In the mid- and long-term, LG Group will increase the portion of 
+
+Self-Generation and PPAs implementation to procure renewable energy for power usage by 2050.
+
+Portions of emissions from power usage in 2050 per country is currently estimated as 31% from 
+
+Korea, 21% from China, 18% from Europe, and 13% from the US. In transition to renewable energy, 
+
+LG Group plans to increase the portion of renewable energy usage first in the facilities located 
+
+within the countries where high portion of emissions comes from power usage and the availability 
+
+of renewable energy procurement is relatively high, such as China, Europe, and the US.
+
+Renewable energy procurement goals of major countries
+
+Gradually expand PPAs/ Gradually 
+
+expand Self-Generation 2025, 
+
+new plants reach 100%, 
+
+100% by 2030
+
+US
+Expand RECs/PPAs
+
+100% by 2030
+
+Europe Expand PPAs 
+
+100% by 2030
+
+China
+
+Gradually expand PPAs/ Gradually 
+
+expand Self-Generation by 2030
+
+50% by 2030 
+
+100% by 2050
+
+Republic of Korea
+
+*  Additionality: The degree to which an item practically contributes to the expansion of 
+
+renewable energy generation, based on legal, institutional, and economic perspectives
+
+LG Group will review Scope 2 reduction levels, legal and institutional additionality 
+
+as well as economic feasibility of each implementation measures to minimize 
+
+potential risks that can arise during renewable energy procurement. LG Group 
+
+will endeavor to establish and operate an optimal renewable energy transition 
+
+portfolio. 
+
+Scope of our consideration
+
+Participate in global 
+
+renewable energy initiative
+
+Partnership with 
+
+suppliers
+
+Optimize portfolio 
+
+through regular 
+
+monitoring
+
+Operational risk
+
+Additionality*
+
+Price volatility
+
+Introduction Strategy Next Step AppendixRoadmap 15LG Net Zero Special Reporting 2022
+
+
+
+Offsetting
+
+Construct a cooperative network for offsetting
+
+For the efficient execution of offseting, LG Group will create domestic and global collaborative networks where co-planning and development of government, academia, research institute, and 
+
+regional society can take place. Our plan includes short-term reduction by distribution of carbon efficient equipment (e.g., water purifier), and long-term absorption and removal by offsetting (e.g., 
+
+forest development). Beyond the Net Zero, LG Group is committed to establishing sustainable regional ecosystems.
+
+Principles for Net Zero Aligned Carbon Offsetting*
+
+Prioritize self-reduction projects over 
+
+high-quality offsetting 
+
+Regular supplementation of offset 
+
+strategies reflecting technological 
+
+development
+
+Transition from avoidance and reduction 
+
+to removal
+
+Transition from short-term storage to 
+
+long-term storage
+
+Establish trustworthy offset 
+
+market for Net Zero
+
+* The Oxford Principles for Net Zero Aligned Carbon Offsetting
+
+LG Group’s principles of offsetting projects for Net Zero are currently under review, and it will 
+
+eventually reflect the global-level recommendations for offsetting projects in the long term. It 
+
+will seamlessly monitor the process to prevent potentially negative environmental and social 
+
+impacts, overestimation of reduction, and redundancy of credit application. 
+
+※  Expected amount of offset carbon credits to be secured by 2050: Approximately 5 million tons  
+
+(about 9% of expected emissions in 2050)
+
+LG Group will consider high-quality offsetting projects only for the residual emissions not  
+
+addressed by other reduction plans for direct emissions (through improved process efficiency, 
+
+fuel transition, etc.) and indirect emissions (through transition to renewable energy for power  
+
+usage). Through the Group's offsetting projects carried out under close coordination with  
+
+governments and regional societies, LG Group aims to contribute to its Net Zero goal and global 
+
+GHG reduction. For credibility, LG Group will secure reduction credits with external offsetting 
+
+projects in which strict verification procedures in accordance with internationally recognized 
+
+UN methodologies are required.
+
+Introduction Strategy Next Step AppendixRoadmap 16LG Net Zero Special Reporting 2022
+
+
+
+Climate Governance
+
+ESG Committee
+
+Group ESG Council*
+
+Climate Change CouncilLG ESG Council
+
+ESG Team
+
+- Discuss data management and system operation plans for the entire group 
+
+to secure consistency and uniformity on non-financial ESG performance
+
+- Collect opinions of subsidiaries, discuss execution projects, etc. for 
+
+establishing goals and targets per ESG focus item (climate change, 
+
+circular economy, supply chain management, safety and health, "Jeong-Do 
+
+Management") including climate change
+
+- Holding discussions on pending issues with the participation of 
+
+organizations dedicated to energy and climate to discuss climate change 
+
+agendas and detailed implementation tasks for Net Zero
+
+- Process efficiency technology exchange within the worksite and renewable 
+
+energy procurement plans, discussions on possibilities for coming with 
+
+offset projects, etc.
+
+LG ChemLG InnotekLG DisplayLG Electronics LG Energy Solution
+LG Household  
+
+& Health Care
+LG Uplus LG CNS
+
+LG Group’s execution structure for climate change response
+
+LG Group has been operating an ESG Committee under the board of directors since 2021. 
+
+The ESG Committee functions as the group’s key decision-making body to review and approve 
+
+major agenda including the group’s integrated roadmap as well as its ESG goals and strategies. 
+
+The ESG team, under LG Corp., is responsible for the operation of the committee, with designated 
+
+manpower to handle various ESG-related issues including social contribution and work health 
+
+and safety.    
+
+LG Group operates the Group ESG Council and Climate Change Council for group-wide coordination 
+
+and cooperation against ESG and climate change agendas. The Group ESG Council is currently  
+
+responsible for securing consistency in integrating non-financial ESG data and consolidating  
+
+inputs from affiliates on respective ESG issues. The Climate Change Council functions as a body 
+
+in which energy and climate divisions within each affiliate group come together to coordinate the 
+
+Group's Net Zero implementation tasks, process optimization, and develop plans for renewable 
+
+energy procurement. 
+
+  LG Corp.  Group·Affiliate Council 
+
+* Seven participating affiliates and LG CNS, LG HelloVision, D&O
+
+Discuss LG Group’s ESG 
+
+management agenda
+
+Introduction Strategy Next Step AppendixRoadmap 17LG Net Zero Special Reporting 2022
+
+
+
+LG Group will establish and operate a system to minimize the risk of climate change. 
+
+Our detailed plan will effectively reduce greenhouse gases in terms of System,  
+
+Policy·Process, and Project. 
+
+Next Step
+
+Introduction Strategy Next Step AppendixRoadmap 18LG Net Zero Special Reporting 2022
+
+
+
+Next Step
+LG Group’s realistic and sustainable carbon reduction project will be further expanded by the 
+
+2050 Net Zero Integrated Roadmap and implementation system. In preparation for the operation  
+
+of a system and process to review the risks of climate change in advance, a Group-wide consistent 
+
+standards that are consistent group-wide will be set and shared with its affiliates to minimize such 
+
+risks. In terms of reaching targets through system changes, LG Group will operate an inspection and 
+
+reporting system for the execution of Net Zero so that various change of conditions are reflected 
+
+in a timely manner. Further, LG Group will enhance its decision-making process by developing a price 
+
+prediction model to examine economic feasibility and timeliness of its carbon reduction projects. 
+
+ 
+
+LG Group will also establish a policy and process to identify and respond to the risks of climate 
+
+change in advance. LG Group will develop an ESG checklist for large-scale investments as well 
+
+as consider a policy to reflect the costs of carbon reduction into the total investment costs. 
+
+Furthermore, a Scope 3 management plan and guideline that reflects business characteristics 
+
+will be developed in accordance with recent international trends including the U.S. Securities 
+
+and Exchange Commission's new Scope 3 disclosure obligation. Lastly, from the project aspect, 
+
+LG Group will seek opportunities to carry out group-wide offsetting projects and secure exter-
+
+nal offset credits compliant with global reduction methodologies.
+
+System Policy·Process Project
+
+Operation of LG Group’s Net Zero implementation inspection 
+
+and reporting system
+
+LG Group will regularly review the Net Zero roadmap according 
+
+to the changes in the market and business plans of the affiliates. 
+
+Setting of detailed milestones for implementation tasks (e.g., 
+
+process efficiency, fuel transition, renewable energy transition 
+
+portfolio, offset projects) for each reduction method will contribute 
+
+to the actual reduction of carbon emissions.
+
+Development of energy, RECs, and carbon emissions credit 
+
+price prediction model
+
+Economic feasibility, cost effectiveness, and timeliness are 
+
+major considerations in developing the model. Related to DX,  
+
+development of a price prediction model can provide practical  
+
+information at points where cost is associated, such as RECs 
+
+and carbon credit purchase. We look forward to utilizing the 
+
+model in making major decisions to invest in carbon reduction. 
+
+Operate policies and processes to review climate change 
+
+risks in advance
+
+LG group will develop a framework to identify and assess  
+
+climate risks (heat waves, floods, droughts, tropical storms, etc) 
+
+reflecting the characteristics of each nation, region, and company.
+
+For use in large-scale investments or choosing business locations,  
+
+LG Group will establish guidelines reflecting ESG items including 
+
+responding to climate change. Our future operation plan will  
+
+include detailed estimation of carbon reduction cost as a  
+
+component of total investment cost.
+
+Guideline for Scope 3 calculation and management plan*
+
+LG Group recognizes Scope 3, managing the emission rate 
+
+throughout the entire value chain, as an essential part of the  
+
+Group's carbon emission management. However, current  
+
+ambiguous scope and standard for Scope 3 emissions demands 
+
+an attentive approach. LG Group will establish calculation and  
+
+management standards for Scope 3 in a gradual manner,  
+
+aiming to achieve comparability and verifiability at each  
+
+affiliate in the long term. 
+
+External offsetting and credit procurement
+
+To accomplish the Net Zero goal, LG Group will deploy limited 
+
+offsetting to residual emissions with difficulties in reduction by 
+
+nature of their sources. LG Group’s reduction and removal of 
+
+greenhouse gases will be conducted by a group-wide offset 
+
+project based on global standards. 
+
+*See Appendix for details
+
+Introduction Strategy Next Step AppendixRoadmap 19LG Net Zero Special Reporting 2022
+
+
+
+Appendix
+In order to provide accurate information on the 2050 Net Zero Integrated Roadmap and 
+
+for better understanding of the stakeholders, LG Group provides the LG Group 2021  
+
+Domestic and Overseas Emission Features, Net Zero Goal Establishment Scope,  
+
+Renewable Energy Procurement Method, Scope 3 Management Plan and Third-Party 
+
+Verification Opinion.
+
+Introduction Strategy Next Step AppendixRoadmap 20LG Net Zero Special Reporting 2022
+
+
+
+LG Group 2021 Domestic and Overseas Emission Features
+
+LG Group 2021 Domestic and Overseas Emission Features
+
+Total 21,772 thousand tons
+
+Participating 
+
+affiliates
+Total
+
+Domestic Overseas
+
+Scope 1 Scope 2 Scope 1 Scope 2
+
+LG Electronics 1,152
+173 325 160 494
+
+15% 28% 14% 43%
+
+LG Display 7,036
+1,968 2,816 124 2,128
+
+28% 40% 2% 30%
+
+LG Innotek 367
+12 292 2 61
+
+4% 79% 1% 16%
+
+LG Chem 10,340
+5,708 3,134 149 1,349
+
+55% 30% 2% 13%
+
+LG Energy Solution 1,347
+59 214 211 863
+
+4% 16% 16% 64%
+
+LG Household 
+
+and Health Care
+131
+
+44 87
+- -
+
+33% 67%
+
+LG Uplus 1,399
+8 1,391
+
+- -
+1% 99%
+
+Total 21,772 7,972 8,259 646 4,895
+
+* LG Household & Health Care includes emissions of affiliates such as Haitai and Coca Cola Korea
+
+Domestic Scope 1
+
+37%
+
+Domestic Scope 2
+
+38%
+
+Overseas Scope 2
+
+22%
+
+2021 
+
+Emission by Scope
+
+Domestic
+
+75%
+
+Overseas
+
+25%
+
+Overseas Scope 1
+
+3%
+
+Introduction Strategy Next Step AppendixRoadmap 21LG Net Zero Special Reporting 2022
+
+
+
+LG Group Net Zero Goal Establishment Scope
+
+Scope of establishing goals per facility
+
+Affiliate name Emission source 
+
+category
+
+Domestic Domestic, other Overseas Overseas, other
+
+LG Electronics
+
+Scope 1, 
+
+Scope 2
+
+(Electricity/heat)
+
+Common
+
+(Includes domestic corporate HQ, 
+
+all production sites, and R&D centers)
+
+Includes production sites and some 
+
+sales corporations
+LG Display
+
+LG Innotek
+
+LG Chem Includes production sites
+Only include production corporations for 
+
+which it owns more than 50% of shares
+
+LG Energy Solution Business site, office building, and R&D
+
+LG Household 
+
+& Health Care
+
+Coca Cola, Haitai
+
+Includes domestic production sites
+* Exclude overseas business sites
+
+LG Uplus
+
+Network equipment and 
+
+all domestic regions
+
+Includes domestic companies
+
+※ No overseas branches
+
+*There are 271 total business sites worldwide under seven affiliates not including branches and sales corporations, etc. with trivial emissions
+
+Introduction Strategy Next Step AppendixRoadmap 22LG Net Zero Special Reporting 2022
+
+
+
+Renewable Energy Procurement Method
+
+Green premium
+
+Green premium in renewable energy procurement program is an item for implementing 
+
+K-RE100 in which additional charges due to power usage being utilized to generate renewable 
+
+energy. With the implementation of the 2021 Green Premium Program, LG Chem procured a 
+
+total of 120GWh of renewable energy and LG Display also purchased 57GWh worth of electric 
+
+energy as part of its efforts to procure renewable energy.
+
+LG Group is reviewing various types of renewable energy procurement plans both domestically 
+
+and internationally. By 2030, we will accelerate our transition to renewable energy by focusing 
+
+on green premiums and RECs purchases. From 2031, our long-term plan to maximize utilizing  
+
+methods to directly procure renewable energy such as PPAs and self-generation will be concretized. 
+
+Payment of premium
+
+Corporate
+
+Electricity sales
+
+CorporatePower generation business Energy distributor retailer*
+
+Contract Contract
+
+CorporatePower generation business
+
+Trading platform
+
+* Contract details may vary corresponding to electricity sales involvement
+
+Self-install and use
+
+RECs(Renewable Energy Certificates)
+
+RECs is issued by reflecting the weighted average to renewable energy generation produced 
+
+by a power generation business from facilities registered with the Korea Energy Agency. By 
+
+purchasing RECs and converting into renewable energy usage certificate, any business with 
+
+electric power usage can have its energy consumption recognized as renewable energy use. LG 
+
+Chem is the first Korean company to enter long-term RECs purchase agreements with Korea 
+
+South-East Power and the Samcheonpo Solar Power Plant.
+
+PPAs(Power Purchase Agreements)
+
+PPAs is a program to exchange renewable energy under agreed price. It is further divided into 
+
+of third-party PPA, involving Korea Electric Power Corporation as a mediator, and direct PPA, in 
+
+which generator business and consumer directly makes a deal. LG Electronics became the first in 
+
+Korea to enter a solar power plant construction MOU with off-grid direct PPA in September 2022.  
+
+Self-Generation
+
+Self-generation is a method in which an electricity consumer installs renewable energy equipment  
+
+and uses its produced power, and it is considered the most effective method in terms of  
+
+procuring renewable energy for reducing greenhouse gases. LG Energy Solution, LG Household 
+
+and Health Care, etc. are planning to invest in solar generator within its business sites.
+
+Introduction Strategy Next Step AppendixRoadmap 23LG Net Zero Special Reporting 2022
+
+
+
+Scope 3 Management Plan
+
+Step 1. Develop Scope 3 management standards and guidelines
+
+Improve usability of global standard-based data and ensuring data-completeness for emission 
+
+sources in relation to products
+
+Step 2. Review Scope 3 emissions calculation and goal establishment
+
+Construct a management baseline for emission calculation and goal control per Scope 3's 
+
+category
+
+Reflect Scope 3 global standards
+
+Review Scope 3 calculation standards such as 
+
+GHG Protocol, SBTi, etc.
+
+Scope 3 management status inspection
+
+Scope 3 management status survey per 
+
+affiliate
+
+Estimate Scope 3 emission
+
+Draw up Scope 3 management standards
+
+Define target, scope, activity data, 
+
+parameters, etc.
+
+Collect data per emission source
+
+Collect data per upstream/downstream item
+
+Calculate Scope 3 emission per each source
+
+Apply calculation methodology based on 
+
+management standards and collected data
+
+Establish Scope 3 reduction goal and 
+
+detailed execution plans
+
+Set Scope 3 reduction goals per short and  
+
+long-term timepoints
+
+Deduce detailed application methods per item
+
+Scope 3 Category*
+
+External fuel and energy-related activities, upstream and downstream items of establishments, including transportations and logistics, etc.
+
+* In accordance with "Technical Guidance for Calculating Scope 3 Emissions", GHG Protocol
+
+Up-stream Down-stream
+
+Facilities
+
+In addition to Scope 1 and Scope 2 management, LG Group will establish a consistent management  
+
+system for Scope 3 emissions produced outside of our facilities. Our future guideline will  
+
+include implementation standard for integrated management of Scope 3. Furthermore, we will 
+
+prepare to monitor and disclose emissions from all scopes of interest. 
+
+Business 
+Travel
+
+Upstream 
+transportation 
+and distribution
+
+Employee 
+commuting
+
+Franchises InvestmentsProcessing of 
+sold products
+
+Transportation 
+and distribution
+
+End-of-life 
+treatment of 
+sold products
+
+Use of sold 
+products
+
+Waste 
+generated in 
+operations
+
+Purchased 
+goods and 
+services
+
+Leased 
+assets
+
+Introduction Strategy Next Step AppendixRoadmap 24LG Net Zero Special Reporting 2022
+
+
+
+Third-party Verification Opinion
+
+To readers of the 2022 LG Net Zero Special Reporting
+
+Preface
+
+The Korea Management Registrar (KMR) received a request to verify the 2022 LG Net Zero Reporting 
+
+(hereinafter referred to as Report). Responsibility on the drafting of the report lies with the management of 
+
+LG, and the responsibilities of KMR are limited to issuing verification opinions for specific data and information 
+
+within the scope explicated below.
+
+Verification scope and standards
+
+LG describes its Net Zero road map and strategies for achieving its Net Zero goals. The verification team applied 
+
+the SRV1000 verification review model commentary guide of the KMR Global Management Committee and 
+
+referred to the information disclosure requirements proposed by the CCRF of CDSB to perform verification 
+
+with limited guarantee for the report. The verification team verified the reliability of the information of the Net 
+
+Zero integrated roadmap and reduction strategies listed in the report based on the rule of understandability 
+
+and verifiability.
+
+Confirmation on whether the reporting requirements of the report were satisfied were reported in the scope 
+
+of verification, and the verification team reviewed the following to confirm.
+
+‘Strategic analysis’ information disclosure requirements proposed by CCRF
+• Impact of climate change for the long-term and short-term strategy goals
+
+• Long-term and short-term strategies including greenhouse gas reductions to respond to climate change
+
+•  Explanations on the impact of climate change issue on business strategies and application of decision-making by 
+
+the board of directors
+
+•  Details on the current and future financial impact related to climate change strategies, risks, and greenhouse gas 
+
+emissions
+
+• Information for internal use and external disclosure to make decisions on strategies and goals
+
+Among the reporting boundaries of the report, data and information from outside of the organization such as 
+
+LG’s partners and contracted parties were excluded from the scope of verification.
+
+Verification procedure
+
+The verification team of KMR completed the following procedures for verification according to the verification 
+
+standards described above for the agreed-upon verification scope.
+•  Review on the possibility for understanding and verifying the Net Zero road map and strategies described in the report
+
+• Review on the completeness of application of information required to be disclosed
+
+•  Confirmation of organizational boundaries and scope of operational control rights set among the 7 participating affiliates
+
+• Review on consistency of greenhouse gas emissions disclosed by participating affiliates
+
+• Interview with persons responsible for drafting the report
+
+Verification results and opinions
+
+The verification team discussed about the revisions of LG’s report several times based on document reviews 
+
+and interviews and reviewed the final version of the report to check whether revisions and recommendations 
+
+were applied. Verification results showed that our verification team did not discover any inappropriate parts 
+
+regarding compliance listed in the LG’s report. Furthermore, no evidence that the above data included in the 
+
+scope of verification were inappropriately described was discovered.
+
+| Possibility of understanding |   The LG report provides a road map and strategy for achieving Net Zero and 
+
+provides accurate and sufficient information in detail. It is judged that the information provided in the report is 
+
+clearly and simply categorized and characterized, and it is judged that it is concrete and described in a manner 
+
+making it easy to compare.
+
+| Possibility of verification |   During the verification process, the review team discovered errors in some data 
+
+and information, and LG corrected these prior to publishing the final report. It is judged that the data and 
+
+information carried in the report were described accurately and reliably, and no evidence was found that LG’s 
+
+response activities for major issues were published inappropriately in the report.
+
+Proposals for improvements
+
+KMR hopes that the report published by LG will be actively utilized as a communication tool for stakeholders, 
+
+and it recommends the following in the hopes of continuous improvements.
+
+LG drafts and discloses the Net Zero report for carbon neutrality, and it gathered the will and goals of the 
+
+seven participating affiliates of LG Group for carbon neutrality into one, and well expresses the direction of 
+
+the LG Group’s intent to move forward to. It is recommended to continue research and investments so that 
+
+reduction activities with high rate of mitigation can be applied to greenhouse gas emission reductions.
+
+The Research provides the road map and strategies for achieving the Net Zero goals concretely and 
+
+systematically. In order to make information for the disclosed report more useful, it is recommended to include 
+
+information that may be relevant to climate change risks, Net Zero strategies, financial performance, and 
+
+greenhouse gas emissions reduction goals.
+
+Independence of verification
+
+KMR has no profit-related interests with the business activities of LG excluding the work of providing third-person 
+
+verification services, and it is maintaining independence from LG.
+
+2022. 12. 21
+
+CEO Hwang Eun-ju
+
+Introduction Strategy Next Step AppendixRoadmap 25LG Net Zero Special Reporting 2022
+
+
+
+128, Yeoui-daero, Yeongdeungpo-gu, Seoul, Republic of Korea
+
++82-2-3773-2434 | https://www.lg.co.kr | esg@lg.com
+
+
+	cover
+	About This Report
+	Contents
+	Foreword
+	Roadmap
+	Strategy
+	Emission Reduction
+	Renewable Energy 
+	Offsetting
+	Climate Governance
+
+	Next Step
+	Appendix
+	p21-LG Group 2021 Domestic and Foreign Emission Features
+	p22-LG Group Net Zero Goal Establishment Scope
+	p23-Renewable Energy Procurement Method
+	p24-Scope 3 Management Plan
+	p25-Third-party Verification Opinion
+
+	단추 65: 
+	단추 64: 
+	단추 63: 
+	단추 62: 
+	단추 61: 
+	단추 60: 
+	단추 59: 
+	단추 58: 
+	단추 1: 
+	페이지 4: 
+
+	단추 2: 
+	페이지 4: 
+
+	단추 3: 
+	페이지 4: 
+
+	단추 4: 
+	페이지 4: 
+
+	단추 5: 
+	페이지 4: 
+
+	단추 6: 
+	페이지 4: 
+
+	단추 7: 
+	페이지 4: 
+
+	단추 8: 
+	페이지 4: 
+
+	단추 49: 
+	단추 50: 
+	단추 56: 
+	단추 51: 
+	단추 57: 
+	단추 52: 
+	단추 53: 
+	단추 54: 
+	단추 55: 
+	단추 9: 
+	페이지 5: 
+
+	단추 10: 
+	페이지 5: 
+
+	단추 11: 
+	페이지 5: 
+
+	단추 12: 
+	페이지 5: 
+
+	단추 13: 
+	페이지 5: 
+
+	단추 14: 
+	페이지 5: 
+
+	단추 15: 
+	페이지 5: 
+
+	단추 16: 
+	페이지 5: 
+
+	단추 17: 
+	페이지 9: 
+
+	단추 18: 
+	페이지 9: 
+
+	단추 19: 
+	페이지 9: 
+
+	단추 20: 
+	페이지 9: 
+
+	단추 21: 
+	페이지 9: 
+
+	단추 22: 
+	페이지 9: 
+
+	단추 23: 
+	페이지 9: 
+
+	단추 24: 
+	페이지 9: 
+
+	단추 66: 
+	단추 25: 
+	페이지 17: 
+
+	단추 26: 
+	페이지 17: 
+
+	단추 27: 
+	페이지 17: 
+
+	단추 28: 
+	페이지 17: 
+
+	단추 29: 
+	페이지 17: 
+
+	단추 30: 
+	페이지 17: 
+
+	단추 31: 
+	페이지 17: 
+
+	단추 32: 
+	페이지 17: 
+
+	단추 67: 
+	단추 33: 
+	페이지 19: 
+
+	단추 34: 
+	페이지 19: 
+
+	단추 35: 
+	페이지 19: 
+
+	단추 36: 
+	페이지 19: 
+
+	단추 37: 
+	페이지 19: 
+
+	단추 38: 
+	페이지 19: 
+
+	단추 39: 
+	페이지 19: 
+
+	단추 40: 
+	페이지 19: 
+
+	단추 68: 
+	단추 41: 
+	페이지 25: 
+
+	단추 42: 
+	페이지 25: 
+
+	단추 43: 
+	페이지 25: 
+
+	단추 44: 
+	페이지 25: 
+
+	단추 45: 
+	페이지 25: 
+
+	단추 46: 
+	페이지 25: 
+
+	단추 47: 
+	페이지 25: 
+
+	단추 48: 
+	페이지 25:

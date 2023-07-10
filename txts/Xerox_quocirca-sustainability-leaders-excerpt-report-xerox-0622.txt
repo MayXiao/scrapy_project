@@ -1,0 +1,1096 @@
+Quocirca Sustainability Leaders, 2022
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  1  
+
+ 
+
+Sustainability Leaders, 2022 
+A review of sustainability initiatives in the print 
+industry 
+  
+
+Excerpt report: Xerox 
+June 2022 
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  2  
+
+ 
+
+Executive summary 
+ 
+The climate crisis has propelled environmental, social and governance (ESG) issues to the top of the business 
+agenda. Amidst increased pressure from government, employees, investors, and customers, organisations 
+across all sectors are increasing their focus on sustainability. As a major segment in the technology industry, 
+which generates 2–3% of global carbon emissions, the print industry has a significant opportunity to reduce 
+carbon emissions and waste. Print manufacturers, like other technology suppliers, face a number of challenges 
+in reaching net zero emissions. They must first minimise impacts across their operations, supply chains, and 
+business models. This means embedding sustainability along the value chain, from product design through 
+component sourcing to delivery, usage, and reuse. Second, vendors must develop products, services and 
+technologies to help their customers minimise their own environmental impact. 
+ 
+The print industry is in a unique position at the cusp of print and digital convergence, at which it must take the 
+lead in applying new technologies to drive sustainable impact. Across the industry, print manufacturers are 
+setting net zero goals to lower carbon emissions, reduce waste, improve social responsibility and contribute to 
+a circular economy. As well as lowering their own emissions, print manufacturers have a key role to play in 
+helping other sectors become more efficient and sustainable. Through smart and sustainable products, solutions 
+and services – from energy-efficient devices to cloud printing and digital workflow automation that minimises 
+paper usage – the print industry is well positioned to help organisations lower their environmental impact. 
+ 
+As the industry strives for sustainability, there is no doubt its solutions will be in demand. Organisations are 
+responding to a combination of consumer pressure, investor concern, and new regulatory requirements in 
+prioritising sustainability strategy. Quocirca’s research shows that reducing environmental impact will be a top 
+priority by 2025, with 71% reporting that they already have a sustainability strategy in place. The positive 
+correlation between ESG and corporate performance is also widely acknowledged, with 68% saying sustainability 
+will be important to business strategy by 2025, a rise from 41% today. 
+ 
+In practical terms, paper reduction and recycling play a key role in many organisations’ sustainability strategies. 
+Seven in 10 are already recycling paper, and 61% are reducing paper use (with three-quarters aiming to cut 
+paper consumption by 30% by 2025). As the drive for digitisation continues, the industry must support paper 
+reduction with digital workflows that simultaneously meet environmental targets. Hardware recycling is another 
+focus area, with 59% of organisations already ensuring they dispose of hardware responsibly. 
+ 
+The regulatory environment will also have an impact on customer expectations around the sustainability 
+performance of suppliers. The EU Directive on Sustainability Due Diligence was formally adopted in February 
+2022 and requires large European companies and non-EU companies that operate in the EU to conduct 
+environmental and human rights due diligence throughout their value chains. In the US, the SEC is moving 
+towards mandatory disclosure of the risks corporations face from climate change, as well as actions taken to 
+manage those risks. Companies affected by these regulations will be strategic clients of the print industry, and 
+their expectations will escalate accordingly as sustainability moves from the realm of reputational safeguarding 
+to become a major compliance issue. Already, 45% say it is extremely important that suppliers demonstrate they 
+are reducing their own environmental impact and provide a range of sustainable products and services; this rises 
+to more than half by 2025. 
+ 
+This report discusses sustainability in the broader print ecosystem and reviews the commitments and actions of 
+the major industry players. It also looks at how suppliers incorporate sustainability into their product and service 
+offerings. This report supplements the recent Quocirca Sustainability Trends 2022 Study, which explored print 
+sustainability trends amongst UK and US IT decision-makers. 
+ 
+
+  
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  3  
+
+ 
+
+Key findings 
+ 
+
+• Sustainability leaders in the print industry demonstrate a strong vision and commitment to net zero. 
+Quocirca’s Sustainability Vendor Landscape has identified HP, Xerox, Canon, Ricoh, Lexmark, Konica Minolta 
+and Epson as leaders with respect to their sustainability strategy and vision. Many print manufacturers with 
+net zero targets have science-based targets as milestones, and during 2020 some brought their net zero 
+targets forward from 2050 to 2030 or 2040. HP Inc. aims to achieve net zero GHG emissions across its value 
+chain by 2040 and carbon neutrality within its supplies business by 2030. In 2021, Xerox fast-tracked its net 
+zero goal by 10 years to 2040. Canon and Ricoh have maintained their net zero target at 2050, with 
+intermediate targets for consumption reduction established. Lexmark aims to reach carbon neutrality 
+across its entire operations by 2035. Konica Minolta’s target is to be net zero in Scope 2 by 2050. Epson aims 
+to be carbon negative by 2050. 
+
+• Circular approaches are well established in the industry. This applies not only to manufacturing processes, 
+but also to provision of energy-efficient products and recycling. Manufacturers are also making the shift 
+from product- to service-based sales models and providing intelligent hardware and software that support 
+the transition to the ‘less-paper’ workplace. Product lifecycle approaches that are based on reduce, reuse 
+and recycle are widespread, with mature recycling programmes for hardware and consumables across the 
+industry. 
+
+• Sustainability services for customers are fragmented. While most have set goals to reduce carbon 
+emissions across their operations, there is a more fragmented approach to delivering sustainable products 
+and services to customers. Some suppliers offer environmental and carbon footprint assessments and 
+analytics as part of managed print services (MPS) engagements. However, while MPS is a standard offering 
+in the industry, only a few print manufacturers align this with a broader sustainability proposition. Notable 
+here is HP’s Carbon Neutral MPS, which was launched in 2020. In Europe, Ricoh’s Sustainability Optimisation 
+Programme offers a five-step consultancy process that helps achieve measurable reductions in document 
+workflow CO2 emissions. 
+
+• Remanufactured hardware product portfolios support circular strategies. Circular products move away 
+from the traditional linear product creation model of ‘take-make-dispose’ to a ‘make-use-recycle’ route. 
+Remanufactured hardware can support carbon footprint and waste reduction goals. As opposed to 
+refurbished products – those that are returned, retested and redistributed – remanufactured devices are 
+rebuilt from individual components (reused/repaired or new parts). Remanufactured product lines include 
+Ricoh’s GreenLine series of MFPs (the first remanufactured MFPs to receive ENERGY STAR certification) and 
+Canon’s imageRUNNER ADVANCE EQ80 remanufactured portfolio. Lexmark offers Lexmark Evergreen, a 
+remanufactured hardware programme that refurbishes devices in selected regions. The Xerox Factory 
+Produced New range is remanufactured to deliver a device that has been restored to meet Xerox product 
+specifications and is deemed to be in ‘like new‘ condition.  The Xerox Factory Produced New products are 
+upheld to the same ecolabel criteria as newly manufactured products, such as ENERGY STAR and EPEAT.  
+
+• Sustainability-focused channel programmes are emerging as a key differentiator. Vendors may have 
+different approaches to guiding their channel partners to enhance their sustainability efforts, but to date, 
+HP leads with the only channel programme built specifically around sustainability. As part of its Amplify 
+partner programme, HP has introduced Amplify Impact, offering partner assessment, training and resources 
+around sustainability. These partners will be better positioned to operate in a more sustainability-aware 
+market, while HP benefits from improved downstream sustainability in its channel and end customers. 
+
+• Print manufacturers are extending sustainability to other markets and further through the value chain. 
+Notably, Xerox’s Cleantech initiative is currently focused on developing air-conditioning solutions that cut 
+energy consumption by up to 80%. The company is also pioneering its CareAR augmented reality remote 
+visual support experience, which reduces technician callouts. Similarly, Konica Minolta offers AIRe Link, 
+which enables customers to solve problems while supported by Konica Minolta remotely. Epson has 
+developed an in-office secure paper recycler that turns wastepaper into new paper using a process powered 
+by its dry fibre technology. 
+
+• Amongst IT decision-makers in the UK and US, HP leads in brand perception as a sustainability leader, 
+followed by Xerox and Canon. Perceptions vary slightly by region, company size and age. Epson is 
+particularly strongly viewed in organisations with between 500 and 999 employees.  
+
+ 
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  4  
+
+ 
+
+Conclusion 
+ 
+The print industry has established practices regarding the sustainability of its own operations and management 
+of product lifecycle impact. The nature of the consumables industry created an early focus on take-back, 
+recycling, and reuse schemes, and this is extending to hardware, with several vendors beginning to pursue 
+remanufacturing and circular economy initiatives. In-use impacts, such as energy consumption and eco-settings, 
+are also mature. We are also seeing sustainability leaders drawing on their own innovative capabilities to extend 
+into broader areas for environmental improvement and impact mitigation. Now, as customers come under 
+increased pressure to justify supplier choices and technology strategy from a sustainability perspective, the 
+industry must go beyond hardware to deliver solutions and services that actively help reduce customers’ 
+environmental impact. Customers will be looking for measurable, reportable improvements as they pursue their 
+own sustainability goals. 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  5  
+
+ 
+
+Contents 
+
+Executive summary ................................................................................................................................................. 2 
+
+Key findings............................................................................................................................................................. 3 
+
+Methodology .......................................................................................................................................................... 6 
+
+Definitions .......................................................................................................................................................... 6 
+
+Introduction ............................................................................................................................................................ 7 
+
+What is sustainability in the print industry? ........................................................................................................... 8 
+
+The path to a sustainable print industry............................................................................................................... 10 
+
+Vendor profile: Xerox ........................................................................................................................................... 11 
+
+Key targets and initiatives ................................................................................................................................ 11 
+
+Overview ........................................................................................................................................................... 11 
+
+Manufacturing .............................................................................................................................................. 13 
+
+Supply chain .................................................................................................................................................. 13 
+
+Recycling and reuse ...................................................................................................................................... 13 
+
+Environmental certification .......................................................................................................................... 14 
+
+Partnerships ...................................................................................................................................................... 14 
+
+Sustainability services for clients ...................................................................................................................... 15 
+
+About Quocirca ..................................................................................................................................................... 16 
+
+ 
+  
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  6  
+
+ 
+
+Methodology 
+The following report is based on public ESG data and statements as published by each vendor. Note this data is 
+for the whole company group which reflects the manufacturing of a diverse range of all products, not just the 
+manufacturing of printing products, which all involve different manufacturing processes that can have varying 
+impacts on the ESG data included in this report. Wherever possible, audited data (by either an external auditor 
+or a public ESG body) has been used. To avoid issues around comparison between companies of different sizes, 
+all data has been normalised to be per million USD of revenue. Vendors were also invited to complete a detailed 
+survey. Quocirca would like to thank the following vendors for participating:  
+ 
+Brother, Canon, Epson, HP Inc., Konica Minolta, Kyocera, Lexmark, Ricoh, Sharp (ESG data only) and Xerox. 
+ 
+
+Definitions 
+
+Industry-accepted definitions of terms have been used wherever possible. All qualitative statements are 
+Quocirca’s own. 
+
+ 
+Net zero and carbon neutral 
+
+• Net zero is defined as a target of negating the amount of greenhouse gases produced by human activity, 
+to be achieved by reducing emissions and implementing methods of absorbing carbon dioxide from the 
+atmosphere. 
+
+• Carbon neutral means any emissions of CO2 into the atmosphere that are not eliminated altogether 
+are balanced by an equivalent amount being removed (carbon offsetting). 
+
+ 
+Greenhouse gas (GHG) emissions 
+The term greenhouse gas emissions is used to describe the gases that are emitted into the air by various sources, 
+trapping heat in the earth’s atmosphere. This is usually caused by burning fossil fuels for electricity, heat and 
+transportation. The main gas is considered to be carbon dioxide (CO2), but other gases, such as fluorocarbons, 
+methane and nitrous oxides, can impact global warming. The GHG protocol, which sets the standard for 
+measuring and managing carbon emissions, divides emissions into three separate scopes. Scope 1, 2 and 3 
+categorise the different kinds of carbon emissions a company creates in its own operations and wider value 
+chain. 
+ 
+
+• Scope 1: Scope 1 emissions are direct GHG emissions that occur from sources controlled or owned by 
+an organisation – for example, emissions from running boilers and vehicles. 
+
+• Scope 2: Scope 2 emissions are indirect GHG emissions associated with the purchase of electricity, 
+steam, heat, or cooling from third-party sources. 
+
+• Scope 3: Scope 3 includes all other indirect emissions that occur in a company’s value chain. This 
+includes all the emissions not associated with the company itself, but that the organisation is indirectly 
+responsible for, up and down its value chain. For example, there will be GHG emissions associated with 
+buying products and services from its suppliers, and with its products when customers use them. As 
+Scope 3 emissions usually account for more than 70% of a business’s carbon footprint, it is crucial that 
+companies tackle Scope 3 emissions to meet the aims of the Paris Agreement and limit global warming 
+to 1.5°C. 
+
+ 
+Science-based targets 
+Science-based targets provide companies with a clearly defined path to reduce emissions in line with the 
+Paris Agreement goals. More than 2,000 businesses around the world are already working with the 
+Science Based Targets initiative (SBTi). 
+ 
+
+Zero deforestation 
+Zero deforestation means no forest areas are cleared or converted, while zero net deforestation allows for 
+clearance or conversion of forests in one area as long as an equal area is replanted elsewhere. 
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  7  
+
+ 
+
+Introduction 
+ 
+The need to shift to more sustainable practices is well recognised among print manufacturers. For many years, 
+the print industry has embedded circular economy practices to ensure that operations are more sustainable, 
+products and consumables are recyclable, and raw materials are reused. The circular economy is a departure 
+from the linear model, which is based on take-make-dispose. The circular economy is a model of production and 
+consumption, which involves sharing, leasing, reusing, repairing, refurbishing, and recycling existing materials 
+and products for as long as possible. In this way, the lifecycle of products is extended. This is driven by a complex 
+interaction of consumer, technological, and resource factors that have specific implications for businesses 
+(Figure 1). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: 
+
+ 
+ 
+ 
+ 
+Figure 1. How consumer, technological, and resource megatrends are driving the circular economy 
+
+  
+
+#1: The Green Consumer 
+
+• Rising eco-awareness means 
+recyclability, ethical sourcing, and 
+low environmental footprints are 
+key product choice determinants 
+
+• The desire for sustainable living 
+and reducing consumption is 
+shifting preferences from ownership 
+to access 
+
+Business Impacts  
+
+• Businesses must clearly 
+
+communicate and demonstrate the 
+positive environmental impact of 
+products and services 
+
+• Strategies that incentivise contribution 
+to the circular economy through 
+recycling and collection schemes are 
+growing in importance 
+
+ 
+ 
+
+#2: Industry 4.0 Technology  
+
+• New technologies are fast-tracking 
+
+the path to circular economies 
+through advanced IoT monitoring 
+systems 
+
+• This enables predictive analytics to 
+deliver automated service, 
+maintenance, repair, and 
+replenishment services 
+
+ 
+
+#3: Resource Volatility   
+• Resource scarcity leads to an 
+unpredictable raw materials flow, 
+volatile costs, and shifting 
+environmental standards  
+
+• Recycling/reusing existing stock 
+controls the supply of materials and 
+helps manufacturers control their costs 
+and operations  
+
+ 
+
+Business Impacts 
+• Inconsistent raw material price and 
+supply means companies must 
+transition from linear to circular models 
+to maximise existing resources 
+
+• This must be phased in efficiently, 
+taking into account producer 
+responsibilities and other policy drivers 
+
+ 
+
+ 
+
+Business Impacts 
+
+• Rising affordability of innovative 
+
+technologies means businesses are 
+duty-bound to tap into their potential to 
+increase sustainability offerings 
+
+ • Investing in the right technology for 
+the right business model requires critical 
+analysis and foresight to anticipate 
+regulatory changes  
+
+  
+
+upper hand.  
+
+ 
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  8  
+
+ 
+
+What is sustainability in the print industry? 
+ 
+While the industry is making real progress, with some manufacturers on target to reduce their carbon footprint, 
+most still need to advance their sustainability goals across their value chain. As well as examining their 
+operations and supply chains to reduce carbon emissions, they must develop products and services that can 
+help customers achieve their own sustainability goals. 
+
+Quocirca has identified the following areas where sustainability and circular principles can be applied across the 
+print industry value chain (Figure 2). 
+ 
+ 
+
+ 
+Figure 2. Circular economy principles 
+ 
+
+1. Product design and development. Investing in R&D to design efficient products and services that 
+include biodegradable or recyclable parts and achieve better environmental performance. Increasingly, 
+this is also being extended to cover the use of non-virgin raw materials, such as reuse of precious and 
+semi-precious metals and ethical and sustainable sourcing of any virgin raw materials that cannot be 
+avoided. Environmental features of printers and multifunction products (MFPs) can be guided by the 
+use of ecolabel programs and certification requirements such as Blue Angel or the Electronic Product 
+Environmental Assessment Tool (EPEAT). In addition, indoor air quality (IAQ) performance is relevant 
+to both hardware and ink and toner cartridges. 
+ 
+
+2. Supply chain. Environmentally responsible sourcing of materials and ensuring suppliers comply with 
+environmental commitments and regulatory standards across the supply chain. Use of recyclable 
+packaging and minimising packaging in general should also be a focus. Mass transport of large volumes 
+has lower environmental impact than transporting small volumes. Local storage hubs can be more 
+sustainable than regional warehouses – but only if planned and managed efficiently. 
+
+ 
+3. Manufacturing. Reducing the manufacturing footprint and conserving resources by implementing 
+
+maintenance, quality, and production processes to reduce waste and improve recyclability and reuse 
+
+Product design 
+and 
+
+development
+
+Supply chain
+
+Manufacturing
+Product life 
+extension
+
+Product-as-a-
+Service
+
+Recycling and 
+recovery 
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  9  
+
+ 
+
+of material. The use of standard parts across a broader range of products can also help minimise 
+environmental impact – as well as the need to maintain stocks of different parts along the supply chain. 
+ 
+
+4. Product life extension. Extending the lifecycle of the product by repairing, upgrading, or 
+remanufacturing. Repairing, upgrading, and remanufacturing of used products and components boosts 
+their lifecycle with existing or new customers. Manufacturers can extend product life through 
+management software upgrades and new solutions that are backwards compatible with older products, 
+and device firmware updates can optimise device reliability. Design also has a critical role to play; 
+modular MFPs improve device upgradeability and repairability, reducing the need for costly fixes or 
+outright replacement. 
+ 
+
+5. Product-as-a-Service. As-a-service and subscription models are an alternative to the established ‘buy 
+and own’ approach. These models include leasing, renting, or pay-for-use agreements. This is a shift to 
+selling services and outcomes rather than products. As-a-service models are well established in the 
+print industry as manufacturers shift from transactional models to managed print services (MPS) 
+contracts in the commercial space and automated ink services in the consumer market. Data-driven 
+MPS leverage analytics to measure the carbon footprint of the print infrastructure. This can reduce the 
+unnecessary consumption of paper, toner, ink and energy. In addition, cloud print services minimise or 
+eliminate the need to operate print servers on-premise, lowering energy usage. 
+ 
+
+6. Recycling and recovery. End-of-life processes that maximise reuse and recycling, ensuring safe disposal 
+of non-recyclable parts, are becoming a major aspect of sustainability and business models for 
+manufacturers and end-user organisations alike. Effective recovery of resources from disposed 
+products or by-products is central to manufacturers improving circularity, in order to enable more 
+recycled materials to be incorporated into new products and simultaneously reduce the need for future 
+raw materials extraction. Prompted in part by regulations such as the waste electrical and electronic 
+equipment (WEEE) directive introduced by the EU in 2003, print manufacturers have developed 
+comprehensive take-back programmes at devices’ end of life, making it easy for organisations to 
+responsibly return printer hardware and supplies. These closed-loop lifecycles enable recycling of toner 
+cartridges and remanufacturing of MFPs into brand-new or refurbished products. 
+
+  
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  10  
+
+ 
+
+The path to a sustainable print industry 
+The print industry plays a major role in creating a more sustainable digital economy. Print manufacturers are 
+elevating their commitment to environmental responsibility and transparency, setting the bar higher for 
+themselves and their supply chain partners. This means not only minimising the carbon emissions of internal 
+operations and supply chains, but also offering products and services that lower environmental impact and help 
+companies achieve their own sustainability goals. 
+ 
+Most manufacturers, including Brother, HP Inc., Konica Minolta, Ricoh and Xerox, have set science-based targets. 
+Lexmark has set one of the most ambitious net zero targets, aiming to reach neutrality by 2035. HP and Xerox 
+have committed to net zero by 2040; Brother, Canon and Ricoh aim to reach net zero by 2050; and Epson 
+arguably goes further, aiming to be carbon negative by 2050. Konica Minolta aims to have reached net zero in 
+Scope 2 by 2050. Incorporated into these targets are interim goals such as renewable energy procurement, 
+reductions in raw material resource usage, and elimination of single-use plastic. These are common goals across 
+the industry, and are being pursued alongside innovation aimed at devising lower-impact alternatives. 
+ 
+Circular models are already embedded in the print industry. This applies to not only its manufacturing processes, 
+but also its provision of energy-efficient products and recycling. Manufacturers are also making the shift from 
+product- to service-based models (for instance, managed print services) and providing intelligent hardware and 
+software that supports the transition to the ‘less-paper’ workplace. 
+ 
+As organisations accelerate their digitisation initiatives, software innovation around print and digital 
+technologies plays an important role in driving sustainability. A diverse ecosystem of independent software 
+vendors (ISVs) offers a range of solutions that can help organisations lower their environmental impact. These 
+encompass print management platforms that track and analyse print volumes and offer ‘pull printing’, which 
+only releases documents to authenticated users; this can minimise wasteful printing and support paper 
+reduction initiatives. Alongside these options, cloud printing platforms can minimise or eliminate the need for 
+physical print servers, leading to reduced energy costs1. In addition, to help customers monitor their carbon 
+footprint, organisations can use carbon calculators to track energy and paper usage, as well as consumables 
+consumption. One software platform that takes this a step further is PrintReleaf, which offsets paper footprints 
+through reforestation. 
+ 
+Some print vendors are also applying advanced digital technologies such as the IoT, AI, and 
+blockchains/distributed ledgers to improve sustainability performance. One example is Lexmark, which, as part 
+of the EU-funded C‐SERVEES project, is working on a private blockchain data scheme. The data provides a 
+reliable system for sustainable material optimisation throughout the stages of the circular economic process 
+(origination, manufacturing, recycling, transportation, and use phase). 
+
+  
+
+ 
+ 
+1 https://print2025.com/reports/quocirca-cloud-print-services-landscape-2022/ 
+
+ 
+
+https://print2025.com/reports/quocirca-cloud-print-services-landscape-2022/
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  11  
+
+ 
+
+Vendor profile: Xerox  
+
+Key targets and initiatives 
+
+Carbon, energy and resource consumption reductions 
+ 
+
+● Net zero by 2040: Fast-tracked its net zero goal by 10 years and created a roadmap encompassing the 
+entire value chain and beyond to achieve net zero emissions by 2040 
+
+● By 2030: reduce GHG emissions by 60% 
+● Registered 100% of new, eligible products with ENERGY STAR® and EPEAT 
+● Achieved 98% landfill avoidance for equipment and supplies and 100% landfill avoidance for returned 
+
+toner cartridges, supporting the circular economy it created 
+● The 2020 goal of 35% reduction in water usage from 2010 levels was surpassed. In 2020, Xerox managed 
+
+to achieve 52% reduction in water usage compared to 2010 levels 
+● Expanded Xerox Green World Alliance® (GWA), which is a collection and reuse/recycling program for 
+
+spent consumables 
+● In 2020, more than 1.5 million Xerox® toner cartridges were manufactured using recovered cartridges, 
+
+representing as much as 50% of toner cartridge production depending on the cartridge family 
+ 
+Awards, ratings and reporting standards 
+
+• Manufacturing operations certified to ISO 14001 
+
+• Member of the Responsible Business Alliance 
+
+• Listed on the Wall Street Journal’s inaugural ranking of the 100 Most Sustainably Managed Companies 
+
+• Ranked No. 26 on the Global 100 Corporate Knights list of most sustainable corporations 
+
+• Awarded the Terra Carta Seal by the Prince of Wales, recognising companies driving innovation and 
+demonstrating commitment to creating sustainable markets 
+
+• Supports TCFD reporting framework 
+
+• Awarded CDP Supplier Engagement Leader in recognition of supplier engagement on climate change 
+issues 
+
+• Founder member of Sustainable Electronics Recycling International (SERI) 
+
+• Named an ENERGY STAR Partner of the Year in 2021 
+
+• Awarded EPA’s Sustainable Materials Management Gold Tier 
+
+• Achieved ENERGY STAR and EPEAT registration for 100% of newly launched eligible products 
+ 
+Products and services 
+
+• Remanufactured consumables contain an average of 90% recycled parts 
+
+• Introduced A4 printers and MFDs with 10–16% PCR plastic content and toner cartridges with 21% PCR 
+content 
+
+• Xerox sustainable MPS helps customers cut energy use and emissions, reduce paper consumption, and 
+waste and transform paper-based processes to digital 
+
+• Xerox Reforestation Service® powered by PrintReleaf was one of the first vendor reforestation 
+programs allowing customers to balance paper consumption with tree planting 
+
+• CareAR end-to-end service experience management platform makes the user into an expert capable of 
+solving technical issues, eliminating the need to dispatch technicians 
+
+• EarthSmart feature in printer driver unifies eco-settings, allowing users to choose more sustainable 
+printing with a single click 
+
+• Cleantech Initiative: Xerox is focusing on identifying technologies that reduce humankind’s negative 
+environmental impact, e.g., the company is currently developing an air conditioning solution that could 
+reduce the energy consumption of air conditioners by up to 80% 
+
+ 
+
+Overview 
+
+Sustainability is core to Xerox’s business operations, and circularity principles are applied across the product 
+lifecycle. In 2021, Xerox fast-tracked its net zero goal by 10 years to 2040. Its sustainability roadmap covers its 
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  12  
+
+ 
+
+full value chain, focusing on improving processes, energy efficiency, and designing environmentally responsible 
+products and clean technologies that extend beyond print. 
+
+Xerox is innovating in service delivery with a new service experience platform from CareAR, a Xerox company. It 
+enables non-expert users to solve technical issues, reducing the need to dispatch technicians. The company is 
+also pursuing innovation that could cut HVAC energy consumption by up to 80% – a major benefit with a 
+technology responsible for 10% of global electricity consumption and 4% of GHG emissions. 
+ 
+The company is also making advances in Cleantech, additive manufacturing and IIoT, aiming to optimise 
+operations and reduce waste, energy consumption and emissions. It introduced remanufacturing as a concept 
+in its first commercial product in 1959, and continues to put circular economy principles at the heart of the 
+product lifecycle. Xerox worked with the EPA to devise and roll out ENERGY STAR criteria for remanufactured 
+products, indicating its commitment to partnerships that drive improvements. 
+ 
+Sustainability initiatives 
+Strategic initiatives include achieving ENERGY STAR and EPEAT registration for 100% of eligible new products; 
+pioneering a new service experience platform from CareAR. Xerox believes partnerships accelerate progress in 
+meeting sustainability targets. It has joined the UNFCCC’s Race To Zero and SBTi’s Business Ambition for 1.5°C 
+campaigns. Its success criteria for these alliances/partnerships is reaching its net zero 2040 goal. 
+
+Sustainability-driven innovations 
+
+Xerox is committed to innovation as a critical step to achieving sustainability goals. One example is its Service 
+Experience Management (SXM) platform from CareAR. This platform makes any user an expert capable of 
+solving technical issues. This means companies can dispatch fewer technicians, which leads to lower greenhouse 
+gas emissions. In addition, Xerox is already making advancements in additive manufacturing (3D printing), 
+Industrial Internet of Things, and Cleantech. The company will continuously improve its operating model for 
+greater efficiency and invest further in robotic process automation, augmented reality, and analytics to drive 
+efficiencies, reduce complexity, and simplify billing and offerings. This optimisation will reduce waste, energy 
+use and greenhouse gas emissions. 
+
+Circular economy principles 
+Xerox’s first commercial product in 1959, the Xerox 914, introduced electronics remanufacturing long before 
+the term ‘circular economy’ became prevalent. The company is a founding member of Sustainable Electronics 
+Recycling International (SERI) and designs products, packaging, and supplies that efficiently use resources, 
+minimise waste, reuse material where feasible, and recycle what cannot be reused. To meet this commitment, 
+Xerox has developed several collection and waste reduction programs, while also designing technology to align 
+with the circular economy’s key elements. Xerox remanufactured consumables contain an average of 90% 
+reused and recycled parts and are built and tested to the same performance specifications as new products. In 
+2021, the company introduced A4 printers and multifunctional devices with 10–16% post-consumer recycled 
+(PCR) plastic content, and associated toner cartridges with 21% PCR. Also in 2021, Xerox achieved 98% landfill 
+avoidance for combined equipment and supplies and 100% landfill avoidance for returned toner cartridges.   
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  13  
+
+ 
+
+Manufacturing 
+
+Xerox’s major manufacturing operations have been certified to ISO 14001 since 1997. Quarterly status meetings 
+and use of an environmental performance scorecard provide visibility, best practice sharing and innovation 
+across its operations. All major manufacturing sites and some administrative offices employ an environmental 
+management system that conforms to ISO 14001:2015. 
+ 
+Xerox continues to innovate for design for disassembly, energy reductions and lowering of materials impact 
+through increased use of post-consumer recycled content. Examples include cutting the power consumption of 
+its laser-based printing products by adjusting the fuser design, changing the properties in its toner, and 
+developing more efficient electronic controls and performance within the xerographic system. The AltaLink 
+C8100 series realised a 14% energy reduction average over the AltaLink C8000 series. 
+
+ 
+
+Supply chain 
+
+Xerox joined the RBA in 2008 to strengthen its approach to managing CSR across its supply chain, and has 
+adopted the RBA Code of Conduct as its Supplier Code of Conduct. The company includes terms and conditions 
+in its supplier purchase agreements and contracts, requiring suppliers to represent and warrant their compliance 
+with all applicable laws and regulations for the sale of goods and materials. 
+
+The company performs risk assessments and requires suppliers to participate in the Xerox Compliance Program. 
+It conducts initial risk assessment to determine whether any suppliers pose high corporate social responsibility 
+risks. Suppliers classified as high risk and those considered critical to its supply chain are required to complete a 
+self-assessment questionnaire annually. If any significant risks are indicated, Xerox schedules an audit and takes 
+appropriate actions. All suppliers are reminded of their contractual obligations annually. 
+
+Xerox purchasing agents operate under the socially responsible purchasing policy that gives preference to 
+suppliers and goods/services that meet voluntary standards such as ENERGY STAR, EPEAT and ISO14001 
+certification. Scope 3 emissions are included in its net zero 2040 roadmap, with purchased goods and services 
+representing the largest share. Xerox is also looking to increase supplier engagement to include requiring them 
+to share GHG emissions data and commit to carbon neutral and/or net zero goals. 
+
+Recycling and reuse 
+
+Xerox diverts millions of pounds of used supplies from landfill every year through its Green World Alliance 
+supplies take-back program. The company expanded this program in 2020 to add more European countries. 
+
+Xerox is committed to collecting and reusing equipment after the end of its useful life. In geographies where it 
+exercises direct control over the end-of-life management of equipment, return rates are high. In 2020, 6,030 
+metric tonnes of equipment and parts-related waste were diverted from landfills to recycling at its US Reverse 
+Logistics Center. Globally, that volume is 13,020 metric tonnes. The company also participates in several EU 
+WEEE programs, although equipment collected and recycled through these schemes is not included in its 
+recycling data. 
+
+Procedures include: 
+
+• Reuse of complete end item. This approach requires the least reprocessing, transportation and energy 
+usage. 
+
+• Remanufacture or conversion into a newer-generation product or part. Xerox remanufactures parts 
+to like-new quality and performance specifications, while reusing 70–90% of the machine components 
+by weight. In 2020, Xerox remanufactured approximately 6,050 office devices, and its programs 
+diverted 8,800 metric tonnes of electronic devices and components from landfills or other forms of 
+uncontrolled disposal. 
+
+• Used equipment. Based on the condition and market demands, equipment may be put through an 
+extended maintenance and verification process to return it to a high standard before it is redeployed. 
+In 2020, approximately 44% of machines returned in the US were sold as used or sent for 
+remanufacturing. 
+
+• Reuse of modules, subcomponents, and parts for spares or manufacturing. Xerox has continually 
+increased the number of reused components in upstream and downstream processes after the original 
+machine has been designated for recycling. Spare parts returned from the field by service technicians 
+are also included in this process. 
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  14  
+
+ 
+
+• Material recycling. Any remaining portion of an end-of-life device is stripped of any recyclable material 
+(e.g., plastics, copper wire) and material requiring special disposal services, such as printed wire boards, 
+batteries and lamps. The remainder of the machine is then sent to an industrial reclaim facility. 
+
+ 
+
+Environmental certification 
+
+Xerox products are designed to meet ecolabels such as ENERGY STAR, EPEAT and Blue Angel. The company has 
+been committed to launching all new eligible office products with EPEAT Silver or Gold certification since 2014, 
+and will continue to support EPEAT initiatives, future success and global expansion. Xerox registers products in 
+the US, Canada, the UK, France, Germany, the Netherlands, Belgium, Luxembourg, Switzerland, Norway, 
+Sweden, Finland and Denmark. All new Xerox VersaLink, AltaLink and PrimeLink products are EPEAT Gold 
+certified, with a few country-specific exceptions. 
+
+Xerox also collaborated with the EPA to roll out ENERGY STAR criteria for remanufactured products. The 
+company provided input on terms and definitions, as well criteria remanufactured products are required to meet 
+for ENERGY STAR certification. It also supplied the EPA with energy consumption data from several of its 
+professional imaging products to help develop a new specification for professional imaging equipment. As a 
+result of these activities and other initiatives promoting ENERGY STAR products, Xerox was named an ENERGY 
+STAR Partner of the Year in 2021. Additionally, the company was awarded the Terra Carta Seal, named to the 
+Wall Street Journal’s inaugural ranking of the 100 Most Sustainably Managed Companies, and made No. 26 on 
+the Global 100 Corporate Knights list of most sustainable corporations. These recognitions further demonstrate 
+Xerox’s commitment to creating sustainable products and services. 
+
+Partnerships 
+
+• Responsible Business Alliance (RBA). Xerox has been a member of RBA since 2008 and adopted the 
+RBA Code of Conduct as its supplier code of conduct. 
+
+• Environmental Protection Agency (EPA) (United States). Xerox collaborates with the EPA to help define 
+more stringent energy consumption criteria every few years, and has collaborated on new criteria for 
+remanufactured products and professional imaging equipment within the last couple of years. 
+
+• EPEAT (United States). Xerox participates in the Electronic Product Environmental Assessment Tool 
+(EPEAT), a voluntary standard for product ratings that measures the environmental impact of 
+electronics products. Xerox strives for GOLD or SILVER rating for all new eligible product introductions. 
+
+• 100 Best Corporate Citizens. Xerox has been listed among the 100 Best Corporate Citizens by 3BL Media 
+consecutively since 2009. 
+
+• TCFD. Xerox has supported the TCFD framework since 2020. 
+
+• The CDP. Xerox was recognised by the CDP, an international environmental organisation, for climate 
+change transparency in 2015, and was recently awarded CDP Supplier Engagement Leader for the 
+second consecutive year. 
+
+• PrintReleaf. Xerox was one of the first vendors to partner with PrintReleaf to administer reforestation 
+services for MPS clients. Xerox feeds paper usage metrics directly from Xerox Services Manager to 
+PrintReleaf software to determine the number of trees to reforest in geographic areas of need. In July 
+2022, Xerox will offer Carbon Offset Services through PrintReleaf. This service will also feed paper usage 
+metrics directly from Xerox Services Manager to PrintReleaf software. The software will then determine 
+the metric tonnes of CO2 released from manufacturing the paper used, and then purchase the 
+corresponding carbon offsets on the client’s behalf. 
+
+• Abour Day Foundation. In honor of World Environment Day, Xerox announced a partnership with the 
+Arbor Day Foundation to plant nearly 23,000 trees – one for each Xerox employee. The partnership 
+coincides with 2022’s World Environment Day focus on the continuation of the UN Decade on 
+Ecosystem Restoration, a global mission to revive billions of hectares, from forests to farmlands. 
+
+• Xerox Ventures: Xerox Ventures invests in early and growth-stage start-ups. There are three focus 
+areas: Connected Work, Empowered Businesses and Green Enterprise. Green Enterprise includes 
+Cleantech – Decarbonization, Electrification, Sustainably Built Environments, and Circularity. 
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  15  
+
+ 
+
+Sustainability services for clients 
+
+Xerox offers a range of products and services that enable customers to assess, monitor and lower environmental 
+impact. 
+
+Sustainable MPS 
+
+Xerox works with MPS customers to improve the efficiency of office document management and help them 
+meet the following goals: 
+
+• Energy and greenhouse gas reduction. Print asset optimisation and updates improve energy 
+consumption, reduce greenhouse gas impact and decrease waste materials. 
+
+• Reduced paper usage. Changing behaviours to reduce unnecessary prints via print authentication and 
+authorisation. 
+
+• Reduce waste. Sustainable print technologies and consumables can reduce the amount of waste 
+generated from printing. 
+
+• Digital transformation. Reducing paper through the adoption of digital workflows integrated with ECM 
+and other digital alternatives. 
+
+In addition, Xerox was among the first vendors to offer a reforestation program for its MPS clients through a 
+partnership with PrintReleaf. Based on a theme of ‘You print one. We’ll plant one’, Xerox Reforestation 
+Service® leverages paper usage reporting and equates the number of trees to reforest that usage in geographic 
+areas of need. Its strategy is to develop other carbon compensation/neutralisation technologies to achieve net 
+zero for its clients and full value chain. 
+
+Xerox ConnectKey 
+
+Xerox ConnectKey is a software solution that enables secure movement of information to and from the cloud. 
+Cloud computing is recognised as less energy intensive than data centres and generates fewer GHG emissions. 
+In addition, Xerox ConnectKey, in combination with power management software, facilitates energy 
+management by allowing for control, management and reporting of a device’s power consumption and setting 
+power states and timeout intervals. 
+
+Effective print management 
+
+Xerox’s equipment and software are designed to help customers operate efficiently. The Earth Smart feature, 
+integrated into the Xerox global print driver, brings several resource-saving settings together at the click of a 
+button. These features, such as duplex (two-sided printing), N-up (multiple pages per sheet), proof print, and 
+toner-saving modes make it easier for customers to make responsible print choices. 
+
+Xerox Enterprise Print Services customers have access to sophisticated print management and reporting tools, 
+such as Xerox Print Agent, which provides additional methods of encouraging and tracking responsible print 
+behaviour. Software products such as DocuShare and FreeFlow Digital Workflow Collection help customers 
+reduce paper consumption by facilitating electronic data management, scan to email, print-on-demand and 
+distribute-then-print workflows. 
+
+Xerox Workplace Solutions/Xerox Print Awareness Tool 
+By using the Print Awareness Tool, users can see their print usage, review their progress toward company print 
+and sustainability goals, and learn of available steps to improve. 
+ 
+Xerox CareAR 
+
+CareAR created the industry’s first end-to-end service experience management (SXM) platform, which makes 
+any user an expert capable of solving technical issues. CareAR replaces a technician driving to a customer site 
+(and the associated GHG emissions), creating greater operational efficiencies and better environmental, health 
+and safety results. 
+  
+
+
+
+Quocirca Sustainability Leaders, 2022  June 2022 
+ 
+
+ 
+  
+© Quocirca 2022  16  
+
+ 
+
+About Quocirca 
+Quocirca is a global market insight and research firm specialising in analysing the convergence of print and digital 
+technologies in the future workplace. 
+ 
+Since 2006, Quocirca has played an influential role in advising clients on major shifts in the market. Our consulting and 
+research is at the forefront of the rapidly evolving print services and solutions market, trusted by clients seeking new 
+strategies to address disruptive technologies. 
+ 
+Quocirca has pioneered research in many emerging market areas. More than 10 years ago we were the first to analyse the 
+competitive global market landscape for managed print services (MPS), followed by the first global competitive review of 
+the print security market. More recently Quocirca reinforced its leading and unique approach in the market, publishing the 
+first study looking at the smart, connected future of print in the digital workplace. The Global Print 2025 study provides 
+unparalleled insight into the impact of digital disruption, from both an industry executive and end-user perspective. 
+ 
+For more information, visit www.quocirca.com. 
+ 
+ 
+Usage Rights 
+Permission is required for quoting any information in this report.  Please see Quocirca’s Citation policy for further details. 
+ 
+Disclaimer: 
+This report has been written independently by Quocirca. During the preparation of this report, Quocirca has spoken to a 
+number of suppliers involved in the areas covered. We are grateful for their time and insights. 
+ 
+Quocirca has obtained information from multiple sources in putting together this analysis. These sources include, but are 
+not limited to, the vendors themselves. Although Quocirca has attempted wherever possible to validate the information 
+received from each vendor, Quocirca cannot be held responsible for any errors in any information supplied. 
+ 
+Although Quocirca has taken what steps it can to ensure that the information provided in this report is true and reflects real 
+market conditions, Quocirca cannot take any responsibility for the ultimate reliability of the details presented. Therefore, 
+Quocirca expressly disclaims all warranties and claims as to the validity of the data presented here, including any and all 
+consequential losses incurred by any organisation or individual taking any action based on such data. 
+ 
+All brand and product names are trademarks or service marks of their respective holders. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Copyright 2022, Quocirca. All rights reserved. No part of this document may be reproduced, stored in a retrieval system, 
+transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the 
+express written permission from Quocirca. The information contained herein is subject to change without notice. All other 
+trademarks mentioned herein are the property of their respective owners. 
+
+ 
+
+http://www.print2025.com/
+http://www.quocirca.com/
