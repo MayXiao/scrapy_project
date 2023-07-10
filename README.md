@@ -1,5 +1,5 @@
 
-This pipeline is part of the Net Zero project and is mainly used to scrape companies' annual or sustainable reports and download :txt via pdf urls.
+This pipeline is part of the Net Zero project and is mainly used to scrape companies' annual or sustainable reports and download txt via pdf urls.
 
 search_pipe.ipynb: all execution code and use this notebook to run all whole pipeline
 
