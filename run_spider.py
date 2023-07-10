@@ -10,8 +10,8 @@ from main_site_pdf_downloader.spiders.mainsite_spider import MainsiteSpiderSpide
 
 def run_spider1(runner, cursor):
     try:
-        sql1 = """select result_1,result_2,result_3,id_code,domain from company where domain in ('bci.cl', 'coalindia.in') """
-        # sql1 = """select result_1,result_2,result_3,id_code,domain from company where (urls is null or urls ='') """ # or urls = 'Timeout, retry failed' """
+        # sql1 = """select result_1,result_2,result_3,id_code,domain from company where domain in ('bci.cl', 'coalindia.in') """
+        sql1 = """select result_1,result_2,result_3,id_code,domain from company where (urls is null or urls ='') """ # or urls = 'Timeout, retry failed' """
         data_set1 = cursor.execute(sql1)
     except Exception as e:
         print(f"Error executing SQL1: {e}")
@@ -30,8 +30,8 @@ def run_spider1(runner, cursor):
 
 def run_spider2(runner, cursor):
     try:
-        sql2 = """select company_mainsite, id_code,domain from company where domain in ('bci.cl', 'coalindia.in')"""
-        # sql2 = """select company_mainsite, id_code,domain from company where  (urls is null or urls ='')"""
+        # sql2 = """select company_mainsite, id_code,domain from company where domain in ('bci.cl', 'coalindia.in')"""
+        sql2 = """select company_mainsite, id_code,domain from company where  (urls is null or urls ='')"""
         data_set2 = cursor.execute(sql2)
     except Exception as e:
         print(f"Error executing SQL2: {e}")
